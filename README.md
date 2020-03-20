@@ -47,7 +47,7 @@ is `"w3c"`.
 
 ```json
 {
-  "@type": "LinkedDataset",
+  "@type": "void:Dataset",
   "dct:description": "This ontology partially describes the built-in classes and properties that together form the basis of the RDF/XML syntax of OWL 2.  The content of this ontology is based on Tables 6.1 and 6.2 in Section 6.4 of the OWL 2 RDF-Based Semantics specification, available at <http://www.w3.org/TR/owl2-rdf-based-semantics/>.\nPlease note that those tables do not include the different annotations (labels, comments and `rdfs:isDefinedBy` links) used in this file.  Also note that the descriptions provided in this ontology do not provide a complete and correct formal description of either the syntax or the semantics of the introduced terms (please see the OWL 2 recommendations for the complete and normative specifications).\nFurthermore, the information provided by this ontology may be misleading if not used with care. This ontology SHOULD NOT be imported into OWL ontologies. Importing this file into an OWL 2 DL ontology will cause it to become an OWL 2 Full ontology and may have other, unexpected, consequences.",
   "exampleResource": [
     "http://www.w3.org/2002/07/owl#Axiom",
@@ -78,7 +78,8 @@ is `"w3c"`.
   "sdo:name": "Web Ontology Language (OWL)",
   "version": {
     "@type": "SemanticVersion",
-    "rdf:value": "2.0"
+    "major": 2,
+    "minor": 0
   }
 }
 ```
@@ -116,28 +117,8 @@ section](#dataset-configuration).
 ## Context
 
 The configuration files in this repository can themselves be imported
-as Linked Open Data, by including the following JSON-LD context
-object:
-
-```json
-{
-  "@vocab": "https://triplydb.com/Triply/catalog/",
-  "dct": "http://purl.org/dc/terms/",
-  "dct:description": { "@type": "markdown" },
-  "exampleResource": { "@type": "xsd:anyURI" },
-  "foaf": "http://xmlns.com/foaf/0.1/",
-  "foaf:homepage": { "@type": "xsd:anyURI" },
-  "major": { "@type": "xsd:nonNegativeInteger" },
-  "minor": { "@type": "xsd:nonNegativeInteger" },
-  "prefix": { "@type": "xsd:anyURI" },
-  "prov": "http://www.w3.org/ns/prov#",
-  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-  "sdo": "http://schema.org/",
-  "sdo:contentUrl": { "@type": "xsd:anyURI" },
-  "time:inXSDDate": { "@type": "xsd:date" },
-  "xsd": "http://www.w3.org/2001/XMLSchema#"
-}
-```
+as Linked Open Data, by including the JSON-LD context stored in
+[`rdf/lod-cloud.jsonld`](https://raw.githubusercontent.com/TriplyDB/LOD-Cloud/master/rdf/lod-cloud.jsonld).
 
 ## Pull request
 
