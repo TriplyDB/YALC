@@ -1,0 +1,34 @@
+{
+  "@type": "LinkedDataset",
+  "dct:description": "The PROV Ontology (PROV-O) expresses the [PROV Data Model](http://www.w3.org/TR/2013/REC-prov-dm-20130430/) using the [OWL2 Web Ontology Language (OWL2)](/w3c/owl).  It provides a set of classes, properties, and restrictions that can be used to represent and interchange provenance information generated in different systems and under different contexts.  It can also be specialized to create new classes and properties to model provenance information for different applications and domains.",
+  "exampleResource": [
+    "http://www.w3.org/ns/prov#Agent",
+    "http://www.w3.org/ns/prov#Entity",
+    "http://www.w3.org/ns/prov#wasDerivedFrom"
+  ],
+  "foaf:homepage": "http://www.w3.org/ns/prov#",
+  "namespace": {
+    "@type": "Namespace",
+    "alias": "prov",
+    "prefix": "http://www.w3.org/ns/prov#"
+  },
+  "organization": "w3c",
+  "prov:wasDerivedFrom": {
+    "@type": "sdo:Dataset",
+    "sdo:distribution": {
+      "@type": "sdo:DataDownload",
+      "sdo:contentUrl": "http://www.w3.org/ns/prov#"
+    }
+  },
+  "sdo:about": [
+    "Vocabulary"
+  ],
+  "sdo:identifier": "owl",
+  "sdo:image": "owl.png",
+  "sdo:license": "CC-BY-SA",
+  "sdo:name": "PROV-O: The PROV Ontology",
+  "version": {
+    "@type": "TemporalVersion",
+    "time:inXSDDate:": "2013-04-30"
+  }
+}
