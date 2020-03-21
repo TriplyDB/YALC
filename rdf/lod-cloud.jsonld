@@ -1,18 +1,65 @@
 {
-  "@vocab": "https://triplydb.com/Triply/lod-cloud/",
+  "@vocab": "https://triplydb.com/Triply/LOD-Cloud/",
+  "Dataset": "void:Dataset",
+  "about": {
+    "@id": "sdo:about"
+  },
+  "contentUrl": {
+    "@id": "sdo:contentUrl",
+    "@type": "xsd:anyURI"
+  },
   "dct": "http://purl.org/dc/terms/",
-  "dct:description": { "@type": "markdown" },
-  "exampleResource": { "@type": "xsd:anyURI" },
+  "description": {
+    "@id": "dct:description",
+    "@type": "markdown"
+  },
+  "distribution": {
+    "@id": "sdo:distribution"
+  },
+  "exampleResource": {
+    "@type": "xsd:anyURI"
+  },
   "foaf": "http://xmlns.com/foaf/0.1/",
-  "foaf:homepage": { "@type": "xsd:anyURI" },
-  "major": { "@type": "xsd:nonNegativeInteger" },
-  "minor": { "@type": "xsd:nonNegativeInteger" },
-  "prefix": { "@type": "xsd:anyURI" },
+  "homepage": {
+    "@id": "foaf:homepage",
+    "@type": "xsd:anyURI"
+  },
+  "identifier": {
+    "@id": "sdo:identifier"
+  },
+  "image": {
+    "@id": "sdo:image"
+  },
+  "inXSDDate": {
+    "@id": "time:inXSDDate",
+    "@type": "xsd:date"
+  },
+  "license": {
+    "@id": "sdo:license"
+  },
+  "major": {
+    "@type": "xsd:nonNegativeInteger"
+  },
+  "minor": {
+    "@type": "xsd:nonNegativeInteger"
+  },
+  "name": {
+    "@id": "sdo:name"
+  },
+  "namespace": {
+    "@type": "Namespace"
+  },
+  "prefix": {
+    "@type": "xsd:anyURI"
+  },
   "prov": "http://www.w3.org/ns/prov#",
   "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
   "sdo": "http://schema.org/",
-  "sdo:contentUrl": { "@type": "xsd:anyURI" },
-  "time:inXSDDate": { "@type": "xsd:date" },
+  "vann": "http://purl.org/vocab/vann/",
   "void": "http://rdfs.org/ns/void#",
+  "wasDerivedFrom": {
+    "@id": "prov:wasDerivedFrom",
+    "@type": "sdo:Dataset"
+  },
   "xsd": "http://www.w3.org/2001/XMLSchema#"
 }
