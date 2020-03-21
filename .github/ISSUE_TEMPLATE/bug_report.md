@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug for a specific datasets.
+about: Report a bug for a specific dataset.
 title: "<ORGANIZATION_NAME>/<DATASET_NAME>@<VERSION>: SHORT DESCRIPTION"
 labels: ''
 assignees: ''
