@@ -38,6 +38,12 @@ graph:vocab {
     rdfs:label "version"@en;
     rdfs:subClassOf owl:Thing.
 
+  lod-cloud:YearMonthVersion
+    rdfs:comment "A versuon indicator that is based on a year and month."@en;
+    rdfs:isDefinedBy dataset:;
+    rdfs:label "year-month version"@en;
+    rdfs:subClassOf lod-cloud:Version.
+
   lod-cloud:alias a owl:DatatypeProperty;
     rdfs:comment "The alias that will be used to denote the namespace.  Typically, the alias is shorter and easier to remember than the IRI prefix that is stands for."@en;
     rdfs:domain lod-cloud:Namespace;

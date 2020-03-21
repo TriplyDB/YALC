@@ -34,6 +34,10 @@
     "@id": "time:inXSDDate",
     "@type": "xsd:date"
   },
+  "inXSDgYearMonth": {
+    "@id": "time:inXSDgYearMonth",
+    "@type": "xsd:gYearMonth"
+  },
   "license": {
     "@id": "sdo:license"
   },
@@ -55,6 +59,7 @@
   "prov": "http://www.w3.org/ns/prov#",
   "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
   "sdo": "http://schema.org/",
+  "time": "http://www.w3.org/2006/time#",
   "vann": "http://purl.org/vocab/vann/",
   "void": "http://rdfs.org/ns/void#",
   "wasDerivedFrom": {
