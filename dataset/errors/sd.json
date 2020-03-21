@@ -12,7 +12,7 @@
   ],
   "homepage": "https://www.w3.org/TR/sparql11-service-description/",
   "identifier": "sd",
-  "image": "w3c.png",
+  "image": "sparql.png",
   "license": "CC-BY-SA",
   "name": "SPARQL Service Description",
   "namespace": {
