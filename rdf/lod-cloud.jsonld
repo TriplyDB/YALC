@@ -1,5 +1,5 @@
 {
-  "@vocab": "https://triplydb.com/Triply/LOD-Cloud/",
+  "@vocab": "https://triplydb.com/Triply/LOD-Cloud/vocab/",
   "Dataset": "void:Dataset",
   "about": {
     "@id": "sdo:about"
