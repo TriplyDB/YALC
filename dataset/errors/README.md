@@ -23,3 +23,4 @@ the above `Accept` header correctly:
 
   - [`prov.json`](prov.json)
   - [`qb.json`](qb.json)
+  - [`sd.json`](sd.json)
