@@ -6,8 +6,9 @@ This registry contains records for the Linked Open Datasets that are
 included in TriplyDB (https://triplydb.com).
 
 You can include a new Linked Open Dataset by creating a [pull
-request](pulls).  You can also open an [issue](issues) using the
-dataset request template.
+request](https://github.com/TriplyDB/LOD-Cloud/pulls).  You can also
+open an [issue](https://github.com/TriplyDB/LOD-Cloud/issues) using
+the dataset request template.
 
 ## Repository structure
 
@@ -123,7 +124,8 @@ as Linked Open Data, by including the JSON-LD context stored in
 ## Pull request
 
 In order to add a new Linked Open Data to this repository, create a
-[pull request](pulls) that includes the following:
+[pull request](https://github.com/TriplyDB/LOD-Cloud/pulls) that
+includes the following:
 
   - A dataset file `dataset/DATASET.json` whose contents adhere to the
     [dataset configuration format](#dataset-configuration-format).
