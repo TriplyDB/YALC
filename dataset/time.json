@@ -1,0 +1,29 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing the temporal properties of resources in the world or described in Web pages.  The ontology provides a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information.  Time positions and durations may be expressed using either the conventional (Gregorian) calendar and clock, or using another temporal reference system such as Unix-time, geologic time, or different calendars.",
+  "exampleResource": [
+    "http://www.w3.org/2006/time#Instant",
+    "http://www.w3.org/2006/time#Interval",
+    "http://www.w3.org/2006/time#after",
+    "http://www.w3.org/2006/time#before"
+  ],
+  "homepage": "https://www.w3.org/TR/owl-time/",
+  "identifier": "time",
+  "image": "w3c.png",
+  "license": "CC-BY-SA",
+  "name": "Time Ontology",
+  "namespace": {
+    "alias": "time",
+    "prefix": "http://www.w3.org/2006/time#"
+  },
+  "organization": "w3c",
+  "wasDerivedFrom": {
+    "distribution": {
+      "@type": "sdo:DataDownload",
+      "contentUrl": "http://www.w3.org/2006/time#"
+    }
+  }
+}
