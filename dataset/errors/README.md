@@ -14,6 +14,7 @@ application/n-triples;q=0.9,
 text/turtle;q=0.9,
 application/x-turtle;q=0.9,
 text/rdf+n3;q=0.9,
+application/rdf+xml;q=0.8,
 text/plain;q=0.8,
 */*;q=0.7
 ```
@@ -21,6 +22,7 @@ text/plain;q=0.8,
 The following datasets are serviced from servers that cannot process
 the above `Accept` header correctly:
 
+  - [`dataid.json`](dataid.json)
   - [`prov.json`](prov.json)
   - [`qb.json`](qb.json)
   - [`sd.json`](sd.json)
