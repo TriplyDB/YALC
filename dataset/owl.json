@@ -10,7 +10,7 @@
     "http://www.w3.org/2002/07/owl#Thing",
     "http://www.w3.org/2002/07/owl#sameAs"
   ],
-  "homepage": "https://www.w3.org/TR/owl2-overview/",
+  "homepage": "https://www.w3.org/TR/owl2-overview",
   "identifier": "owl",
   "image": "owl.png",
   "license": "CC-BY-SA",

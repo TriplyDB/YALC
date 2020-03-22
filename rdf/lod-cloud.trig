@@ -4,6 +4,7 @@ prefix lod-cloud: <https://triplydb.com/Triply/LOD-Cloud/vocab/>
 prefix owl: <http://www.w3.org/2002/07/owl#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix sdo: <http://schema.org/>
+prefix time: <http://www.w3.org/2006/time#>
 prefix void: <http://rdfs.org/ns/void#>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
@@ -32,17 +33,19 @@ graph:vocab {
     rdfs:seeAlso "https://semver.org"^^xsd:anyURI;
     rdfs:subClassOf lod-cloud:Version.
 
+  lod-cloud:TemporalVersion
+    rdfs:comment "A version indicator that uses a temporal instant."@en;
+    rdfs:label "temporal version"@en;
+    rdfs:isDefinedBy dataset:;
+    rdfs:subClassOf
+      lod-cloud:Version,
+      time:Instant.
+
   lod-cloud:Version
     rdfs:comment "A version indicator."@en;
     rdfs:isDefinedBy dataset:;
     rdfs:label "version"@en;
     rdfs:subClassOf owl:Thing.
-
-  lod-cloud:YearMonthVersion
-    rdfs:comment "A versuon indicator that is based on a year and month."@en;
-    rdfs:isDefinedBy dataset:;
-    rdfs:label "year-month version"@en;
-    rdfs:subClassOf lod-cloud:Version.
 
   lod-cloud:alias a owl:DatatypeProperty;
     rdfs:comment "The alias that will be used to denote the namespace.  Typically, the alias is shorter and easier to remember than the IRI prefix that is stands for."@en;
