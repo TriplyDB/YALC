@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "The RDA Registry contains vocabularies that represent the RDA entities, elements, and controlled terminologies as [RDA element sets](https://www.rdaregistry.info/Elements/index.html) and [RDA value vocabularies](https://www.rdaregistry.info/termList/index.html) in Resource Description Framework (RDF).",
+  "homepage": "https://www.rdaregistry.info",
+  "identifier": "rda-registry",
+  "image": "rda.png",
+  "name": "RDA Registry"
+}
