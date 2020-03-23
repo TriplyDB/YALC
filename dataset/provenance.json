@@ -1,0 +1,51 @@
+{
+  "@type": "void:Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "The Provenance Vocabulary provides classes and properties for describing provenance of Web data.  The vocabulary focuses on two main use cases: 1.) It enables consumers of Web data to describe provenance of data retrieved from the Web and of data derived from such Web data.  2.) It enables providers of Web data to publish provenance-related metadata about their data.  Notice, the vocabulary is not intended for describing provenance of other kinds of Web content.  The Provenance Vocabulary is designed as a Web data specific specialization of the W3C PROV Ontology (PROV-O); classes and properties provided by the vocabulary are domain specific extensions of the more general concepts introduced in PROV-O.  As a consequence, any Provenance Vocabulary based description of provenance can be easily interpreted and exchanged according to the W3C PROV family of standards.",
+  "exampleResource": [
+    "http://purl.org/net/provenance/ns#Artifact",
+    "http://purl.org/net/provenance/ns#DataPublisher",
+    "http://purl.org/net/provenance/ns#usedBy"
+  ],
+  "homepage": "http://trdf.sourceforge.net/provenance/ns.html",
+  "identifier": "provenance-core",
+  "license": "CC-BY-SA",
+  "name": "Provenance Vocabulary",
+  "namespace": [
+    {
+      "alias": "provenance-core",
+      "prefix": "http://purl.org/net/provenance/ns#"
+    },
+    {
+      "alias": "provenance-files",
+      "prefix": "http://purl.org/net/provenance/files#"
+    },
+    {
+      "alias": "provenance-integrity",
+      "prefix": "http://purl.org/net/provenance/integrity#"
+    },
+    {
+      "alias": "provenance-types",
+      "prefix": "http://purl.org/net/provenance/types#"
+    }
+  ],
+  "organization": "none",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 0,
+    "minor": 6
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "@type": "sdo:DataDownload",
+      "contentUrl": [
+        "http://purl.org/net/provenance/files#",
+        "http://purl.org/net/provenance/integrity#",
+        "http://purl.org/net/provenance/ns#",
+        "http://purl.org/net/provenance/types#"
+      ]
+    }
+  }
+}
