@@ -21,7 +21,6 @@
   "organization": "w3c",
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": "http://purl.org/linked-data/cube#"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "@type": "void:Dataset",
+  "@type": "Dataset",
   "about": [
     "Vocabulary"
   ],
@@ -39,7 +39,6 @@
   },
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": [
         "http://purl.org/net/provenance/files#",
         "http://purl.org/net/provenance/integrity#",

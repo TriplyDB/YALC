@@ -1,5 +1,5 @@
 {
-  "@type": "void:Dataset",
+  "@type": "Dataset",
   "about": [
     "Vocabulary"
   ],
@@ -21,7 +21,6 @@
   "organization": "w3c",
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": "http://www.w3.org/ns/prov#"
     }
   }

@@ -26,7 +26,6 @@
   },
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": "http://dataid.dbpedia.org/ns/core#"
     }
   }

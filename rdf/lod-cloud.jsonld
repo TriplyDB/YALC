@@ -1,6 +1,7 @@
 {
   "@vocab": "https://triplydb.com/Triply/LOD-Cloud/vocab/",
   "Dataset": "void:Dataset",
+  "Organization": "sdo:Organization",
   "about": {
     "@id": "sdo:about"
   },
@@ -14,7 +15,8 @@
     "@type": "markdown"
   },
   "distribution": {
-    "@id": "sdo:distribution"
+    "@id": "sdo:distribution",
+    "@type": "sdo:DataDownlod"
   },
   "exampleResource": {
     "@type": "xsd:anyURI"

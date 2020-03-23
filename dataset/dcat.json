@@ -26,7 +26,6 @@
   },
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": "http://www.w3.org/ns/dcat#"
     }
   }

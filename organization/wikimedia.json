@@ -1,5 +1,5 @@
 {
-  "@type": "sdo:Organization",
+  "@type": "Organization",
   "description": "The Wikimedia Foundation is an American non-profit and charitable organization headquartered in San Francisco, California.  It is mostly known for participating in the Wikimedia movement.  It owns the internet domain names of most movement projects and hosts sites like Wikipedia.  The foundation was founded in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means.",
   "homepage": "https://wikimediafoundation.org",
   "identifier": "wikimedia",

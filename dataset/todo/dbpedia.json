@@ -38,7 +38,6 @@
   ],
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": [
         "https://boa.lmcloud.vse.cz/databus/linked-hypernyms/2016.04.01/linked-hypernyms_type=core_lang=en.nt.gz",
         "https://boa.lmcloud.vse.cz/databus/linked-hypernyms/2016.04.01/linked-hypernyms_type=extension_lang=en.nt.gz",

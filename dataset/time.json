@@ -22,7 +22,6 @@
   "organization": "w3c",
   "wasDerivedFrom": {
     "distribution": {
-      "@type": "sdo:DataDownload",
       "contentUrl": "http://www.w3.org/2006/time#"
     }
   }
