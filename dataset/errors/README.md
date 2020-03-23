@@ -3,7 +3,7 @@
 This directory contains configuration files for datasets that cannot
 be uploaded because they contain errors.
 
-## Erroneous handling of `Acceapt` header
+## Erroneous handling of `Accept` header
 
 The following `Accept` header value is used when accessing RDF documents online:
 
