@@ -1,0 +1,36 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Top-level Ontology",
+    "Vocabulary"
+  ],
+  "description": "Ontology for DBpedia.",
+  "exampleResource": [
+  ],
+  "homepage": "https://wiki.dbpedia.org/",
+  "identifier": "dbpedia-ontology",
+  "image": "dbpedia.png",
+  "license": "CC-BY-SA",
+  "name": "DBpedia Ontology",
+  "namespace": [
+    {
+      "alias": "dbo",
+      "prefix": "http://dbpedia.org/ontology/"
+    }
+  ],
+  "organization": "wikimedia",
+  "version": [
+    {
+      "@type": "SemanticVersion",
+      "major": 201610
+    }
+  ],
+  "wasDerivedFrom": {
+    "distribution": {
+      "@type": "sdo:DataDownload",
+      "contentUrl": [
+        "http://downloads.dbpedia.org/2016-10/dbpedia_2016-10.owl"
+      ]
+    }
+  }
+}
