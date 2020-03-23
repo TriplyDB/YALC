@@ -1,0 +1,79 @@
+{
+  "@type": "void:Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "The SIOC (Semantically-Interlinked Online Communities) Core Ontology provides the main concepts and properties required to describe information from online communities (e.g., message boards, wikis, weblogs, etc.) on the Semantic Web.  This document contains a detailed description of the SIOC Core Ontology.",
+  "exampleResource": [
+
+  ],
+  "homepage": "http://rdfs.org/sioc/spec/",
+  "identifier": "sioc",
+  "license": "CC-BY-SA",
+  "name": "SIOC Core Ontology Specification",
+  "namespace": [
+    {
+      "alias": "sioc",
+      "prefix": "http://rdfs.org/sioc/ns#"
+    },
+    {
+      "alias": "sioc-access",
+      "prefix": "http://rdfs.org/sioc/access#"
+    },
+    {
+      "alias": "sioc-actions",
+      "prefix": "http://rdfs.org/sioc/actions#"
+    },
+    {
+      "alias": "sioc-argument",
+      "prefix": "http://rdfs.org/sioc/argument#"
+    },
+    {
+      "alias": "sioc-nepomuk",
+      "prefix": "http://rdfs.org/sioc/nepomuk#"
+    },
+    {
+      "alias": "sioc-quotes",
+      "prefix": "http://rdfs.org/sioc/quotes#"
+    },
+    {
+      "alias": "sioc-services",
+      "prefix": "http://rdfs.org/sioc/services#"
+    },
+    {
+      "alias": "sioc-swan",
+      "prefix": "http://rdfs.org/sioc/swan#"
+    },
+    {
+      "alias": "sioc-types",
+      "prefix": "http://rdfs.org/sioc/types#"
+    },
+    {
+      "alias": "sioc-wikitalk",
+      "prefix": "http://rdfs.org/sioc/wikitalk#"
+    }
+  ],
+  "organization": "sioc-project",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 36
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "@type": "sdo:DataDownload",
+      "contentUrl": [
+        "http://rdfs.org/sioc/ns#",
+        "http://rdfs.org/sioc/access#",
+        "http://rdfs.org/sioc/actions#",
+        "http://rdfs.org/sioc/argument#",
+        "http://rdfs.org/sioc/nepomuk#",
+        "http://rdfs.org/sioc/quotes#",
+        "http://rdfs.org/sioc/services#",
+        "http://rdfs.org/sioc/swan#",
+        "http://rdfs.org/sioc/types#",
+        "http://rdfs.org/sioc/wikitalk#"
+      ]
+    }
+  }
+}
