@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "UK Government Linked Data Working Group.",
+  "homepage": "https://github.com/UKGovLD",
+  "identifier": "UKGovLD",
+  "image": "rdf.png",
+  "name": "UK Government Linked Data Working Group (UKGovLD)"
+}
