@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "The Open Geospatial Consortium (OGC) is an international consortium of more than 530 businesses, government agencies, research organizations, and universities driven to make geospatial (location) information and services FAIR - Findable, Accessible, Interoperable, and Reusable.",
+  "homepage": "https://www.opengeospatial.org",
+  "identifier": "ogc",
+  "image": "ogc.png",
+  "name": "Open Geospatial Consortium (OGC)"
+}
