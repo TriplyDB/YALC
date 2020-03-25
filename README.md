@@ -1,16 +1,26 @@
+<img src="img/triply.png" align="right">
+
 # LOD Cloud
 
 Welcome to the Triply LOD Cloud registry!
 
-This registry contains records for the Linked Open Datasets that are
-included in TriplyDB (https://triplydb.com) for context.
+## Get started
 
-You can include a new Linked Open Dataset by creating a [pull
-request](https://github.com/TriplyDB/LOD-Cloud/pulls).  You can also
-open an [issue](https://github.com/TriplyDB/LOD-Cloud/issues) using
-the dataset request template.
+To use the LOD Cloud, go to https://triplydb.com and search for your
+favorite Linked Dataset.
+
+## Contribute
+
+If your favorite Linked Dataset is not yet part of TriplyDB, you can
+add its configuration in a [pull
+request](https://github.com/TriplyDB/LOD-Cloud/pulls) or you can open
+a ‘Dataset request’
+[issue](https://github.com/TriplyDB/LOD-Cloud/issues).
 
 ## Repository structure
+
+This registry contains records for the Linked Open Datasets that are
+included in TriplyDB (https://triplydb.com) for context.
 
 This repository is structured in the following directories:
 
@@ -22,19 +32,18 @@ This repository is structured in the following directories:
   <dt><code>/organization</code></dt>
   <dd>Contains one configuration file for each organization.</dd>
   <dt><code>/rdf</code></dt>
-  <dd>Contains the RDF definitions for this repository.</dd>
+  <dd>Contains the RDF definitions that are used by the configuration files in this repository, and includes small RDF datasets that are part of the LOD Cloud but for which we could not find an online publication elsewhere.</dd>
 </dl>
 
 ## Configuration format
 
-This section documents the configuration format that is used to
-describe datasets and organizations.
+The files in this repository follow a specific JSON-based
+configuration format.
 
 ### Dataset configuration format
 
-This section documents the configuration format that is used to
-describe datasets.  This format is used for files in the `/dataset`
-directory.  The format is JSON-based.
+The dataset configuration format is used for files in the `/dataset`
+directory.
 
 The following properties are crucial for properly connecting the
 configuration files together:
@@ -90,9 +99,8 @@ The following example shows the full dataset configuration for file
 
 ### Organization configuration format
 
-This section documents the configuration format that is used to
-describe organizations.  This format is used for files in the
-`/organization` directory.  The format is JSON-based.
+The organization configuration format is used for files in the
+`/organization` directory.
 
 The following properties are crucial for properly connecting the
 configuration files together:
@@ -120,10 +128,10 @@ is `"w3c"`, and the value for key `image` is `"w3c.png"`.
 }
 ```
 
-## Semantic definitions
+### Semantic definitions
 
 The configuration files in this repository can themselves be processed
-as Linked Data.  This is achieved by the following files:
+as Linked Data.  This is achieved by the following definition files:
 
 <dl>
   <dt><code>rdf/lod-cloud.jsonld</code></dt>
@@ -132,7 +140,7 @@ as Linked Data.  This is achieved by the following files:
   <dd>Definitions for the classes and properties that are used in the configuration files.</dd>
 </dl>
 
-## Pull request
+## Pull request details
 
 In order to add a new Linked Open Data to this repository, create a
 [pull request](https://github.com/TriplyDB/LOD-Cloud/pulls) that
