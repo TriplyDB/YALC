@@ -1,5 +1,8 @@
 <img src="img/triply.png" align="right" height="150">
 
+[![](https://img.shields.io/badge/datasets-7-brightgreen)](/datasets)
+[![](https://img.shields.io/badge/datasets-7-orange)](/organizations)
+
 # LOD Cloud
 
 Welcome to the Triply LOD Cloud registry!
