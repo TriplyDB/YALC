@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "Is your country missing on the list?  Would you like to contribute to GeoNames and become an Ambassador of GeoNames to your country?  Please write to [marc@geonames.org](mailto:marc@geonames.org).  Your help is welcome.\n\nWhat does a GeoNames Ambassador do?  A GeoNames Ambassador helps us with questions regarding the administrative division of a country.  An Ambassador helps us find data sources for a country.  Potential sources are the postal services, the statistical office, the national mapping agency, the army, local universities, genealogy groups, and many more.",
+  "homepage": "http://www.geonames.org/team.html",
+  "identifier": "geonames",
+  "image": "geonames.png",
+  "name": "GeoNames Team"
+}

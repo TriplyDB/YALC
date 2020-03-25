@@ -1,0 +1,30 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Geography"
+  ],
+  "description": "The GeoNames geographical database contains over 25 million geographical names and consists of over 11 million unique features whereof 4.8 million populated places and 13 million alternate names.  All features are categorized into one out of nine feature classes and further subcategorized into one out of 645 feature codes.\n\nGeoNames is integrating geographical data such as names of places in various languages, elevation, population and others from various sources.  All lat/long coordinates are in WGS84 (World Geodetic System 1984).",
+  "exampleResource": [
+    "http://sws.geonames.org/2759793/",
+    "http://sws.geonames.org/4755173/",
+    "http://sws.geonames.org/1022857/",
+    "http://sws.geonames.org/1547220/",
+    "http://sws.geonames.org/4262053/",
+    "http://sws.geonames.org/6465763/"
+  ],
+  "homepage": "https://www.geonames.org",
+  "identifier": "geonames",
+  "image": "geonames.png",
+  "license": "CC-BY-SA",
+  "name": "GeoNames",
+  "namespace": {
+    "alias": "geonames",
+    "prefix": "http://sws.geonames.org/"
+  },
+  "organization": "geonames",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://download.geonames.org/all-geonames-rdf.zip"
+    }
+  }
+}
