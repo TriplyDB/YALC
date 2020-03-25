@@ -1,0 +1,39 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "An RDF representation of XHTML 2.0's built-in link types.  It is based on the Metainformation Attributes Module of XHTML2, and uses W3C's RDF Schema (RDFS) and Web Ontology (OWL) languages to describe several kinds of relationship that can hold between information resources.",
+  "exampleResource": [
+    "http://www.w3.org/2002/06/xhtml2/#alternate",
+    "http://www.w3.org/2002/06/xhtml2/#appendix",
+    "http://www.w3.org/2002/06/xhtml2/#bookmark",
+    "http://www.w3.org/2002/06/xhtml2/#chapter",
+    "http://www.w3.org/2002/06/xhtml2/#contents",
+    "http://www.w3.org/2002/06/xhtml2/#copyright",
+    "http://www.w3.org/2002/06/xhtml2/#glossary",
+    "http://www.w3.org/2002/06/xhtml2/#help",
+    "http://www.w3.org/2002/06/xhtml2/#icon",
+    "http://www.w3.org/2002/06/xhtml2/#index"
+  ],
+  "homepage": "https://www.w3.org/2005/05/hrel",
+  "identifier": "xhtml-link-types",
+  "image": "xhtml.png",
+  "license": "CC-BY-SA",
+  "name": "XHTML Link Types in RDF",
+  "namespace": {
+    "alias": "lt",
+    "prefix": "https://www.w3.org/2005/05/hrel/#"
+  },
+  "organization": "w3c",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 53
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "https://www.w3.org/2005/05/hrel/linktypes.rdf"
+    }
+  }
+}
