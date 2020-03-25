@@ -1,0 +1,35 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "The [Simple Knowledge Organization System (SKOS)](/w3c/skos) is a common data model for sharing and linking knowledge organization systems via the Semantic Web.  SKOS-XL defines an extension for the Simple Knowledge Organization System, providing additional support for describing and linking lexical entities.This document provides a brief description of the SKOS-XL vocabulary.",
+  "exampleResource": [
+    "http://www.w3.org/2008/05/skos-xl#Label",
+    "http://www.w3.org/2008/05/skos-xl#altLabel",
+    "http://www.w3.org/2008/05/skos-xl#hiddenLabel",
+    "http://www.w3.org/2008/05/skos-xl#labelRelation",
+    "http://www.w3.org/2008/05/skos-xl#literalForm",
+    "http://www.w3.org/2008/05/skos-xl#prefLabel"
+  ],
+  "homepage": "https://www.w3.org/TR/skos-reference/skos-xl.html",
+  "identifier": "skos-xl",
+  "image": "rdf.png",
+  "license": "CC-BY-SA",
+  "name": "Simple Knowledge Organization System eXtension for Labels",
+  "namespace": {
+    "alias": "skos-xl",
+    "prefix": "http://www.w3.org/2008/05/skos-xl#"
+  },
+  "organization": "w3c",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 4
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.w3.org/2008/05/skos-xl#"
+    }
+  }
+}
