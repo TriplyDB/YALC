@@ -1,0 +1,29 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Metadata",
+    "Vocabulary"
+  ],
+  "description": "This document describes a vocabulary for annotating descriptions of vocabularies with examples and usage notes.",
+  "exampleResource": [
+    "http://purl.org/vocab/vann/changes",
+    "http://purl.org/vocab/vann/example",
+    "http://purl.org/vocab/vann/preferredNamespacePrefix",
+    "http://purl.org/vocab/vann/preferredNamespaceUri"
+  ],
+  "homepage": "http://vocab.org/vann",
+  "identifier": "vann",
+  "image": "rdf.png",
+  "license": "CC-BY-SA",
+  "name": "Vocabulary for Annotating Vocabulary Descriptions",
+  "namespace": {
+    "alias": "vann",
+    "prefix": "https://vocab.org/vann/"
+  },
+  "organization": "none",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "https://raw.githubusercontent.com/TriplyDB/LOD-Cloud/master/rdf/vann.ttl"
+    }
+  }
+}
