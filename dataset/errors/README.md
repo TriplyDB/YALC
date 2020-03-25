@@ -8,12 +8,15 @@ be uploaded because they contain errors.
 The following datasets are serviced with an incorrect `Content-Type`
 header:
 
-  - [`geo.json`](geo.json) emits `text/xml`; should be `application/rdf+xml`
-  - [`provenance.json`](provenance.json) emits `application/rdf\+xml`; should be `application/rdf+xml`
+  - [OGC GeoSPARQL](geo.json) emits `text/xml`; should be
+    `application/rdf+xml`
+  - [Provenance](provenance.json) emits `application/rdf\+xml`; should
+    be `application/rdf+xml`
 
 ## Erroneous handling of `Accept` header
 
-The following `Accept` header value is used when accessing RDF documents online:
+The following `Accept` header value is used when accessing RDF
+documents online:
 
 ```
 application/trig,
@@ -30,7 +33,14 @@ text/plain;q=0.8,
 The following datasets are serviced from servers that cannot process
 the above `Accept` header correctly:
 
-  - [`dataid.json`](dataid.json)
-  - [`prov.json`](prov.json)
-  - [`qb.json`](qb.json)
-  - [`sd.json`](sd.json)
+  - [DBpedia DataID](dataid.json)
+  - [W3C Data Cube](qb.json)
+  - [W3C PROV-O](prov.json)
+  - [W3C SPARQL Service Description](sd.json)
+
+## Erroneous IRIs
+
+The following datasets contain incorrect IRIs:
+
+  - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
+    rdf:resource=" https://rkd.nl/explore/artists/420649"/>`

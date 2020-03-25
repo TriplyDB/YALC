@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "Rijksmuseum data services provide access to object metadata, bibliographic data, controlled vocabularies and user generated content.  These pages comprise the technical documentation of RijksData, also available are a general introduction, as well as the open data policy of the museum.  Contact us if you have any questions or want to report issues.",
+  "homepage": "https://data.rijksmuseum.nl/",
+  "identifier": "rijksmuseum",
+  "image": "rijksmuseum.png",
+  "name": "Rijksmuseum"
+}
