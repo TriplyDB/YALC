@@ -1,0 +1,34 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "Units of measure that are used by the [GeoSPARQL functions](/ogc/geof).",
+  "exampleResource": [
+    "http://www.opengis.net/def/uom/OGC/1.0/GridSpacing",
+    "http://www.opengis.net/def/uom/OGC/1.0/degree",
+    "http://www.opengis.net/def/uom/OGC/1.0/metre",
+    "http://www.opengis.net/def/uom/OGC/1.0/radian",
+    "http://www.opengis.net/def/uom/OGC/1.0/unity"
+  ],
+  "homepage": "https://www.opengeospatial.org/standards/geosparql",
+  "identifier": "uom",
+  "image": "ogc.png",
+  "license": "CC-BY-SA",
+  "name": "Units of Measure",
+  "namespace": {
+    "alias": "uom",
+    "prefix": "http://www.opengis.net/def/uom/OGC/1.0/"
+  },
+  "organization": "ogc",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 0
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.opengis.net/ont/geosparql#"
+    }
+  }
+}
