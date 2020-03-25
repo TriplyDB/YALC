@@ -31,6 +31,8 @@ This repository is structured in the following directories:
 <dl>
   <dt><code>/datasets</code></dt>
   <dd>Contains one configuration file for each Linked Open Dataset.</dd>
+  <dt><code>/datasets/errors</code></dt>
+  <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded to the LOD Cloud because it contains errors.</dd>
   <dt><code>/img</code></dt>
   <dd>Contains images that are used in dataset and organization configurations.</dd>
   <dt><code>/organizations</code></dt>
@@ -174,7 +176,7 @@ includes the following:
 Unfortunately, many datasets cannot be included into the LOD Cloud
 because they do follow standards.  Datasets that are currently not
 included because of errors can be found in the
-[`errors`](datasets/errors) directory.
+[`/errors`](datasets/errors) directory.
 
 ## Missing datasets
 
