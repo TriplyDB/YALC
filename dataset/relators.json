@@ -1,0 +1,37 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Bibliography",
+    "Vocabulary"
+  ],
+  "description": "Relator terms and their associated codes designate the relationship between a name and a bibliographic resource.  The relator codes are three-character lowercase alphabetic strings that serve as identifiers.  Either the term or the code may be used as controlled values.",
+  "exampleResource": [
+    "http://id.loc.gov/vocabulary/relators/abr",
+    "http://id.loc.gov/vocabulary/relators/acp",
+    "http://id.loc.gov/vocabulary/relators/act",
+    "http://id.loc.gov/vocabulary/relators/adi",
+    "http://id.loc.gov/vocabulary/relators/adp",
+    "http://id.loc.gov/vocabulary/relators/aft",
+    "http://id.loc.gov/vocabulary/relators/anl",
+    "http://id.loc.gov/vocabulary/relators/anm"
+  ],
+  "homepage": "http://id.loc.gov/vocabulary/relators.html",
+  "identifier": "relators",
+  "image": "loc.jpg",
+  "license": "CC-BY-SA",
+  "name": "MARC Code List for Relators Scheme",
+  "namespace": {
+    "alias": "relator",
+    "prefix": "http://id.loc.gov/vocabulary/relators/"
+  },
+  "organization": "loc",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 20170907
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
+    }
+  }
+}
