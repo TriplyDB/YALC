@@ -1,4 +1,4 @@
-<img src="img/triply.png" align="right" height="400">
+<img src="img/triply.png" align="right" height="150">
 
 # LOD Cloud
 
