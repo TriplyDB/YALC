@@ -1,0 +1,24 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "The Data Quality Vocabulary (DQV) provides a framework in which the quality of a dataset can be described, whether by the dataset publisher or by a broader community of users.  It does not provide a formal, complete definition of quality, rather, it sets out a consistent means by which information can be provided such that a potential user of a dataset can make his/her own judgment about its fitness for purpose.",
+  "exampleResource": [
+  ],
+  "homepage": "https://www.w3.org/TR/vocab-dqv",
+  "identifier": "dqv",
+  "image": "rdf.png",
+  "license": "CC-BY-SA",
+  "name": "Data Quality Vocabulary",
+  "namespace": {
+    "alias": "dqv",
+    "prefix": "http://www.w3.org/ns/dqv#"
+  },
+  "organization": "w3c",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.w3.org/ns/dqv#"
+    }
+  }
+}
