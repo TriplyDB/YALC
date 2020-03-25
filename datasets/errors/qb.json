@@ -11,7 +11,7 @@
   ],
   "homepage": "https://www.w3.org/TR/vocab-data-cube/",
   "identifier": "qb",
-  "image": "w3c.png",
+  "image": "qb.png",
   "license": "CC-BY-SA",
   "name": "Data Cube Vocabulary",
   "namespace": {
