@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "The Library of Congress is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps and manuscripts in its collections.  The Library is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.\n\nThe Library of Congress occupies three buildings on Capitol Hill.  The Thomas Jefferson Building (1897) is the original separate Library of Congress building.  (The Library began in 1800 inside the U.S. Capitol.)  The John Adams Building was built in 1938 and the James Madison Memorial Building was completed in 1981.  Other facilities include the High Density Storage Facility (2002) at Fort Meade, Md., and the Packard Campus for Audio Visual Conservation (2007) in Culpeper, Va.\n\nThe Library preserves and provides access to a rich, diverse and enduring source of knowledge to inform, inspire and engage you in your intellectual and creative endeavors.  Whether you are new to the Library of Congress or an experienced researcher, we have a world-class staff ready to assist you online and in person.",
+  "homepage": "https://www.loc.gov",
+  "identifier": "loc",
+  "image": "loc.jpg",
+  "name": "Library of Congress"
+}
