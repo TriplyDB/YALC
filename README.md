@@ -161,3 +161,16 @@ includes the following:
   - The dataset and organization files must mention an image file in
     the `/img` directory.  (see section [Configuration
     format](#configuration-format)).
+
+## Missing datasets
+
+We cannot find the datasets that correspond to the following IRI
+prefixes / namespaces.  Please open a ‘Dataset request’
+[issue](https://github.com/TriplyDB/LOD-Cloud/issues) if you know
+where these dataset can be found.
+
+- http://creativecommons.org/licenses/by/1.0/
+- http://iandavis.com/id/
+- http://purl.org/vocab/vann/
+- http://vocab.org/vann/.html
+- http://web.resource.org/cc/
