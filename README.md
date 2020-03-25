@@ -1,7 +1,8 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-7-brightgreen)](/datasets)
-[![](https://img.shields.io/badge/datasets-7-orange)](/organizations)
+[![](https://img.shields.io/badge/datasets-14-brightgreen)](https://github.com/TriplyDB/LOD-Cloud/datasets)
+[![](https://img.shields.io/badge/datasets-9-orange)](https://github.com/TriplyDB/LOD-Cloud/organizations)
+[![](https://img.shields.io/badge/errors-7-red)](https://github.com/TriplyDB/LOD-Cloud/datasets/errors)
 
 # LOD Cloud
 
