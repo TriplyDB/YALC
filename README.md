@@ -39,22 +39,17 @@ directory.  The format is JSON-based.
 The following properties are crucial for properly connecting the
 configuration files together:
 
-  1. Each dataset configuration file describes exactly one Linked Open
-     Dataset.  The file name `DATASET.json` corresponds with the
-     `"DATASET"` value of the `identifier` key.
-
-  2. The value of the `image` key is the name of an image file in the
+  1. The value of the `image` key is the name of an image file in the
      `/img` directory.
 
-  3. The value of the `organization` key is `"ORGANIZATION"`, which
+  2. The value of the `organization` key is `"ORGANIZATION"`, which
      corresponds to the file name `ORGANIZATION.json` in the
      `/organization` directory (see the [Organization configuration
      format](#organization-configuration-format) section below).
 
 The following example shows the full dataset configuration for file
-`dataset/owl.json`.  Notice that the value for key `identifier` is
-`"owl"`, the value for key `image` is `"owl.png"`, and that the value
-for key `organization` is `"w3c"`.
+`dataset/owl.json`.  Notice that the value for key `image` is
+`"owl.png"` and the value for key `organization` is `"w3c"`.
 
 ```json
 {
