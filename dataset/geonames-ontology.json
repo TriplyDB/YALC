@@ -1,0 +1,29 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Geospatial",
+    "Vocabulary"
+  ],
+  "description": "The GeoNames Ontology makes it possible to add geospatial semantic information to the Word Wide Web.",
+  "exampleResource": [
+  ],
+  "homepage": "http://www.geonames.org/ontology/documentation.html",
+  "identifier": "ontology",
+  "image": "geonames.png",
+  "license": "CC-BY-SA",
+  "name": "GeoNames Ontology",
+  "namespace": {
+    "prefix": "https://www.geonames.org/ontology#"
+  },
+  "organization": "geonames",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 3,
+    "minor": 2
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.geonames.org/ontology/ontology_v3.2.rdf"
+    }
+  }
+}
