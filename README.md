@@ -1,8 +1,8 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-14-brightgreen)](https://github.com/TriplyDB/LOD-Cloud/datasets)
-[![](https://img.shields.io/badge/datasets-9-orange)](https://github.com/TriplyDB/LOD-Cloud/organizations)
-[![](https://img.shields.io/badge/errors-7-red)](https://github.com/TriplyDB/LOD-Cloud/datasets/errors)
+[![](https://img.shields.io/badge/datasets-14-brightgreen)](datasets)
+[![](https://img.shields.io/badge/datasets-9-orange)](organizations)
+[![](https://img.shields.io/badge/errors-7-red)](datasets/errors)
 
 # LOD Cloud
 
@@ -21,6 +21,12 @@ request](https://github.com/TriplyDB/LOD-Cloud/pulls) or you can open
 a ‘Dataset request’
 [issue](https://github.com/TriplyDB/LOD-Cloud/issues).
 
+If your favorite Linked Dataset is not yet part of TriplyDB, you can
+add its configuration in a [pull
+request](pulls) or you can open
+a ‘Dataset request’
+[issue](issues).
+
 ## Repository structure
 
 This registry contains records for the Linked Open Datasets that are
@@ -29,11 +35,11 @@ included in TriplyDB (https://triplydb.com) for context.
 This repository is structured in the following directories:
 
 <dl>
-  <dt><code>/dataset</code></dt>
+  <dt><code>/datasets</code></dt>
   <dd>Contains one configuration file for each Linked Open Dataset.</dd>
   <dt><code>/img</code></dt>
   <dd>Contains images that are used in dataset and organization configurations.</dd>
-  <dt><code>/organization</code></dt>
+  <dt><code>/organizations</code></dt>
   <dd>Contains one configuration file for each organization.</dd>
   <dt><code>/rdf</code></dt>
   <dd>Contains the RDF definitions that are used by the configuration files in this repository, and includes small RDF datasets that are part of the LOD Cloud but for which we could not find an online publication elsewhere.</dd>
@@ -46,7 +52,7 @@ configuration format.
 
 ### Dataset configuration format
 
-The dataset configuration format is used for files in the `/dataset`
+The dataset configuration format is used for files in the `/datasets`
 directory.
 
 The following properties are crucial for properly connecting the
@@ -57,11 +63,11 @@ configuration files together:
 
   2. The value of the `organization` key is `"ORGANIZATION"`, which
      corresponds to the file name `ORGANIZATION.json` in the
-     `/organization` directory (see the [Organization configuration
+     `/organizations` directory (see the [Organization configuration
      format](#organization-configuration-format) section below).
 
 The following example shows the full dataset configuration for file
-`dataset/owl.json`.  Notice that the value for key `image` is
+`datasets/owl.json`.  Notice that the value for key `image` is
 `"owl.png"` and the value for key `organization` is `"w3c"`.
 
 ```json
@@ -104,7 +110,7 @@ The following example shows the full dataset configuration for file
 ### Organization configuration format
 
 The organization configuration format is used for files in the
-`/organization` directory.
+`/organizations` directory.
 
 The following properties are crucial for properly connecting the
 configuration files together:
@@ -118,7 +124,7 @@ configuration files together:
      `/img` directory.
 
 The following example shows the full organization configuration file
-`organization/w3c.json`.  Notice that the value for key `identifier`
+`organizations/w3c.json`.  Notice that the value for key `identifier`
 is `"w3c"`, and the value for key `image` is `"w3c.png"`.
 
 ```json
@@ -150,10 +156,10 @@ In order to add a new Linked Open Data to this repository, create a
 [pull request](https://github.com/TriplyDB/LOD-Cloud/pulls) that
 includes the following:
 
-  - A dataset file `dataset/DATASET.json` whose contents adhere to the
-    [dataset configuration format](#dataset-configuration-format).
+  - A dataset file `datasets/DATASET.json` whose contents adhere to
+    the [dataset configuration format](#dataset-configuration-format).
 
-  - An organization file `organization/ORGANIZATION.json` whose
+  - An organization file `organizations/ORGANIZATION.json` whose
     contents adhere to the [organization configuration
     format](#organization-configuration-format).
 
