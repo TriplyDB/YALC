@@ -21,12 +21,6 @@ request](https://github.com/TriplyDB/LOD-Cloud/pulls) or you can open
 a ‘Dataset request’
 [issue](https://github.com/TriplyDB/LOD-Cloud/issues).
 
-If your favorite Linked Dataset is not yet part of TriplyDB, you can
-add its configuration in a [pull
-request](/pulls) or you can open
-a ‘Dataset request’
-[issue](/issues).
-
 ## Repository structure
 
 This registry contains records for the Linked Open Datasets that are
@@ -172,7 +166,7 @@ includes the following:
     format](#configuration-format)).
 
   - The dataset and organization files must mention an image file in
-    the `/img` directory.  (see section [Configuration
+    the `/img` directory (see section [Configuration
     format](#configuration-format)).
 
 ## Missing datasets
