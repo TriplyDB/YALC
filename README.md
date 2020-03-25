@@ -1,7 +1,7 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-14-brightgreen)](datasets)
-[![](https://img.shields.io/badge/errors-7-red)](datasets/errors)
+[![](https://img.shields.io/badge/datasets-13-brightgreen)](datasets)
+[![](https://img.shields.io/badge/errors-8-red)](datasets/errors)
 [![](https://img.shields.io/badge/organizations-9-orange)](organizations)
 
 # LOD Cloud

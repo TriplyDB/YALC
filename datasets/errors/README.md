@@ -44,3 +44,11 @@ The following datasets contain incorrect IRIs:
 
   - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
     rdf:resource=" https://rkd.nl/explore/artists/420649"/>`
+
+## Syntax errors
+
+The following datasets contain syntax errors:
+
+  - [GeoNames](geonames.json) is a concatenation of RDF/XML files with
+    IRIs interspersed.  This was communicated to the GeoNames forum:
+    [link](http://forum.geonames.org/gforum/forums/show/4.page)
