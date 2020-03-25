@@ -36,6 +36,7 @@ the above `Accept` header correctly:
   - [DBpedia DataID](dataid.json)
   - [W3C Data Cube](qb.json)
   - [W3C PROV-O](prov.json)
+  - [W3C RDFa](rdfa.json)
   - [W3C SPARQL Service Description](sd.json)
 
 ## Erroneous IRIs
