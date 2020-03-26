@@ -4,9 +4,7 @@
 [![](https://img.shields.io/badge/errors-9-red)](datasets/errors)
 [![](https://img.shields.io/badge/organizations-9-orange)](organizations)
 
-# LOD Cloud
-
-Welcome to the Triply LOD Cloud registry!
+# YALC: Yet Another LOD Cloud
 
 ## Get started
 
