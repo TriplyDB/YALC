@@ -27,15 +27,15 @@ included in TriplyDB (https://triplydb.com) for context.
 This repository is structured in the following directories:
 
 <dl>
-  <dt><code>/datasets</code></dt>
+  <dt><a href="datasets"><code>/datasets</code></a></dt>
   <dd>Contains one configuration file for each Linked Open Dataset.</dd>
-  <dt><code>/datasets/errors</code></dt>
+  <dt><a href="datasets/errors"><code>/datasets/errors</code></a></dt>
   <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded to the LOD Cloud because it contains errors.</dd>
-  <dt><code>/img</code></dt>
+  <dt><a href="img"><code>/img</code></a></dt>
   <dd>Contains images that are used in dataset and organization configurations.</dd>
-  <dt><code>/organizations</code></dt>
+  <dt><a href="organizations"><code>/organizations</code></a></dt>
   <dd>Contains one configuration file for each organization.</dd>
-  <dt><code>/rdf</code></dt>
+  <dt><a href="rdf"><code>/rdf</code></a></dt>
   <dd>Contains the RDF definitions that are used by the configuration files in this repository, and includes small RDF datasets that are part of the LOD Cloud but for which we could not find an online publication elsewhere.</dd>
 </dl>
 
