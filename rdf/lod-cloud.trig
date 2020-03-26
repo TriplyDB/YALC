@@ -1,6 +1,6 @@
-prefix dataset: <https://triplydb.com/Triply/LOD-Cloud/>
-prefix graph: <https://triplydb.com/Triply/LOD-Cloud/graphs/>
-prefix lod-cloud: <https://triplydb.com/Triply/LOD-Cloud/vocab/>
+prefix dataset: <https://triplydb.com/Triply/YALC/>
+prefix graph: <https://triplydb.com/Triply/YALC/graphs/>
+prefix lod-cloud: <https://triplydb.com/Triply/YALC/vocab/>
 prefix owl: <http://www.w3.org/2002/07/owl#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix sdo: <http://schema.org/>

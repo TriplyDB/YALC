@@ -15,9 +15,8 @@ favorite Linked Dataset.
 
 If your favorite Linked Dataset is not yet part of TriplyDB, you can
 add its configuration in a [pull
-request](https://github.com/TriplyDB/LOD-Cloud/pulls) or you can open
-a ‘Dataset request’
-[issue](https://github.com/TriplyDB/LOD-Cloud/issues).
+request](https://github.com/TriplyDB/YALC/pulls) or you can open a
+‘Dataset request’ [issue](https://github.com/TriplyDB/YALC/issues).
 
 ## Repository structure
 
@@ -147,8 +146,8 @@ as Linked Data.  This is achieved by the following definition files:
 ## Pull request details
 
 In order to add a new Linked Open Data to this repository, create a
-[pull request](https://github.com/TriplyDB/LOD-Cloud/pulls) that
-includes the following:
+[pull request](https://github.com/TriplyDB/YALC/pulls) that includes
+the following:
 
   - A dataset file `datasets/DATASET.json` whose contents adhere to
     the [dataset configuration format](#dataset-configuration-format).
@@ -180,8 +179,8 @@ included because of errors can be found in the
 
 We cannot find the datasets that correspond to the following IRI
 prefixes / namespaces.  Please open a ‘Dataset request’
-[issue](https://github.com/TriplyDB/LOD-Cloud/issues) if you know
-where these dataset can be found.
+[issue](https://github.com/TriplyDB/YALC/issues) if you know where
+these dataset can be found.
 
 - http://creativecommons.org/licenses/by/1.0/
 - http://iandavis.com/id/

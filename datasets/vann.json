@@ -23,7 +23,7 @@
   "organization": "none",
   "wasDerivedFrom": {
     "distribution": {
-      "contentUrl": "https://raw.githubusercontent.com/TriplyDB/LOD-Cloud/master/rdf/vann.ttl"
+      "contentUrl": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/vann.ttl"
     }
   }
 }
