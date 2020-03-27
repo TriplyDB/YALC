@@ -9,7 +9,7 @@
     "http://www.w3.org/ns/shacl#NodeShape",
     "http://www.w3.org/ns/shacl#PrefixDeclaration"
   ],
-  "homepage": "https://www.w3.org/TR/shacl/",
+  "homepage": "https://www.w3.org/TR/shacl",
   "identifier": "sh",
   "image": "w3c.png",
   "license": "CC-BY-SA",
