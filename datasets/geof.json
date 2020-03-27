@@ -31,7 +31,7 @@
   },
   "wasDerivedFrom": {
     "distribution": {
-      "contentUrl": "http://www.opengis.net/ont/geosparql#"
+      "contentUrl": "http://www.opengis.net/def/function/geosparql/"
     }
   }
 }
