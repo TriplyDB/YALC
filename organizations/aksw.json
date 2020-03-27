@@ -1,0 +1,9 @@
+
+{
+  "@type": "Organization",
+  "description": "The Research Group **Agile Knowledge Engineering and Semantic Web (AKSW)** is hosted by the Chair of [Business Information Systems](http://bis.informatik.uni-leipzig.de) (BIS) of the [Institute of Computer Science](http://www.informatik.uni-leipzig.de) (IfI) / [University of Leipzig](http://www.uni-leipzig.de) as well as the [Institute for Applied Informatics](http://infai.org) (InfAI).",
+  "homepage": "http://aksw.org",
+  "identifier": "aksw",
+  "image": "aksw.jpg",
+  "name": "Agile Knowledge Engineering and Semantic Web (AKSW)"
+}

@@ -7,7 +7,13 @@ Client](https://triply.cc/docs/triply-client-js).
 
 ## Upload jobs with multiple URLs
 
-The following datasets requite support for upload jobs with multiple
+The following datasets require support for upload jobs with multiple
 URLs:
 
-  - [`dbpedia.json`](dbpedia.json)
+  - [DBpedia](dbpedia.json)
+
+## Empty Bzipped file
+
+The following datasets require support for empty Bzipped files:
+
+  - [LinkedGeoData](LinkedGeoData.json)
