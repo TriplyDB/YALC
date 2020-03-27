@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "Princeton University is a private Ivy League research university in Princeton, New Jersey.",
+  "homepage": "https://www.princeton.edu",
+  "identifier": "princeton",
+  "image": "princeton.png",
+  "name": "Princeton University"
+}
