@@ -1,0 +1,35 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Statistics",
+    "Vocabulary"
+  ],
+  "description": "Component properties corresponding to each Content Oriented Guidelines (COG) concept that can be used as an attribute.",
+  "exampleResource": [
+    "http://purl.org/linked-data/sdmx/2009/attribute#accessibility",
+    "http://purl.org/linked-data/sdmx/2009/attribute#accuracy",
+    "http://purl.org/linked-data/sdmx/2009/attribute#accuracyOverall",
+    "http://purl.org/linked-data/sdmx/2009/attribute#adjustCoded",
+    "http://purl.org/linked-data/sdmx/2009/attribute#adjustDetail",
+    "http://purl.org/linked-data/sdmx/2009/attribute#adjustment",
+    "http://purl.org/linked-data/sdmx/2009/attribute#advNotice",
+    "http://purl.org/linked-data/sdmx/2009/attribute#basePer",
+    "http://purl.org/linked-data/sdmx/2009/attribute#clarity"
+  ],
+  "homepage": "https://sdmx.org",
+  "identifier": "attribute",
+  "image": "sdmx.png",
+  "license": "CC-BY-SA",
+  "name": "SDMX Attributes",
+  "namespace": {
+    "alias": "sdmx-attribute",
+    "prefix": "http://purl.org/linked-data/sdmx/2009/attribute#"
+  },
+  "organization": "sdmx",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://purl.org/linked-data/sdmx/2009/attribute#"
+    }
+  }
+}
+

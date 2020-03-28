@@ -1,0 +1,32 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Statistics",
+    "Vocabulary"
+  ],
+  "description": "Component properties corresponding to each Content Oriented Guidelines (COG) concept that can be used as a measure.",
+  "exampleResource": [
+    "http://purl.org/linked-data/sdmx/2009/measure#age",
+    "http://purl.org/linked-data/sdmx/2009/measure#civilStatus",
+    "http://purl.org/linked-data/sdmx/2009/measure#currency",
+    "http://purl.org/linked-data/sdmx/2009/measure#educationLev",
+    "http://purl.org/linked-data/sdmx/2009/measure#obsValue",
+    "http://purl.org/linked-data/sdmx/2009/measure#occupation",
+    "http://purl.org/linked-data/sdmx/2009/measure#sex"
+  ],
+  "homepage": "https://sdmx.org",
+  "identifier": "measure",
+  "image": "sdmx.png",
+  "license": "CC-BY-SA",
+  "name": "SDMX Measures",
+  "namespace": {
+    "alias": "sdmx-measure",
+    "prefix": "http://purl.org/linked-data/sdmx/2009/measure#"
+  },
+  "organization": "sdmx",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://purl.org/linked-data/sdmx/2009/measure#"
+    }
+  }
+}
