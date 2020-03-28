@@ -19,8 +19,8 @@
   },
   "organization": "w3c",
   "version": {
-    "@type": "SemanticVersion",
-    "major": 20140522
+    "@type": "TemporalVersion",
+    "isXSDDate": "2014-05-22"
   },
   "wasDerivedFrom": {
     "distribution": {

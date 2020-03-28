@@ -21,8 +21,8 @@
   },
   "organization": "rijksmuseum",
   "version": {
-    "@type": "SemanticVersion",
-    "major": 201911
+    "@type": "TemporalVersion",
+    "inXSDgYearMonth": "2019-11"
   },
   "wasDerivedFrom": {
     "distribution": {

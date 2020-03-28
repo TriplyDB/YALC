@@ -26,8 +26,8 @@
   },
   "organization": "loc",
   "version": {
-    "@type": "SemanticVersion",
-    "major": 20170907
+    "@type": "TemporalVersion",
+    "inXSDDate": "2017-09-07"
   },
   "wasDerivedFrom": {
     "distribution": {

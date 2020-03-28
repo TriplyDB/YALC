@@ -29,13 +29,11 @@
       "prefix": "http://dbpedia.org/resource/"
     }
   ],
-  "organization": "wikimedia",
-  "version": [
-    {
-      "@type": "SemanticVersion",
-      "major": 20190830
-    }
-  ],
+  "organization": "dbpedia",
+  "version": {
+    "@type": "TemporalVersion",
+    "inXSDDate": "2019-08-30"
+  },
   "wasDerivedFrom": {
     "distribution": {
       "contentUrl": [

@@ -12,19 +12,15 @@
   "image": "dbpedia.png",
   "license": "CC-BY-SA",
   "name": "DBpedia Ontology",
-  "namespace": [
-    {
-      "alias": "dbo",
-      "prefix": "http://dbpedia.org/ontology/"
-    }
-  ],
+  "namespace": {
+    "alias": "dbo",
+    "prefix": "http://dbpedia.org/ontology/"
+  },
   "organization": "wikimedia",
-  "version": [
-    {
-      "@type": "SemanticVersion",
-      "major": 201610
-    }
-  ],
+  "version": {
+    "@type": "TemporalVersion",
+    "inXSDgYearMonth": "2016-10"
+  },
   "wasDerivedFrom": {
     "distribution": {
       "contentUrl": [

@@ -15,8 +15,8 @@
   ],
   "organization": "aksw",
   "version": {
-    "@type": "SemanticVersion",
-    "major": 20151102
+    "@type": "TemporalVersion",
+    "inXSDDate": "2015-11-02"
   }
   "wasDerivedFrom": {
     "distribution": {
