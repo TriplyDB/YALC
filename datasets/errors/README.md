@@ -13,6 +13,10 @@ header:
   - [Provenance](provenance.json) emits `application/rdf\+xml`; should
     be `application/rdf+xml`
 
+The following datasets emit no `Content-Type` header at all:
+
+  - [lexinfo](lexinfo.json)
+
 ## Erroneous handling of `Accept` header
 
 The following `Accept` header value is used when accessing RDF
