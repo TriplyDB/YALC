@@ -1,0 +1,25 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Statistics",
+    "Vocabulary"
+  ],
+  "description": "SDMX vocabulary describing the core statistical concepts.",
+  "exampleResource": [
+  ],
+  "homepage": "https://sdmx.org",
+  "identifier": "core",
+  "image": "sdmx.png",
+  "license": "CC-BY-SA",
+  "name": "SDMX Core Vocabulary",
+  "namespace": {
+    "alias": "sdmx",
+    "prefix": "http://purl.org/linked-data/sdmx#"
+  },
+  "organization": "sdmx",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "https://raw.githubusercontent.com/UKGovLD/publishing-statistical-data/master/specs/src/main/vocab/sdmx.ttl#"
+    }
+  }
+}
