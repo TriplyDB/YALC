@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/datasets-27-brightgreen)](datasets)
 [![](https://img.shields.io/badge/errors-9-red)](datasets/errors)
-[![](https://img.shields.io/badge/organizations-9-orange)](organizations)
+[![](https://img.shields.io/badge/organizations-11-orange)](organizations)
 
 # YALC: Yet Another LOD Cloud
 

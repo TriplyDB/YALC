@@ -36,6 +36,10 @@
     "@id": "time:inXSDDate",
     "@type": "xsd:date"
   },
+  "inXSDgYear": {
+    "@id": "time:inXSDgYear",
+    "@type": "xsd:gYear"
+  },
   "inXSDgYearMonth": {
     "@id": "time:inXSDgYearMonth",
     "@type": "xsd:gYearMonth"
