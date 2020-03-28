@@ -1,12 +1,12 @@
-prefix dataset: <https://triplydb.com/Triply/YALC/>
-prefix graph: <https://triplydb.com/Triply/YALC/graphs/>
+prefix dataset: <https://triplydb.com/Triply/yalc/>
+prefix graph: <https://triplydb.com/Triply/yalc/graphs/>
 prefix owl: <http://www.w3.org/2002/07/owl#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix sdo: <http://schema.org/>
 prefix time: <http://www.w3.org/2006/time#>
 prefix void: <http://rdfs.org/ns/void#>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
-prefix yalc: <https://triplydb.com/Triply/YALC/vocab/>
+prefix yalc: <https://triplydb.com/Triply/yalc/vocab/>
 
 dataset: {
   dataset: a void:Dataset;
