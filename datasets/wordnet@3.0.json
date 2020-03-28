@@ -7,7 +7,7 @@
   "exampleResource": [
   ],
   "homepage": "https://semanticweb.cs.vu.nl/lod/wn30",
-  "identifier": "wordnet",
+  "identifier": "wordnet-3-0",
   "image": "wordnet.png",
   "license": "CC-BY-SA",
   "name": "WordNet",
