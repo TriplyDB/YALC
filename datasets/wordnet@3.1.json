@@ -16,7 +16,7 @@
     "prefix": "http://purl.org/vocabularies/princeton/wn30/"
   },
   "organization": "princeton",
-  "priorVersion": "wordnet@3.0",
+  "priorVersion": "princeton/wordnet@3.0",
   "version": {
     "@type": "SemanticVersion",
     "major": 3,

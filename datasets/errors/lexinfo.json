@@ -17,7 +17,7 @@
     "prefix": "http://www.lexinfo.net/ontology/3.0/lexinfo#"
   },
   "organization": "lemon",
-  "priorVersion": "lexinfo-3-0",
+  "priorVersion": "lemon/lexinfo-3-0",
   "version": {
     "@type": "SemanticVersion",
     "major": 3,
