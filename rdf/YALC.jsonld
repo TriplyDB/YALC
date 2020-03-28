@@ -62,6 +62,7 @@
   "prefix": {
     "@type": "xsd:anyURI"
   },
+  "priorVersion": "owl:priorVersion",
   "prov": "http://www.w3.org/ns/prov#",
   "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
   "sdo": "http://schema.org/",
