@@ -1,12 +1,12 @@
 prefix dataset: <https://triplydb.com/Triply/YALC/>
 prefix graph: <https://triplydb.com/Triply/YALC/graphs/>
-prefix lod-cloud: <https://triplydb.com/Triply/YALC/vocab/>
 prefix owl: <http://www.w3.org/2002/07/owl#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix sdo: <http://schema.org/>
 prefix time: <http://www.w3.org/2006/time#>
 prefix void: <http://rdfs.org/ns/void#>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix yalc: <https://triplydb.com/Triply/YALC/vocab/>
 
 dataset: {
   dataset: a void:Dataset;
@@ -20,93 +20,93 @@ dataset: {
 }
 
 graph:vocab {
-  lod-cloud:Namespace
+  yalc:Namespace
     rdfs:comment "An RDF namespace declaration."@en ;
     rdfs:isDefinedBy dataset:;
     rdfs:label "namespace"@en ;
     rdfs:subClassOf owl:Thing.
 
-  lod-cloud:SemanticVersion
+  yalc:SemanticVersion
     rdfs:comment "A version indicator that uses semantic versioning."@en;
     rdfs:label "semantic version"@en;
     rdfs:isDefinedBy dataset:;
     rdfs:seeAlso "https://semver.org"^^xsd:anyURI;
-    rdfs:subClassOf lod-cloud:Version.
+    rdfs:subClassOf yalc:Version.
 
-  lod-cloud:TemporalVersion
+  yalc:TemporalVersion
     rdfs:comment "A version indicator that uses a temporal instant."@en;
     rdfs:label "temporal version"@en;
     rdfs:isDefinedBy dataset:;
     rdfs:subClassOf
-      lod-cloud:Version,
+      yalc:Version,
       time:Instant.
 
-  lod-cloud:Version
+  yalc:Version
     rdfs:comment "A version indicator."@en;
     rdfs:isDefinedBy dataset:;
     rdfs:label "version"@en;
     rdfs:subClassOf owl:Thing.
 
-  lod-cloud:alias a owl:DatatypeProperty;
+  yalc:alias a owl:DatatypeProperty;
     rdfs:comment "The alias that will be used to denote the namespace.  Typically, the alias is shorter and easier to remember than the IRI prefix that is stands for."@en;
-    rdfs:domain lod-cloud:Namespace;
+    rdfs:domain yalc:Namespace;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has alias"@en;
     rdfs:range xsd:string.
 
-  lod-cloud:exampleResource
+  yalc:exampleResource
     rdfs:comment "An example resource that is indicative of the dataset."@en;
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has example resource"@en;
     rdfs:range xsd:anyURI.
 
-  lod-cloud:major a owl:DatatypeProperty;
+  yalc:major a owl:DatatypeProperty;
     rdfs:comment "The major version.  This changes when the semantics of existing data items has changed.  Changing the semantics of existing data items potentially changes the semantics of other datasets that link to this dataset."@en;
-    rdfs:domain lod-cloud:SemanticVersion;
+    rdfs:domain yalc:SemanticVersion;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has major version"@en;
     rdfs:range xsd:nonNegativeInteger.
 
-  lod-cloud:minor a owl:DatatypeProperty;
+  yalc:minor a owl:DatatypeProperty;
     rdfs:comment "The minor version.  This changes when new data items are added without changing the semantics of existing data items.  A minor version increase does not change the semantics for other datasets that link to this dataset."@en;
-    rdfs:domain lod-cloud:SemanticVersion;
+    rdfs:domain yalc:SemanticVersion;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has minor version"@en;
     rdfs:range xsd:nonNegativeInteger.
 
-  lod-cloud:namespace a owl:ObjectProperty;
+  yalc:namespace a owl:ObjectProperty;
     rdfs:comment "The relationship between a dataset and a preferred namespace for that dataset."@en;
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has namespace"@en;
-    rdfs:range lod-cloud:Namespace.
+    rdfs:range yalc:Namespace.
 
-  lod-cloud:organization a owl:ObjectProperty;
+  yalc:organization a owl:ObjectProperty;
     rdfs:comment "The relationship between a dataset and the organization that publishes it."@en;
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has organization"@en;
     rdfs:range sdo:Organization.
 
-  lod-cloud:patch a owl:DatatypeProperty;
+  yalc:patch a owl:DatatypeProperty;
     rdfs:comment "The patch version.  This changes when bugs in existing data items were fixed.  A patch version increase shlould always be followed by other datasets that link to this dataset, since the linked-to data entity may have contained bugs,"@en;
-    rdfs:domain lod-cloud:SemanticVersion;
+    rdfs:domain yalc:SemanticVersion;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has patch version"@en;
     rdfs:range xsd:nonNegativeInteger.
 
-  lod-cloud:prefix a owl:DatatypeProperty;
+  yalc:prefix a owl:DatatypeProperty;
     rdfs:comment "The IRI prefix of the namespace."@en;
-    rdfs:domain lod-cloud:Namespace;
+    rdfs:domain yalc:Namespace;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has prefix"@en;
     rdfs:range xsd:anyURI.
 
-  lod-cloud:version a owl:ObjectProperty;
+  yalc:version a owl:ObjectProperty;
     rdfs:comment "The relationship between a dataset and its version indicator."@en;
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has version"@en;
-    rdfs:range lod-cloud:Version.
+    rdfs:range yalc:Version.
 }
