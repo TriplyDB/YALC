@@ -10,8 +10,21 @@ header:
 
   - [OGC GeoSPARQL](geo.json) emits `text/xml`; should be
     `application/rdf+xml`
+
   - [Provenance](provenance.json) emits `application/rdf\+xml`; should
     be `application/rdf+xml`
+
+  - [SDMX Attribute](sdmx-attribute.json) emits `text/plain;
+    charset=utf-8`; should be `text/turtle`.
+
+  - [SDMX Code](sdmx-code.json) emits `text/plain; charset=utf-8`;
+    should be `text/turtle`.
+
+  - [SDMX Concept](sdmx-concept.json) emits `text/plain;
+    charset=utf-8`; should be `text/turtle`.
+
+  - [SDMX Dimension](sdmx-dimension.json) emits `text/plain;
+    charset=utf-8`; should be `text/turtle`.
 
 The following datasets emit no `Content-Type` header at all:
 
@@ -38,9 +51,13 @@ The following datasets are serviced from servers that cannot process
 the above `Accept` header correctly:
 
   - [DBpedia DataID](dataid.json)
+
   - [W3C Data Cube](qb.json)
+
   - [W3C PROV-O](prov.json)
+
   - [W3C RDFa](rdfa.json)
+
   - [W3C SPARQL Service Description](sd.json)
 
 ## Erroneous IRIs

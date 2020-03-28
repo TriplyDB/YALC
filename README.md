@@ -183,8 +183,13 @@ prefixes / namespaces.  Please open a ‘Dataset request’
 these dataset can be found.
 
 - http://creativecommons.org/licenses/by/1.0/
+
 - http://iandavis.com/id/
+
 - http://purl.org/vocab/vann/
+
 - http://vocab.org/vann/.html
+
 - http://web.resource.org/cc/
+
 - http://www.ivan-herman.net/foaf#me
