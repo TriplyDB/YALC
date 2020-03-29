@@ -21,7 +21,7 @@
       "prefix": "http://dbpedia.org/datatype/"
     }
   ],
-  "organization": "wikimedia",
+  "organization": "dbpedia",
   "version": {
     "@type": "TemporalVersion",
     "inXSDgYearMonth": "2016-10"
