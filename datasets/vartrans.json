@@ -1,0 +1,33 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Lexicography",
+    "Vocabulary"
+  ],
+  "description": "This is the **Variation and Translation** module of the [Lemon](/lemon) collection of lexicographic vocabularies.  It can be used to represent relations between lexical entries and lexical senses that are variants of each other.",
+  "exampleResource": [
+    "http://www.w3.org/ns/lemon/vartrans#LexicalRelation",
+    "http://www.w3.org/ns/lemon/vartrans#LexicoSemanticRelation",
+    "http://www.w3.org/ns/lemon/vartrans#category",
+    "http://www.w3.org/ns/lemon/vartrans#lexicalRel",
+    "http://www.w3.org/ns/lemon/vartrans#relates",
+    "http://www.w3.org/ns/lemon/vartrans#senseRel",
+    "http://www.w3.org/ns/lemon/vartrans#source",
+    "http://www.w3.org/ns/lemon/vartrans#target"
+  ],
+  "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Variation_.26_Translation_.28vartrans.29",
+  "identifier": "vartrans",
+  "image": "lemon.png",
+  "license": "CC-BY-SA",
+  "name": "Variation & Translation (VarTrans)",
+  "namespace": {
+    "alias": "vartrans",
+    "prefix": "http://www.w3.org/ns/lemon/vartrans#"
+  },
+  "organization": "lemon",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.w3.org/ns/lemon/vartrans#"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Lexicography",
+    "Vocabulary"
+  ],
+  "description": "This is the **lexicography module** of the Lexicon Model for Ontologies ([lemon](/lemon)).  It is a result of the work of the Ontology Lexicon community group (OntoLex).  The module is targeted at the representation of dictionaries and any other linguistic resource containing lexicographic data, and addresses structures and annotations commonly found in lexicography.  This module operates in combination with the [lemon core module](TODO), referred to as [OntoLex](TODO).",
+  "exampleResource": [
+    "http://www.w3.org/ns/lemon/lexicog#Entry",
+    "http://www.w3.org/ns/lemon/lexicog#FormRestriction",
+    "http://www.w3.org/ns/lemon/lexicog#LexicographicComponent",
+    "http://www.w3.org/ns/lemon/lexicog#LexicographicResource",
+    "http://www.w3.org/ns/lemon/lexicog#UsageExample",
+    "http://www.w3.org/ns/lemon/lexicog#restrictedTo"
+  ],
+  "homepage": "https://www.w3.org/2019/09/lexicog",
+  "identifier": "lexicog",
+  "image": "lemon.png",
+  "license": "CC-BY-SA",
+  "name": "OntoLex Lemon Lexicography Module",
+  "namespace": {
+    "alias": "lexicog",
+    "prefix": "http://www.w3.org/ns/lemon/lexicog#"
+  },
+  "organization": "lemon",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 0
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.w3.org/ns/lemon/lexicog#"
+    }
+  }
+}

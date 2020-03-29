@@ -1,0 +1,37 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Lexicography",
+    "Vocabulary"
+  ],
+  "description": "This is the **Syntactic Frames** module of the [Lemon](/lemon) collection of lexicographic vocabularies.\n\nUse this vocabulary to describe syntactic frames for categories of words.\n\nFor example, *transitive verbs* (“to own”) require a syntactic subject and a syntactic object, *relational nouns* (“mother of”) require a prepositional object, *adjectives* require a noun to modify.",
+  "exampleResource": [
+    "http://www.w3.org/ns/lemon/synsem#OntoMap",
+    "http://www.w3.org/ns/lemon/synsem#SyntacticArgument",
+    "http://www.w3.org/ns/lemon/synsem#SyntacticFrame",
+    "http://www.w3.org/ns/lemon/synsem#isA",
+    "http://www.w3.org/ns/lemon/synsem#marker",
+    "http://www.w3.org/ns/lemon/synsem#objOfProp",
+    "http://www.w3.org/ns/lemon/synsem#ontoCorrespondence",
+    "http://www.w3.org/ns/lemon/synsem#ontoMapping",
+    "http://www.w3.org/ns/lemon/synsem#subjOfProp",
+    "http://www.w3.org/ns/lemon/synsem#submap",
+    "http://www.w3.org/ns/lemon/synsem#synArg",
+    "http://www.w3.org/ns/lemon/synsem#synBehavior"
+  ],
+  "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Syntax_and_Semantics_.28synsem.29",
+  "identifier": "synsem",
+  "image": "lemon.png",
+  "license": "CC-BY-SA",
+  "name": "Syntax and Semantics (SynSem)",
+  "namespace": {
+    "alias": "synsem",
+    "prefix": "http://www.w3.org/ns/lemon/synsem#"
+  },
+  "organization": "lemon",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.w3.org/ns/lemon/synsem#"
+    }
+  }
+}
