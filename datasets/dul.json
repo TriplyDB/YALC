@@ -1,0 +1,59 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "A lighter OWL axiomatization of [DOLCE](/odp/dolce) and the [DnS upper ontology](/odp/cdns).  The DOLCE component of this ontology is a simplification of some parts of [DOLCE Lite-Plus](/odp/dlp).  Main aspects in which DOLCE+DnS Ultralite departs from DOLCE Lite-Plus are the following:\n\n  - The names of classes and relations have been made more intuitive\n  - The DnS-related part is closer to the newer [constructive DnS](/odp/cdns) ontology.\n  - Temporal and spatial relations are simplified\n  - Qualities and regions are more relaxed than in DOLCE-Full: they can be used as attributes of any entity; an axiom states that each quality has a region\n  - Axiomatization makes use of simpler constructs than DOLCE Lite-Plus\n  - The architecture of the ontology is pattern-based, which means that DOLCE+DnS Ultralite is also available in modules, called ‘content ontology design patterns’, which can be applied independently in the design of domain ontologies.  If many modules are needed in a same ontology project, it is anyway useful to use this integrated version.\n\nThe final result is a lightweight, easy-to-apply foundational ontology for modeling either physical or social contexts.  Several extensions of DOLCE+DnS Ultralite have been designed:\n\n  - [Information objects](/odp/iolite)\n  - [Systems](http://www.ontologydesignpatterns.org/ont/dul/SystemsLite.owl)\n  - [Plans](http://www.ontologydesignpatterns.org/ont/dul/PlansLite.owl)\n  - [Legal domain](http://www.ontologydesignpatterns.org/ont/dul/CLO/CoreLegal.owl)\n  - [Lexical and semiotic domains](http://www.ontologydesignpatterns.org/ont/lmm/LMM_L2.owl)\n  - [DOLCE-Zero](http://www.ontologydesignpatterns.org/ont/d0.owl) is a commonsense-oriented generalisation of some top-level classes, which allows to use DOLCE with tolerance against ambiguities like abstract vs. concrete information, locations vs. physical artifacts, event occurrences vs. event types, events vs. situations, qualities vs. regions, etc.; etc.",
+  "exampleResource": [
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Abstract",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Action",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#BiologicalObject",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#CollectiveAgent",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Design",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Entity",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#EventType",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#FormalEntity",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#FunctionalSubstance",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Goal",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationRealization",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Object",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Parameter",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalAgent",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalAttribute",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalBody",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Plan",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Process",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Quality",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Region",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Relation"
+  ],
+  "homepage": "",
+  "identifier": "dul",
+  "image": "odp.png",
+  "license": "CC-BY-SA",
+  "name": "DOLCE+DnS Ultralite",
+  "namespace": {
+    "alias": "dul",
+    "prefix": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
+  },
+  "organization": "odp",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 3,
+    "minor": 32
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl"
+    }
+  }
+}

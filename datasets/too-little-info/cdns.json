@@ -1,0 +1,23 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "",
+  "exampleResource": [],
+  "homepage": "",
+  "identifier": "cdns",
+  "image": "odp.png",
+  "license": "CC-BY-SA",
+  "name": "Constructive DnS",
+  "namespace": {
+    "alias": "cdns",
+    "prefix": "http://www.ontologydesignpatterns.org/ont/dul/cDnS.owl"
+  },
+  "organization": "odp",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.ontologydesignpatterns.org/ont/dul/cDnS.owl"
+    }
+  }
+}

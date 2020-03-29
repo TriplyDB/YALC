@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "",
+  "homepage": "http://ontologydesignpatterns.org",
+  "identifier": "odp",
+  "image": "odp.png",
+  "name": "Ontology Design Patterns (ODP)"
+}

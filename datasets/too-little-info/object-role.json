@@ -1,0 +1,24 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "",
+  "exampleResource": [
+    "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl",
+    "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#Role",
+    "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#hasRole"
+  ],
+  "homepage": "http://ontologydesignpatterns.org/wiki/Submissions:ActingFor",
+  "identifier": "object-role",
+  "image": "odp.png",
+  "license": "CC-BY-SA",
+  "name": "“Acting for” Pattern",
+  "namespace": [],
+  "organization": "odp",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl"
+    }
+  }
+}

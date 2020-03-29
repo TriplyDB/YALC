@@ -1,0 +1,31 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Vocabulary"
+  ],
+  "description": "DOLCE-Lite-Plus (DLP) consists of version 3.9 of DOLCE-Lite (updated to D18 of DOLCE-Full) with some basic extensions.",
+  "exampleResource": [],
+  "homepage": "",
+  "identifier": "dlp",
+  "image": "odp.png",
+  "license": "CC-BY-SA",
+  "name": "DOLCE-Lite-Plus (DLP)",
+  "namespace": [],
+  "organization": "odp",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 3,
+    "minor": 9,
+    "patch": 7
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": [
+        "http://www.ontologydesignpatterns.org/ont/dlp/CommonSenseMapping.owl",
+        "http://www.ontologydesignpatterns.org/ont/dlp/Plans.owl",
+        "http://www.ontologydesignpatterns.org/ont/dlp/SocialUnits.owl",
+        "http://www.ontologydesignpatterns.org/ont/dul/DLP_397.owl"
+      ]
+    }
+  }
+}
