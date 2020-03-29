@@ -1,6 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
+    "Lexicography",
     "Vocabulary"
   ],
   "description": "Lemon: The lexicon model for ontologies is designed to allow for descriptions of lexical information regarding ontological elements and other RDF resources.  Lemon covers mapping of lexical decomposition, phrase structure, syntax, variation, morphology, and lexicon-ontology mapping.",

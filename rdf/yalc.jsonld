@@ -20,7 +20,7 @@
     "@type": "sdo:DataDownlod"
   },
   "exampleResource": {
-    "@type": "xsd:anyURI"
+    "@type": "@id"
   },
   "foaf": "http://xmlns.com/foaf/0.1/",
   "homepage": {
@@ -32,6 +32,10 @@
   },
   "image": {
     "@id": "sdo:image"
+  },
+  "imports": {
+    "@id": "owl:imports",
+    "@type": "@id"
   },
   "inXSDDate": {
     "@id": "time:inXSDDate",

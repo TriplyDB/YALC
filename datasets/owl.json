@@ -13,6 +13,7 @@
   "homepage": "https://www.w3.org/TR/owl2-overview",
   "identifier": "owl",
   "image": "owl.png",
+  "imports": "w3c/rdfs",
   "license": "CC-BY-SA",
   "name": "Web Ontology Language (OWL)",
   "namespace": {
