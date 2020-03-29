@@ -17,13 +17,3 @@ URLs:
 The following datasets require support for empty Bzipped files:
 
   - [LinkedGeoData](LinkedGeoData.json)
-
-## URLs
-
-  - http://www.ontologydesignpatterns.org/ont/dlp/CommonSenseMapping.owl
-
-  - http://www.ontologydesignpatterns.org/ont/dlp/Plans.owl
-
-  - http://www.ontologydesignpatterns.org/ont/dlp/SocialUnits.owl
-
-  - https://en.wikipedia.org/wiki/Upper_ontology
