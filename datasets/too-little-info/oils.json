@@ -1,0 +1,25 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "Lexicography",
+    "Vocabulary"
+  ],
+  "description": "",
+  "exampleResource": [
+  ],
+  "homepage": "",
+  "identifier": "oils",
+  "image": "lemon.png",
+  "license": "CC-BY-SA",
+  "name": "",
+  "namespace": {
+    "alias": "oils",
+    "prefix": "http://lemon-model.net/oils#"
+  },
+  "organization": "lemon",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://lemon-model.net/oils#"
+    }
+  }
+}
