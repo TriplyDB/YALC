@@ -5,8 +5,7 @@
     "Vocabulary"
   ],
   "description": "The GeoNames Ontology makes it possible to add geospatial semantic information to the Word Wide Web.",
-  "exampleResource": [
-  ],
+  "exampleResource": [],
   "homepage": "http://www.geonames.org/ontology/documentation.html",
   "identifier": "ontology",
   "image": "geonames.png",

@@ -5,8 +5,7 @@
     "Vocabulary"
   ],
   "description": "SDMX vocabulary describing the core statistical concepts.",
-  "exampleResource": [
-  ],
+  "exampleResource": [],
   "homepage": "https://sdmx.org",
   "identifier": "core",
   "image": "sdmx.png",

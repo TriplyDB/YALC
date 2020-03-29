@@ -5,8 +5,7 @@
     "Vocabulary"
   ],
   "description": "Ontology for DBpedia.",
-  "exampleResource": [
-  ],
+  "exampleResource": [],
   "homepage": "https://wiki.dbpedia.org/",
   "identifier": "dbpedia-ontology",
   "image": "dbpedia.png",
