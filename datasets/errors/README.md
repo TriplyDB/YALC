@@ -65,7 +65,25 @@ the above `Accept` header correctly:
 
 ## Erroneous IRIs
 
-The following datasets contain incorrect IRIs:
+### Illegal characters
+
+The following datasets contain illegal characters inside IRIs:
+
+  - [VIAF](viaf.json) line 841,558:
+    `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
+
+### Incorrect character escaping
+
+The following datasets contain incorrect character escaping inside
+IRIs:
+
+  - [VIAF](viaf.json) line 841,558:
+    `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
+
+### Unescaped spaces
+
+The following datasets contain spaces at the beginnng and/or end of
+IRIs:
 
   - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
     rdf:resource=" https://rkd.nl/explore/artists/420649"/>`
