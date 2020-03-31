@@ -1,6 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
+    "Social",
     "Vocabulary"
   ],
   "description": "The SIOC (Semantically-Interlinked Online Communities) Core Ontology provides the main concepts and properties required to describe information from online communities (e.g., message boards, wikis, weblogs, etc.) on the Semantic Web.  This document contains a detailed description of the SIOC Core Ontology.",

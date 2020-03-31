@@ -1,7 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
-    "Geospatial",
+    "Geography",
     "Vocabulary"
   ],
   "description": "GeoSPARQL functions for performing non-topological spatial operations.",

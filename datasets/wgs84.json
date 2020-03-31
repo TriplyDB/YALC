@@ -1,7 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
-    "Geospatial",
+    "Geography",
     "Vocabulary"
   ],
   "description": "A vocabulary for representing latitude, longitude and altitude information in the WGS84 geodetic reference datum.",

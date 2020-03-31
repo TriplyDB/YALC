@@ -1,6 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
+    "Social",
     "Vocabulary"
   ],
   "description": "A mapping of the [vCard specification](https://tools.ietf.org/html/rfc6350) to RDF/OWL.  The goal is to promote the use of vCard for the description of people and organizations utilizing semantic web techniques and allowing compatibility with traditional vCard implementations.",

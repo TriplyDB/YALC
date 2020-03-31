@@ -1,0 +1,152 @@
+{
+  "children": [
+    {
+      "@id": "agriculture",
+      "label": "Agriculture"
+    },
+    {
+      "@id": "art",
+      "label": "Art",
+      "children": [
+        {
+          "@id": "architecture",
+          "label": "Architecture"
+        },
+        {
+          "@id": "cartoon",
+          "label": "Cartoon"
+        },
+        {
+          "@id": "film",
+          "label": "Film"
+        },
+        {
+          "@id": "literature",
+          "label": "Literature",
+          "children": [
+            {
+              "@id": "poetry",
+              "label": "Poetry"
+            }
+          ]
+        },
+        {
+          "@id": "music",
+          "label": "Music"
+        },
+        {
+          "@id": "painting",
+          "label": "Painting"
+        },
+        {
+          "@id": "sculpture",
+          "label": "Sculpture"
+        }
+      ]
+    },
+    {
+      "@id": "biomedicine",
+      "label": "Biomedicine"
+    },
+    {
+      "@id": "commerce",
+      "label": "Commerce"
+    },
+    {
+      "@id": "eGovernment",
+      "label": "eGov"
+    },
+    {
+      "@id": "encycloperia",
+      "label": "Encyclopedia"
+    },
+    {
+      "@id": "geography",
+      "label": "Geography"
+    },
+    {
+      "@id": "history",
+      "label": "History",
+      "children": [
+        {
+          "@id": "archeology",
+          "label": "Archeology"
+        },
+        {
+          "@id": "heritage",
+          "label": "Cultural Heritage"
+        }
+      ]
+    },
+    {
+      "@id": "language",
+      "label": "Language",
+      "children": [
+        {
+          "@id": "lexicography",
+          "label": "Lexicography"
+        }
+      ]
+    },
+    {
+      "@id": "metadata",
+      "label": "Metadata"
+    },
+    {
+      "@id": "publishing",
+      "label": "Publishing",
+      "children": [
+        {
+          "@id": "bibliography",
+          "label": "Bibliography"
+        },
+        {
+          "@id": "library",
+          "label": "Library"
+        }
+      ]
+    },
+    {
+      "@id": "semantics",
+      "label": "Semantics",
+      "children": [
+        {
+          "@id": "linkset",
+          "label": "Linkset"
+        },
+        {
+          "@id": "vocabulary",
+          "label": "Vocabulary",
+          "children": [
+            {
+              "@id": "topLevel",
+              "label": "Top-Level Ontology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "social",
+      "label": "Social"
+    },
+    {
+      "@id": "services",
+      "label": "Services",
+      "children": [
+        {
+          "@id": "api",
+          "label": "API"
+        },
+        {
+          "@id": "sparql",
+          "label": "SPARQL"
+        }
+      ]
+    },
+    {
+      "@id": "statistics",
+      "label": "Statistics"
+    }
+  ]
+}

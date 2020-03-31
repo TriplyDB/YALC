@@ -1,8 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
-    "Lexicography",
-    "Vocabulary"
+    "Lexicography"
   ],
   "description": "This is the **Decomposition** module of the [Lemon](/lemon) collection of lexicographic vocabularies.\n\nDecomposition is the process of indicating which elements constitute a multi-word or compound lexical entry.",
   "exampleResource": [
