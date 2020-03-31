@@ -1,125 +1,127 @@
 {
-  "children": [
+  "@id": "topic:Something",
+  "label": "Concept",
+  "narrower": [
     {
-      "@id": "agriculture",
+      "@id": "topic:agriculture",
       "label": "Agriculture"
     },
     {
-      "@id": "art",
+      "@id": "topic:art",
       "label": "Art",
-      "children": [
+      "narrower": [
         {
-          "@id": "architecture",
+          "@id": "topic:architecture",
           "label": "Architecture"
         },
         {
-          "@id": "cartoon",
+          "@id": "topic:cartoon",
           "label": "Cartoon"
         },
         {
-          "@id": "film",
+          "@id": "topic:film",
           "label": "Film"
         },
         {
-          "@id": "literature",
+          "@id": "topic:literature",
           "label": "Literature",
-          "children": [
+          "narrower": [
             {
-              "@id": "poetry",
+              "@id": "topic:poetry",
               "label": "Poetry"
             }
           ]
         },
         {
-          "@id": "music",
+          "@id": "topic:music",
           "label": "Music"
         },
         {
-          "@id": "painting",
+          "@id": "topic:painting",
           "label": "Painting"
         },
         {
-          "@id": "sculpture",
+          "@id": "topic:sculpture",
           "label": "Sculpture"
         }
       ]
     },
     {
-      "@id": "biomedicine",
+      "@id": "topic:biomedicine",
       "label": "Biomedicine"
     },
     {
-      "@id": "commerce",
+      "@id": "topic:commerce",
       "label": "Commerce"
     },
     {
-      "@id": "eGovernment",
+      "@id": "topic:eGovernment",
       "label": "eGov"
     },
     {
-      "@id": "encycloperia",
+      "@id": "topic:encycloperia",
       "label": "Encyclopedia"
     },
     {
-      "@id": "geography",
+      "@id": "topic:geography",
       "label": "Geography"
     },
     {
-      "@id": "history",
+      "@id": "topic:history",
       "label": "History",
-      "children": [
+      "narrower": [
         {
-          "@id": "archeology",
+          "@id": "topic:archeology",
           "label": "Archeology"
         },
         {
-          "@id": "heritage",
+          "@id": "topic:heritage",
           "label": "Cultural Heritage"
         }
       ]
     },
     {
-      "@id": "language",
+      "@id": "topic:language",
       "label": "Language",
-      "children": [
+      "narrower": [
         {
-          "@id": "lexicography",
+          "@id": "topic:lexicography",
           "label": "Lexicography"
         }
       ]
     },
     {
-      "@id": "metadata",
+      "@id": "topic:metadata",
       "label": "Metadata"
     },
     {
-      "@id": "publishing",
+      "@id": "topic:publishing",
       "label": "Publishing",
-      "children": [
+      "narrower": [
         {
-          "@id": "bibliography",
+          "@id": "topic:bibliography",
           "label": "Bibliography"
         },
         {
-          "@id": "library",
+          "@id": "topic:library",
           "label": "Library"
         }
       ]
     },
     {
-      "@id": "semantics",
+      "@id": "topic:semantics",
       "label": "Semantics",
-      "children": [
+      "narrower": [
         {
-          "@id": "linkset",
+          "@id": "topic:linkset",
           "label": "Linkset"
         },
         {
-          "@id": "vocabulary",
+          "@id": "topic:vocabulary",
           "label": "Vocabulary",
-          "children": [
+          "narrower": [
             {
-              "@id": "topLevel",
+              "@id": "topic:topLevel",
               "label": "Top-Level Ontology"
             }
           ]
@@ -127,25 +129,25 @@
       ]
     },
     {
-      "@id": "social",
+      "@id": "topic:social",
       "label": "Social"
     },
     {
-      "@id": "services",
+      "@id": "topic:services",
       "label": "Services",
-      "children": [
+      "narrower": [
         {
-          "@id": "api",
+          "@id": "topic:api",
           "label": "API"
         },
         {
-          "@id": "sparql",
+          "@id": "topic:sparql",
           "label": "SPARQL"
         }
       ]
     },
     {
-      "@id": "statistics",
+      "@id": "topic:statistics",
       "label": "Statistics"
     }
   ]
