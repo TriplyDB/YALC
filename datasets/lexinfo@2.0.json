@@ -12,6 +12,7 @@
   "license": "CC-BY-SA",
   "name": "LexInfo",
   "namespace": {
+    "alias": "lexinfo2",
     "prefix": "http://www.lexinfo.net/ontology/2.0/lexinfo#"
   },
   "organization": "lemon",

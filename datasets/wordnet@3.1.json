@@ -10,10 +10,16 @@
   "image": "wordnet.png",
   "license": "CC-BY-SA",
   "name": "WordNet",
-  "namespace": {
-    "alias": "wn30",
-    "prefix": "http://purl.org/vocabularies/princeton/wn30/"
-  },
+  "namespace": [
+    {
+      "alias": "wno",
+      "prefix": "http://wordnet-rdf.princeton.edu/ontology#"
+    },
+    {
+      "alias": "wnr",
+      "prefix": "http://wordnet-rdf.princeton.edu/id/"
+    }
+  ],
   "organization": "princeton",
   "priorVersion": "princeton/wordnet@3.0",
   "version": {

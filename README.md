@@ -186,10 +186,12 @@ these dataset can be found.
 
 - http://iandavis.com/id/
 
+- http://ili.globalwordnet.org/ili/
+
 - http://purl.org/vocab/vann/
 
 - http://vocab.org/vann/.html
 
 - http://web.resource.org/cc/
 
-- http://www.ivan-herman.net/foaf#me
+- http://www.ivan-herman.net/foaf#
