@@ -4,6 +4,7 @@ prefix owl: <http://www.w3.org/2002/07/owl#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix sdo: <http://schema.org/>
 prefix time: <http://www.w3.org/2006/time#>
+prefix vann: <http://purl.org/vocab/vann/>
 prefix void: <http://rdfs.org/ns/void#>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix yalc: <https://triplydb.com/Triply/yalc/vocab/>
@@ -59,7 +60,8 @@ graph:vocab {
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has example resource"@en;
-    rdfs:range xsd:anyURI.
+    rdfs:range rdfs:Resource;
+    rdfs:subPropertyOf vann:example.
 
   yalc:major a owl:DatatypeProperty;
     rdfs:comment "The major version.  This changes when the semantics of existing data items has changed.  Changing the semantics of existing data items potentially changes the semantics of other datasets that link to this dataset."@en;
