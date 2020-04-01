@@ -33,10 +33,6 @@
   "image": {
     "@id": "sdo:image"
   },
-  "imports": {
-    "@id": "owl:imports",
-    "@type": "@id"
-  },
   "inXSDDate": {
     "@id": "time:inXSDDate",
     "@type": "xsd:date"
