@@ -10,7 +10,7 @@
   ],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/abstract-model",
   "identifier": "dcam",
-  "name": "DCMI Abstract Model",
+  "name": "Dublin Core Abstract Model",
   "namespace": {
     "alias": "dcam",
     "prefix": "http://purl.org/dc/dcam/"

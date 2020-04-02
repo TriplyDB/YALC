@@ -1,0 +1,35 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "topic:metadata",
+    "topic:publishing",
+    "topic:vocabulary"
+  ],
+  "description": "",
+  "exampleResource": [
+    "dcmit:Dataset",
+    "dcmit:Image",
+    "dcmit:Service",
+    "dcmit:Software",
+    "dcmit:Sound",
+    "dcmit:StillImage",
+    "dcmit:Text"
+  ],
+  "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary",
+  "identifier": "dcmit",
+  "name": "Dublin Core Types",
+  "namespace": {
+    "alias": "dcmit",
+    "prefix": "http://purl.org/dc/dcmitype/"
+  },
+  "organization": "dcmi",
+  "version": {
+    "@type": "TemporalVersion",
+    "inXSDDate": "2012-06-14"
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://purl.org/dc/dcmitype/"
+    }
+  }
+}
