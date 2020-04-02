@@ -1,0 +1,34 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "topic:metadata",
+    "topic:publishing",
+    "topic:vocabulary"
+  ],
+  "description": "This document is an up-to-date specification of all metadata terms maintained by the Dublin Core Metadata Initiative, including properties, vocabulary encoding schemes, syntax encoding schemes, and classes.\n\nThis document is an up-to-date, authoritative specification of all metadata terms maintained by the Dublin Core Metadata Initiative. Included are the fifteen terms of the Dublin Core Metadata Element Set, which have also been published as [IETF RFC 5013](http://www.ietf.org/rfc/rfc5013.txt), [ANSI/NISO Standard Z39.85-2007](http://www.niso.org/apps/group_public/download.php/10256/Z39-85-2012_dublin_core.pdf), and [ISO Standard 15836:2009](http://www.iso.org/iso/search.htm?qt=15836&searchSubmit=Search&sort=rel&type=simple&published=on).",
+  "exampleResource": [
+    "dct:Agent",
+    "dct:BibliographicResource",
+    "dct:FileFormat",
+    "dct:LicenseDocument",
+    "dct:Location"
+  ],
+  "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/",
+  "identifier": "dct",
+  "name": "Dublin Core Terms",
+  "namespace": {
+    "alias": "dct",
+    "prefix": "http://purl.org/dc/terms/"
+  },
+  "organization": "dcmi",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 1
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://purl.org/dc/terms/"
+    }
+  }
+}
