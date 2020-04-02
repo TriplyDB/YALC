@@ -1,0 +1,526 @@
+<http://iandavis.com/id/me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://iandavis.com/id/me> <http://xmlns.com/foaf/0.1/name> "Ian Davis" .
+<http://lists.foaf-project.org/mailman/listinfo/foaf-dev> <http://www.w3.org/2000/01/rdf-schema#label> "FOAF-DEV mailing list" .
+<http://purl.org/vocab/relationship/> <http://open.vocab.org/terms/discussionList> <http://lists.foaf-project.org/mailman/listinfo/foaf-dev> .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/elements/1.1/creator> <http://iandavis.com/id/me> .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/elements/1.1/creator> <https://triplydb.com/.well-known/genid/9bf3e78461722df28e3884ccd245870d> .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/elements/1.1/description> "A vocabulary for describing relationships between people" .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/elements/1.1/identifier> "http://purl.org/vocab/relationship/rel-vocab-20050810" .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/elements/1.1/title> "RELATIONSHIP: A vocabulary for describing relationships between people" .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/terms/isVersionOf> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/terms/issued> "2004-02-11" .
+<http://purl.org/vocab/relationship/> <http://purl.org/dc/terms/replaces> <http://purl.org/vocab/relationship/rel-vocab-20090515> .
+<http://purl.org/vocab/relationship/> <http://purl.org/vocab/vann/example> <http://purl.org/vocab/relationship/examples/1> .
+<http://purl.org/vocab/relationship/> <http://purl.org/vocab/vann/example> <http://purl.org/vocab/relationship/examples/2> .
+<http://purl.org/vocab/relationship/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "rel" .
+<http://purl.org/vocab/relationship/> <http://purl.org/vocab/vann/preferredNamespaceUri> "http://purl.org/vocab/relationship" .
+<http://purl.org/vocab/relationship/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://purl.org/vocab/relationship/> <http://www.w3.org/2004/02/skos/core#changeNote> <https://triplydb.com/.well-known/genid/47ff9771b8ad7e20a5eaffbea4388987> .
+<http://purl.org/vocab/relationship/> <http://www.w3.org/2004/02/skos/core#changeNote> <https://triplydb.com/.well-known/genid/9c09c0c48a1f5354f46f73058dd71e92> .
+<http://purl.org/vocab/relationship/> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/5c0bf8b6c68a9fa0f45b95fad2b5b56f> .
+<http://purl.org/vocab/relationship/> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/cb8eb5ee1b4d2d3d40b221d3200f7703> .
+<http://purl.org/vocab/relationship/> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/db445a4738d80b69b0743155f2a8ccea> .
+<http://purl.org/vocab/relationship/Relationship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://purl.org/vocab/relationship/Relationship> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/Relationship> <http://www.w3.org/2000/01/rdf-schema#label> "Relationship"@en .
+<http://purl.org/vocab/relationship/Relationship> <http://www.w3.org/2004/02/skos/core#definition> "A particular type of connection existing between people related to or having dealings with each other."@en .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#TransitiveProperty> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2000/01/rdf-schema#label> "Ancestor Of"@en .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/descendantOf> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who is a descendant of this person."@en .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/93476563a51277024fb53bcc876106d7> .
+<http://purl.org/vocab/relationship/ancestorOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/a738d9bf7f6d3a1ec632f514bdce9d47> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2000/01/rdf-schema#label> "Apprentice To"@en .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/mentorOf> .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2004/02/skos/core#definition> "A person to whom this person serves as a trusted counselor or teacher."@en .
+<http://purl.org/vocab/relationship/apprenticeTo> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/8e0ffd4d5a682f09b8c4cf372d4a7f79> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2000/01/rdf-schema#label> "Child Of"@en .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/childOf> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/parentOf> .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who was given birth to or nurtured and raised by this person."@en .
+<http://purl.org/vocab/relationship/childOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/e863147dbf50c75993fd7b29b48c1367> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#TransitiveProperty> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2000/01/rdf-schema#label> "Descendant Of" .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2000/01/rdf-schema#label> "Descendant Of"@en .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/ancestorOf> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2004/02/skos/core#definition> "A person from whom this person is descended."@en .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/a70041ba52b57008603e9da9037fec01> .
+<http://purl.org/vocab/relationship/descendantOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/e9656ad48031edbd85a58f7bfd3250a4> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2000/01/rdf-schema#label> "Employed By"@en .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/employerOf> .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2004/02/skos/core#definition> "A person for whom this person's services have been engaged."@en .
+<http://purl.org/vocab/relationship/employedBy> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/7716f3fae5cdd21b8046a8fbcd813be1> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2000/01/rdf-schema#label> "Employer Of"@en .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/employedBy> .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who engages the services of this person."@en .
+<http://purl.org/vocab/relationship/employerOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/128b0dd2cfd7244d43b872c6bb55599d> .
+<http://purl.org/vocab/relationship/examples/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/SchemaExample> .
+<http://purl.org/vocab/relationship/examples/1> <http://www.w3.org/2000/01/rdf-schema#comment> "<p>The RELATIONSHIP vocabulary can be used without modification with <a href=\"http://xmlns.com/foaf/0.1/\">FOAF</a> documents. Simply replace <code>foaf:knows</code> properties with a more specific property from this vocabulary. For backwards compatibility with older, non-RDF aware,  tools, you may want to keep the <code>foaf:knows</code> property as well.</p>     <pre>\n<code class=\"xml\">\n&lt;rdf:RDF\n      xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n      xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"\n      xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"\n      xmlns:rel=\"http://purl.org/vocab/relationship/\"\n      &gt;\n\n  &lt;foaf:Person rdf:nodeID=\"ian\"&gt;\n    &lt;foaf:name&gt;Ian Davis&lt;/foaf:name&gt;\n    &lt;foaf:title&gt;Mr&lt;/foaf:title&gt;\n    &lt;foaf:firstName&gt;Ian&lt;/foaf:firstName&gt;\n    &lt;foaf:surname&gt;Davis&lt;/foaf:surname&gt;\n\n    &lt;rel:hasMet&gt;\n      &lt;foaf:Person&gt;\n        &lt;foaf:name&gt;William Tell&lt;/foaf:name&gt;\n      &lt;/foaf:Person&gt;\n    &lt;/rel:hasMet&gt;\n\n    &lt;rel:collaboratesWith rdf:nodeID=\"eric\"/&gt;\n  &lt;/foaf:Person&gt;\n\n  &lt;foaf:Person rdf:nodeID=\"eric\"&gt;\n    &lt;foaf:nick&gt;pixel&lt;/foaf:nick&gt;\n  &lt;/foaf:Person&gt;\n\n\n\n&lt;/rdf:RDF&gt;\n</code>\n    </pre>\n"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral> .
+<http://purl.org/vocab/relationship/examples/1> <http://www.w3.org/2000/01/rdf-schema#label> "Using With FOAF" .
+<http://purl.org/vocab/relationship/examples/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/SchemaExample> .
+<http://purl.org/vocab/relationship/examples/2> <http://www.w3.org/2000/01/rdf-schema#comment> "<p>\n\n      The relationship vocabulary can be used to describe relationships with the people linked from a web page. This is particularly useful for blogrolls or contact lists but can be used with any type of link. The HTML <code>a</code> element provides two attributes, <a href=\"http://www.w3.org/TR/html401/struct/links.html#adef-rel\">rel and rev</a>, that can be used to specify the relationship. Both <code>rel</code> and <code>rev</code> take a space separated list of keywords as their value. To use a term from the relationship vocabulary just drop the <code>http://purl.org/vocab/relationship/</code> namespace to leave the property name, e.g. <code>http://purl.org/vocab/relationship/worksWith</code> would become <code>worksWith</code> which can be added as the value of <code>rel</code> or <code>rev</code>.\n    </p>\n    <dl>\n      <dt>\n        <code>rel</code>\n      </dt>\n      <dd>\n        <p>\n          The <code>rel</code> attribute specifies a relationship that the author of the <em>linked</em> page has with the author of the <em>linking</em> page.\n          For example:\n        </p>\n        <pre><code><span class=\"elem\">&lt;a</span><span class=\"attr\">href</span>=\"<span class=\"attrVal\">http://example.com/boats</span>\" <span class=\"attr highlight\">rel</span>=\"<span class=\"attrVal\">childOf</span>\"<span class=\"elem\">&gt;</span><span class=\"text\">The boat we restored</span><span class=\"elem\">\"&lt;/a&gt;</span></code></pre>\n        <p>This link states that the author of <code>http://example.com/boats</code> is a child of the author of the html above. </p>\n      </dd>\n      <dt>\n        <code>rev</code>\n      </dt>\n      <dd>\n        <p>\n          The <code>rev</code> attribute specifies a relationship that the author of the <em>linking</em> page has with the author of the   <em>linked</em> page. The example here is:\n        </p>\n        <pre><code><span class=\"elem\">&lt;a</span><span class=\"attr\">href</span>=\"<span class=\"attrVal\">http://example.com/boats</span>\" <span class=\"attr highlight\">rev</span>=\"<span class=\"attrVal\">childOf</span>\"<span class=\"elem\">&gt;</span><span class=\"text\">The boat we restored</span><span class=\"elem\">\"&lt;/a&gt;</span></code></pre>\n        <p>In this case the meaning of the link is reversed: the author of the html above is a child of the author of <code>http://example.com/boats</code>.</p>\n      </dd>\n    </dl>\n    <p>The HTML and XHTML recommendations require an HTML document to declare a custom profile if it uses any non-standard <code>rel</code> or <code>rev</code> types. This is done by adding a <code>profile</code> attribute with a value of <code>http://purl.org/vocab/relationship/</code> to the document's <code>head</code> element. </p>\n    <pre><code>  &lt;head profile=\"http://purl.org/vocab/relationship/\"&gt;\n    &lt;title&gt;People I Know&lt;/title&gt;\n  &lt;/head&gt;</code></pre>\n    <h3>Complete Example</h3>\n    <pre><code>  &lt;html profile=\"http://purl.org/vocab/relationship/\"&gt;\n    &lt;head&gt;\n      &lt;title&gt;People I Know&lt;/title&gt;\n    &lt;/head&gt;\n    &lt;body&gt;\n      &lt;p&gt;Here are the people I know:&lt;/p&gt;\n        &lt;ul&gt;\n          &lt;li&gt;&lt;a href=\"http://example.com/~freddy\" rel=\"closeFriendOf\"&gt;Freddy (he's cool!)&lt;/a&gt;&lt;/li&gt;\n          &lt;li&gt;&lt;a href=\"http://frooble.com/\" rel=\"mentorOf\"&gt;Jimbo&lt;/a&gt;&lt;/li&gt;\n          &lt;li&gt;&lt;a href=\"http://mmmm.com/klm\" rel=\"friendOf\"&gt;Katie&lt;/a&gt;&lt;/li&gt;\n          &lt;li&gt;&lt;a href=\"http://example.com/~omah\" rel=\"worksWith\"&gt;Omah (does the coding)&lt;/a&gt;&lt;/li&gt;\n          &lt;li&gt;&lt;a href=\"http://example.com/~jason\" rev=\"closeFriendOf employedBy\"&gt;Jason, my henchman&lt;/a&gt;&lt;/li&gt;\n        &lt;/ul&gt;\n      &lt;/body&gt;\n    &lt;/html&gt;\n</code></pre>\n    <h3>RDF Interpretation</h3>\n    <p>Custom parsers that extract RDF from (X)HTML can use the relationships expressed in the links to infer the\n  equivilent RDF triples. It should be remembered that the relationship is between the authors of the pages not between\n  the pages themselves. Given the following link on a document at <code>http://example.com/mypage.html</code>:\n  </p>\n    <pre><code><span class=\"elem\">&lt;a</span><span class=\"attr\">href</span>=\"<span class=\"attrVal\">http://example.com/boats</span>\" <span class=\"attr highlight\">rel</span>=\"<span class=\"attrVal\">childOf</span>\"<span class=\"elem\">&gt;</span><span class=\"text\">The boat we restored</span><span class=\"elem\">\"&lt;/a&gt;</span></code></pre>\n    <p>a suggested RDF extraction is:</p>\n    <pre><code>  &lt;foaf:Person&gt;\n    &lt;foaf:maker rdf:resource=\"http://example.com/boats\"/&gt;\n    &lt;rel:childOf&gt;\n      &lt;foaf:Person&gt;\n        &lt;foaf:maker rdf:resource=\"http://example.com/mypage.html\"/&gt;\n      &lt;/foaf:Person&gt;\n    &lt;/rel:childOf&gt;\n  &lt;/foaf:Person&gt;</code></pre>\n"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral> .
+<http://purl.org/vocab/relationship/examples/2> <http://www.w3.org/2000/01/rdf-schema#label> "Using With HTML and XHTML" .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#label> "Grandchild Of" .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#label> "Grandchild Of"@en .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/grandchildOf> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/grandparentOf> .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who is a child of any of this person's children."@en .
+<http://purl.org/vocab/relationship/grandchildOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/6de01f77fcb321cb1cf72cc39ed9ed01> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2000/01/rdf-schema#label> "Grandparent Of"@en .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/grandchildOf> .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who is the parent of any of this person's parents."@en .
+<http://purl.org/vocab/relationship/grandparentOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/5e725bc7bc5e082a081c158b5697d02a> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2000/01/rdf-schema#label> "Knows Of"@en .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who has come to be known to this person through their actions or position."@en .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/0eb3b62cb7fd3cfa57ab0235e7047a77> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/18fd2c7c408705b6e41b14d5b4c702b7> .
+<http://purl.org/vocab/relationship/knowsOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/4036d13838f7f10d3d03ae51b5d9a984> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2000/01/rdf-schema#label> "Mentor Of"@en .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/apprenticeTo> .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who serves as a trusted counselor or teacher to this person."@en .
+<http://purl.org/vocab/relationship/mentorOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/3b671e29078174470b78fdf20cdadec8> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2000/01/rdf-schema#label> "Parent Of"@en .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/parentOf> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://purl.org/vocab/relationship/childOf> .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who has given birth to or nurtured and raised this person."@en .
+<http://purl.org/vocab/relationship/parentOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/430fa302361fd83688ea601cfaba4c65> .
+<http://vocab.org/relationship/.html> <http://purl.org/dc/elements/1.1/format> "text/html" .
+<http://vocab.org/relationship/.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://vocab.org/relationship/.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://vocab.org/relationship/.html> <http://www.w3.org/2000/01/rdf-schema#label> "HTML" .
+<http://vocab.org/relationship/.json> <http://purl.org/dc/elements/1.1/format> "application/json" .
+<http://vocab.org/relationship/.json> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://vocab.org/relationship/.json> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://vocab.org/relationship/.json> <http://www.w3.org/2000/01/rdf-schema#label> "JSON" .
+<http://vocab.org/relationship/.turtle> <http://purl.org/dc/elements/1.1/format> "text/plain" .
+<http://vocab.org/relationship/.turtle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://vocab.org/relationship/.turtle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://vocab.org/relationship/.turtle> <http://www.w3.org/2000/01/rdf-schema#label> "Turtle" .
+<http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/vocab/relationship/knowsOf> .
+<https://triplydb.com/.well-known/genid/09e83cda725f30d213f2c1180934d561> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/09e83cda725f30d213f2c1180934d561> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/09e83cda725f30d213f2c1180934d561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/0eb3b62cb7fd3cfa57ab0235e7047a77> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/0eb3b62cb7fd3cfa57ab0235e7047a77> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/0eb3b62cb7fd3cfa57ab0235e7047a77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Assert that foaf:knows is rdfs:subPropertyOf rel:knowsOf" .
+<https://triplydb.com/.well-known/genid/10c9080e1672b633803671143a625787> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/10c9080e1672b633803671143a625787> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/10c9080e1672b633803671143a625787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/12111a4e6e382609c8c274476fdef3c2> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/12111a4e6e382609c8c274476fdef3c2> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/12111a4e6e382609c8c274476fdef3c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/128b0dd2cfd7244d43b872c6bb55599d> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/128b0dd2cfd7244d43b872c6bb55599d> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/128b0dd2cfd7244d43b872c6bb55599d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/12f5d43dceddae3e841b3ebfa78ac207> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/12f5d43dceddae3e841b3ebfa78ac207> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/12f5d43dceddae3e841b3ebfa78ac207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/18fd2c7c408705b6e41b14d5b4c702b7> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/18fd2c7c408705b6e41b14d5b4c702b7> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/18fd2c7c408705b6e41b14d5b4c702b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows due to reciprocity requirements. It is possible for one to know of another without that person knowing the first." .
+<https://triplydb.com/.well-known/genid/3b671e29078174470b78fdf20cdadec8> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/3b671e29078174470b78fdf20cdadec8> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/3b671e29078174470b78fdf20cdadec8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/3d0d4b4c62c54a10af48ba5848206437> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/3d0d4b4c62c54a10af48ba5848206437> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/3d0d4b4c62c54a10af48ba5848206437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/4036d13838f7f10d3d03ae51b5d9a984> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/4036d13838f7f10d3d03ae51b5d9a984> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/4036d13838f7f10d3d03ae51b5d9a984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/42ccb60903dcb5f19629436b26c1826e> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/42ccb60903dcb5f19629436b26c1826e> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/42ccb60903dcb5f19629436b26c1826e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/430fa302361fd83688ea601cfaba4c65> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/430fa302361fd83688ea601cfaba4c65> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/430fa302361fd83688ea601cfaba4c65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/451afd5cf1a8530d44d7fcd65c472471> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/451afd5cf1a8530d44d7fcd65c472471> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/451afd5cf1a8530d44d7fcd65c472471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/4736937958b02943e751bdc05a8db3bb> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/4736937958b02943e751bdc05a8db3bb> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/4736937958b02943e751bdc05a8db3bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows which would imply that the two people already know one another." .
+<https://triplydb.com/.well-known/genid/47ff9771b8ad7e20a5eaffbea4388987> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/47ff9771b8ad7e20a5eaffbea4388987> <http://purl.org/dc/elements/1.1/date> "2010-04-19" .
+<https://triplydb.com/.well-known/genid/47ff9771b8ad7e20a5eaffbea4388987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Inlined the examples that had been orphaned by publishing software changes" .
+<https://triplydb.com/.well-known/genid/5c0bf8b6c68a9fa0f45b95fad2b5b56f> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/5c0bf8b6c68a9fa0f45b95fad2b5b56f> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/5c0bf8b6c68a9fa0f45b95fad2b5b56f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that foaf:knows is rdfs:subPropertyOf rel:knowsOf" .
+<https://triplydb.com/.well-known/genid/5e725bc7bc5e082a081c158b5697d02a> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/5e725bc7bc5e082a081c158b5697d02a> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/5e725bc7bc5e082a081c158b5697d02a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/6640fbd0640fa85a4e9d54aeb6a03d24> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/6640fbd0640fa85a4e9d54aeb6a03d24> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/6640fbd0640fa85a4e9d54aeb6a03d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/6a1a53c4d992b4f362925147832e27a0> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/6a1a53c4d992b4f362925147832e27a0> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/6a1a53c4d992b4f362925147832e27a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/6a4296dc65e02faa7715cf04bce7dd93> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/6a4296dc65e02faa7715cf04bce7dd93> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/6a4296dc65e02faa7715cf04bce7dd93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/6de01f77fcb321cb1cf72cc39ed9ed01> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/6de01f77fcb321cb1cf72cc39ed9ed01> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/6de01f77fcb321cb1cf72cc39ed9ed01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/7716f3fae5cdd21b8046a8fbcd813be1> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/7716f3fae5cdd21b8046a8fbcd813be1> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/7716f3fae5cdd21b8046a8fbcd813be1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/884433da5ea4d55f152a41cff32d3d03> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/884433da5ea4d55f152a41cff32d3d03> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/884433da5ea4d55f152a41cff32d3d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/8e0ffd4d5a682f09b8c4cf372d4a7f79> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/8e0ffd4d5a682f09b8c4cf372d4a7f79> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/8e0ffd4d5a682f09b8c4cf372d4a7f79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/8f43fb00e75e062a48eb0007469f6ff9> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/8f43fb00e75e062a48eb0007469f6ff9> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/8f43fb00e75e062a48eb0007469f6ff9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows due to reciprocity requirements. It is possible for one to know of another by reputation without that person knowing the first." .
+<https://triplydb.com/.well-known/genid/93476563a51277024fb53bcc876106d7> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/93476563a51277024fb53bcc876106d7> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/93476563a51277024fb53bcc876106d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/943859427b192ffdddeb9426e7c2ac53> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/943859427b192ffdddeb9426e7c2ac53> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/943859427b192ffdddeb9426e7c2ac53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/9932ae6b6c998e68626f82ae9140edab> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/9932ae6b6c998e68626f82ae9140edab> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/9932ae6b6c998e68626f82ae9140edab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/9bf3e78461722df28e3884ccd245870d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://triplydb.com/.well-known/genid/9bf3e78461722df28e3884ccd245870d> <http://xmlns.com/foaf/0.1/name> "Eric Vitiello Jr" .
+<https://triplydb.com/.well-known/genid/9c09c0c48a1f5354f46f73058dd71e92> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/9c09c0c48a1f5354f46f73058dd71e92> <http://purl.org/dc/elements/1.1/date> "2005-08-10" .
+<https://triplydb.com/.well-known/genid/9c09c0c48a1f5354f46f73058dd71e92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Added isDefinedBy properties and updated documentation" .
+<https://triplydb.com/.well-known/genid/a129977424b242977c0cfa8aef993d24> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/a129977424b242977c0cfa8aef993d24> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/a129977424b242977c0cfa8aef993d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/a54ca0e7bcb720f49458b208a16cf563> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/a54ca0e7bcb720f49458b208a16cf563> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/a54ca0e7bcb720f49458b208a16cf563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/a70041ba52b57008603e9da9037fec01> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/a70041ba52b57008603e9da9037fec01> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/a70041ba52b57008603e9da9037fec01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows. foaf:knows requires a reciprocation that may not be possible for distant descendants." .
+<https://triplydb.com/.well-known/genid/a738d9bf7f6d3a1ec632f514bdce9d47> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/a738d9bf7f6d3a1ec632f514bdce9d47> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/a738d9bf7f6d3a1ec632f514bdce9d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows. foaf:knows requires a reciprocation that may not be possible for distant ancestors." .
+<https://triplydb.com/.well-known/genid/aa1fe2d675a4595883d62ba60ed704d6> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/aa1fe2d675a4595883d62ba60ed704d6> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/aa1fe2d675a4595883d62ba60ed704d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/ab4e288868547687f25bd42f606d9f85> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/ab4e288868547687f25bd42f606d9f85> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/ab4e288868547687f25bd42f606d9f85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/b682631cc3544912ec1d7b5aa09f7491> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/b682631cc3544912ec1d7b5aa09f7491> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/b682631cc3544912ec1d7b5aa09f7491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows." .
+<https://triplydb.com/.well-known/genid/baf6f185d40103b24282aa3168bceb18> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/baf6f185d40103b24282aa3168bceb18> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/baf6f185d40103b24282aa3168bceb18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows." .
+<https://triplydb.com/.well-known/genid/bdd8b9e417c280568332846a6fcee675> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/bdd8b9e417c280568332846a6fcee675> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/bdd8b9e417c280568332846a6fcee675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/c70a1661b216e147d39fb0c9b9b4df47> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/c70a1661b216e147d39fb0c9b9b4df47> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/c70a1661b216e147d39fb0c9b9b4df47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows due to reciprocity requirements. It is possible for one to be influenced by another by reputation without that person knowing the first." .
+<https://triplydb.com/.well-known/genid/c9ae228942252b48c598b50af05ae2f5> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/c9ae228942252b48c598b50af05ae2f5> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/c9ae228942252b48c598b50af05ae2f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/cb8eb5ee1b4d2d3d40b221d3200f7703> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/cb8eb5ee1b4d2d3d40b221d3200f7703> <http://purl.org/dc/elements/1.1/date> "2009-05-15" .
+<https://triplydb.com/.well-known/genid/cb8eb5ee1b4d2d3d40b221d3200f7703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Typed vocabulary as owl:Ontology" .
+<https://triplydb.com/.well-known/genid/d9f3bf78a3c20f471c171c2b1533e91e> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/d9f3bf78a3c20f471c171c2b1533e91e> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/d9f3bf78a3c20f471c171c2b1533e91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is transitive." .
+<https://triplydb.com/.well-known/genid/da04d20f695433708b666886eb75d041> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/da04d20f695433708b666886eb75d041> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/da04d20f695433708b666886eb75d041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is transitive." .
+<https://triplydb.com/.well-known/genid/db445a4738d80b69b0743155f2a8ccea> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/db445a4738d80b69b0743155f2a8ccea> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/db445a4738d80b69b0743155f2a8ccea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Incorporated changes suggested by Henry Story on foaf-dev list" .
+<https://triplydb.com/.well-known/genid/e116032f24224f8db51da93e0b66c2d7> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/e116032f24224f8db51da93e0b66c2d7> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/e116032f24224f8db51da93e0b66c2d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/e863147dbf50c75993fd7b29b48c1367> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/e863147dbf50c75993fd7b29b48c1367> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/e863147dbf50c75993fd7b29b48c1367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/e9656ad48031edbd85a58f7bfd3250a4> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/e9656ad48031edbd85a58f7bfd3250a4> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/e9656ad48031edbd85a58f7bfd3250a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/f59457234d23b89a528b4f70df034340> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/f59457234d23b89a528b4f70df034340> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/f59457234d23b89a528b4f70df034340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Asserted that this property is a sub-property of owl:differentFrom, indicating that this is a relationship between different individuals" .
+<https://triplydb.com/.well-known/genid/fbaeda93097e4699bd9d66d2014ae3c5> <http://purl.org/dc/elements/1.1/creator> "Ian Davis" .
+<https://triplydb.com/.well-known/genid/fbaeda93097e4699bd9d66d2014ae3c5> <http://purl.org/dc/elements/1.1/date> "2010-02-09" .
+<https://triplydb.com/.well-known/genid/fbaeda93097e4699bd9d66d2014ae3c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Removed assertion that this property is a sub-property of foaf:knows due to reciprocity requirements. It is possible for one to be ambivalent of another without that person knowing the first." .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2000/01/rdf-schema#label> "Acquaintance Of"@en .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/acquaintanceOf> .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2004/02/skos/core#definition> "A person having more than slight or superficial knowledge of this person but short of friendship."@en .
+<http://purl.org/vocab/relationship/acquaintanceOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/aa1fe2d675a4595883d62ba60ed704d6> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2000/01/rdf-schema#label> "Ambivalent Of"@en .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/ambivalentOf> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2004/02/skos/core#definition> "A person towards whom this person has mixed feelings or emotions."@en .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/943859427b192ffdddeb9426e7c2ac53> .
+<http://purl.org/vocab/relationship/ambivalentOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/fbaeda93097e4699bd9d66d2014ae3c5> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2000/01/rdf-schema#label> "Antagonist Of"@en .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/antagonistOf> .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who opposes and contends against this person."@en .
+<http://purl.org/vocab/relationship/antagonistOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/6a1a53c4d992b4f362925147832e27a0> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2000/01/rdf-schema#label> "Close Friend Of"@en .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who shares a close mutual friendship with this person."@en .
+<http://purl.org/vocab/relationship/closeFriendOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/12111a4e6e382609c8c274476fdef3c2> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2000/01/rdf-schema#label> "Collaborates With"@en .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2004/02/skos/core#definition> "A person who works towards a common goal with this person."@en .
+<http://purl.org/vocab/relationship/collaboratesWith> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/9932ae6b6c998e68626f82ae9140edab> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2000/01/rdf-schema#label> "Colleague Of"@en .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who is a member of the same profession as this person."@en .
+<http://purl.org/vocab/relationship/colleagueOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/09e83cda725f30d213f2c1180934d561> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2000/01/rdf-schema#label> "Enemy Of"@en .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/enemyOf> .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2004/02/skos/core#definition> "A person towards whom this person feels hatred, intends injury to, or opposes the interests of."@en .
+<http://purl.org/vocab/relationship/enemyOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/451afd5cf1a8530d44d7fcd65c472471> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2000/01/rdf-schema#label> "Engaged To"@en .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2004/02/skos/core#definition> "A person to whom this person is betrothed."@en .
+<http://purl.org/vocab/relationship/engagedTo> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/884433da5ea4d55f152a41cff32d3d03> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2000/01/rdf-schema#label> "Friend Of"@en .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/friendOf> .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who shares mutual friendship with this person."@en .
+<http://purl.org/vocab/relationship/friendOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/3d0d4b4c62c54a10af48ba5848206437> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2000/01/rdf-schema#label> "Has Met"@en .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2004/02/skos/core#definition> "A person who has met this person whether in passing or longer."@en .
+<http://purl.org/vocab/relationship/hasMet> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/6640fbd0640fa85a4e9d54aeb6a03d24> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2000/01/rdf-schema#label> "Influenced By"@en .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2004/02/skos/core#definition> "a person who has influenced this person."@en .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/42ccb60903dcb5f19629436b26c1826e> .
+<http://purl.org/vocab/relationship/influencedBy> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/c70a1661b216e147d39fb0c9b9b4df47> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2000/01/rdf-schema#label> "Knows By Reputation"@en .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2004/02/skos/core#definition> "A person known by this person primarily for a particular action, position or field of endeavour."@en .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/10c9080e1672b633803671143a625787> .
+<http://purl.org/vocab/relationship/knowsByReputation> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/8f43fb00e75e062a48eb0007469f6ff9> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2000/01/rdf-schema#label> "Knows In Passing"@en .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2004/02/skos/core#definition> "A person whom this person has slight or superficial knowledge of."@en .
+<http://purl.org/vocab/relationship/knowsInPassing> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/12f5d43dceddae3e841b3ebfa78ac207> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2000/01/rdf-schema#label> "Life Partner of"@en .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who has made a long-term commitment to this person's."@en .
+<http://purl.org/vocab/relationship/lifePartnerOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/6a4296dc65e02faa7715cf04bce7dd93> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#TransitiveProperty> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2000/01/rdf-schema#label> "Lives With"@en .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2004/02/skos/core#definition> "A person who shares a residence with this person."@en .
+<http://purl.org/vocab/relationship/livesWith> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/f59457234d23b89a528b4f70df034340> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2000/01/rdf-schema#label> "Lost Contact With"@en .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2004/02/skos/core#definition> "A person who was once known by this person but has subsequently become uncontactable."@en .
+<http://purl.org/vocab/relationship/lostContactWith> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/a54ca0e7bcb720f49458b208a16cf563> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2000/01/rdf-schema#label> "Neighbor Of"@en .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who lives in the same locality as this person."@en .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/c9ae228942252b48c598b50af05ae2f5> .
+<http://purl.org/vocab/relationship/neighborOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/d9f3bf78a3c20f471c171c2b1533e91e> .
+<http://purl.org/vocab/relationship/participant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/participant> <http://www.w3.org/2000/01/rdf-schema#domain> <http://purl.org/vocab/relationship/Relationship> .
+<http://purl.org/vocab/relationship/participant> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/participant> <http://www.w3.org/2000/01/rdf-schema#label> "Participant"@en .
+<http://purl.org/vocab/relationship/participant> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/participant> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/b682631cc3544912ec1d7b5aa09f7491> .
+<http://purl.org/vocab/relationship/participantIn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/participantIn> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/participantIn> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/participantIn> <http://www.w3.org/2000/01/rdf-schema#label> "Participant In"@en .
+<http://purl.org/vocab/relationship/participantIn> <http://www.w3.org/2000/01/rdf-schema#range> <http://purl.org/vocab/relationship/Relationship> .
+<http://purl.org/vocab/relationship/participantIn> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/baf6f185d40103b24282aa3168bceb18> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2000/01/rdf-schema#label> "Sibling Of"@en .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/siblingOf> .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2004/02/skos/core#definition> "A person having one or both parents in common with this person."@en .
+<http://purl.org/vocab/relationship/siblingOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/a129977424b242977c0cfa8aef993d24> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2000/01/rdf-schema#label> "Spouse Of"@en .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.perceive.net/schemas/relationship/spouseOf> .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2004/02/skos/core#definition> "A person who is married to this person"@en .
+<http://purl.org/vocab/relationship/spouseOf> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/e116032f24224f8db51da93e0b66c2d7> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2000/01/rdf-schema#label> "Works With"@en .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://xmlns.com/foaf/0.1/knows> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2004/02/skos/core#definition> "A person who works for the same employer as this person."@en .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/ab4e288868547687f25bd42f606d9f85> .
+<http://purl.org/vocab/relationship/worksWith> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/da04d20f695433708b666886eb75d041> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2000/01/rdf-schema#domain> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/vocab/relationship/> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2000/01/rdf-schema#label> "Would Like To Know"@en .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2000/01/rdf-schema#range> <http://xmlns.com/foaf/0.1/Person> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#differentFrom> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2004/02/skos/core#definition> "A person whom this person would desire to know more closely."@en .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/4736937958b02943e751bdc05a8db3bb> .
+<http://purl.org/vocab/relationship/wouldLikeToKnow> <http://www.w3.org/2004/02/skos/core#historyNote> <https://triplydb.com/.well-known/genid/bdd8b9e417c280568332846a6fcee675> .
+<http://vocab.org/relationship/.rdf> <http://purl.org/dc/terms/hasFormat> <http://vocab.org/relationship/.html> .
+<http://vocab.org/relationship/.rdf> <http://purl.org/dc/terms/hasFormat> <http://vocab.org/relationship/.json> .
+<http://vocab.org/relationship/.rdf> <http://purl.org/dc/terms/hasFormat> <http://vocab.org/relationship/.turtle> .
+<http://vocab.org/relationship/.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://vocab.org/relationship/.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://vocab.org/relationship/.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://purl.org/vocab/relationship/> .
+<http://vocab.org/relationship/.rdf> <http://xmlns.com/foaf/0.1/topic> <http://purl.org/vocab/relationship/> .

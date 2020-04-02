@@ -1,0 +1,26 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "topic:social",
+    "topic:vocabulary"
+  ],
+  "description": "A vocabulary for describing relationships between people.",
+  "exampleResource": [],
+  "homepage": "https://vocab.org/relationship/",
+  "identifier": "relationship",
+  "name": "RELATIONSHIP",
+  "namespace": {
+    "alias": "relationship",
+    "prefix": "https://vocab.org/relationship/"
+  },
+  "organization": "none",
+  "version": {
+    "@type": "TemporalVersion",
+    "inXSDDate": "2010-04-19"
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/relationship.ttl"
+    }
+  }
+}
