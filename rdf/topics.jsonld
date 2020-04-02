@@ -25,12 +25,10 @@
         {
           "@id": "topic:literature",
           "label": "Literature",
-          "narrower": [
-            {
-              "@id": "topic:poetry",
-              "label": "Poetry"
-            }
-          ]
+          "narrower": {
+            "@id": "topic:poetry",
+            "label": "Poetry"
+          }
         },
         {
           "@id": "topic:music",
@@ -83,16 +81,18 @@
     {
       "@id": "topic:language",
       "label": "Language",
-      "narrower": [
-        {
-          "@id": "topic:lexicography",
-          "label": "Lexicography"
-        }
-      ]
+      "narrower": {
+        "@id": "topic:lexicography",
+        "label": "Lexicography"
+      }
     },
     {
       "@id": "topic:metadata",
-      "label": "Metadata"
+      "label": "Metadata",
+      "narrower": {
+        "@id": "topic:versioning",
+        "label": "Versioning"
+      }
     },
     {
       "@id": "topic:publishing",
@@ -119,12 +119,10 @@
         {
           "@id": "topic:vocabulary",
           "label": "Vocabulary",
-          "narrower": [
-            {
-              "@id": "topic:topLevel",
-              "label": "Top-Level Ontology"
-            }
-          ]
+          "narrower": {
+            "@id": "topic:topLevel",
+            "label": "Top-Level Ontology"
+          }
         }
       ]
     },
