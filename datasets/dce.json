@@ -1,0 +1,44 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "topic:metadata",
+    "topic:publishing",
+    "topic:vocabulary"
+  ],
+  "description": "The Dublin Core Metadata Element Set is a vocabulary of fifteen properties for use in resource description. The name “Dublin” is due to its origin at a 1995 invitational workshop in Dublin, Ohio; “core” because its elements are broad and generic, usable for describing a wide range of resources.\n\nThe fifteen element “Dublin Core” described in this standard is part of a larger set of metadata vocabularies and technical specifications maintained by the Dublin Core Metadata Initiative (DCMI). The full set of vocabularies, [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/), also includes sets of resource classes (including the DCMI Type Vocabulary, vocabulary encoding schemes, and syntax encoding schemes. The terms in DCMI vocabularies are intended to be used in combination with terms from other, compatible vocabularies in the context of application profiles and on the basis of the DCMI Abstract Model.\n\nAll changes made to terms of the Dublin Core Metadata Element Set since 2001 have been reviewed by a DCMI Usage Board in the context of a DCMI Namespace Policy. The namespace policy describes how DCMI terms are assigned Uniform Resource Identifiers (URIs) and sets limits on the range of editorial changes that may allowably be made to the labels, definitions, and usage comments associated with existing DCMI terms.\n\nThis document, an excerpt from the more comprehensive document [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) provides an abbreviated reference version of the fifteen element descriptions that have been formally endorsed in the following standards:\n\n  - ISO Standard 15836:2009 of February 2009 [ISO15836]\n  - ANSI/NISO Standard Z39.85-2012 of February 2013 [NISOZ3985]\n  - IETF RFC 5013 of August 2007 [RFC5013]\n\nSince 1998, when these fifteen elements entered into a standardization track, notions of best practice in the Semantic Web have evolved to include the assignment of formal domains and ranges in addition to definitions in natural language. Domains and ranges specify what kind of described resources and value resources are associated with a given property. Domains and ranges express the meanings implicit in natural-language definitions in an explicit form that is usable for the automatic processing of logical inferences. When a given property is encountered, an inferencing application may use information about the domains and ranges assigned to a property in order to make inferences about the resources described thereby.\n\nSince January 2008, therefore, DCMI includes formal domains and ranges in the definitions of its properties. So as not to affect the conformance of existing implementations of “simple Dublin Core” in RDF, domains and ranges have not been specified for the fifteen properties of the `dce:` namespace (`http://purl.org/dc/elements/1.1/`). Rather, fifteen new properties with “names” identical to those of the Dublin Core Metadata Element Set Version 1.1 have been created in the `dct:` namespace (`http://purl.org/dc/terms/`). These fifteen new properties have been defined as sub-properties of the corresponding properties of DCMES Version 1.1 and assigned domains and ranges as specified in the more comprehensive document [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/).\n\nImplementers may freely choose to use these fifteen properties either in their legacy `dce:` variant (e.g., `http://purl.org/dc/elements/1.1/creator`) or in the `dct:` variant (e.g., `http://purl.org/dc/terms/creator`) depending on application requirements. The RDF schemas of the DCMI namespaces describe the subproperty relation of `dct:creator` to `dce:creator` for use by Semantic Web-aware applications. Over time, however, implementers are encouraged to use the semantically more precise `dct:` properties, as they more fully follow emerging notions of best practice for machine-processable metadata.",
+  "exampleResource": [
+    "dce:contributor",
+    "dce:coverage",
+    "dce:creator",
+    "dce:date",
+    "dce:description",
+    "dce:format",
+    "dce:identifier",
+    "dce:language",
+    "dce:publisher",
+    "dce:relation",
+    "dce:rights",
+    "dce:source",
+    "dce:subject",
+    "dce:title",
+    "dce:type"
+  ],
+  "homepage": "https://www.dublincore.org/specifications/dublin-core/dces/",
+  "identifier": "dce",
+  "name": "Dublin Core Elements",
+  "namespace": {
+    "alias": "dce",
+    "prefix": "http://purl.org/dc/elements/1.1/"
+  },
+  "organization": "w3c",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 1
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://purl.org/dc/elements/1.1/"
+    }
+  }
+}
