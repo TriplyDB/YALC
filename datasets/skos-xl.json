@@ -14,7 +14,7 @@
   ],
   "homepage": "https://www.w3.org/TR/skos-reference/skos-xl.html",
   "identifier": "skos-xl",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "Simple Knowledge Organization System eXtension for Labels",
   "namespace": {

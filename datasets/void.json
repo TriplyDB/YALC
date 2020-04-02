@@ -12,7 +12,7 @@
   ],
   "homepage": "https://www.w3.org/TR/void",
   "identifier": "void",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "Vocabulary of Interlinked Datasets (VoID)",
   "namespace": {

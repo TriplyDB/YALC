@@ -13,7 +13,7 @@
   ],
   "homepage": "https://www.w3.org/TR/rdf-schema",
   "identifier": "rdfs",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "RDF Schema",
   "namespace": {

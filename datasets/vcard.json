@@ -11,7 +11,7 @@
   ],
   "homepage": "https://www.w3.org/TR/vcard-rdf",
   "identifier": "vcard",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "vCard",
   "namespace": {

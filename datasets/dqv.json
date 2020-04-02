@@ -7,7 +7,7 @@
   "exampleResource": [],
   "homepage": "https://www.w3.org/TR/vocab-dqv",
   "identifier": "dqv",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "Data Quality Vocabulary",
   "namespace": {

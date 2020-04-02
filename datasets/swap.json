@@ -14,7 +14,7 @@
   ],
   "homepage": "https://www.w3.org/2000/10/swap",
   "identifier": "swap",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "Semantic Web Application Platform (SWAP)",
   "namespace": {

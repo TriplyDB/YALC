@@ -14,7 +14,7 @@
   ],
   "homepage": "https://github.com/UKGovLD/linked-data-api",
   "identifier": "ld-api",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "Linked Data API",
   "namespace": {

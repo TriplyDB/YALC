@@ -12,7 +12,7 @@
   ],
   "homepage": "https://www.w3.org/2009/08/skos-reference/skos.html",
   "identifier": "skos",
-  "image": "rdf.png",
+  "image": "",
   "license": "CC-BY-SA",
   "name": "Simple Knowledge Organization System (SKOS)",
   "namespace": {
