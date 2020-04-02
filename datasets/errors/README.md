@@ -36,6 +36,8 @@ header:
 
 The following datasets emit no `Content-Type` header at all:
 
+  - [DOAP](doap.json)
+
   - [lexinfo](lexinfo.json)
 
 ## Erroneous handling of `Accept` header
