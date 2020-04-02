@@ -25,3 +25,10 @@ The following datasets require a base IRI to be set during upload:
 The following datasets require support for empty Bzipped files:
 
   - [LinkedGeoData](LinkedGeoData.json)
+
+## Bug in RDF/XML parser
+
+The following datasets cannot be uploaded because of bugs in the
+RDF/XML parser:
+
+  - [EARL](earl.json)
