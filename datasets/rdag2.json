@@ -1,25 +1,23 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "This was the provisional registration of the RDA Group 2 Element Vocabulary, managed by the DCMI/RDA Task Group.",
   "exampleResource": [
-    "http://rdvocab.info/ElementsGr2/biographicalInformation",
-    "http://rdvocab.info/ElementsGr2/dateOfBirth",
-    "http://rdvocab.info/ElementsGr2/dateOfDeath",
-    "http://rdvocab.info/ElementsGr2/gender"
+    "rdag2:biographicalInformation",
+    "rdag2:dateOfBirth",
+    "rdag2:dateOfDeath",
+    "rdag2:gender"
   ],
   "homepage": "http://metadataregistry.org/schema/show/id/15.html",
-  "identifier": "group2-elements",
-  "image": "rda.png",
-  "license": "CC-BY-SA",
+  "identifier": "rdag2",
   "name": "RDA Group 2 Elements",
   "namespace": {
-    "alias": "rda-elements",
+    "alias": "rdag2",
     "prefix": "http://rdvocab.info/ElementsGr2/"
   },
-  "organization": "rda-registry",
+  "organization": "rda",
   "wasDerivedFrom": {
     "distribution": {
       "contentUrl": "http://rdvocab.info/ElementsGr2"

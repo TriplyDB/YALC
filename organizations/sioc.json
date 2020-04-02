@@ -2,7 +2,7 @@
   "@type": "Organization",
   "description": "The SIOC initiative (Semantically Interlinked Online Communities) aims to enable the integration of online community information.  SIOC provides a Semantic Web ontology for representing rich data from the Social Web in RDF.  It has achieved significant adoption through its usage in a variety of commercial and open-source software applications, and is commonly used in conjunction with the FOAF vocabulary for expressing personal profile and social networking information.  By becoming a standard way for expressing user-generated content from such sites, SIOC enables new kinds of usage scenarios for online community site data, and allows innovative semantic applications to be built on top of the existing Social Web.  The SIOC ontology was previously published as a W3C Member Submission, which was submitted by 16 organisations.",
   "homepage": "http://sioc-project.org",
-  "identifier": "sioc-project",
-  "image": "sioc-project.svg",
+  "identifier": "sioc",
+  "image": "sioc.svg",
   "name": "SIOC Project"
 }

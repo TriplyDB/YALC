@@ -1,17 +1,16 @@
 {
   "@type": "Dataset",
   "about": [
-    "Geography",
-    "Vocabulary"
+    "topic:geography",
+    "topic:vocabulary"
   ],
   "description": "The GeoNames Ontology makes it possible to add geospatial semantic information to the Word Wide Web.",
   "exampleResource": [],
   "homepage": "http://www.geonames.org/ontology/documentation.html",
-  "identifier": "ontology",
-  "image": "geonames.png",
-  "license": "CC-BY-SA",
+  "identifier": "gno",
   "name": "GeoNames Ontology",
   "namespace": {
+    "alias": "gno",
     "prefix": "https://www.geonames.org/ontology#"
   },
   "organization": "geonames",

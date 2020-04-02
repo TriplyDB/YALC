@@ -188,10 +188,24 @@ these dataset can be found.
 
 - http://ili.globalwordnet.org/ili/
 
+- http://lists.foaf-project.org/mailman/listinfo/foaf-dev
+
+- http://www.loa-cnr.it/ontologies/DUL.owl#
+
+- http://purl.org/dc/aboutdcmi#DCMI
+
+- http://purl.org/net/vocab/2004/03/label#
+
 - http://purl.org/vocab/vann/
+
+- http://schemas.talis.com/2005/dir/schema#
+
+- http://sw.opencyc.org/2009/04/07/concept/en/
 
 - http://vocab.org/vann/.html
 
 - http://web.resource.org/cc/
 
 - http://www.ivan-herman.net/foaf#
+
+- http://www.rddl.org/purposes#

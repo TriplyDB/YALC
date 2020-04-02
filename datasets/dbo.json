@@ -1,14 +1,13 @@
 {
   "@type": "Dataset",
   "about": [
-    "Top-level Ontology"
+    "topic:topLevel"
   ],
   "description": "Ontology for DBpedia.",
   "exampleResource": [],
-  "homepage": "https://wiki.dbpedia.org/",
-  "identifier": "dbpedia-ontology",
+  "homepage": "https://wiki.dbpedia.org",
+  "identifier": "dbo",
   "image": "dbpedia.png",
-  "license": "CC-BY-SA",
   "name": "DBpedia Ontology",
   "namespace": [
     {
