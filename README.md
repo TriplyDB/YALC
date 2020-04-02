@@ -209,3 +209,5 @@ these dataset can be found.
 - http://www.ivan-herman.net/foaf#
 
 - http://www.rddl.org/purposes#
+
+- http://www.w3.org/TR/rdf-concepts/#

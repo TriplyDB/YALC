@@ -1,0 +1,8 @@
+{
+  "@type": "Organization",
+  "description": "The Dublin Core™ Metadata Initiative supports innovation in metadata design and best practices. DCMI is supported by its members and is a project of ASIS&T.",
+  "homepage": "https://dublincore.org",
+  "identifier": "dcmi",
+  "image": "dcmi.png",
+  "name": "Dublin Core Metadata Initiative (DCMI)"
+}
