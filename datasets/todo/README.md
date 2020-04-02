@@ -12,6 +12,8 @@ URLs:
 
   - [DBpedia](dbpedia.json)
 
+  - [DatCatInfo](datcat.json)
+
 ## Base IRI
 
 The following datasets require a base IRI to be set during upload:
