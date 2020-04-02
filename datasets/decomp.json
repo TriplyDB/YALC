@@ -1,19 +1,17 @@
 {
   "@type": "Dataset",
   "about": [
-    "Lexicography"
+    "topic:lexicography"
   ],
   "description": "This is the **Decomposition** module of the [Lemon](/lemon) collection of lexicographic vocabularies.\n\nDecomposition is the process of indicating which elements constitute a multi-word or compound lexical entry.",
   "exampleResource": [
-    "http://www.w3.org/ns/lemon/decomp#Component",
-    "http://www.w3.org/ns/lemon/decomp#constituent",
-    "http://www.w3.org/ns/lemon/decomp#correspondsTo",
-    "http://www.w3.org/ns/lemon/decomp#subterm"
+    "decomp:Component",
+    "decomp:constituent",
+    "decomp:correspondsTo",
+    "decomp:subterm"
   ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Decomposition_.28decomp.29",
   "identifier": "decomp",
-  "image": "lemon.png",
-  "license": "CC-BY-SA",
   "name": "Lexical Decomposition Vocabulary",
   "namespace": {
     "alias": "decomp",

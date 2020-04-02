@@ -41,6 +41,10 @@
         {
           "@id": "topic:sculpture",
           "label": "Sculpture"
+        },
+        {
+          "@id": "topic:multimedia",
+          "label": "Multimedia"
         }
       ]
     },
@@ -53,8 +57,8 @@
       "label": "Commerce"
     },
     {
-      "@id": "topic:eGovernment",
-      "label": "eGov"
+      "@id": "topic:egov",
+      "label": "eGovernment"
     },
     {
       "@id": "topic:encycloperia",

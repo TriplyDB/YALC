@@ -1,7 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
-    "Cultural Heritage"
+    "topic:heritage"
   ],
   "description": "The controlled vocabulary of actors is a list of persons and organisations. The data is structured according to the [Europeana Data Model](https://pro.europeana.eu/edm-documentation), Linked Data compatible and available in XML.",
   "exampleResource": [
@@ -11,10 +11,8 @@
   "homepage": "https://data.rijksmuseum.nl",
   "identifier": "actors",
   "image": "rijksmuseum.png",
-  "license": "CC-BY-SA",
   "name": "Rijksmuseum Actors",
   "namespace": {
-    "alias": "actor",
     "prefix": "http://hdl.handle.net/10934/"
   },
   "organization": "rijksmuseum",

@@ -1,25 +1,23 @@
 {
   "@type": "Dataset",
   "about": [
-    "Lexicography",
-    "Metadata",
-    "Vocabulary"
+    "topic:lexicography",
+    "topic:metadata",
+    "topic:vocabulary"
   ],
   "description": "This is the **Linguistic Metadata** vocabulary of the [Lemon](/lemon) collection of lexicographic vocabularies.  It can be used to describe metadata for lexicographic datasets.  This vocabulary should be used in combination with generic metadata vocabularies such as [Dublin Core](/dcmi), [PROV](/w3c/prov-o), [DCAT](/w3c/dcat), and [VoID](/w3c/void).\n\nLime distinguishes three main metadata entities:\n\n  1. the reference dataset (describing the semantics of the domain, e.g., the ontology),\n  2.the lexicon (being a collection of lexical entries),\n  3. the concept set (an optional set of lexical concepts, bearing a conceptual backbone to a lexicon).",
   "exampleResource": [
-    "http://www.w3.org/ns/lemon/lime#Lexicon",
-    "http://www.w3.org/ns/lemon/lime#entry",
-    "http://www.w3.org/ns/lemon/lime#language",
-    "http://www.w3.org/ns/lemon/lime#lexicalEntries",
-    "http://www.w3.org/ns/lemon/lime#lexiconDataset",
-    "http://www.w3.org/ns/lemon/lime#linguisticCatalog",
-    "http://www.w3.org/ns/lemon/lime#referenceDataset",
-    "http://www.w3.org/ns/lemon/lime#references"
+    "lime:Lexicon",
+    "lime:entry",
+    "lime:language",
+    "lime:lexicalEntries",
+    "lime:lexiconDataset",
+    "lime:linguisticCatalog",
+    "lime:referenceDataset",
+    "lime:references"
   ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Metadata_.28lime.29",
   "identifier": "lime",
-  "image": "lemon.png",
-  "license": "CC-BY-SA",
   "name": "Linguistic Metadata Vocabulary (Lime)",
   "namespace": {
     "alias": "lime",

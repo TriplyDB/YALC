@@ -1,23 +1,21 @@
 {
   "@type": "Dataset",
   "about": [
-    "Statistics",
-    "Vocabulary"
+    "topic:statistics",
+    "topic:vocabulary"
   ],
   "description": "[SKOS](/w3c/skos) concepts for elements defined in the Content Oriented Guidelines (COG).",
   "exampleResource": [
-    "http://purl.org/linked-data/sdmx/2009/concept#accessibility",
-    "http://purl.org/linked-data/sdmx/2009/concept#accuracy",
-    "http://purl.org/linked-data/sdmx/2009/concept#age",
-    "http://purl.org/linked-data/sdmx/2009/concept#civilStatus",
-    "http://purl.org/linked-data/sdmx/2009/concept#coherence",
-    "http://purl.org/linked-data/sdmx/2009/concept#comment",
-    "http://purl.org/linked-data/sdmx/2009/concept#refPeriod"
+    "sdmx-concept:accessibility",
+    "sdmx-concept:accuracy",
+    "sdmx-concept:age",
+    "sdmx-concept:civilStatus",
+    "sdmx-concept:coherence",
+    "sdmx-concept:comment",
+    "sdmx-concept:refPeriod"
   ],
   "homepage": "https://sdmx.org",
   "identifier": "concept",
-  "image": "sdmx.png",
-  "license": "CC-BY-SA",
   "name": "SDMX Concepts",
   "namespace": {
     "alias": "sdmx-concept",

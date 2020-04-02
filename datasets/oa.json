@@ -1,14 +1,12 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "The Web Annotation Vocabulary specifies the set of RDF classes, predicates and named entities that are used by the Web Annotation Data Model.  It also lists recommended terms from other ontologies that are used in the model, and provides the JSON-LD Context and profile definitions needed to use the Web Annotation JSON serialization in a Linked Data context.",
   "exampleResource": [],
   "homepage": "https://www.w3.org/TR/annotation-vocab",
   "identifier": "oa",
-  "image": "",
-  "license": "CC-BY-SA",
   "name": "Annotation Ontology",
   "namespace": {
     "alias": "oa",

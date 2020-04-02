@@ -1,15 +1,14 @@
 {
   "@type": "Dataset",
   "about": [
-    "Lexicography",
-    "Vocabulary"
+    "topic:lexicography",
+    "topic:vocabulary"
   ],
   "description": "",
   "exampleResource": [],
   "homepage": "",
   "identifier": "oils",
   "image": "lemon.png",
-  "license": "CC-BY-SA",
   "name": "",
   "namespace": {
     "alias": "oils",

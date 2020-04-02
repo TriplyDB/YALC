@@ -1,18 +1,16 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "This Vocabulary is used to modify [RDFa 1.1 processing behavior](http://www.w3.org/TR/rdfa-core).  It contains terms that can be used to define prefix mappings and term assignments.  These can be used as part of the `@profile` mechanism of RDFa 1.1.",
   "exampleResource": [
-    "http://www.w3.org/ns/rdfa#Error",
-    "http://www.w3.org/ns/rdfa#Pattern",
-    "http://www.w3.org/ns/rdfa#prefix"
+    "rdfa:Error",
+    "rdfa:Pattern",
+    "rdfa:prefix"
   ],
   "homepage": "http://www.w3.org/ns/rdfa#",
   "identifier": "rdfa",
-  "image": "",
-  "license": "CC-BY-SA",
   "name": "RDFa Vocabulary for Term and Prefix Assignment",
   "namespace": {
     "alias": "rdfa",

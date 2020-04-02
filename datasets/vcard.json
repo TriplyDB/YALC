@@ -1,18 +1,16 @@
 {
   "@type": "Dataset",
   "about": [
-    "Social",
-    "Vocabulary"
+    "topic:social",
+    "topic:vocabulary"
   ],
   "description": "A mapping of the [vCard specification](https://tools.ietf.org/html/rfc6350) to RDF/OWL.  The goal is to promote the use of vCard for the description of people and organizations utilizing semantic web techniques and allowing compatibility with traditional vCard implementations.",
   "exampleResource": [
-    "http://www.w3.org/2006/vcard/ns#email",
-    "http://www.w3.org/2006/vcard/ns#tel"
+    "vcard:email",
+    "vcard:tel"
   ],
   "homepage": "https://www.w3.org/TR/vcard-rdf",
   "identifier": "vcard",
-  "image": "",
-  "license": "CC-BY-SA",
   "name": "vCard",
   "namespace": {
     "alias": "vcard",

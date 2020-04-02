@@ -1,14 +1,12 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "An ontology of information objects, encodings and realizations, as a plugin to DOLCE-Ultralite (reusing mainly the `dul:expresses` and `dul:realizes` relations from it).  Several patterns are contained inside this ontology:\n  - encodings of information entities\n  - kinds of realizations (gestural motions, depictions, digital, multimedia, speech, etc.)\n  - combinatorial relations between information objects\n  - relations between formal expressions and generalized expressions (lexicalizations, formalizations)\n  - relations between formal expressions and their assignments in formal semantics\n  - relations between information objects and schemata (data structures, KOS, etc.)\n  - authorship\n  - kinds of linguistic objects\n  - copies, reproductions, etc.\n  - cultural combination of information objects (reuse, mixing, metaphorical blending).",
   "exampleResource": [],
   "homepage": "",
   "identifier": "iolite",
-  "image": "odp.png",
-  "license": "CC-BY-SA",
   "name": "Information Objects Ontology",
   "namespace": {
     "alias": "iolite",

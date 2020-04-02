@@ -1,15 +1,13 @@
 {
   "@type": "Dataset",
   "about": [
-    "Statistics",
-    "Vocabulary"
+    "topic:statistics",
+    "topic:vocabulary"
   ],
   "description": "SDMX vocabulary describing the core statistical concepts.",
   "exampleResource": [],
   "homepage": "https://sdmx.org",
   "identifier": "core",
-  "image": "sdmx.png",
-  "license": "CC-BY-SA",
   "name": "SDMX Core Vocabulary",
   "namespace": {
     "alias": "sdmx",

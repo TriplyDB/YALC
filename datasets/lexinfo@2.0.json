@@ -1,15 +1,14 @@
 {
   "@type": "Dataset",
   "about": [
-    "Lexicography",
-    "Vocabulary"
+    "topic:lexicography",
+    "topic:vocabulary"
   ],
   "description": "LexInfo is an ontology that was defined during the Monnet Project to provide data categories for the [Lemon](http://lemon-model.net) model.  It has since since been updated with the new OntoLex-Lemon model of the [OntoLex community group](http://www.w3.org/community/ontolex).  LexInfo is now developed on [GitHub](https://github.com/ontolex/lexinfo).",
   "exampleResource": [],
   "homepage": "https://lexinfo.net",
   "identifier": "lexinfo-2-0",
   "image": "lexinfo.png",
-  "license": "CC-BY-SA",
   "name": "LexInfo",
   "namespace": {
     "alias": "lexinfo2",

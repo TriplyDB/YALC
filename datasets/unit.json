@@ -1,23 +1,21 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "An ontology for units of measure.",
   "exampleResource": [
-    "http://www.w3.org/2007/ont/unit#Quantity",
-    "http://www.w3.org/2007/ont/unit#Unit",
-    "http://www.w3.org/2007/ont/unit#hz",
-    "http://www.w3.org/2007/ont/unit#kg",
-    "http://www.w3.org/2007/ont/unit#m",
-    "http://www.w3.org/2007/ont/unit#m2",
-    "http://www.w3.org/2007/ont/unit#mps",
-    "http://www.w3.org/2007/ont/unit#s"
+    "unit:Quantity",
+    "unit:Unit",
+    "unit:hz",
+    "unit:kg",
+    "unit:m",
+    "unit:m2",
+    "unit:mps",
+    "unit:s"
   ],
   "homepage": "http://www-ksl.stanford.edu/knowledge-sharing/papers/engmath.html",
   "identifier": "unit",
-  "image": "",
-  "license": "CC-BY-SA",
   "name": "Ontology for Units of Measure",
   "namespace": {
     "alias": "unit",

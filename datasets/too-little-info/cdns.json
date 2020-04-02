@@ -1,14 +1,12 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "",
   "exampleResource": [],
   "homepage": "",
   "identifier": "cdns",
-  "image": "odp.png",
-  "license": "CC-BY-SA",
   "name": "Constructive DnS",
   "namespace": {
     "alias": "cdns",

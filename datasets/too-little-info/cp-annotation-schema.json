@@ -1,7 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "This pattern can be used to represent an agent that is acting in order to forward the action of a social (non-physical) agent.\n\nAn ontology designer is able to express relations like delegation, working for, etc.  It is not possible to express either time indexing (the situation pattern should be specialized to that purpose), nor the role or task, under which the social action is carried out by the physical agent (the descriptionandsituation pattern should be used instead)."
   "exampleResource": [
@@ -10,9 +10,7 @@
     "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#hasRole"
   ],
   "homepage": "",
-  "identifier": "cp-annotation-schema",
-  "image": "odp.png",
-  "license": "CC-BY-SA",
+  "identifier": "",
   "name": "",
   "namespace": {
     "alias": "cp-annotation-schema",

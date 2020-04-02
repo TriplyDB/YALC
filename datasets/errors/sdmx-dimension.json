@@ -1,26 +1,24 @@
 {
   "@type": "Dataset",
   "about": [
-    "Statistics",
-    "Vocabulary"
+    "topic:statistics",
+    "topic:vocabulary"
   ],
   "description": "Dimensions are concepts that determine the dataset's ‘physical’ structure.",
   "exampleResource": [
-    "http://purl.org/linked-data/sdmx/2009/dimension#age",
-    "http://purl.org/linked-data/sdmx/2009/dimension#civilStatus",
-    "http://purl.org/linked-data/sdmx/2009/dimension#currency",
-    "http://purl.org/linked-data/sdmx/2009/dimension#educationLev",
-    "http://purl.org/linked-data/sdmx/2009/dimension#freq",
-    "http://purl.org/linked-data/sdmx/2009/dimension#occupation",
-    "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
-    "http://purl.org/linked-data/sdmx/2009/dimension#refPeriod",
-    "http://purl.org/linked-data/sdmx/2009/dimension#sex",
-    "http://purl.org/linked-data/sdmx/2009/dimension#timePeriod"
+    "sdmx-dimension:age",
+    "sdmx-dimension:civilStatus",
+    "sdmx-dimension:currency",
+    "sdmx-dimension:educationLev",
+    "sdmx-dimension:freq",
+    "sdmx-dimension:occupation",
+    "sdmx-dimension:refArea",
+    "sdmx-dimension:refPeriod",
+    "sdmx-dimension:sex",
+    "sdmx-dimension:timePeriod"
   ],
   "homepage": "https://sdmx.org",
   "identifier": "dimension",
-  "image": "sdmx.png",
-  "license": "CC-BY-SA",
   "name": "SDMX Dimensions",
   "namespace": {
     "alias": "sdmx-dimension",

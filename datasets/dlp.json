@@ -1,14 +1,12 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "DOLCE-Lite-Plus (DLP) consists of version 3.9 of DOLCE-Lite (updated to D18 of DOLCE-Full) with some basic extensions.",
   "exampleResource": [],
   "homepage": "",
   "identifier": "dlp",
-  "image": "odp.png",
-  "license": "CC-BY-SA",
   "name": "DOLCE-Lite-Plus (DLP)",
   "namespace": [],
   "organization": "odp",

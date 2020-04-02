@@ -1,23 +1,21 @@
 {
   "@type": "Dataset",
   "about": [
-    "Bibliography",
-    "Vocabulary"
+    "topic:bibliography",
+    "topic:vocabulary"
   ],
   "description": "This document describes the MADS/RDF (Metadata Authority Description Schema in RDF) vocabulary, a data model for authority and vocabulary data used within the library and information science (LIS) community, which is inclusive of museums, archives, and other cultural institutions. It is presented as an OWL ontology.\n\nMADS/RDF is a knowledge organization system (KOS) designed for use with controlled values for names (personal, corporate, geographic, etc.), thesauri, taxonomies, subject heading systems, and other controlled value lists. It is closely related to SKOS, the Simple Knowledge Organization System and a widely supported and adopted RDF vocabulary. Given the close relationship between the aim of MADS/RDF and the aim of SKOS, the MADS ontology has been fully mapped to SKOS.\n\nUnlike SKOS, however, which is very broad in its application, MADS/RDF is designed specifically to support authority data as used by and needed in the LIS community and its technology systems. For example, MADS/RDF provides a means to record data from the Machine Readable Cataloging (MARC) Authorities format in RDF for use in semantic applications and Linked Data projects.\n\nMADS/RDF is designed to support the description of cultural and bibliographic resources. Data described using MADS/RDF, therefore, assists with identifying and annotating bibliographic and cultural resources. MADS/RDF is not focused on the description of Real World Objects. Although a MADS/RDF description may contain information specific to the Real World Object associated with the MADS/RDF authoritative label, the MADS/RDF ontology distinguishes between these two entities – the RWO and the Authority.",
   "exampleResource": [
-    "http://www.loc.gov/mads/rdf/v1#Address",
-    "http://www.loc.gov/mads/rdf/v1#Affiliation",
-    "http://www.loc.gov/mads/rdf/v1#Area",
-    "http://www.loc.gov/mads/rdf/v1#Authority",
-    "http://www.loc.gov/mads/rdf/v1#City",
-    "http://www.loc.gov/mads/rdf/v1#CitySection",
-    "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+    "mads:Address",
+    "mads:Affiliation",
+    "mads:Area",
+    "mads:Authority",
+    "mads:City",
+    "mads:CitySection",
+    "mads:ComplexSubject"
   ],
   "homepage": "http://id.loc.gov/ontologies/madsrdf/v1.html",
   "identifier": "mads",
-  "image": "loc.jpg",
-  "license": "CC-BY-SA",
   "name": "Metadata Authority Description Schema (MADS)",
   "namespace": {
     "alias": "mads",

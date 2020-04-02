@@ -1,23 +1,21 @@
 {
   "@type": "Dataset",
   "about": [
-    "Geography",
-    "Vocabulary"
+    "topic:geography",
+    "topic:vocabulary"
   ],
   "description": "GeoSPARQL functions for performing non-topological spatial operations.",
   "exampleResource": [
-    "http://www.opengis.net/def/function/geosparql/boundary",
-    "http://www.opengis.net/def/function/geosparql/difference",
-    "http://www.opengis.net/def/function/geosparql/distance",
-    "http://www.opengis.net/def/function/geosparql/intersection",
-    "http://www.opengis.net/def/function/geosparql/relate",
-    "http://www.opengis.net/def/function/geosparql/sfEquals",
-    "http://www.opengis.net/def/function/geosparql/union"
+    "geof:boundary",
+    "geof:difference",
+    "geof:distance",
+    "geof:intersection",
+    "geof:relate",
+    "geof:sfEquals",
+    "geof:union"
   ],
   "homepage": "https://www.opengeospatial.org/standards/geosparql",
   "identifier": "geof",
-  "image": "ogc.png",
-  "license": "CC-BY-SA",
   "name": "GeoSPARQL: A Geographic Query Language for RDF Data",
   "namespace": {
     "alias": "geof",

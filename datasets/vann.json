@@ -1,21 +1,19 @@
 {
   "@type": "Dataset",
   "about": [
-    "Metadata",
-    "Vocabulary"
+    "topic:metadata",
+    "topic:vocabulary"
   ],
   "description": "This document describes a vocabulary for annotating descriptions of vocabularies with examples and usage notes.",
   "exampleResource": [
-    "http://purl.org/vocab/vann/changes",
-    "http://purl.org/vocab/vann/example",
-    "http://purl.org/vocab/vann/preferredNamespacePrefix",
-    "http://purl.org/vocab/vann/preferredNamespaceUri"
+    "vann:changes",
+    "vann:example",
+    "vann:preferredNamespacePrefix",
+    "vann:preferredNamespaceUri"
   ],
   "homepage": "http://vocab.org/vann",
   "identifier": "vann",
-  "image": "",
-  "license": "CC-BY-SA",
-  "name": "Vocabulary for Annotating Vocabulary Descriptions",
+  "name": "Vocabulary for Annotating Vocabulary Descriptions (VANN)",
   "namespace": {
     "alias": "vann",
     "prefix": "https://vocab.org/vann/"

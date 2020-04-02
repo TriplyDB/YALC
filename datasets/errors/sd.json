@@ -1,20 +1,19 @@
 {
   "@type": "Dataset",
   "about": [
-    "SPARQL",
-    "Vocabulary"
+    "topic:sparql",
+    "topic:vocabulary"
   ],
   "description": "Vocabulary for describing SPARQL services made available via the [SPARQL 1.1 Protocol for RDF](https://www.w3.org/TR/sparql11-protocol).  These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset.",
   "exampleResource": [
-    "http://www.w3.org/ns/sparql-service-description#Feature",
-    "http://www.w3.org/ns/sparql-service-description#Function",
-    "http://www.w3.org/ns/sparql-service-description#Graph",
-    "http://www.w3.org/ns/sparql-service-description#NamedGraph"
+    "sd:Feature",
+    "sd:Function",
+    "sd:Graph",
+    "sd:NamedGraph"
   ],
   "homepage": "https://www.w3.org/TR/sparql11-service-description",
   "identifier": "sd",
   "image": "sparql.png",
-  "license": "CC-BY-SA",
   "name": "SPARQL Service Description",
   "namespace": {
     "alias": "sd",

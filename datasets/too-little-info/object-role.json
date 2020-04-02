@@ -1,7 +1,7 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "",
   "exampleResource": [
@@ -11,8 +11,6 @@
   ],
   "homepage": "http://ontologydesignpatterns.org/wiki/Submissions:ActingFor",
   "identifier": "object-role",
-  "image": "odp.png",
-  "license": "CC-BY-SA",
   "name": "“Acting for” Pattern",
   "namespace": [],
   "organization": "odp",

@@ -1,14 +1,13 @@
 {
   "@type": "Dataset",
   "about": [
-    "Social",
-    "Vocabulary"
+    "topic:social",
+    "topic:vocabulary"
   ],
   "description": "The SIOC (Semantically-Interlinked Online Communities) Core Ontology provides the main concepts and properties required to describe information from online communities (e.g., message boards, wikis, weblogs, etc.) on the Semantic Web.  This document contains a detailed description of the SIOC Core Ontology.",
   "exampleResource": [],
   "homepage": "http://rdfs.org/sioc/spec/",
   "identifier": "sioc",
-  "license": "CC-BY-SA",
   "name": "SIOC Core Ontology Specification",
   "namespace": [
     {
@@ -52,7 +51,7 @@
       "prefix": "http://rdfs.org/sioc/wikitalk#"
     }
   ],
-  "organization": "sioc-project",
+  "organization": "sioc",
   "version": {
     "@type": "SemanticVersion",
     "major": 1,

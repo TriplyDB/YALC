@@ -1,19 +1,31 @@
 {
   "@type": "Dataset",
   "about": [
-    "Vocabulary"
+    "topic:vocabulary"
   ],
   "description": "The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Semantic Web.This document provides a brief description of the SKOS Vocabulary.\n\nFor detailed information about the SKOS Recommendation, please consult the [SKOS Reference](http://www.w3.org/TR/skos-reference) or the [SKOS Primer](http://www.w3.org/TR/skos-primer).",
   "exampleResource": [
-    "http://www.w3.org/2004/02/skos/core#Concept",
-    "http://www.w3.org/2004/02/skos/core#broader",
-    "http://www.w3.org/2004/02/skos/core#narrower",
-    "http://www.w3.org/2004/02/skos/core#related"
+    "skos:Collection",
+    "skos:Concept",
+    "skos:ConceptScheme",
+    "skos:OrderedCollecion",
+    "skos:broadMatch",
+    "skos:broader",
+    "skos:broaderTransitive",
+    "skos:closeMatch",
+    "skos:hasTopConcept",
+    "skos:inScheme",
+    "skos:mappingRelation",
+    "skos:narrowMatch",
+    "skos:narrower",
+    "skos:narrowerTransitive",
+    "skos:note",
+    "skos:related",
+    "skos:semanticRelation",
+    "skos:topConceptOf"
   ],
   "homepage": "https://www.w3.org/2009/08/skos-reference/skos.html",
   "identifier": "skos",
-  "image": "",
-  "license": "CC-BY-SA",
   "name": "Simple Knowledge Organization System (SKOS)",
   "namespace": {
     "alias": "skos",

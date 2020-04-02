@@ -1,19 +1,17 @@
 {
   "@type": "Dataset",
   "about": [
-    "Geography",
-    "Vocabulary"
+    "topic:geography",
+    "topic:vocabulary"
   ],
   "description": "A vocabulary for representing latitude, longitude and altitude information in the WGS84 geodetic reference datum.",
   "exampleResource": [
-    "http://www.w3.org/2003/01/geo/wgs84_pos#Point",
-    "http://www.w3.org/2003/01/geo/wgs84_pos#lat",
-    "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+    "wgs84:Point",
+    "wgs84:lat",
+    "wgs84:long"
   ],
   "homepage": "http://www.w3.org/2003/01/geo/wgs84_pos#",
   "identifier": "wgs84",
-  "image": "w3c.png",
-  "license": "CC-BY-SA",
   "name": "WGS84 Geo Positioning",
   "namespace": {
     "alias": "wgs84",
