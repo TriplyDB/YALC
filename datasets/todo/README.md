@@ -18,16 +18,6 @@ The following datasets require a base IRI to be set during upload:
 
   - [RDDL](rddl.json)
 
-## Unrecognized file name extension
-
-The following datasets require support for additional RDF-denoting
-file name extensions:
-
-  - CIDOC-CRM has file name extension `rdfs`
-  - HealthCare Ontology has file name extension `xrdf`
-  - [MetaVocab](metavocab.json) has file name extension `rdfs`
-  - [RDDL](rddl.json) has file name extension `rdfs`
-
 ## Empty Bzipped file
 
 The following datasets require support for empty Bzipped files:

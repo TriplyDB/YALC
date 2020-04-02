@@ -1,0 +1,31 @@
+{
+  "@type": "Dataset",
+  "about": [
+    "topic:bibliography",
+    "topic:vocabulary"
+  ],
+  "description": "The Bibliographic Ontology Specification provides main concepts and properties for describing citations and bibliographic references (i.e. quotes, books, articles, etc) on the Semantic Web.\n\nUsed to describe authors, papers and publication information.",
+  "exampleResource": [
+    "bibo:Book",
+    "bibo:authorList"
+  ],
+  "homepage": "http://bibliontology.com",
+  "identifier": "bibo",
+  "image": "bibo.png",
+  "name": "Bibliographic Ontology Specification (BIBO)",
+  "namespace": {
+    "alias": "bibo",
+    "prefix": "http://purl.org/ontology/bibo/"
+  },
+  "organization": "structured-dynamics",
+  "version": {
+    "@type": "SemanticVersion",
+    "major": 1,
+    "minor": 3
+  },
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "http://purl.org/ontology/bibo/"
+    }
+  }
+}

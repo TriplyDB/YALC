@@ -8,26 +8,31 @@ be uploaded because they contain errors.
 The following datasets are serviced with an incorrect `Content-Type`
 header:
 
-  - [OGC GeoSPARQL](geo.json) emits `text/xml`; should be
-    `application/rdf+xml`
+  - [BIBO](bibo.json) emits `application/xml`
+    i.o. `application/rdf+xml`.
 
-  - [Provenance](provenance.json) emits `application/rdf\+xml`; should
-    be `application/rdf+xml`
+  - [OGC GeoSPARQL](geo.json) emits `text/xml` i.o.
+    `application/rdf+xml`.
+
+  - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
+    `application/rdf+xml`.
+
+  - [RDDL](rddl.json) emits `test/plain` i.o. `application/rdf+xml`.
 
   - [SDMX Attribute](sdmx-attribute.json) emits `text/plain;
-    charset=utf-8`; should be `text/turtle`.
+    charset=utf-8` i.o. `text/turtle`.
 
   - [SDMX Code](sdmx-code.json) emits `text/plain; charset=utf-8`;
     should be `text/turtle`.
 
   - [SDMX Concept](sdmx-concept.json) emits `text/plain;
-    charset=utf-8`; should be `text/turtle`.
+    charset=utf-8` i.o. `text/turtle`.
 
   - [SDMX Dimension](sdmx-dimension.json) emits `text/plain;
-    charset=utf-8`; should be `text/turtle`.
+    charset=utf-8` i.o. `text/turtle`.
 
   - [SDMX Measure](sdmx-measure.json) emits `text/plain;
-    charset=utf-8`; should be `text/turtle`.
+    charset=utf-8` i.o. `text/turtle`.
 
 The following datasets emit no `Content-Type` header at all:
 
