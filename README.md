@@ -186,31 +186,18 @@ prefixes / namespaces.  Please open a ‘Dataset request’
 these dataset can be found.
 
 - http://creativecommons.org/licenses/by/1.0/
-
 - http://iandavis.com/id/
-
 - http://ili.globalwordnet.org/ili/
-
 - http://lists.foaf-project.org/mailman/listinfo/foaf-dev
-
-- http://www.loa-cnr.it/ontologies/DUL.owl#
-
 - http://purl.org/dc/aboutdcmi#DCMI
-
 - http://purl.org/net/vocab/2004/03/label#
-
 - http://purl.org/vocab/vann/
-
 - http://schemas.talis.com/2005/dir/schema#
-
 - http://sw.opencyc.org/2009/04/07/concept/en/
-
 - http://vocab.org/vann/.html
-
 - http://web.resource.org/cc/
-
 - http://www.ivan-herman.net/foaf#
-
+- http://www.loa-cnr.it/ontologies/DUL.owl#
 - http://www.rddl.org/purposes#
-
 - http://www.w3.org/TR/rdf-concepts/#
+- https://w3id.org/credentials#
