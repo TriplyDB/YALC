@@ -45,6 +45,7 @@
   "foaf": "http://xmlns.com/foaf/0.1/",
   "geo": "http://www.opengis.net/ont/geosparql#",
   "geof": "http://www.opengis.net/def/function/geosparql/",
+  "geojson": "http://ld.geojson.org/vocab#",
   "gn": "http://sws.geonames.org/",
   "gno": "http://www.geonames.org/ontology#",
   "holding": "http://purl.org/ontology/holding#",

@@ -1,0 +1,38 @@
+{
+  "@id": "w3c/geojson",
+  "@type": "Dataset",
+  "about": [
+    "topic:geospatial",
+    "topic:vocabulary"
+  ],
+  "description": "A description of the [RFC 7946](https://tools.ietf.org/html/rfc7946) GeoJSON model.  See [this link](https://github.com/geojson/geojson-ld) for vocabulary developments.",
+  "exampleResource": [
+    "geojson:Feature",
+    "geojson:FeatureCollection",
+    "geojson:GeometryCollection",
+    "geojson:LineString",
+    "geojson:MultiLineString",
+    "geojson:MultiPoint",
+    "geojson:MultiPolygon",
+    "geojson:Point",
+    "geojson:Polygon",
+    "geojson:bbox",
+    "geojson:coordinates",
+    "geojson:geometry",
+    "geojson:id",
+    "geojson:properties",
+    "geojson:type"
+  ],
+  "homepage": "https://geojson.org/geojson-ld/vocab.html",
+  "name": "GeoJSON-LD Vocabulary",
+  "namespace": {
+    "alias": "geojson",
+    "prefix": "https://purl.org/geojson/vocab#"
+  },
+  "organization": "w3c",
+  "wasDerivedFrom": {
+    "distribution": {
+      "contentUrl": "https://purl.org/geojson/vocab#"
+    }
+  }
+}
