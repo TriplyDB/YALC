@@ -20,9 +20,9 @@
   "organization": "wikimedia",
   "version": {
     "@type": "SemanticVersion",
-    "major": 2,
-    "minor": 0,
-    "patch": 0
+    "major": "2",
+    "minor": "0",
+    "patch": "0"
   },
   "wasDerivedFrom": {
     "distribution": {

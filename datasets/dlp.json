@@ -12,9 +12,9 @@
   "organization": "odp",
   "version": {
     "@type": "SemanticVersion",
-    "major": 3,
-    "minor": 9,
-    "patch": 7
+    "major": "3",
+    "minor": "9",
+    "patch": "7"
   },
   "wasDerivedFrom": {
     "distribution": {

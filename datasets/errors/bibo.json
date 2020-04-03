@@ -20,8 +20,8 @@
   "organization": "structured-dynamics",
   "version": {
     "@type": "SemanticVersion",
-    "major": 1,
-    "minor": 3
+    "major": "1",
+    "minor": "3"
   },
   "wasDerivedFrom": {
     "distribution": {

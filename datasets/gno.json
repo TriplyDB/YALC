@@ -16,8 +16,8 @@
   "organization": "geonames",
   "version": {
     "@type": "SemanticVersion",
-    "major": 3,
-    "minor": 2
+    "major": "3",
+    "minor": "2"
   },
   "wasDerivedFrom": {
     "distribution": {

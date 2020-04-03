@@ -54,8 +54,8 @@
   "organization": "sioc",
   "version": {
     "@type": "SemanticVersion",
-    "major": 1,
-    "minor": 36
+    "major": "1",
+    "minor": "36"
   },
   "wasDerivedFrom": {
     "distribution": {

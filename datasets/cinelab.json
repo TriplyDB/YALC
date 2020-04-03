@@ -18,9 +18,9 @@
   "organization": "advene",
   "version": {
     "@type": "SemanticVersion",
-    "major": 0,
-    "minor": 1,
-    "patch": 2
+    "major": "0",
+    "minor": "1",
+    "patch": "2"
   },
   "wasDerivedFrom": {
     "distribution": {

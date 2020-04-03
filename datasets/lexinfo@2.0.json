@@ -18,8 +18,8 @@
   "priorVersion": "lemon/lexinfo-1-0",
   "version": {
     "@type": "SemanticVersion",
-    "major": 2,
-    "minor": 0
+    "major": "2",
+    "minor": "0"
   },
   "wasDerivedFrom": {
     "distribution": {

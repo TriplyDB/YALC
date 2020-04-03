@@ -33,8 +33,8 @@
   "organization": "none",
   "version": {
     "@type": "SemanticVersion",
-    "major": 0,
-    "minor": 6
+    "major": "0",
+    "minor": "6"
   },
   "wasDerivedFrom": {
     "distribution": {

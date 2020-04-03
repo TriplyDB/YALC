@@ -16,8 +16,8 @@
   "organization": "princeton",
   "version": {
     "@type": "SemanticVersion",
-    "major": 3,
-    "minor": 0
+    "major": "3",
+    "minor": "0"
   },
   "wasDerivedFrom": {
     "distribution": {

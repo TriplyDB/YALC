@@ -1,5 +1,4 @@
 {
-  "@id": "w3c/geojson",
   "@type": "Dataset",
   "about": [
     "topic:geospatial",
@@ -24,6 +23,7 @@
     "geojson:type"
   ],
   "homepage": "https://geojson.org/geojson-ld/vocab.html",
+  "identifier": "geojson",
   "name": "GeoJSON-LD Vocabulary",
   "namespace": {
     "alias": "geojson",

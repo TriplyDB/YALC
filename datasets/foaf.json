@@ -26,8 +26,8 @@
   "organization": "none",
   "version": {
     "@type": "SemanticVersion",
-    "major": 0,
-    "minor": 1
+    "major": "0",
+    "minor": "1"
   },
   "wasDerivedFrom": {
     "distribution": {

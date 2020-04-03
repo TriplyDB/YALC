@@ -91,8 +91,8 @@ The following example shows the full dataset configuration for file
   "organization": "w3c",
   "version": {
     "@type": "SemanticVersion",
-    "major": 2,
-    "minor": 0
+    "major": "2",
+    "minor": "0"
   },
   "wasDerivedFrom": {
     "distribution": {

@@ -23,8 +23,8 @@
   "priorVersion": "princeton/wordnet@3.0",
   "version": {
     "@type": "SemanticVersion",
-    "major": 3,
-    "minor": 1
+    "major": "3",
+    "minor": "1"
   },
   "wasDerivedFrom": {
     "distribution": {

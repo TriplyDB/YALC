@@ -24,8 +24,8 @@
   "organization": "ogc",
   "version": {
     "@type": "SemanticVersion",
-    "major": 1,
-    "minor": 0
+    "major": "1",
+    "minor": "0"
   },
   "wasDerivedFrom": {
     "distribution": {

@@ -14,7 +14,6 @@
     "@type": "xsd:anyURI"
   },
   "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#",
-  "datacat": "
   "dataid": "http://dataid.dbpedia.org/ns/core#",
   "dbo": "http://dbpedia.org/ontology/",
   "dbp": "http://dbpedia.org/property/",
@@ -54,6 +53,7 @@
     "@type": "xsd:anyURI"
   },
   "http": "http://www.w3.org/2011/http#",
+  "i18n": "https://www.w3.org/ns/i18n#",
   "identifier": {
     "@id": "sdo:identifier"
   },

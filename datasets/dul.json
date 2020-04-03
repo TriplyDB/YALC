@@ -46,8 +46,8 @@
   "organization": "odp",
   "version": {
     "@type": "SemanticVersion",
-    "major": 3,
-    "minor": 32
+    "major": "3",
+    "minor": "32"
   },
   "wasDerivedFrom": {
     "distribution": {
