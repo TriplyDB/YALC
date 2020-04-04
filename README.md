@@ -34,7 +34,7 @@ This repository is structured in the following directories:
   <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because it contains errors.</dd>
   <dt><a href="datasets/todo"><code>/datasets/todo</code></a></dt>
   <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because some functionality is still missing.</dd>
-  <dt><a href="datasets/too-little-information"><code>/datasets/too-little-information</code></a></dt>
+  <dt><a href="datasets/too-little-info"><code>/datasets/too-little-info</code></a></dt>
   <dd>Contains partial configuration files for datasets for which currently have too little information.</dd>
   <dt><a href="img"><code>/img</code></a></dt>
   <dd>Contains images that are used in dataset and organization configurations.</dd>
