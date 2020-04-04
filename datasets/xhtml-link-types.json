@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabular"
   ],
@@ -17,22 +16,12 @@
     "xhtml2:index"
   ],
   "homepage": "https://www.w3.org/2005/05/hrel",
-  "identifier": "xhtml-link-types",
+  "id": "w3c/xhtml-link-types@1.53",
   "image": "xhtml.png",
   "name": "XHTML Link Types in RDF",
-  "namespace": {
-    "alias": "xhtml2",
-    "prefix": "http://www.w3.org/2002/06/xhtml2/#"
+  "namespace": "http://www.w3.org/2002/06/xhtml2/#",
+  "prefix": {
+    "xhtml2": "http://www.w3.org/2002/06/xhtml2/#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "53"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://www.w3.org/2005/05/hrel/linktypes.rdf"
-    }
-  }
+  "url": "https://www.w3.org/2005/05/hrel/linktypes.rdf"
 }

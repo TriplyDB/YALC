@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -11,22 +10,12 @@
     "rdf:value"
   ],
   "homepage": "https://www.w3.org/TR/rdf11-concepts",
-  "identifier": "rdf",
+  "id": "w3c/rdf@1.1",
   "image": "rdf.png",
   "name": "Resource Description Framework (RDF)",
-  "namespace": {
-    "alias": "rdf",
-    "prefix": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  "namespace": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+  "prefix": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "1"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    }
-  }
+  "url": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 }

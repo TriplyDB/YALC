@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:statistics",
     "topic:vocabulary"
@@ -7,16 +6,11 @@
   "description": "SDMX vocabulary describing the core statistical concepts.",
   "exampleResource": [],
   "homepage": "https://sdmx.org",
-  "identifier": "core",
+  "id": "sdmx/core",
   "name": "SDMX Core Vocabulary",
-  "namespace": {
-    "alias": "sdmx",
-    "prefix": "http://purl.org/linked-data/sdmx#"
+  "namespace": "http://purl.org/linked-data/sdmx#",
+  "prefix": {
+    "sdmx": "http://purl.org/linked-data/sdmx#"
   },
-  "organization": "sdmx",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://raw.githubusercontent.com/UKGovLD/publishing-statistical-data/master/specs/src/main/vocab/sdmx.ttl#"
-    }
-  }
+  "url": "https://raw.githubusercontent.com/UKGovLD/publishing-statistical-data/master/specs/src/main/vocab/sdmx.ttl#"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:social",
     "topic:vocabulary"
@@ -16,22 +15,12 @@
     "foaf:depiction"
   ],
   "homepage": "http://xmlns.com/foaf/spec",
-  "identifier": "foaf",
+  "id": "foaf@0.1",
   "image": "foaf.png",
   "name": "Friend of a Friend (FOAF)",
-  "namespace": {
-    "alias": "foaf",
-    "prefix": "http://xmlns.com/foaf/0.1/"
+  "namespace": "http://xmlns.com/foaf/0.1/",
+  "prefix": {
+    "foaf": "http://xmlns.com/foaf/0.1/"
   },
-  "organization": "none",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "0",
-    "minor": "1"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://xmlns.com/foaf/0.1/"
-    }
-  }
+  "url": "http://xmlns.com/foaf/0.1/"
 }

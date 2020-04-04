@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -13,21 +12,11 @@
     "skos-xl:prefLabel"
   ],
   "homepage": "https://www.w3.org/TR/skos-reference/skos-xl.html",
-  "identifier": "skos-xl",
+  "id": "w3c/skos-xl@1.4",
   "name": "Simple Knowledge Organization System eXtension for Labels",
-  "namespace": {
-    "alias": "skos-xl",
-    "prefix": "http://www.w3.org/2008/05/skos-xl#"
+  "namespace": "http://www.w3.org/2008/05/skos-xl#",
+  "prefix": {
+    "skos-xl": "http://www.w3.org/2008/05/skos-xl#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "4"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2008/05/skos-xl#"
-    }
-  }
+  "url": "http://www.w3.org/2008/05/skos-xl#"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography",
     "topic:vocabulary"
@@ -18,16 +17,11 @@
     "lemon:SenseDefinition"
   ],
   "homepage": "http://www.lemon-model.net",
-  "identifier": "lemon",
+  "id": "lemon/lemon",
   "name": "Lexicon Model for Ontologies (Lemon)",
-  "namespace": {
-    "alias": "lemon",
-    "prefix": "http://lemon-model.net/lemon#"
+  "namespace": "http://lemon-model.net/lemon#",
+  "prefix": {
+    "lemon": "http://lemon-model.net/lemon#"
   },
-  "organization": "lemon",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://lemon-model.net/lemon#"
-    }
-  }
+  "url": "http://lemon-model.net/lemon#"
 }

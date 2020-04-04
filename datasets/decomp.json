@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography"
   ],
@@ -11,16 +10,11 @@
     "decomp:subterm"
   ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Decomposition_.28decomp.29",
-  "identifier": "decomp",
+  "id": "lemon/decomp",
   "name": "Lexical Decomposition Vocabulary",
-  "namespace": {
-    "alias": "decomp",
-    "prefix": "http://www.w3.org/ns/lemon/decomp#"
+  "namespace": "http://www.w3.org/ns/lemon/decomp#",
+  "prefix": {
+    "decomp": "http://www.w3.org/ns/lemon/decomp#"
   },
-  "organization": "lemon",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/lemon/decomp#"
-    }
-  }
+  "url": "http://www.w3.org/ns/lemon/decomp#"
 }

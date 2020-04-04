@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography",
     "topic:vocabulary"
@@ -14,21 +13,11 @@
     "lexicog:restrictedTo"
   ],
   "homepage": "https://www.w3.org/2019/09/lexicog",
-  "identifier": "lexicog",
+  "id": "lemon/lexicog@1.0",
   "name": "OntoLex Lemon Lexicography Module",
-  "namespace": {
-    "alias": "lexicog",
-    "prefix": "http://www.w3.org/ns/lemon/lexicog#"
+  "namespace": "http://www.w3.org/ns/lemon/lexicog#",
+  "prefix": {
+    "lexicog": "http://www.w3.org/ns/lemon/lexicog#"
   },
-  "organization": "lemon",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/lemon/lexicog#"
-    }
-  }
+  "url": "http://www.w3.org/ns/lemon/lexicog#"
 }

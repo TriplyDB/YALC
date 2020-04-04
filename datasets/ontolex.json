@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography",
     "topic:vocabulary"
@@ -7,16 +6,11 @@
   "description": "This is the **Ontology Lexicon** vocabulary of the [Lemon](/lemon) collection of lexicographic vocabularies.",
   "exampleResource": [],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Core",
-  "identifier": "ontolex",
+  "id": "lemon/ontolex",
   "name": "OntoLex: The Lemon Core Vocabulary",
-  "namespace": {
-    "alias": "ontolex",
-    "prefix": "http://www.w3.org/ns/lemon/ontolex#"
+  "namespace": "http://www.w3.org/ns/lemon/ontolex#",
+  "prefix": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#"
   },
-  "organization": "lemon",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/lemon/ontolex#"
-    }
-  }
+  "url": "http://www.w3.org/ns/lemon/ontolex#"
 }

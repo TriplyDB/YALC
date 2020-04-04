@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -11,22 +10,12 @@
     "owl:sameAs"
   ],
   "homepage": "https://www.w3.org/TR/owl2-overview",
-  "identifier": "owl",
+  "id": "w3c/owl@2.0",
   "image": "owl.png",
   "name": "Web Ontology Language (OWL)",
-  "namespace": {
-    "alias": "owl",
-    "prefix": "http://www.w3.org/2002/07/owl#"
+  "namespace": "http://www.w3.org/2002/07/owl#",
+  "prefix": {
+    "owl": "http://www.w3.org/2002/07/owl#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "2",
-    "minor": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2002/07/owl#"
-    }
-  }
+  "url": "http://www.w3.org/2002/07/owl#"
 }

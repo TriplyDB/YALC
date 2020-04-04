@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -11,16 +10,11 @@
     "time:before"
   ],
   "homepage": "https://www.w3.org/TR/owl-time/",
-  "identifier": "time",
+  "id": "w3c/time",
   "name": "Time Ontology",
-  "namespace": {
-    "alias": "time",
-    "prefix": "http://www.w3.org/2006/time#"
+  "namespace": "http://www.w3.org/2006/time#",
+  "prefix": {
+    "time": "http://www.w3.org/2006/time#"
   },
-  "organization": "w3c",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2006/time#"
-    }
-  }
+  "url": "http://www.w3.org/2006/time#"
 }

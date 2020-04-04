@@ -1,34 +1,20 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:topLevel"
   ],
   "description": "Ontology for DBpedia.",
   "exampleResource": [],
   "homepage": "https://wiki.dbpedia.org",
-  "identifier": "dbo",
+  "id": "dbpedia/dbo@2016-10",
   "image": "dbpedia.png",
   "name": "DBpedia Ontology",
   "namespace": [
-    {
-      "alias": "dbo",
-      "prefix": "http://dbpedia.org/ontology/"
-    },
-    {
-      "alias": "dbt",
-      "prefix": "http://dbpedia.org/datatype/"
-    }
+    "http://dbpedia.org/ontology/",
+    "http://dbpedia.org/datatype/"
   ],
-  "organization": "dbpedia",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDgYearMonth": "2016-10"
+  "prefix": {
+    "dbo": "http://dbpedia.org/ontology/",
+    "dbt": "http://dbpedia.org/datatype/"
   },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": [
-        "http://downloads.dbpedia.org/2016-10/dbpedia_2016-10.owl"
-      ]
-    }
-  }
+  "url": "http://downloads.dbpedia.org/2016-10/dbpedia_2016-10.owl"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography",
     "topic:metadata",
@@ -17,16 +16,11 @@
     "lime:references"
   ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Metadata_.28lime.29",
-  "identifier": "lime",
+  "id": "lemon/lime",
   "name": "Linguistic Metadata Vocabulary (Lime)",
-  "namespace": {
-    "alias": "lime",
-    "prefix": "http://www.w3.org/ns/lemon/lime#"
+  "namespace": "http://www.w3.org/ns/lemon/lime#",
+  "prefix": {
+    "lime": "http://www.w3.org/ns/lemon/lime#"
   },
-  "organization": "lemon",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/lemon/lime#"
-    }
-  }
+  "url": "http://www.w3.org/ns/lemon/lime#"
 }

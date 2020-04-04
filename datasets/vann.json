@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:metadata",
     "topic:vocabulary"
@@ -12,16 +11,11 @@
     "vann:preferredNamespaceUri"
   ],
   "homepage": "http://vocab.org/vann",
-  "identifier": "vann",
+  "id": "vann",
   "name": "Vocabulary for Annotating Vocabulary Descriptions (VANN)",
-  "namespace": {
-    "alias": "vann",
-    "prefix": "https://vocab.org/vann/"
+  "namespace": "https://vocab.org/vann/",
+  "prefix": {
+    "vann": "https://vocab.org/vann/"
   },
-  "organization": "none",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/vann.ttl"
-    }
-  }
+  "url": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/vann.ttl"
 }

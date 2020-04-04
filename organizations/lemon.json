@@ -1,8 +1,7 @@
 {
-  "@type": "Organization",
   "description": "Lemon is a proposed model for modeling lexicon and machine-readable dictionaries and linked to the Semantic Web and the Linked Data cloud.  It was designed to meet the following challenges.",
   "homepage": "https://lemon-model.net",
-  "identifier": "lemon",
+  "id": "lemon",
   "image": "lemon.png",
   "name": "The Lexicon Model for Ontologies (Lemon)"
 }

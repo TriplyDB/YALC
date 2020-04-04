@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:api",
     "topic:vocabulary"
@@ -14,21 +13,11 @@
     "swap:version"
   ],
   "homepage": "https://www.w3.org/2000/10/swap",
-  "identifier": "swap",
+  "id": "w3c/swap@1.52",
   "name": "Semantic Web Application Platform (SWAP)",
-  "namespace": {
-    "alias": "swap",
-    "prefix": "http://www.w3.org/2000/10/swap/pim/doc#"
+  "namespace": "http://www.w3.org/2000/10/swap/pim/doc#",
+  "prefix": {
+    "swap": "http://www.w3.org/2000/10/swap/pim/doc#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "52"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2000/10/swap/pim/doc#"
-    }
-  }
+  "url": "http://www.w3.org/2000/10/swap/pim/doc#"
 }

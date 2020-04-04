@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:topLevel"
   ],
@@ -37,21 +36,11 @@
     "dul:Relation"
   ],
   "homepage": "",
-  "identifier": "dul",
+  "id": "odp/dul@3.32",
   "name": "DOLCE+DnS Ultralite",
-  "namespace": {
-    "alias": "dul",
-    "prefix": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
+  "namespace": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",
+  "prefix": {
+    "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
   },
-  "organization": "odp",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "3",
-    "minor": "32"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl"
-    }
-  }
+  "url": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl"
 }

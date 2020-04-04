@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:bibliography",
     "topic:vocabulary"
@@ -15,22 +14,11 @@
     "mads:ComplexSubject"
   ],
   "homepage": "http://id.loc.gov/ontologies/madsrdf/v1.html",
-  "identifier": "mads",
+  "id": "loc/mads@1.4.0",
   "name": "Metadata Authority Description Schema (MADS)",
-  "namespace": {
-    "alias": "mads",
-    "prefix": "http://www.loc.gov/mads/rdf/v1#"
+  "namespace": "http://www.loc.gov/mads/rdf/v1#",
+  "prefix": {
+    "mads": "http://www.loc.gov/mads/rdf/v1#"
   },
-  "organization": "loc",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "4",
-    "patch": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
-    }
-  }
+  "url": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
 }

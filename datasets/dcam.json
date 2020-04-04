@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -9,20 +8,11 @@
     "dcam:memberOf"
   ],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/abstract-model",
-  "identifier": "dcam",
+  "id": "dcmi/dcam@2007-06-04",
   "name": "Dublin Core Abstract Model",
-  "namespace": {
-    "alias": "dcam",
-    "prefix": "http://purl.org/dc/dcam/"
+  "namespace": "http://purl.org/dc/dcam/",
+  "prefix": {
+    "dcam": "http://purl.org/dc/dcam/"
   },
-  "organization": "dcmi",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDDate": "2007-06-04"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://www.dublincore.org/2010/10/11/dcam.rdf"
-    }
-  }
+  "url": "https://www.dublincore.org/2010/10/11/dcam.rdf"
 }

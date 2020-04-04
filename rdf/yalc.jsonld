@@ -3,44 +3,95 @@
   "@protected": true,
   "@version": 1.1,
   "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
-  "Dataset": {
-    "@context": {
-      "about": {
-        "@container": "@list",
-        "@id": "sdo:about",
-        "@type": "@id"
-      },
-      "exampleResource": {
-        "@container": "@list",
-        "@type": "@id"
-      },
-      "namespace": {
-        "@container": "@set",
-        "@type": "@id"
-      },
-      "organization": {
-        "@type": "@id"
-      },
-      "priorVersion": {
-        "@id": "owl:priorVersion",
-        "@type": "@id"
-      },
-      "wasDerivedFrom": {
-        "@id": "prov:wasDerivedFrom",
-        "@type": "@id"
-      }
-    },
-    "@id": "void:Dataset"
-  },
+  "Dataset": [
+    "sdo:Dataset",
+    "void:Dataset"
+  ],
   "Organization": "sdo:Organization",
-  "bag": "http://bag.basisregistraties.overheid.nl/def/bag#",
-  "bibo": "http://purl.org/ontology/bibo/",
-  "cnt": "http://www.w3.org/2011/content#",
+  "about": {
+    "@container": "@list",
+    "@id": "sdo:about",
+    "@type": "@id"
+  },
+  "date": {
+    "@id": "time:inXSDDate",
+    "@type": "xsd:date"
+  },
   "contentUrl": {
     "@container": "@set",
     "@id": "sdo:contentUrl",
     "@type": "xsd:anyURI"
   },
+  "description": {
+    "@id": "dct:description",
+    "@type": "markdown"
+  },
+  "distribution": {
+    "@id": "sdo:distribution",
+    "@type": "sdo:DataDownlod"
+  },
+  "exampleResource": {
+    "@container": "@list",
+    "@type": "@id"
+  },
+  "homepage": {
+    "@id": "foaf:homepage",
+    "@type": "xsd:anyURI"
+  },
+  "id": {
+    "@id": "sdo:identifier"
+  },
+  "image": {
+    "@id": "sdo:image"
+  },
+  "label": {
+    "@id": "rdfs:label"
+  },
+  "license": {
+    "@id": "sdo:license"
+  },
+  "major": {
+    "@type": "xsd:nonNegativeInteger"
+  },
+  "minor": {
+    "@type": "xsd:nonNegativeInteger"
+  },
+  "name": {
+    "@id": "sdo:name"
+  },
+  "namespace": {
+    "@container": "@set",
+    "@type": "xsd:anyURI"
+  },
+  "narrower": {
+    "@id": "skos:narrower",
+    "@type": "@id"
+  },
+  "organization": {
+    "@type": "@id"
+  },
+  "prefix": {
+    "@type": "@id"
+  },
+  "prefixDeclaration": {
+    "@container": "@set"
+  },
+  "priorVersion": {
+    "@id": "owl:priorVersion",
+    "@type": "@id"
+  },
+  "wasDerivedFrom": {
+    "@id": "prov:wasDerivedFrom",
+    "@type": "@id"
+  },
+  "yearMonth": {
+    "@id": "time:inXSDgYearMonth",
+    "@type": "xsd:gYearMonth"
+  },
+
+  "bag": "http://bag.basisregistraties.overheid.nl/def/bag#",
+  "bibo": "http://purl.org/ontology/bibo/",
+  "cnt": "http://www.w3.org/2011/content#",
   "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#",
   "dataid": "http://dataid.dbpedia.org/ns/core#",
   "dbo": "http://dbpedia.org/ontology/",
@@ -53,14 +104,6 @@
   "dcmit": "http://purl.org/dc/dcmitype/",
   "dct": "http://purl.org/dc/terms/",
   "decomp": "http://www.w3.org/ns/lemon/decomp#",
-  "description": {
-    "@id": "dct:description",
-    "@type": "markdown"
-  },
-  "distribution": {
-    "@id": "sdo:distribution",
-    "@type": "sdo:DataDownlod"
-  },
   "doap": "http://usefulinc.com/ns/doap#",
   "dqv": "http://www.w3.org/ns/dqv#",
   "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",
@@ -73,68 +116,24 @@
   "gn": "http://sws.geonames.org/",
   "gno": "http://www.geonames.org/ontology#",
   "holding": "http://purl.org/ontology/holding#",
-  "homepage": {
-    "@id": "foaf:homepage",
-    "@type": "xsd:anyURI"
-  },
   "http": "http://www.w3.org/2011/http#",
   "i18n": "https://www.w3.org/ns/i18n#",
-  "identifier": {
-    "@id": "sdo:identifier"
-  },
-  "image": {
-    "@id": "sdo:image"
-  },
-  "inXSDDate": {
-    "@id": "time:inXSDDate",
-    "@type": "xsd:date"
-  },
-  "inXSDgYear": {
-    "@id": "time:inXSDgYear",
-    "@type": "xsd:gYear"
-  },
-  "inXSDgYearMonth": {
-    "@id": "time:inXSDgYearMonth",
-    "@type": "xsd:gYearMonth"
-  },
   "iolite": "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl",
   "ipo": "http://purl.org/ipo/core#",
-  "label": {
-    "@id": "rdfs:label"
-  },
   "lemon": "http://lemon-model.net/lemon#",
   "lexicog": "http://www.w3.org/ns/lemon/lexicog#",
   "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
   "lexinfo1": "http://www.lexinfo.net/lexinfo#",
   "lexinfo2": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
-  "license": {
-    "@id": "sdo:license"
-  },
   "lode": "http://linkedevents.org/ontology/",
   "lime": "http://www.w3.org/ns/lemon/lime#",
   "mads": "http://www.loc.gov/mads/rdf/v1#",
-  "major": {
-    "@type": "xsd:nonNegativeInteger"
-  },
-  "minor": {
-    "@type": "xsd:nonNegativeInteger"
-  },
   "mo": "http://purl.org/ontology/mo/",
-  "name": {
-    "@id": "sdo:name"
-  },
-  "narrower": {
-    "@id": "skos:narrower",
-    "@type": "@id"
-  },
   "oa": "http://www.w3.org/ns/oa#",
   "oils": "http://lemon-model.net/oils#",
   "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
   "ov": "http://open.vocab.org/terms/",
   "owl": "http://www.w3.org/2002/07/owl#",
-  "prefix": {
-    "@type": "xsd:anyURI"
-  },
   "prov": "http://www.w3.org/ns/prov#",
   "provenance-core": "http://purl.org/net/provenance/ns#",
   "provenance-files": "http://purl.org/net/provenance/files#",

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:social",
     "topic:vocabulary"
@@ -10,20 +9,11 @@
     "vcard:tel"
   ],
   "homepage": "https://www.w3.org/TR/vcard-rdf",
-  "identifier": "vcard",
+  "id": "w3c/vcard@2014-05-22",
   "name": "vCard",
-  "namespace": {
-    "alias": "vcard",
-    "prefix": "http://www.w3.org/2006/vcard/ns#"
+  "namespace": "http://www.w3.org/2006/vcard/ns#",
+  "prefix": {
+    "vcard": "http://www.w3.org/2006/vcard/ns#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "TemporalVersion",
-    "isXSDDate": "2014-05-22"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2006/vcard/ns#"
-    }
-  }
+  "url": "http://www.w3.org/2006/vcard/ns#"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -12,21 +11,11 @@
     "rdfs:range"
   ],
   "homepage": "https://www.w3.org/TR/rdf-schema",
-  "identifier": "rdfs",
+  "id": "w3c/rdfs@1.1",
   "name": "RDF Schema",
-  "namespace": {
-    "alias": "rdfs",
-    "prefix": "http://www.w3.org/2000/01/rdf-schema#"
+  "namespace": "http://www.w3.org/2000/01/rdf-schema#",
+  "prefix": {
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "1"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2000/01/rdf-schema#"
-    }
-  }
+  "url": "http://www.w3.org/2000/01/rdf-schema#"
 }

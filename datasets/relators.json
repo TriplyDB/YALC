@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:bibliography",
     "topic:vocabulary"
@@ -16,20 +15,11 @@
     "relator:anm"
   ],
   "homepage": "http://id.loc.gov/vocabulary/relators.html",
-  "identifier": "relators",
+  "id": "loc/relators@2017-09-07",
   "name": "MARC Code List for Relators Scheme",
-  "namespace": {
-    "alias": "relator",
-    "prefix": "http://id.loc.gov/vocabulary/relators/"
+  "namespace": "http://id.loc.gov/vocabulary/relators/",
+  "prefix": {
+    "relator": "http://id.loc.gov/vocabulary/relators/"
   },
-  "organization": "loc",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDDate": "2017-09-07"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
-    }
-  }
+  "url": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
 }

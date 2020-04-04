@@ -1,34 +1,20 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:linguistics"
   ],
   "description": "WordNet is a large lexical database of English.  Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept.  Synsets are interlinked by means of conceptual-semantic and lexical relations.  The resulting network of meaningfully related words and concepts can be navigated with the browser.  WordNet's structure makes it a useful tool for computational linguistics and natural language processing.",
   "exampleResource": [],
   "homepage": "https://semanticweb.cs.vu.nl/lod/wn30",
-  "identifier": "wordnet",
+  "id": "princeton/wordnet@3.1",
   "image": "wordnet.png",
   "name": "WordNet",
   "namespace": [
-    {
-      "alias": "wno",
-      "prefix": "http://wordnet-rdf.princeton.edu/ontology#"
-    },
-    {
-      "alias": "wnr",
-      "prefix": "http://wordnet-rdf.princeton.edu/id/"
-    }
+    "http://wordnet-rdf.princeton.edu/ontology#",
+    "http://wordnet-rdf.princeton.edu/id/"
   ],
-  "organization": "princeton",
-  "priorVersion": "princeton/wordnet@3.0",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "3",
-    "minor": "1"
+  "prefix": {
+    "wno": "http://wordnet-rdf.princeton.edu/ontology#",
+    "wnr": "http://wordnet-rdf.princeton.edu/id/"
   },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://wordnet-rdf.princeton.edu/static/wordnet.nt.gz"
-    }
-  }
+  "url": "http://wordnet-rdf.princeton.edu/static/wordnet.nt.gz"
 }

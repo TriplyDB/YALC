@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:geography",
     "topic:vocabulary"
@@ -15,21 +14,11 @@
     "geof:union"
   ],
   "homepage": "https://www.opengeospatial.org/standards/geosparql",
-  "identifier": "geof",
+  "id": "ogc/geof@1.0",
   "name": "GeoSPARQL: A Geographic Query Language for RDF Data",
-  "namespace": {
-    "alias": "geof",
-    "prefix": "http://www.opengis.net/def/function/geosparql/"
+  "namespace": "http://www.opengis.net/def/function/geosparql/",
+  "prefix": {
+    "geof": "http://www.opengis.net/def/function/geosparql/"
   },
-  "organization": "ogc",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.opengis.net/def/function/geosparql/"
-    }
-  }
+  "url": "http://www.opengis.net/def/function/geosparql/"
 }

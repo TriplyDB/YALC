@@ -1,8 +1,7 @@
 {
-  "@type": "Organization",
-  "description": "",
+  "description": "A catalog of ontology design patterns.",
   "homepage": "http://ontologydesignpatterns.org",
-  "identifier": "odp",
+  "id": "odp",
   "image": "odp.png",
   "name": "Ontology Design Patterns (ODP)"
 }

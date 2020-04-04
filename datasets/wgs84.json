@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:geography",
     "topic:vocabulary"
@@ -11,21 +10,11 @@
     "wgs84:long"
   ],
   "homepage": "http://www.w3.org/2003/01/geo/wgs84_pos#",
-  "identifier": "wgs84",
+  "id": "w3c/wgs84@1.22",
   "name": "WGS84 Geo Positioning",
-  "namespace": {
-    "alias": "wgs84",
-    "prefix": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  "namespace": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+  "prefix": {
+    "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "22"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2003/01/geo/wgs84_pos#"
-    }
-  }
+  "url": "http://www.w3.org/2003/01/geo/wgs84_pos#"
 }

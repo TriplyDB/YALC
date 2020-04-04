@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:geospatial",
     "topic:vocabulary"
@@ -23,16 +22,11 @@
     "geojson:type"
   ],
   "homepage": "https://geojson.org/geojson-ld/vocab.html",
-  "identifier": "geojson",
+  "id": "w3c/geojson",
   "name": "GeoJSON-LD Vocabulary",
-  "namespace": {
-    "alias": "geojson",
-    "prefix": "https://purl.org/geojson/vocab#"
+  "namespace": "https://purl.org/geojson/vocab#",
+  "prefix": {
+    "geojson": "https://purl.org/geojson/vocab#"
   },
-  "organization": "w3c",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://purl.org/geojson/vocab#"
-    }
-  }
+  "url": "https://purl.org/geojson/vocab#"
 }

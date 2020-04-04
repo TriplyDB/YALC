@@ -1,8 +1,7 @@
 {
-  "@type": "Organization",
   "description": "Advene (Annotate Digital Video, Exchange on the NEt) is an ongoing project aiming at providing a model and a format to share annotations about digital video documents (movies, courses, conferences…), as well as tools to edit and visualize the hypervideos generated from both the annotations and the audiovisual documents.  Teachers, moviegoers, researchers, etc. can use them to exchange multimedia comments and analyses about video documents.",
   "homepage": "https://www.advene.org",
-  "identifier": "advene",
-  "image": ".png",
+  "id": "advene",
+  "image": "advene.png",
   "name": "Advene Project"
 }

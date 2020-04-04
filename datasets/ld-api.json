@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:api",
     "topic:vocabulary"
@@ -13,16 +12,11 @@
     "ld-api:TurtleFormatter"
   ],
   "homepage": "https://github.com/UKGovLD/linked-data-api",
-  "identifier": "ld-api",
+  "id": "UKGovLD/ld-api",
   "name": "Linked Data API",
-  "namespace": {
-    "alias": "ld-api",
-    "prefix": "http://purl.org/linked-data/api/vocab#"
+  "namespace": "http://purl.org/linked-data/api/vocab#",
+  "prefix": {
+    "ld-api": "http://purl.org/linked-data/api/vocab#"
   },
-  "organization": "UKGovLD",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://raw.githubusercontent.com/UKGovLD/linked-data-api/master/vocab/api.ttl"
-    }
-  }
+  "url": "https://raw.githubusercontent.com/UKGovLD/linked-data-api/master/vocab/api.ttl"
 }

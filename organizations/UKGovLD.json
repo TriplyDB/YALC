@@ -1,7 +1,6 @@
 {
-  "@type": "Organization",
   "description": "UK Government Linked Data Working Group.",
   "homepage": "https://github.com/UKGovLD",
-  "identifier": "UKGovLD",
+  "id": "UKGovLD",
   "name": "UK Government Linked Data Working Group (UKGovLD)"
 }

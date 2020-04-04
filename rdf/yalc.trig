@@ -21,10 +21,10 @@ dataset: {
 }
 
 graph:vocab {
-  yalc:Namespace
-    rdfs:comment "An RDF namespace declaration."@en ;
+  yalc:PrefixDeclaration
+    rdfs:comment "A declaration that assigns an alias label to an IRI prefix.  Such declarations are often used to abbreviate long IRIs."@en ;
     rdfs:isDefinedBy dataset:;
-    rdfs:label "namespace"@en ;
+    rdfs:label "prefix declaration"@en ;
     rdfs:subClassOf owl:Thing.
 
   yalc:SemanticVersion
@@ -49,8 +49,8 @@ graph:vocab {
     rdfs:subClassOf owl:Thing.
 
   yalc:alias a owl:DatatypeProperty;
-    rdfs:comment "The alias that will be used to denote the namespace.  Typically, the alias is shorter and easier to remember than the IRI prefix that is stands for."@en;
-    rdfs:domain yalc:Namespace;
+    rdfs:comment "The alias label of the prefex declarations.  Typically, the alias label is shorter and easier to remember than the IRI prefix that is denotes."@en;
+    rdfs:domain yalc:PrefixDeclaration;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has alias"@en;
     rdfs:range xsd:string.
@@ -78,11 +78,11 @@ graph:vocab {
     rdfs:range xsd:nonNegativeInteger.
 
   yalc:namespace a owl:ObjectProperty;
-    rdfs:comment "The relationship between a dataset and a preferred namespace for that dataset."@en;
+    rdfs:comment "The relationship between a dataset and the IRI prefixes (or namespaces) for which the dataset is considered to be the authority."@en;
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has namespace"@en;
-    rdfs:range yalc:Namespace.
+    rdfs:range xsd:anyURI.
 
   yalc:organization a owl:ObjectProperty;
     rdfs:comment "The relationship between a dataset and the organization that publishes it."@en;
@@ -99,11 +99,18 @@ graph:vocab {
     rdfs:range xsd:nonNegativeInteger.
 
   yalc:prefix a owl:DatatypeProperty;
-    rdfs:comment "The IRI prefix of the namespace."@en;
-    rdfs:domain yalc:Namespace;
+    rdfs:comment "The IRI prefix of the prefix declaration."@en;
+    rdfs:domain yalc:PrefixDeclaration;
     rdfs:isDefinedBy dataset:;
     rdfs:label "has prefix"@en;
     rdfs:range xsd:anyURI.
+
+  yalc:prefixDeclaration a owl:ObjectProperty;
+    rdfs:comment "Preferred prefix declarations for use with the dataset."@en;
+    rdfs:domain void:Dataset;
+    rdfs:isDefinedBy dataset:;
+    rdfs:label "has prefix declaration"@en;
+    rdfs:range yalc:PrefixDeclaration.
 
   yalc:version a owl:ObjectProperty;
     rdfs:comment "The relationship between a dataset and its version indicator."@en;

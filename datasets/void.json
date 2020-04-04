@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:metadata",
     "topic:vocabulary"
@@ -11,16 +10,11 @@
     "void:properties"
   ],
   "homepage": "https://www.w3.org/TR/void",
-  "identifier": "void",
+  "id": "w3c/void",
   "name": "Vocabulary of Interlinked Datasets (VoID)",
-  "namespace": {
-    "alias": "void",
-    "prefix": "http://rdfs.org/ns/void#"
+  "namespace": "http://rdfs.org/ns/void#",
+  "prefix": {
+    "void": "http://rdfs.org/ns/void#"
   },
-  "organization": "w3c",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://rdfs.org/ns/void#"
-    }
-  }
+  "url": "http://rdfs.org/ns/void#"
 }

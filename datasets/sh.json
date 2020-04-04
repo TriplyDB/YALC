@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -10,16 +9,11 @@
     "sh:PrefixDeclaration"
   ],
   "homepage": "https://www.w3.org/TR/shacl",
-  "identifier": "sh",
+  "id": "w3c/sh",
   "name": "Shapes Constraint Language (SHACL)",
-  "namespace": {
-    "alias": "sh",
-    "prefix": "http://www.w3.org/ns/shacl#"
+  "namespace": "http://www.w3.org/ns/shacl#",
+  "prefix": {
+    "sh": "http://www.w3.org/ns/shacl#"
   },
-  "organization": "w3c",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/shacl#"
-    }
-  }
+  "url":"http://www.w3.org/ns/shacl#"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:metadata",
     "topic:vocabulary"
@@ -10,21 +9,12 @@
     "dcat:distribution"
   ],
   "homepage": "https://www.w3.org/TR/vocab-dcat-2",
-  "identifier": "dcat",
+  "id": "w3c/dcat@2.0",
   "name": "Data Catalog Vocabulary (DCAT)",
-  "namespace": {
+  "namespace": "http://www.w3.org/ns/dcat#",
+  "prefix": {
     "alias": "dcat",
     "prefix": "http://www.w3.org/ns/dcat#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "2",
-    "minor": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/dcat#"
-    }
-  }
+  "url": "http://www.w3.org/ns/dcat#"
 }

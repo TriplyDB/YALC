@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:metadata",
     "topic:publishing",
@@ -14,21 +13,11 @@
     "dct:Location"
   ],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/",
-  "identifier": "dct",
+  "id": "dcmi/dct@1.1",
   "name": "Dublin Core Terms",
-  "namespace": {
-    "alias": "dct",
-    "prefix": "http://purl.org/dc/terms/"
+  "namespace": "http://purl.org/dc/terms/",
+  "prefix": {
+    "dct": "http://purl.org/dc/terms/"
   },
-  "organization": "dcmi",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "1"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/dc/terms/"
-    }
-  }
+  "url": "http://purl.org/dc/terms/"
 }

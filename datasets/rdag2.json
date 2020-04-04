@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -11,16 +10,11 @@
     "rdag2:gender"
   ],
   "homepage": "http://metadataregistry.org/schema/show/id/15.html",
-  "identifier": "rdag2",
+  "id": "rda/rdag2",
   "name": "RDA Group 2 Elements",
-  "namespace": {
-    "alias": "rdag2",
-    "prefix": "http://rdvocab.info/ElementsGr2/"
+  "namespace": "http://rdvocab.info/ElementsGr2/",
+  "prefix": {
+    "rdag2": "http://rdvocab.info/ElementsGr2/"
   },
-  "organization": "rda",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://rdvocab.info/ElementsGr2"
-    }
-  }
+  "url": "http://rdvocab.info/ElementsGr2"
 }

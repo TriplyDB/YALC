@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:metadata",
     "topic:publishing",
@@ -16,20 +15,11 @@
     "dcmit:Text"
   ],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary",
-  "identifier": "dcmit",
+  "id": "dcmi/dcmit@2012-06-14",
   "name": "Dublin Core Types",
-  "namespace": {
-    "alias": "dcmit",
-    "prefix": "http://purl.org/dc/dcmitype/"
+  "namespace": "http://purl.org/dc/dcmitype/",
+  "prefix": {
+    "dcmit": "http://purl.org/dc/dcmitype/"
   },
-  "organization": "dcmi",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDDate": "2012-06-14"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/dc/dcmitype/"
-    }
-  }
+  "url": "http://purl.org/dc/dcmitype/"
 }

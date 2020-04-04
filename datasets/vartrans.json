@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography",
     "topic:vocabulary"
@@ -16,16 +15,11 @@
     "vartrans:target"
   ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Variation_.26_Translation_.28vartrans.29",
-  "identifier": "vartrans",
+  "id": "lemon/vartrans",
   "name": "Variation & Translation (VarTrans)",
-  "namespace": {
-    "alias": "vartrans",
-    "prefix": "http://www.w3.org/ns/lemon/vartrans#"
+  "namespace": "http://www.w3.org/ns/lemon/vartrans#",
+  "prefix": {
+    "vartrans": "http://www.w3.org/ns/lemon/vartrans#"
   },
-  "organization": "lemon",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/lemon/vartrans#"
-    }
-  }
+  "url": "http://www.w3.org/ns/lemon/vartrans#"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -10,21 +9,11 @@
     "event:hasProduct"
   ],
   "homepage": "http://motools.sourceforge.net/event/event.html#",
-  "identifier": "event",
+  "id": "event@1.0",
   "name": "Event Ontology",
-  "namespace": {
-    "alias": "event",
-    "prefix": "http://purl.org/NET/c4dm/event.owl#"
+  "namespace": "http://purl.org/NET/c4dm/event.owl#",
+  "prefix": {
+    "event": "http://purl.org/NET/c4dm/event.owl#"
   },
-  "organization": "none",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/NET/c4dm/event.owl#"
-    }
-  }
+  "url": "http://purl.org/NET/c4dm/event.owl#"
 }

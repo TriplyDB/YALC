@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -12,17 +11,11 @@
     "cpa:scenarios"
   ],
   "homepage": "http://ontologydesignpatterns.org/wiki/Submissions:ActingFor",
-  "identifier": "acting-for",
-  "image": "odp.png",
+  "id": "odp/acting-for",
   "name": "“Acting for” Pattern",
-  "namespace": {
-    "alias": "cpa",
-    "prefix": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#"
+  "namespace": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#",
+  "prefix": {
+    "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#"
   },
-  "organization": "odp",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl"
-    }
-  }
+  "url": "http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl"
 }

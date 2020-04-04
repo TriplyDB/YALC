@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -25,21 +24,11 @@
     "skos:topConceptOf"
   ],
   "homepage": "https://www.w3.org/2009/08/skos-reference/skos.html",
-  "identifier": "skos",
+  "id": "w3c/skos@1.2",
   "name": "Simple Knowledge Organization System (SKOS)",
-  "namespace": {
-    "alias": "skos",
-    "prefix": "http://www.w3.org/2004/02/skos/core#"
+  "namespace": "http://www.w3.org/2004/02/skos/core#",
+  "prefix": {
+    "skos": "http://www.w3.org/2004/02/skos/core#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "2"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/2004/02/skos/core#"
-    }
-  }
+  "url": "http://www.w3.org/2004/02/skos/core#"
 }
