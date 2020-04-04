@@ -161,10 +161,3 @@ the following:
   - The dataset and organization files must mention an image file in
     the `/img` directory (see section [Configuration
     format](#configuration-format)).
-
-## Erroneous dataset
-
-Unfortunately, many datasets cannot be included into the LOD Cloud
-because they do follow standards.  Datasets that are currently not
-included because of errors can be found in the
-[`/errors`](datasets/errors) directory.

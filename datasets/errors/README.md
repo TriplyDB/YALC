@@ -1,7 +1,8 @@
 # Erroneous datasets
 
-This directory contains configuration files for datasets that cannot
-be uploaded because they contain errors.
+Unfortunately, many datasets cannot be included into the LOD Cloud
+because they do follow standards.  Datasets that are currently not
+included because of errors are described in this directory.
 
 ## Erroneous `Content-Type` header
 
