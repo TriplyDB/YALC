@@ -1,7 +1,7 @@
 ---
 name: Question
 about: If something needs clarification.
-title: SHORT DESCRIPTION
+title: `SHORT_DESCRIPTION`
 labels: ''
 assignees: ''
 

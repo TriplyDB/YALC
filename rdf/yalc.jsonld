@@ -3,10 +3,7 @@
   "@protected": true,
   "@version": 1.1,
   "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
-  "Dataset": [
-    "sdo:Dataset",
-    "void:Dataset"
-  ],
+  "Dataset": "void:Dataset",
   "Organization": "sdo:Organization",
   "about": {
     "@container": "@list",
@@ -38,7 +35,7 @@
     "@id": "foaf:homepage",
     "@type": "xsd:anyURI"
   },
-  "id": {
+  "identifier": {
     "@id": "sdo:identifier"
   },
   "image": {
@@ -71,7 +68,7 @@
     "@type": "@id"
   },
   "prefix": {
-    "@type": "@id"
+    "@type": "xsd:anyURI"
   },
   "prefixDeclaration": {
     "@container": "@set"
