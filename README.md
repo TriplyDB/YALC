@@ -11,7 +11,8 @@
 ## Get started
 
 To use the LOD Cloud, go to https://triplydb.com and search for your
-favorite Linked Dataset.
+favorite Linked Dataset.  Or visit the [YALC
+metadata](https://triplydb.com/Triply/yalc) set.
 
 ## Contribute
 
