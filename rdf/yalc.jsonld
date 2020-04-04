@@ -1,15 +1,43 @@
 {
   "@base": "https://triplydb.com/",
+  "@protected": true,
+  "@version": 1.1,
   "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
-  "Dataset": "void:Dataset",
-  "Organization": "sdo:Organization",
-  "about": {
-    "@id": "sdo:about"
+  "Dataset": {
+    "@context": {
+      "about": {
+        "@container": "@list",
+        "@id": "sdo:about",
+        "@type": "@id"
+      },
+      "exampleResource": {
+        "@container": "@list",
+        "@type": "@id"
+      },
+      "namespace": {
+        "@container": "@set",
+        "@type": "@id"
+      },
+      "organization": {
+        "@type": "@id"
+      },
+      "priorVersion": {
+        "@id": "owl:priorVersion",
+        "@type": "@id"
+      },
+      "wasDerivedFrom": {
+        "@id": "prov:wasDerivedFrom",
+        "@type": "@id"
+      }
+    },
+    "@id": "void:Dataset"
   },
+  "Organization": "sdo:Organization",
   "bag": "http://bag.basisregistraties.overheid.nl/def/bag#",
   "bibo": "http://purl.org/ontology/bibo/",
   "cnt": "http://www.w3.org/2011/content#",
   "contentUrl": {
+    "@container": "@set",
     "@id": "sdo:contentUrl",
     "@type": "xsd:anyURI"
   },
@@ -38,9 +66,6 @@
   "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",
   "earl": "http://www.w3.org/ns/earl#",
   "event": "http://purl.org/NET/c4dm/event.owl#",
-  "exampleResource": {
-    "@type": "@id"
-  },
   "foaf": "http://xmlns.com/foaf/0.1/",
   "geo": "http://www.opengis.net/ont/geosparql#",
   "geof": "http://www.opengis.net/def/function/geosparql/",
@@ -98,9 +123,6 @@
   "name": {
     "@id": "sdo:name"
   },
-  "namespace": {
-    "@type": "@id"
-  },
   "narrower": {
     "@id": "skos:narrower",
     "@type": "@id"
@@ -112,10 +134,6 @@
   "owl": "http://www.w3.org/2002/07/owl#",
   "prefix": {
     "@type": "xsd:anyURI"
-  },
-  "priorVersion": {
-    "@id": "owl:priorVersion",
-    "@type": "@id"
   },
   "prov": "http://www.w3.org/ns/prov#",
   "provenance-core": "http://purl.org/net/provenance/ns#",
@@ -164,10 +182,6 @@
   "viaf": "http://viaf.org/viaf/",
   "void": "http://rdfs.org/ns/void#",
   "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#",
-  "wasDerivedFrom": {
-    "@id": "prov:wasDerivedFrom",
-    "@type": "@id"
-  },
   "wde": "http://www.wikidata.org/entity/",
   "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#",
   "wdp": "http://www.wikidata.org/prop/direct/",
