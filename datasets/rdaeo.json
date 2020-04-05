@@ -1,0 +1,22 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Expression object properties element set consists of properties accommodating object values for relationships of the RDA *Expression* entity.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/e/object/",
+  "id": "rda/rdaeo",
+  "name": "RDA Element Sets: Expression object properties",
+  "namespace": "http://rdaregistry.info/Elements/e/object/",
+  "prefix": {
+    "rdaao": "http://rdaregistry.info/Elements/a/object/",
+    "rdac": "http://rdaregistry.info/Elements/c/",
+    "rdaeo": "http://rdaregistry.info/Elements/e/object/",
+    "rdano": "http://rdaregistry.info/Elements/n/object/",
+    "rdato": "http://rdaregistry.info/Elements/t/object/",
+    "rdaxo": "http://rdaregistry.info/Elements/x/object/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/e/object.nt"
+}

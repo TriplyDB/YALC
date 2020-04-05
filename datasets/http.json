@@ -1,0 +1,42 @@
+{
+  "about": [
+    "topic:api",
+    "topic:vocabulary"
+  ],
+  "description": "A vocabulary that defines a collection of RDF classes and properties that represent the HTTP vocabulary as defined by the HTTP specification [RFC2616](http://www.w3.org/Protocols/rfc2616/rfc2616.html).  These RDF terms can be used to record HTTP or secure HTTP request and response messages in RDF format, such as by automated Web accessibility evaluation tools that want to describe Web resources, including the various headers exchanged between the client and server during content negotiation.",
+  "exampleResource": [
+    "http:Connection",
+    "http:HeaderElement",
+    "http:HeaderName",
+    "http:Message",
+    "http:MessageHeader",
+    "http:Method",
+    "http:Request",
+    "http:authority",
+    "http:body",
+    "httpHeader:accept",
+    "httpMethod:GET",
+    "httpStatusCode:Accepted"
+  ],
+  "homepage": "https://www.w3.org/TR/HTTP-in-RDF10",
+  "id": "w3c/http@2011-04-29",
+  "name": "HTTP Vocabulary",
+  "namespace": [
+    "https://www.w3.org/2011/http#",
+    "http://www.w3.org/2011/http-headers#",
+    "http://www.w3.org/2011/http-methods#",
+    "http://www.w3.org/2011/http-statusCodes#"
+  ],
+  "prefix": {
+    "http": "https://www.w3.org/2011/http#",
+    "httpHeader": "http://www.w3.org/2011/http-headers#",
+    "httpMethod": "http://www.w3.org/2011/http-methods#",
+    "httpStatusCode": "http://www.w3.org/2011/http-statusCodes#"
+  },
+  "url": [
+    "https://www.w3.org/2011/http#",
+    "http://www.w3.org/2011/http-headers",
+    "http://www.w3.org/2011/http-methods",
+    "http://www.w3.org/2011/http-statusCodes"
+  ]
+}

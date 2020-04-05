@@ -1,0 +1,20 @@
+{
+  "about": [
+    "topic:versioning",
+    "topic:vocabulary"
+  ],
+  "description": "An RDF vocabulary for relating SW vocabulary terms to their status.",
+  "exampleResource": [
+    "vs:moreinfo",
+    "vs:term_status",
+    "vs:userdocs"
+  ],
+  "id": "w3c/vs@2.0",
+  "name": "Vocabulary Status",
+  "namespace": "http://www.w3.org/2003/06/sw-vocab-status/ns#",
+  "prefix": {
+    "vann": "http://purl.org/vocab/vann/",
+    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+  },
+  "url": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+}

@@ -35,6 +35,9 @@ header:
   - [SDMX Measure](sdmx-measure.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
 
+  - [Simple Event Model (SEM)](sem.json) emits `application/rss+xml`
+    i.o. `application/rdf+xml`.
+
 The following datasets emit no `Content-Type` header at all:
 
   - [DOAP](doap.json)

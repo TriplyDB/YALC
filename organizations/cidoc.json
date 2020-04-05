@@ -1,0 +1,7 @@
+{
+  "description": "CIDOC is one of the 30 International committees of ICOM.  It is CIDOC rather than ICDOC because the committee was at its inception guided by mostly Francophones (French speakers) who named it the Comité International pour la Documentation.  As the world has become more Anglophone (English speaking) the lingua franca of the committee has become English, and the de facto name of the committee has become the International Committee for Documentation.",
+  "homepage": "http://network.icom.museum/cidoc",
+  "id": "cidoc",
+  "image": "cidoc.png",
+  "name": "ICOM International Committee for Documentation (CIDOC)"
+}

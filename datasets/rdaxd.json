@@ -1,0 +1,28 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The RDA Entity datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Entity* entity.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/x/datatype/",
+  "id": "rda/rdaxd",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA Element Sets: Entity datatype Properties",
+  "namespace": "http://rdaregistry.info/Elements/x/datatype/",
+  "prefix": {
+    "rdaad": "http://rdaregistry.info/Elements/a/datatype/",
+    "rdac": "http://rdaregistry.info/Elements/c/",
+    "rdaed": "http://rdaregistry.info/Elements/e/datatype/",
+    "rdaid": "http://rdaregistry.info/Elements/i/datatype/",
+    "rdamd": "http://rdaregistry.info/Elements/m/datatype/",
+    "rdand": "http://rdaregistry.info/Elements/n/datatype/",
+    "rdapd": "http://rdaregistry.info/Elements/p/datatype/",
+    "rdatd": "http://rdaregistry.info/Elements/t/datatype/",
+    "rdawd": "http://rdaregistry.info/Elements/w/datatype/",
+    "rdax": "http://rdaregistry.info/Elements/x/",
+    "rdaxd": "http://rdaregistry.info/Elements/x/datatype/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/x/datatype.nt"
+}

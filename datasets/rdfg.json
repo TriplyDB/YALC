@@ -1,0 +1,20 @@
+{
+  "about": [
+    "topic:statistics",
+    "topic:vocabulary"
+  ],
+  "description": "Named Graphs is the idea that having multiple RDF graphs in a single document/repository and naming them with URIs provides useful additional functionality built on top of the RDF Recommendations.\n\nNamed Graphs and corresponding technologies are currently developed by participants of the Semantic Web Interest Group.  The intent is to introduce them into the W3C process in an appropriate way once initial versions are finished.",
+  "exampleResource": [
+    "rdfg:Graph",
+    "rdfg:equivalentGraph",
+    "rdfg:subGraphOf"
+  ],
+  "homepage": "http://www.w3.org/2004/03/trix/",
+  "id": "w3c/rdfg",
+  "name": "Graph",
+  "namespace": "http://www.w3.org/2004/03/trix/rdfg-1/",
+  "prefix": {
+    "rdfg": "http://www.w3.org/2004/03/trix/rdfg-1/"
+  },
+  "url": "http://www.w3.org/2004/03/trix/rdfg-1/"
+}

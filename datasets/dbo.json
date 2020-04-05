@@ -3,7 +3,19 @@
     "topic:topLevel"
   ],
   "description": "Ontology for DBpedia.",
-  "exampleResource": [],
+  "exampleResource": [
+    "dbo:Actor",
+    "dbo:Agent",
+    "dbo:Aircraft",
+    "dbo:Airline",
+    "dbo:Airport",
+    "dbo:Album",
+    "dbo:Animal",
+    "dbt:kilowatt",
+    "dbt:litre",
+    "dbt:megabyte",
+    "dbt:minute"
+  ],
   "homepage": "https://wiki.dbpedia.org",
   "id": "dbpedia/dbo@2016-10",
   "image": "dbpedia.png",
@@ -13,8 +25,10 @@
     "http://dbpedia.org/datatype/"
   ],
   "prefix": {
+    "d0": "http://www.ontologydesignpatterns.org/ont/d0.owl#",
     "dbo": "http://dbpedia.org/ontology/",
-    "dbt": "http://dbpedia.org/datatype/"
+    "dbt": "http://dbpedia.org/datatype/",
+    "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
   },
   "url": "http://downloads.dbpedia.org/2016-10/dbpedia_2016-10.owl"
 }

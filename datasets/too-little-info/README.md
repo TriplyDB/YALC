@@ -14,19 +14,23 @@ no dataset could yet be found.  Please open a ‘Dataset request’
 [issue](https://github.com/TriplyDB/YALC/issues) if you know which
 dataset defines any of the following namespaces:
 
-- http://creativecommons.org/licenses/by/1.0/
-- http://iandavis.com/id/
+- http://bibframe.org/vocab/
+- http://creativecommons.org/licenses/
+- http://data.semanticweb.org/person/
 - http://ili.globalwordnet.org/ili/
-- http://lists.foaf-project.org/mailman/listinfo/foaf-dev
-- http://purl.org/dc/aboutdcmi#DCMI
+- http://metadataregistry.org/uri/profile/rdakit/
 - http://purl.org/net/vocab/2004/03/label#
 - http://purl.org/vocab/vann/
 - http://schemas.talis.com/2005/dir/schema#
 - http://sw.opencyc.org/2009/04/07/concept/en/
 - http://vocab.org/vann/.html
 - http://web.resource.org/cc/
-- http://www.ivan-herman.net/foaf#
 - http://www.loa-cnr.it/ontologies/DUL.owl#
 - http://www.rddl.org/purposes#
+- http://www.w3.org/1999/xhtml/vocab#
+- http://www.w3.org/2001/XMLSchema-datatypes#
+- http://www.w3.org/TR/powder-dr/#
+- http://www.w3.org/TR/powder-formal/#
 - http://www.w3.org/TR/rdf-concepts/#
+- http://www.w3.org/TR/xpath-functions/#
 - https://w3id.org/credentials#

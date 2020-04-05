@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "Geography"
   ],
@@ -13,22 +12,12 @@
     "gn:6465763/"
   ],
   "homepage": "https://www.geonames.org",
-  "identifier": "geonames",
+  "id": "geonames/geonames",
   "name": "GeoNames",
-  "namespace": [
-    {
-      "alias": "gn",
-      "prefix": "http://sws.geonames.org/"
-    },
-    {
-      "alias": "gno",
-      "prefix": "http://sws.geonames.org/ontology#"
-    }
-  ],
-  "organization": "geonames",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://download.geonames.org/all-geonames-rdf.zip"
-    }
-  }
+  "namespace": "http://sws.geonames.org/",
+  "prefix": {
+    "gn": "http://sws.geonames.org/"
+    "gno": "http://sws.geonames.org/ontology#"
+  },
+  "url": "http://download.geonames.org/all-geonames-rdf.zip"
 }

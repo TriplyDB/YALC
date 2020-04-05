@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:heritage"
   ],
@@ -9,20 +8,11 @@
     "http://hdl.handle.net/10934/RM0001.PEOPLE.83960"
   ],
   "homepage": "https://data.rijksmuseum.nl",
-  "identifier": "actors",
-  "image": "rijksmuseum.png",
+  "id": "rijksmuseum/actors@2019-11",
   "name": "Rijksmuseum Actors",
-  "namespace": {
-    "prefix": "http://hdl.handle.net/10934/"
+  "namespace": "http://hdl.handle.net/10934/",
+  "prefix": {
+    "actor": "http://hdl.handle.net/10934/"
   },
-  "organization": "rijksmuseum",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDgYearMonth": "2019-11"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "https://scan.rijkskoha.nl/adlibdumps/201911-rma-edm-actors.zip"
-    }
-  }
+  "url": "https://scan.rijkskoha.nl/adlibdumps/201911-rma-edm-actors.zip"
 }

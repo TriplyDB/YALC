@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:bibliography",
     "topic:vocabulary"
@@ -10,22 +9,12 @@
     "bibo:authorList"
   ],
   "homepage": "http://bibliontology.com",
-  "identifier": "bibo",
+  "identifier": "structured-dynamics/bibo@1.3",
   "image": "bibo.png",
   "name": "Bibliographic Ontology Specification (BIBO)",
-  "namespace": {
-    "alias": "bibo",
-    "prefix": "http://purl.org/ontology/bibo/"
+  "namespace": "http://purl.org/ontology/bibo/",
+  "prefix": {
+    "bibo": "http://purl.org/ontology/bibo/"
   },
-  "organization": "structured-dynamics",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "3"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/ontology/bibo/"
-    }
-  }
+  "url": "http://purl.org/ontology/bibo/"
 }

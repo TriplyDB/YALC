@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:lexicography",
     "topic:vocabulary"
@@ -7,17 +6,11 @@
   "description": "",
   "exampleResource": [],
   "homepage": "",
-  "identifier": "oils",
-  "image": "lemon.png",
+  "identifier": "lemon/oils",
   "name": "",
-  "namespace": {
-    "alias": "oils",
-    "prefix": "http://lemon-model.net/oils#"
+  "namespace": "http://lemon-model.net/oils#",
+  "prefix": {
+    "oils": "http://lemon-model.net/oils#"
   },
-  "organization": "lemon",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://lemon-model.net/oils#"
-    }
-  }
+  "url": "http://lemon-model.net/oils#"
 }

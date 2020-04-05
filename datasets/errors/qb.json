@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:statistics",
     "topic:vocabulary"
@@ -11,17 +10,12 @@
     "qb:measure"
   ],
   "homepage": "https://www.w3.org/TR/vocab-data-cube/",
-  "identifier": "qb",
+  "id": "w3c/qb",
   "image": "qb.png",
   "name": "Data Cube Vocabulary",
-  "namespace": {
-    "alias": "qb",
-    "prefix": "http://purl.org/linked-data/cube#"
+  "namespace": "http://purl.org/linked-data/cube#",
+  "prefix": {
+    "qb": "http://purl.org/linked-data/cube#"
   },
-  "organization": "w3c",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/linked-data/cube#"
-    }
-  }
+  "url": "http://purl.org/linked-data/cube#"
 }

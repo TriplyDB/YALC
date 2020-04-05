@@ -1,0 +1,26 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "This annotation property is used for exemplifying possible requirements the content pattern provides a solution for.  Requirements are expressed as natural language competency questions.",
+  "exampleResource": [
+    "cpa:coversRequirements",
+    "cpa:extractedFrom",
+    "cpa:hasComponent",
+    "cpa:hasConsequences",
+    "cpa:hasIntent",
+    "cpa:hasUnitTest",
+    "cpa:isCloneOf",
+    "cpa:isSpecializationOf",
+    "cpa:reengineeredFrom",
+    "cpa:relatedCPs",
+    "cpa:scenatios"
+  ],
+  "id": "odp/annotation",
+  "name": "",
+  "namespace": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#",
+  "prefix": {
+    "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#"
+  },
+  "url": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl"
+}

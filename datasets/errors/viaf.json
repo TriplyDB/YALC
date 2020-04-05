@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:library"
   ],
@@ -13,21 +12,12 @@
     "viaf:56617645"
   ],
   "homepage": "http://viaf.org",
-  "identifier": "viaf",
+  "id": "oclc/viaf@2020-03-02",
   "image": "viaf.png",
   "name": "Virtual International Authority File (VIAF)",
-  "namespace": {
-    "alias": "viaf",
-    "prefix": "http://viaf.org/viaf/"
+  "namespace": "http://viaf.org/viaf/",
+  "prefix": {
+    "viaf": "http://viaf.org/viaf/"
   },
-  "organization": "oclc",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDDate": "2020-03-02"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://viaf.org/viaf/data/viaf-20200302-clusters-rdf.nt.gz"
-    }
-  }
+  "url": "http://viaf.org/viaf/data/viaf-20200302-clusters-rdf.nt.gz"
 }

@@ -1,0 +1,37 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Dataset Quality Vocabulary (daQ) is a lightweight, extensible core vocabulary for attaching the result of quality benchmarking of a linked open dataset (usually an expensive process) to that dataset.  daQ is designed to be extended by custom quality metrics.  Use cases include filtering and ranking datasets by quality.",
+  "exampleResource": [
+    "daq:Category",
+    "daq:Dimension",
+    "daq:Metric",
+    "daq:Observation",
+    "daq:QualityGraph",
+    "daq:computedBy",
+    "daq:computedOn",
+    "daq:dsd",
+    "daq:expectedDataType",
+    "daq:hasDimension",
+    "daq:hasMetric",
+    "daq:hasObservation",
+    "daq:isEstimate",
+    "daq:metric",
+    "daq:requires",
+    "daq:value"
+  ],
+  "homepage": "http://theme-e.adaptcentre.ie/daq/daq.html#",
+  "id": "w3c/daq",
+  "name": "Dataset Quality Vocabulary (daQ)",
+  "namespace": "http://purl.org/eis/vocab/daq#",
+  "prefix": {
+    "daq": "http://purl.org/eis/vocab/daq#",
+    "dqv": "http://www.w3.org/ns/dqv#",
+    "rdfg": "http://www.w3.org/2004/03/trix/rdfg-1/",
+    "sdmx-dimension": "http://purl.org/linked-data/sdmx/2009/dimension#",
+    "vann": "http://purl.org/vocab/vann/",
+    "voaf": "http://purl.org/vocommons/voaf#"
+  },
+  "url": "http://purl.org/eis/vocab/daq#"
+}

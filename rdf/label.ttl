@@ -1,0 +1,101 @@
+prefix dct: <http://purl.org/dc/terms/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix label: <http://purl.org/net/vocab/2004/03/label#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+label:
+  a
+    owl:Ontology,
+    <http://web.resource.org/cc/Work>;
+  dct:created "2004-03-28"@en;
+  foaf:maker
+    [ a foaf:Person;
+      foaf:homepage <http://www.wasab.dk/morten/>;
+      foaf:mbox_sha1sum "65b983bb397fb71849da910996741752ace8369b";
+      foaf:name "Morten Høybye Frederiksen" ];
+  owl:imports
+    <http://www.w3.org/2000/01/rdf-schema>,
+    <http://www.w3.org/2002/07/owl>;
+  rdfs:comment
+    "Definiciones de etiquetas plurales y singulares de t\u00E9rminos RDF"@es,
+    "Definitioner for relationer mellem en term, dens inverse, og dens navn i entals- og flertalsform"@da,
+    "Term definitions for singular and plural label properties, and their inverses, for RDF terms"@en;
+  rdfs:label "label"@en;
+  <http://web.resource.org/cc/license> <http://creativecommons.org/licenses/by/1.0/>.
+
+label:inversePlural
+  a owl:AnnotationProperty;
+  label:plural
+    "flertalsformer for inverse"@da,
+    "plural forms of inverses"@en;
+  label:singular
+    "flertalsform for invers"@da,
+    "plural form of inverse"@en;
+  rdfs:comment
+    "A relation between a term and the label of its inverse in literal plural form"@en,
+    "En relation mellem en term og dens inverses navn i flertalsform"@da;
+  rdfs:isDefinedBy label:;
+  rdfs:label
+    "inverse plural"@en,
+    "inverst flertal"@da;
+  rdfs:subPropertyOf rdfs:label.
+
+label:inverseSingular
+  a owl:AnnotationProperty;
+  label:plural
+    "entalsformer for inverse"@da,
+    "singular forms of inverses"@en;
+  label:singular
+    "entalsform for invers"@da,
+    "singular form of inverse"@en;
+  rdfs:comment
+    "A relation between a term and the label of its inverse in literal singular form"@en,
+    "En relation mellem en term og dens inverses navn i entalsform"@da;
+  rdfs:isDefinedBy label:;
+  rdfs:label
+    "inverse singular"@en,
+    "inverst ental"@da;
+  rdfs:subPropertyOf rdfs:label.
+
+label:plural
+  a owl:AnnotationProperty;
+  label:plural
+    "flertalsformer"@da,
+     "formas plurales"@es,
+     "plural forms"@en;
+  label:singular
+    "flertalsform"@da,
+    "forma plural"@es,
+    "plural form"@en;
+  rdfs:comment
+    "A relation between a term and its label in literal plural form"@en,
+    "En relation mellem en term og dens navn i flertalsform"@da,
+    "Una relaci\u00F3n entre un t\u00E9rmino y su etiqueta en forma plural"@es;
+  rdfs:isDefinedBy label:;
+  rdfs:label
+    "flertal"@da,
+    "plural"@en,
+    "plural"@es;
+  rdfs:subPropertyOf rdfs:label.
+
+label:singular
+  a owl:AnnotationProperty;
+  label:plural
+    "entalsformer"@da,
+    "formas singulares"@es,
+    "singular forms"@en;
+  label:singular
+    "entalsform"@da,
+    "forma singular"@es,
+    "singular form"@en;
+  rdfs:comment
+    "A relation between a term and its label in literal singular form"@en,
+    "En relation mellem en term og dens navn i entalsform"@da,
+    "Una relaci\u00F3n entre un t\u00E9rmino y su etiqueta en forma singular"@es;
+  rdfs:isDefinedBy label:;
+  rdfs:label
+    "ental"@da,
+    "singular"@en,
+    "singular"@es;
+  rdfs:subPropertyOf rdfs:label.

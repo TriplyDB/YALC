@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:sparql",
     "topic:vocabulary"
@@ -12,22 +11,12 @@
     "sd:NamedGraph"
   ],
   "homepage": "https://www.w3.org/TR/sparql11-service-description",
-  "identifier": "sd",
+  "id": "w3c/sd@1.1",
   "image": "sparql.png",
   "name": "SPARQL Service Description",
-  "namespace": {
-    "alias": "sd",
-    "prefix": "http://www.w3.org/ns/sparql-service-description#"
+  "namespace": "http://www.w3.org/ns/sparql-service-description#",
+  "prefix": {
+    "sd": "http://www.w3.org/ns/sparql-service-description#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "1"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/sparql-service-description#"
-    }
-  }
+  "url": "http://www.w3.org/ns/sparql-service-description#"
 }

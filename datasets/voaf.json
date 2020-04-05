@@ -1,0 +1,43 @@
+{
+  "about": [
+    "topic:metadata",
+    "topic:vocabulary"
+  ],
+  "description": "VOAF is a vocabulary specification providing elements allowing the description of vocabularies (RDFS vocabularies or OWL ontologies) used in the Linked Data Cloud.  In particular it provides properties expressing the different ways such vocabularies can rely on, extend, specify, annotate or otherwise link to each other.  It relies itself on [Dublin Core](/dcmi) and [VoID](/w3c/void).  The name of the vocabulary makes an explicit reference to [FOAF](/w3c/foaf) because VOAF can be used to define networks of vocabularies in a way similar to the one FOAF is used to define networks of people.",
+  "exampleResource": [
+    "voaf:DatasetOccurrences",
+    "voaf:Vocabulary",
+    "voaf:VocabularySpace",
+    "voaf:classNumber",
+    "voaf:dataset",
+    "voaf:exampleDataset",
+    "voaf:extends",
+    "voaf:generalizes",
+    "voaf:hasDisjunctionsWith",
+    "voaf:hasEquivalencesWith",
+    "voaf:inDataset",
+    "voaf:metadataVoc",
+    "voaf:occurrences",
+    "voaf:occurrencesInDatasets",
+    "voaf:occurrencesInVocabularies",
+    "voaf:propertyNumber",
+    "voaf:reliesOn",
+    "voaf:similar",
+    "voaf:specializes",
+    "voaf:usedBy",
+  ],
+  "homepage": "http://purl.org/vocommons/voaf",
+  "id": "okfn/voaf@2.3",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "name": "Vocabulary of a Friend (VOAF)",
+  "namespace": "http://purl.org/vocommons/voaf#",
+  "prefix": {
+    "cc": "http://creativecommons.org/ns#",
+    "dbr": "http://dbpedia.org/resource/",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "vann": "http://purl.org/vocab/vann/",
+    "voaf": "http://purl.org/vocommons/voaf#",
+    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+  },
+  "url": "http://purl.org/vocommons/voaf"
+}

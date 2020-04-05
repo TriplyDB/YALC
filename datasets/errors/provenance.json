@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -10,40 +9,19 @@
     "provenance:usedBy"
   ],
   "homepage": "http://trdf.sourceforge.net/provenance/ns.html",
-  "identifier": "provenance",
+  "id": "provenance@0.6",
   "name": "Provenance Vocabulary",
-  "namespace": [
-    {
-      "alias": "provenance-core",
-      "prefix": "http://purl.org/net/provenance/ns#"
-    },
-    {
-      "alias": "provenance-files",
-      "prefix": "http://purl.org/net/provenance/files#"
-    },
-    {
-      "alias": "provenance-integrity",
-      "prefix": "http://purl.org/net/provenance/integrity#"
-    },
-    {
-      "alias": "provenance-types",
-      "prefix": "http://purl.org/net/provenance/types#"
-    }
-  ],
-  "organization": "none",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "0",
-    "minor": "6"
+  "namespace": "http://purl.org/net/provenance/",
+  "prefix": {
+    "provenanceCore": "http://purl.org/net/provenance/ns#",
+    "provenanceFiles": "http://purl.org/net/provenance/files#",
+    "provenanceIntegrity": "http://purl.org/net/provenance/integrity#",
+    "provenanceTypes": "http://purl.org/net/provenance/types#"
   },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": [
-        "http://purl.org/net/provenance/files#",
-        "http://purl.org/net/provenance/integrity#",
-        "http://purl.org/net/provenance/ns#",
-        "http://purl.org/net/provenance/types#"
-      ]
-    }
-  }
+  "url": [
+    "http://purl.org/net/provenance/files#",
+    "http://purl.org/net/provenance/integrity#",
+    "http://purl.org/net/provenance/ns#",
+    "http://purl.org/net/provenance/types#"
+  ]
 }

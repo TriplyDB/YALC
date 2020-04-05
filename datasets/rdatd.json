@@ -1,0 +1,21 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Timespan datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Timespan* entity.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/t/datatype",
+  "id": "rda/rdatd",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA element sets: Timespan datatype properties",
+  "namespace": "http://rdaregistry.info/Elements/t/datatype/",
+  "prefix": {
+    "rdac": "http://rdaregistry.info/Elements/c/",
+    "rdat": "http://rdaregistry.info/Elements/t/",
+    "rdatd": "http://rdaregistry.info/Elements/t/datatype/",
+    "rdaxd": "http://rdaregistry.info/Elements/x/datatype/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/t/datatype.nt"
+}

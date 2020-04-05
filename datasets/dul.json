@@ -35,7 +35,6 @@
     "dul:Region",
     "dul:Relation"
   ],
-  "homepage": "",
   "id": "odp/dul@3.32",
   "name": "DOLCE+DnS Ultralite",
   "namespace": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",

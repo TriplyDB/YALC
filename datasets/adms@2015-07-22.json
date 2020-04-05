@@ -1,0 +1,38 @@
+{
+  "about": [
+    "topic:metadata",
+    "topic:vocabulary"
+  ],
+  "description": "Asset Description Metadata Schema (ADMS) is a profile of [DCAT](/w3c/dcat), used to describe semantic assets (or just ‘Assets’), defined as highly reusable metadata (e.g. XML schemata, generic data models) and reference data (e.g. code lists, taxonomies, dictionaries, vocabularies) that are used for eGovernment system development.  ADMS, originally developed under the European Union's [ISA Programme](https://ec.europa.eu/isa) and further developed by the W3C [Government Linked Data Working Group](https://www.w3.org/2011/gld/wiki/Main_Page).  It re-uses terms from several other vocabularies, notably [Dublin Core](/dcmi), with elements of [SKOS](/w3c/skos), [FOAF](/none/foaf) and more.",
+  "exampleResource": [
+    "adms:Asset",
+    "adms:AssetDistribution",
+    "adms:AssetRepository",
+    "adms:Identifier",
+    "adms:identifier",
+    "adms:includedAsset",
+    "adms:interoperabilityLevel",
+    "adms:last",
+    "adms:next",
+    "adms:prev",
+    "adms:representationTechnique",
+    "adms:sample",
+    "adms:schemeAgency",
+    "adms:status",
+    "adms:supportedSchema",
+    "adms:translation",
+    "adms:versionNotes"
+  ],
+  "homepage": "https://www.w3.org/TR/vocab-adms",
+  "id": "w3c/adms@2015-07-22",
+  "name": "Asset Description Metadata Schema (ADMS)",
+  "namespace": "http://www.w3.org/ns/adms#",
+  "prefix": {
+    "adms": "http://www.w3.org/ns/adms#",
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "vann": "http://purl.org/vocab/vann/",
+    "voaf": "http://purl.org/vocommons/voaf#"
+  },
+  "priorVersion": "adms@1.0",
+  "url": "http://www.w3.org/ns/adms#"
+}

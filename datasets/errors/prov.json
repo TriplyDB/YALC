@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -10,16 +9,11 @@
     "prov:wasDerivedFrom"
   ],
   "homepage": "http://www.w3.org/ns/prov#",
-  "identifier": "prov",
+  "id": "w3c/prov",
   "name": "PROV-O: The PROV Ontology",
-  "namespace": {
-    "alias": "prov",
-    "prefix": "http://www.w3.org/ns/prov#"
+  "namespace": "http://www.w3.org/ns/prov#",
+  "prefix": {
+    "prov": "http://www.w3.org/ns/prov#"
   },
-  "organization": "w3c",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/prov#"
-    }
-  }
+  "url": "http://www.w3.org/ns/prov#"
 }

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
@@ -10,21 +9,11 @@
     "rdfa:prefix"
   ],
   "homepage": "http://www.w3.org/ns/rdfa#",
-  "identifier": "rdfa",
+  "id": "w3c/rdfa@2013-03-11",
   "name": "RDFa Vocabulary for Term and Prefix Assignment",
-  "namespace": {
-    "alias": "rdfa",
-    "prefix": "http://www.w3.org/ns/rdfa#"
+  "namespace": "http://www.w3.org/ns/rdfa#",
+  "prefix": {
+    "rdfa": "http://www.w3.org/ns/rdfa#"
   },
-  "organization": "w3c",
-  "version": {
-    "@type": "TemporalVersion",
-    "inXSDDate": "2013-03-11"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.w3.org/ns/rdfa#"
-    }
-  }
+  "url": "http://www.w3.org/ns/rdfa#"
 }
-

@@ -1,0 +1,33 @@
+{
+  "about": [
+    "topic:music",
+    "topic:vocabulary"
+  ],
+  "description": "The Music Ontology Specification provides main concepts and properties fo describing music (i.e. artists, albums and tracks) on the Semantic Web.",
+  "exampleResource": [
+    "mo:AnalogSignal",
+    "mo:Arrangement",
+    "mo:Arranger",
+    "mo:AudioFile",
+    "mo:CD",
+    "mo:Composer",
+    "mo:Composition",
+    "mo:Conductor",
+    "mo:Festival",
+    "mo:Genre"
+  ],
+  "homepage": "http://musicontology.com",
+  "id": "mo",
+  "image": "mo.png",
+  "name": "Music Ontology",
+  "namespace": "http://purl.org/ontology/mo/",
+  "prefix": {
+    "bio": "http://purl.org/vocab/bio/0.1/",
+    "event": "http://purl.org/NET/c4dm/event.owl#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "mo": "http://purl.org/ontology/mo/",
+    "vann": "http://purl.org/vocab/vann/",
+    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+  },
+  "url": "https://raw.githubusercontent.com/motools/musicontology/master/rdf/musicontology.n3"
+}

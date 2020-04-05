@@ -11,10 +11,15 @@
   ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Decomposition_.28decomp.29",
   "id": "lemon/decomp",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "name": "Lexical Decomposition Vocabulary",
   "namespace": "http://www.w3.org/ns/lemon/decomp#",
   "prefix": {
-    "decomp": "http://www.w3.org/ns/lemon/decomp#"
+    "cc": "http://creativecommons.org/ns#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "synsem": "http://www.w3.org/ns/lemon/synsem#",
+    "vann": "http://purl.org/vocab/vann/"
   },
   "url": "http://www.w3.org/ns/lemon/decomp#"
 }

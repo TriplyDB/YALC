@@ -1,22 +1,19 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:vocabulary"
   ],
   "description": "",
   "exampleResource": [
-    "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl",
-    "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#Role",
-    "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#hasRole"
+    "objectRole:Role",
+    "objectRole:hasRole"
   ],
-  "homepage": "http://ontologydesignpatterns.org/wiki/Submissions:ActingFor",
-  "identifier": "object-role",
-  "name": "“Acting for” Pattern",
-  "namespace": [],
+  "homepage": "",
+  "id": "odp/object-role",
+  "name": "",
+  "namespace": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#",
+  "prefix": {
+    "objectRole": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#"
+  },
   "organization": "odp",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl"
-    }
-  }
+  "url": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl"
 }

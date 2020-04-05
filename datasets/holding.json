@@ -1,0 +1,25 @@
+{
+  "about": [
+    "topic:library",
+    "topic:vocabulary"
+  ],
+  "description": "A vocabulary for describing (library) holdings.  The Holding Ontology deals with [items]() and their relations to agents and documents. An item is a copy or exemplar of a document. Items are also referred to as holdings, but a holding is moreover the description of an agents inventory and access information for the item. Items may further be connected to services, locations, and chronologies.",
+  "exampleResource": [],
+  "homepage": "http://dini-ag-kim.github.io/holding-ontology/holding.html",
+  "id": "holding@0.1.2",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "name": "Holding Ontology",
+  "namespace": "http://purl.org/ontology/holding#",
+  "prefix": {
+    "bibo": "http://purl.org/ontology/bibo/",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "gr": "http://purl.org/goodrelations/v1#",
+    "holding": "http://purl.org/ontology/holding#",
+    "rdaa": "http://rdaregistry.info/Elements/a/",
+    "rdai": "http://rdaregistry.info/Elements/i/",
+    "rdam": "http://rdaregistry.info/Elements/m/",
+    "vann": "http://purl.org/vocab/vann/",
+    "voaf": "http://purl.org/vocommons/voaf#"
+  },
+  "url": "http://purl.org/ontology/holding#"
+}

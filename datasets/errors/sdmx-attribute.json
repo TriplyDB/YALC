@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:statistics",
     "topic:vocabulary"
@@ -17,18 +16,11 @@
     "sdmx-attribute:clarity"
   ],
   "homepage": "https://sdmx.org",
-  "identifier": "attribute",
-  "image": "sdmx.png",
+  "id": "sdmx/attribute",
   "name": "SDMX Attributes",
-  "namespace": {
-    "alias": "sdmx-attribute",
-    "prefix": "http://purl.org/linked-data/sdmx/2009/attribute#"
+  "namespace": "http://purl.org/linked-data/sdmx/2009/attribute#",
+  "prefix": {
+    "sdmx-attribute": "http://purl.org/linked-data/sdmx/2009/attribute#"
   },
-  "organization": "sdmx",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/linked-data/sdmx/2009/attribute#"
-    }
-  }
+  "url": "http://purl.org/linked-data/sdmx/2009/attribute#"
 }
-

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:statistics",
     "topic:vocabulary"
@@ -15,16 +14,11 @@
     "sdmx-measure:sex"
   ],
   "homepage": "https://sdmx.org",
-  "identifier": "measure",
+  "id": "sdmx/measure",
   "name": "SDMX Measures",
-  "namespace": {
-    "alias": "sdmx-measure",
-    "prefix": "http://purl.org/linked-data/sdmx/2009/measure#"
+  "namespace": "http://purl.org/linked-data/sdmx/2009/measure#",
+  "prefix": {
+    "sdmx-measure": "http://purl.org/linked-data/sdmx/2009/measure#"
   },
-  "organization": "sdmx",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/linked-data/sdmx/2009/measure#"
-    }
-  }
+  "url": "http://purl.org/linked-data/sdmx/2009/measure#"
 }

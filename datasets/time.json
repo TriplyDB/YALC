@@ -7,7 +7,10 @@
     "time:Instant",
     "time:Interval",
     "time:after",
-    "time:before"
+    "time:before",
+    "time:days",
+    "time:hasTRS",
+    "time:hours"
   ],
   "homepage": "https://www.w3.org/TR/owl-time/",
   "id": "w3c/time",

@@ -86,10 +86,12 @@
     "@type": "xsd:gYearMonth"
   },
 
+  "actingFor": "http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl#",
   "bag": "http://bag.basisregistraties.overheid.nl/def/bag#",
   "bibo": "http://purl.org/ontology/bibo/",
   "cnt": "http://www.w3.org/2011/content#",
   "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#",
+  "d0": "http://www.ontologydesignpatterns.org/ont/d0.owl#",
   "dataid": "http://dataid.dbpedia.org/ns/core#",
   "dbo": "http://dbpedia.org/ontology/",
   "dbp": "http://dbpedia.org/property/",

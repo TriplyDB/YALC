@@ -1,0 +1,32 @@
+{
+  "about": [
+    "topic:vocabulary",
+    "topic:workflows"
+  ],
+  "description": "Vocabulary for describing issues (or problems) and corresponding symptoms and solutions to a broad variety of contexts.  It is intended to provide a generic, reusable core ontology that can be extended or specialized for use in domain-specific situations, aimed at supporting Linked Data publishing.  The solutions are represented by procedures, which are possible workflows for solving corresponding issues.",
+  "exampleResource": [
+    "ipo:Action",
+    "ipo:BooleanExpression",
+    "ipo:Image",
+    "ipo:IssueEntity",
+    "ipo:Organization",
+    "ipo:Party",
+    "ipo:Procedure",
+    "ipo:Step",
+    "ipo:Symptom",
+    "ipo:Task",
+    "ipo:Transition"
+  ],
+  "homepage": "http://ipocore.sourceforge.net",
+  "id": "ipo@1.2",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "name": "Issue Procedure Ontology (IPO)",
+  "namespace": "http://purl.org/ipo/core#",
+  "prefix": {
+    "cc": "http://creativecommons.org/ns#",
+    "ipo": "http://purl.org/ipo/core#",
+    "vann": "http://purl.org/vocab/vann/",
+    "voaf": "http://purl.org/vocommons/voaf#"
+  },
+  "url": "http://purl.org/ipo/core/"
+}

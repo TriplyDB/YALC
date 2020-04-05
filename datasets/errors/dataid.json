@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:metadata",
     "topic:vocabulary"
@@ -10,23 +9,11 @@
     "dataid:Dataset"
   ],
   "homepage": "http://dataid.dbpedia.org/ns/core.html#",
-  "identifier": "dataid",
-  "image": "dbpedia.png",
+  "id": "dbpedia/dataid@2.0.0",
   "name": "DataID",
-  "namespace": {
-    "alias": "dataid",
-    "prefix": "http://dataid.dbpedia.org/ns/core#"
+  "namespace": "http://dataid.dbpedia.org/ns/core#",
+  "prefix": {
+    "dataid": "http://dataid.dbpedia.org/ns/core#"
   },
-  "organization": "wikimedia",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "2",
-    "minor": "0",
-    "patch": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://dataid.dbpedia.org/ns/core#"
-    }
-  }
+  "url": "http://dataid.dbpedia.org/ns/core#"
 }

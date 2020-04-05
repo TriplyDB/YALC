@@ -6,8 +6,13 @@
   ],
   "description": "",
   "exampleResource": [
+    "dcmit:Collection",
     "dcmit:Dataset",
+    "dcmit:Event",
     "dcmit:Image",
+    "dcmit:InteractiveResource",
+    "dcmit:MovingImage",
+    "dcmit:PhysicalObject",
     "dcmit:Service",
     "dcmit:Software",
     "dcmit:Sound",
@@ -19,6 +24,7 @@
   "name": "Dublin Core Types",
   "namespace": "http://purl.org/dc/dcmitype/",
   "prefix": {
+    "dcam": "http://purl.org/dc/dcam/memberOf",
     "dcmit": "http://purl.org/dc/dcmitype/"
   },
   "url": "http://purl.org/dc/dcmitype/"

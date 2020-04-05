@@ -1,0 +1,21 @@
+{
+  "about": [
+    "topic:topLevel"
+  ],
+  "description": "The Schema.org vocabulary, including the core vocabulary and all domain-specific layers.",
+  "exampleResource": [
+    "sdo:Person"
+  ],
+  "homepage": "https://schema.org",
+  "id": "sdo@7.2",
+  "image": "sdo.png",
+  "name": "Schema.org",
+  "namespace": [
+    "http://schema.org/",
+    "https://schema.org/"
+  ],
+  "prefix": {
+    "sdo": "http://schema.org/"
+  },
+  "url": "http://schema.org/version/latest/all-layers.nq"
+}

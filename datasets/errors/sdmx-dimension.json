@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:statistics",
     "topic:vocabulary"
@@ -18,16 +17,11 @@
     "sdmx-dimension:timePeriod"
   ],
   "homepage": "https://sdmx.org",
-  "identifier": "dimension",
+  "id": "sdmx/dimension",
   "name": "SDMX Dimensions",
-  "namespace": {
-    "alias": "sdmx-dimension",
-    "prefix": "http://purl.org/linked-data/sdmx/2009/dimension#"
+  "namespace": "http://purl.org/linked-data/sdmx/2009/dimension#",
+  "prefix": {
+    "sdmx-dimension": "http://purl.org/linked-data/sdmx/2009/dimension#"
   },
-  "organization": "sdmx",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/linked-data/sdmx/2009/dimension#"
-    }
-  }
+  "url": "http://purl.org/linked-data/sdmx/2009/dimension#"
 }

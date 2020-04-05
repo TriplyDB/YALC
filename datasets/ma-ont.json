@@ -1,0 +1,30 @@
+{
+  "about": [
+    "topic:library",
+    "topic:multimedia",
+    "topic:vocabulary"
+  ],
+  "description": "The Ontology for Media Resources describes a core vocabulary of properties and a set of mappings between different metadata formats of media resources hat describe media resources published on the Web (as opposed to local archives, museums, or other non-web related and non-shared collections of media resources).  The purpose of these mappings is to provide metadata representations that describe the characteristics and behavior of media resources in an interoperable manner, thereby enabling different applications to share and reuse these metadata.",
+  "exampleResource": [
+    "ma-ont:Agent",
+    "ma-ont:Collection",
+    "ma-ont:DataTrack",
+    "ma-ont:Image",
+    "ma-ont:Location",
+    "ma-ont:MediaFragment",
+    "ma-ont:Person",
+    "ma-ont:Rating",
+    "ma-ont:TargetAudience",
+    "ma-ont:Track",
+    "ma-ont:VideoTrack",
+    "ma-ont:date",
+    "ma-ont:hasContributor"
+  ],
+  "id": "advene/ma-ont@1.0",
+  "name": "Cinelab Ontology",
+  "namespace": "http://www.w3.org/ns/ma-ont#",
+  "prefix": {
+    "ma-ont": "http://www.w3.org/ns/ma-ont#"
+  },
+  "url": "http://www.w3.org/ns/ma-ont#"
+}

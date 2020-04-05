@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:geography",
     "topic:vocabulary"
@@ -22,21 +21,11 @@
     "geo:sfWithin"
   ],
   "homepage": "https://www.opengeospatial.org/standards/geosparql",
-  "identifier": "geo",
+  "id": "ogc/geo@1.0",
   "name": "GeoSPARQL",
-  "namespace": {
-    "alias": "geo",
-    "prefix": "http://www.opengis.net/ont/geosparql#"
+  "namespace": "http://www.opengis.net/ont/geosparql#",
+  "prefix": {
+    "geo": "http://www.opengis.net/ont/geosparql#"
   },
-  "organization": "ogc",
-  "version": {
-    "@type": "SemanticVersion",
-    "major": "1",
-    "minor": "0"
-  },
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://www.opengis.net/ont/geosparql#"
-    }
-  }
+  "url": "http://www.opengis.net/ont/geosparql#"
 }

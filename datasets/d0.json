@@ -1,0 +1,28 @@
+{
+  "about": [
+    "topic:topLevel"
+  ],
+  "description": "A supplementary ontology used as a generalization of [DOLCE+DnS Ultralite (DUL)](/odp/dul), in order to deal with the systematic polysemy of many lexical items, whose senses create problems when used as OWL classes.  For example, it's customary to find lexical items that carry both a sense of physical or abstract location, of event or event type, etc.",
+  "exampleResource": [
+    "d0:Activity",
+    "d0:Characteristic",
+    "d0:CognitiveEntity",
+    "d0:Event",
+    "d0:Location",
+    "d0:Eventuality",
+    "d0:System",
+    "d0:Topic"
+  ],
+  "id": "odp/d0",
+  "image": "owl.png",
+  "name": "Generalization of DOLCE+DnS Ultralite (D0)",
+  "namespace": "http://www.ontologydesignpatterns.org/ont/d0.owl#",
+  "prefix": {
+    "d0": "http://www.ontologydesignpatterns.org/ont/d0.owl#",
+    "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
+  },
+  "url": "http://www.ontologydesignpatterns.org/ont/d0.owl"
+}
+
+
+1.2

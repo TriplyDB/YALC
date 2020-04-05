@@ -1,0 +1,25 @@
+{
+  "about": [
+    "topic:bibliography",
+    "topic:vocabulary"
+  ],
+  "description": "BIBFRAME Vocabulary with LC Extensions",
+  "exampleResource": [
+    "bflc:AppliesTo",
+    "bflc:CreatorCharacteristic",
+    "bflc:DemographicGroup",
+    "bflc:EncodingLevel",
+    "bflc:MetadataLicensor",
+    "bflc:OperatingSystem",
+    "bflc:Relief"
+  ],
+  "homepage": "http://www.loc.gov/bibframe/docs/index.html",
+  "id": "loc/bflc@1.2.0",
+  "name": "BIBFRAME with LC Extensions",
+  "namespace": "http://id.loc.gov/ontologies/bflc/",
+  "prefix": {
+    "bf": "http://id.loc.gov/ontologies/bibframe/",
+    "bflc": "http://id.loc.gov/ontologies/bflc/"
+  },
+  "url": "http://id.loc.gov/ontologies/bflc.rdf"
+}

@@ -1,0 +1,20 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Agent datatype properties element set consists of properties accommodating string values for attributes of the RDA *Agent*, *Collective Agent*, *Person*, *Family*, and *Corporate Body* entities.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/a/datatype/",
+  "id": "rda/rdaad",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA Element Sets: Agent datatype Properties",
+  "namespace": "http://rdaregistry.info/Elements/a/datatype/",
+  "prefix": {
+    "rdaa": "http://rdaregistry.info/Elements/a/",
+    "rdaad": "http://rdaregistry.info/Elements/a/datatype/",
+    "rdac": "http://rdaregistry.info/Elements/c/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/a/datatype.nt"
+}

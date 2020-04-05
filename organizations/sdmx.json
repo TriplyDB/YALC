@@ -1,0 +1,7 @@
+{
+  "description": "SDMX, which stands for Statistical Data and Metadata eXchange is an international initiative that aims at standardising and modernising (“industrialising”) the mechanisms and processes for the exchange of statistical data and metadata among international organisations and their member countries.",
+  "homepage": "https://sdmx.org",
+  "id": "sdmx",
+  "image": "sdmx.png",
+  "name": "Statistical Data and Metadata Exchange (SDMX)"
+}

@@ -1,5 +1,4 @@
 {
-  "@type": "Dataset",
   "about": [
     "topic:statistics",
     "topic:vocabulary"
@@ -16,16 +15,11 @@
     "sdmx-code:UnitMult"
   ],
   "homepage": "https://sdmx.org",
-  "identifier": "code",
+  "id": "sdmx/code",
   "name": "SDMX Codes",
-  "namespace": {
-    "alias": "sdmx-code",
-    "prefix": "http://purl.org/linked-data/sdmx/2009/code#"
+  "namespace": "http://purl.org/linked-data/sdmx/2009/code#",
+  "prefix": {
+    "sdmx-code": "http://purl.org/linked-data/sdmx/2009/code#"
   },
-  "organization": "sdmx",
-  "wasDerivedFrom": {
-    "distribution": {
-      "contentUrl": "http://purl.org/linked-data/sdmx/2009/code#"
-    }
-  }
+  "url": "http://purl.org/linked-data/sdmx/2009/code#"
 }

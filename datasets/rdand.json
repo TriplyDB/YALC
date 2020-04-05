@@ -1,0 +1,22 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Nomen datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Nomen* entity.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/n/datatype",
+  "id": "rda/rdand",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA element sets: Nomen datatype properties",
+  "namespace": "http://rdaregistry.info/Elements/n/datatype",
+  "prefix": {
+    "rdac": "http://rdaregistry.info/Elements/c/",
+    "rdan": "http://rdaregistry.info/Elements/n/",
+    "rdand": "http://rdaregistry.info/Elements/n/datatype/",
+    "rdau": "http://rdaregistry.info/Elements/u/",
+    "rdaxd": "http://rdaregistry.info/Elements/x/datatype/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/n/datatype.nt"
+}

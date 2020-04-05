@@ -93,10 +93,16 @@
     {
       "@id": "topic:metadata",
       "label": "Metadata",
-      "narrower": {
-        "@id": "topic:versioning",
-        "label": "Versioning"
-      }
+      "narrower": [
+        {
+          "@id": "topic:license",
+          "label": "Licenses"
+        },
+        {
+          "@id": "topic:versioning",
+          "label": "Versioning"
+        }
+      ]
     },
     {
       "@id": "topic:publishing",

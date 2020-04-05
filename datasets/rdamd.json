@@ -1,0 +1,21 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Manifestation datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Manifestation* entity.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/m/datatype/",
+  "id": "rda/rdamd",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA Element Sets: Manifestation datatype Properties",
+  "namespace": "http://rdaregistry.info/Elements/m/datatype/",
+  "prefix": {
+    "rdac": "http://rdaregistry.info/Elements/c/",
+    "rdam": "http://rdaregistry.info/Elements/m/",
+    "rdamd": "http://rdaregistry.info/Elements/m/datatype/",
+    "rdaxd": "http://rdaregistry.info/Elements/x/datatype/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/m/datatype.nt"
+}
