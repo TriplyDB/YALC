@@ -1,0 +1,27 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The Nomen object properties element set consists of properties accommodating object values for relationships of the RDA *Nomen* entity.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/Elements/n/object/",
+  "id": "rda/rdano",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA Element Sets: Nomen Object Properties",
+  "namespace": "http://rdaregistry.info/Elements/n/object/",
+  "prefix": {
+    "rdaao": "http://rdaregistry.info/Elements/e/object/",
+    "rdaeo": "http://rdaregistry.info/Elements/e/object/",
+    "rdaio": "http://rdaregistry.info/Elements/i/object/",
+    "rdamo": "http://rdaregistry.info/Elements/m/object/",
+    "rdan": "http://rdaregistry.info/Elements/n/",
+    "rdano": "http://rdaregistry.info/Elements/n/object/",
+    "rdapo": "http://rdaregistry.info/Elements/p/object/",
+    "rdato": "http://rdaregistry.info/Elements/t/object/",
+    "rdawo": "http://rdaregistry.info/Elements/w/object/",
+    "rdaxo": "http://rdaregistry.info/Elements/x/object/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/Elements/n/object.nt"
+}

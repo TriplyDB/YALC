@@ -16,7 +16,11 @@
         },
         {
           "@id": "topic:cartoon",
-          "label": "Cartoon"
+          "label": "Cartoon",
+          "narrower": {
+            "@id": "topic:anime",
+            "label": "Anime"
+          }
         },
         {
           "@id": "topic:film",

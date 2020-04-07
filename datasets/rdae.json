@@ -10,8 +10,7 @@
   "name": "RDA Element Sets: Expression Properties",
   "namespace": "http://rdaregistry.info/Elements/e/",
   "prefix": {
-"rdaa": "http://rdaregistry.info/Elements/a/",
-"rdac": "http://rdaregistry.info/Elements/c/",
+    "rdac": "http://rdaregistry.info/Elements/e/",
     "rdae": "http://rdaregistry.info/Elements/e/",
     "rdau": "http://rdaregistry.info/Elements/u/",
     "regStatus": "http://metadataregistry.org/uri/RegStatus/",

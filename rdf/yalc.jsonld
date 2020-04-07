@@ -178,14 +178,17 @@
   "vartrans": "http://www.w3.org/ns/lemon/vartrans#",
   "vcard": "http://www.w3.org/2006/vcard/ns#",
   "viaf": "http://viaf.org/viaf/",
+  "voaf": "http://purl.org/vocommons/voaf#",
   "void": "http://rdfs.org/ns/void#",
   "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#",
   "wde": "http://www.wikidata.org/entity/",
   "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#",
   "wdp": "http://www.wikidata.org/prop/direct/",
+  "wdrs": "http://www.w3.org/2007/05/powder-s#",
   "wn30": "http://purl.org/vocabularies/princeton/wn30/",
   "wno": "http://wordnet-rdf.princeton.edu/ontology#",
   "wnr": "http://wordnet-rdf.princeton.edu/id/",
   "xhtml2": "http://www.w3.org/2002/06/xhtml2/#",
+  "xhv": "http://www.w3.org/1999/xhtml/vocab#",
   "xsd": "http://www.w3.org/2001/XMLSchema#"
 }

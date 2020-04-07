@@ -40,6 +40,8 @@ header:
 
 The following datasets emit no `Content-Type` header at all:
 
+  - [CIDOC-CRM](crm.json)
+
   - [DOAP](doap.json)
 
   - [lexinfo](lexinfo.json)

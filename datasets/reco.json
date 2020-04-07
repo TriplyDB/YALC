@@ -1,0 +1,36 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The RECO ontology defines the vocabulary for representing preferences-as-constraints and preferences-as-ratings as RDF graphs.  This lightweight vocabulary provides domain-independent means to describe user profiles in a coherent and context-aware way.  RECO has been designed as an extension of both [Friend-Of-A-Friend (FOAF)](/none/foaf) and [Who Am I! (WAI)](/treelogic/wai) ontologies.",
+  "exampleResource": [
+    "reco:Demand",
+    "reco:Filter",
+    "reco:Pattern",
+    "reco:Preference",
+    "reco:Rating",
+    "reco:about",
+    "reco:assignedBy",
+    "reco:excludedPreference",
+    "reco:filter",
+    "reco:holds",
+    "reco:operator",
+    "reco:optionalPreference",
+    "reco:preference",
+    "reco:rates",
+    "reco:requiredPreference",
+    "reco:union",
+    "reco:utility"
+  ],
+  "homepage": "https://www.w3.org/TR/owl2-overview",
+  "id": "ctic/reco@2011-08",
+  "image": "reco.png",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "name": "RECommendations Ontology (RECO)",
+  "namespace": "http://purl.org/reco#",
+  "prefix": {
+    "reco": "http://purl.org/reco#",
+    "wai": "http://purl.org/wai#"
+  },
+  "url": "http://purl.org/reco#"
+}
