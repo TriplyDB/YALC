@@ -98,24 +98,24 @@ The following datasets use `\u`-escaping:
 
 Some characters are not allowed to appear unescaped in IRIs.
 
-Unescaped backslash characters:
+#### Unescaped backslash characters
 
   - [VIAF](viaf.json) line 841,558:
     `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
 
-Unescaped caret characters:
+#### Unescaped caret characters
 
   - [Pleiades](pleiades.json) line 60.882:
     `<http://www.persee.fr/web/revues/home/prescript/article/racf_0220-6617_1991_num_30_1_2657?luceneQuery=%28%2B%28content%3AAQUAE+title%3AAQUAE^2.0+fullContent%3AAQUAE^100.0+fullTitle%3AAQUAE^140.0+summary%3AAQUAE+authors%3AAQUAE^5.0+illustrations%3AAQUAE^4.0>`;
     reported at <https://github.com/isawnyu/pleiades-rdf/issues/7>.
 
-Unescaped double quote:
+#### Unescaped double quote
 
   - [Linked Movie Dataset
     (2009-05-18)](none-linkedmdb@2009-05-18.json) line 46.397:
     `http://dbpedia.org/resource/Wkw/tk/1996%407%2755"hk.net`.
 
-Unescaped space characters:
+#### Unescaped space characters
 
   - [Linked Movie Database](none-linkedmdb@2012-02-10.json) line
     35.710: `<http://data.linkedmdb.org/resource/country/iso alpha2>`.
