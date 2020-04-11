@@ -1,0 +1,39 @@
+{
+  "about": [
+    "topic:film"
+  ],
+  "description": "IMDb is an online database of information related to world films, television programs, home videos and video games, and internet streams, including cast, production crew, personnel and fictional character biographies, plot summaries, trivia, and fan reviews and ratings.",
+  "exampleResource": [
+    "https://triplydb.com/Triply/linkedmdb/id/film/138"
+  ],
+  "homepage": "https://github.com/wouterbeek/linkedmdb",
+  "id": "triply/linkedmdb@1.0",
+  "image": "imdb.png",
+  "name": "Linked Internet Movie Database (IMDb)",
+  "namespace": "https://triplydb.com/Triply/linkedmdb/",
+  "prefix": {
+    "actor": "https://triplydb.com/Triply/linkedmdb/id/actor/",
+    "cinematographer": "https://triplydb.com/Triply/linkedmdb/id/cinematographer/",
+    "country": "https://triplydb.com/Triply/linkedmdb/id/country/",
+    "cut": "https://triplydb.com/Triply/linkedmdb/id/film_cut/",
+    "dbp": "http://dbpedia.org/property/",
+    "dbr": "http://dbpedia.org/resource/",
+    "director": "https://triplydb.com/Triply/linkedmdb/id/director/",
+    "editor": "https://triplydb.com/Triply/linkedmdb/id/editor/",
+    "film": "https://triplydb.com/Triply/linkedmdb/id/film/",
+    "genre": "https://triplydb.com/Triply/linkedmdb/id/film_genre/",
+    "interlink": "https://triplydb.com/Triply/linkedmdb/id/interlink/",
+    "lmdb": "https://triplydb.com/Triply/linkedmdb/vocab/",
+    "location": "https://triplydb.com/Triply/linkedmdb/id/film_location/",
+    "music-contributor": "https://triplydb.com/Triply/linkedmdb/id/music_contributor/",
+    "oddlinker": "https://triplydb.com/Triply/linkedmdb/id/oddlinker/",
+    "performance": "https://triplydb.com/Triply/linkedmdb/id/performance/",
+    "producer": "https://triplydb.com/Triply/linkedmdb/id/producer/",
+    "production-company": "https://triplydb.com/Triply/linkedmdb/id/production_company/",
+    "production-designer": "https://triplydb.com/Triply/linkedmdb/id/film_production_designer/",
+    "subject": "https://triplydb.com/Triply/linkedmdb/id/film_subject/",
+    "title": "http://www.imdb.com/title/",
+    "writer": "https://triplydb.com/Triply/linkedmdb/id/writer/"
+  },
+  "url": "https://github.com/wouterbeek/linkedmdb/raw/master/linkedmdb.trig.gz"
+}

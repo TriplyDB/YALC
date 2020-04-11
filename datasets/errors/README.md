@@ -16,39 +16,28 @@ header:
 
   - [BIBO](bibo.json) emits `application/xml`
     i.o. `application/rdf+xml`.
-
   - [OGC GeoSPARQL](geo.json) emits `text/xml` i.o.
     `application/rdf+xml`.
-
   - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
     `application/rdf+xml`.
-
   - [RDDL](rddl.json) emits `test/plain` i.o. `application/rdf+xml`.
-
   - [SDMX Attribute](sdmx-attribute.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
-
   - [SDMX Code](sdmx-code.json) emits `text/plain; charset=utf-8`;
     should be `text/turtle`.
-
   - [SDMX Concept](sdmx-concept.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
-
   - [SDMX Dimension](sdmx-dimension.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
-
   - [SDMX Measure](sdmx-measure.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
-
   - [Simple Event Model (SEM)](sem.json) emits `application/rss+xml`
     i.o. `application/rdf+xml`.
 
 The following datasets emit no `Content-Type` header at all:
 
   - [CIDOC-CRM](crm.json)
-
   - [DOAP](doap.json)
-
   - [lexinfo](lexinfo.json)
 
 ## Erroneous handling of `Accept` header
@@ -72,13 +61,9 @@ The following datasets are serviced from servers that cannot process
 the above `Accept` header correctly:
 
   - [DBpedia DataID](dataid.json)
-
   - [W3C Data Cube](qb.json)
-
   - [W3C PROV-O](prov.json)
-
   - [W3C RDFa](rdfa.json)
-
   - [W3C SPARQL Service Description](sd.json)
 
 ## Erroneous IRIs
@@ -111,15 +96,15 @@ Some characters are not allowed to appear unescaped in IRIs.
 
 #### Unescaped double quote
 
-  - [Linked Movie Dataset
+  - [Linked Movie Database
     (2009-05-18)](none-linkedmdb@2009-05-18.json) line 46.397:
     `http://dbpedia.org/resource/Wkw/tk/1996%407%2755"hk.net`.
 
 #### Unescaped space characters
 
-  - [Linked Movie Database](none-linkedmdb@2012-02-10.json) line
-    35.710: `<http://data.linkedmdb.org/resource/country/iso alpha2>`.
-
+  - [Linked Movie Database
+    (2012-02-10)](none-linkedmdb@2012-02-10.json) line 35.710:
+    `<http://data.linkedmdb.org/resource/country/iso alpha2>`.
   - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
     rdf:resource=" https://rkd.nl/explore/artists/420649"/>`
 
