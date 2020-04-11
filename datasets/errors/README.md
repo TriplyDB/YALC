@@ -83,25 +83,33 @@ the above `Accept` header correctly:
 
 ## Erroneous IRIs
 
-### Illegal characters
+### Incorrect escaping
 
-The following datasets contain illegal characters inside IRIs:
+Character escapes in IRIs must use `%hh`-notation.
 
-  - [VIAF](viaf.json) line 841,558:
-    `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
+#### `\u`-notation
 
-### Incorrect character escaping
-
-The following datasets contain incorrect character escaping inside
-IRIs:
+The following datasets use `\u`-escaping:
 
   - [VIAF](viaf.json) line 841,558:
     `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
 
-### Unescaped spaces
+### Unescaped characters
 
-The following datasets contain spaces at the beginnng and/or end of
-IRIs:
+Some characters are not allowed to appear unescaped in IRIs.
+
+Unescaped backslash characters:
+
+  - [VIAF](viaf.json) line 841,558:
+    `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
+
+Unescaped caret characters:
+
+  - [Pleiades](pleiades.json) line 60.882:
+    `<http://www.persee.fr/web/revues/home/prescript/article/racf_0220-6617_1991_num_30_1_2657?luceneQuery=%28%2B%28content%3AAQUAE+title%3AAQUAE^2.0+fullContent%3AAQUAE^100.0+fullTitle%3AAQUAE^140.0+summary%3AAQUAE+authors%3AAQUAE^5.0+illustrations%3AAQUAE^4.0>`;
+    reported at <https://github.com/isawnyu/pleiades-rdf/issues/7>.
+
+Unescaped space characters:
 
   - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
     rdf:resource=" https://rkd.nl/explore/artists/420649"/>`

@@ -1,0 +1,20 @@
+{
+  "about": [
+    "topic:archeology",
+    "topic:geography"
+  ],
+  "description": "Pleiades is a community-built gazetteer and graph of ancient places.  It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license.  It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.",
+  "exampleResource": [
+    "https://pleiades.stoa.org/places/589802",
+    "https://pleiades.stoa.org/places/541117",
+    "https://pleiades.stoa.org/places/540775",
+    "https://pleiades.stoa.org/places/256272"
+  ],
+  "homepage": "https://pleiades.stoa.org",
+  "id": "pelagios/pleiades@weekly",
+  "name": "Pleiades",
+  "namespace": "",
+  "prefix": {},
+  "url": "http://atlantides.org/downloads/pleiades/rdf/pleiades-latest.tar.gz"
+}
+
