@@ -1,0 +1,33 @@
+{
+  "about": [
+    "topic:geospatial",
+    "topic:vocabulary"
+  ],
+  "description": "A vocabulary describing the geometries that are defined in OGC Simple Features (points, lines, polygons, etc.)",
+  "exampleResource": [
+    "sf:Curve",
+    "sf:Geometry",
+    "sf:GeometryCollection",
+    "sf:Line",
+    "sf:LineString",
+    "sf:LinearRing",
+    "sf:MultiCurve",
+    "sf:MultiLineString",
+    "sf:MultiPoint",
+    "sf:MultiPolygon",
+    "sf:MultiSurface",
+    "sf:Point",
+    "sf:Polygon",
+    "sf:PolyhedralSurface",
+    "sf:Surface",
+    "sf:TIN",
+    "sf:Triangle"
+  ],
+  "id": "ogc/sf@1.0.1",
+  "name": "Simple Features (SF)",
+  "namespace": "http://www.opengis.net/ont/sf#",
+  "prefix": {
+    "sf": "http://www.opengis.net/ont/sf#"
+  },
+  "url": "http://schemas.opengis.net/sf/1.0/simple_features_geometries.rdf#"
+}

@@ -1,0 +1,7 @@
+{
+  "description": "[QUDT](https://qudt.org) is a not-for-profit organization founded to provide semantic specifications for units of measure, quantity kind, dimensions and data types.   QUDT is an advocate for the development and implementation of standards to quantify data expressed in [RDF](/w3c/rdf) and JSON.   Its mission is to improve interoperability of data and the specification of information structures through industry standards for Units of Measure, Quantity Kinds, Dimensions and Data Types.\n\nQUDT is a member of the [World Wide Web Consortium](/w3c) (W3C).",
+  "homepage": "https://qudt.org",
+  "id": "qudt",
+  "image": "qudt.png",
+  "name": "QUDT"
+}

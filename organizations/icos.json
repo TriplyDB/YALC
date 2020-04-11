@@ -1,0 +1,7 @@
+{
+  "description": "The Integrated Carbon Observation System (ICOS) provides standardised and open data from more than 130 measurement stations across 12 European countries.  The stations observe greenhouse gas concentrations in the atmosphere as well as carbon fluxes between the atmosphere, the land surface and the oceans.  Thus, ICOS is rooted in three domains: Atmosphere, Ecosystem and Ocean.\n\nThe ICOS community consists of more than 500 scientists in both its current Member and Observer countries and beyond.  More than 70 renowned universities or institutes are a part of the ICOS community.  The ICOS community has strong connections to colleagues and operators outside ICOS.  ICOS-based knowledge supports policy- and decision-making to combat climate change and its impacts.",
+  "homepage": "https://www.icos-cp.eu",
+  "id": "icos",
+  "image": "icos.png",
+  "name": "Integrated Carbon Observation System (ICOS)"
+}

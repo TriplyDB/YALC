@@ -16,7 +16,7 @@
   "homepage": "http://linkedevents.org/ontology",
   "id": "lode@2010-10-02",
   "license": "http://creativecommons.org/licenses/by-sa/3.0/",
-  "name": "",
+  "name": "LODE",
   "namespace": "http://linkedevents.org/ontology/",
   "prefix": {
     "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",

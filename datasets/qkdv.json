@@ -1,0 +1,19 @@
+{
+  "about": [
+    "topic:science",
+    "topic:vocabulary"
+  ],
+  "description": "QUDT Dimension Vectors is a vocabulary that extends [QUDT Quantity Kinds]() with properties that support dimensional analysis.  There is one dimension vector for each of the system's base quantity kinds.  The vector's magnitude determines the exponent of the base dimension for the referenced quantity kind.",
+  "homepage": "http://www.qudt.org/doc/2020/04/DOC_VOCAB-QUANTITY-KIND-DIMENSION-VECTORS-v2.1.html",
+  "id": "qudt/qkdv@2.1.2",
+  "name": "QUDT Dimension Vectors",
+  "namespace": "http://qudt.org/vocab/dimensionvector/",
+  "prefix": {
+    "qkdv": "http://qudt.org/vocab/dimensionvector/",
+    "quantitykind": "http://qudt.org/vocab/quantitykind/",
+    "qudt": "http://qudt.org/1.1/schema/qudt#",
+    "voag": "http://voag.linkedmodel.org/schema/voag#",
+    "vaem": "http://www.linkedmodel.org/schema/vaem#"
+  },
+  "url": "http://qudt.org/2.1/vocab/dimensionvector"
+}

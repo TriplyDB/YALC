@@ -1,0 +1,18 @@
+{
+  "about": [
+    "topic:science",
+    "topic:vocabulary"
+  ],
+  "description": "The QUDT *Disciplines* taxonomy is a SKOS specification of fields of expertise such as science, engineering, medicine, finance, economics and macroecomonics.  QUDT uses the disciplines taxonomy to organize graphs of units of measure and quantity kinds.",
+  "homepage": "http://qudt.org/doc/2019/10/DOC_VOCAB-DISCIPLINES-v2.1.html",
+  "id": "qudt/discipline@2.1.2",
+  "name": "Disciplines Taxonomy",
+  "namespace": "http://qudt.org/vocab/discipline/",
+  "prefix": {
+    "discipline": "http://qudt.org/vocab/discipline/",
+    "quantitykind": "http://qudt.org/vocab/quantitykind/",
+    "qudt": "http://qudt.org/1.1/schema/qudt#",
+    "vaem": "http://www.linkedmodel.org/schema/vaem#"
+  },
+  "url": "http://qudt.org/2.1/schema/qudt"
+}

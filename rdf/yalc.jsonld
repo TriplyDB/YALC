@@ -155,6 +155,7 @@
   "sdmx-measure": "http://purl.org/linked-data/sdmx/2009/measure#",
   "sdo": "http://schema.org/",
   "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+  "sf": "http://www.opengis.net/ont/sf#",
   "sh": "http://www.w3.org/ns/shacl#",
   "sioc": "http://rdfs.org/sioc/ns#",
   "sioc-access": "http://rdfs.org/sioc/access#",

@@ -123,6 +123,20 @@
       ]
     },
     {
+      "@id": "topic:science",
+      "label": "Science",
+      "narrower": [
+        {
+          "@id": "chemistry",
+          "label": "Chemistry"
+        },
+        {
+          "@id": "physics",
+          "label": "Physics"
+        }
+      ]
+    },
+    {
       "@id": "topic:semantics",
       "label": "Semantics",
       "narrower": [
@@ -141,10 +155,6 @@
       ]
     },
     {
-      "@id": "topic:social",
-      "label": "Social"
-    },
-    {
       "@id": "topic:services",
       "label": "Services",
       "narrower": [
@@ -157,6 +167,10 @@
           "label": "SPARQL"
         }
       ]
+    },
+    {
+      "@id": "topic:social",
+      "label": "Social"
     },
     {
       "@id": "topic:statistics",

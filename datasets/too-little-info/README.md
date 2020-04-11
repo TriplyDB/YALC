@@ -23,6 +23,7 @@ dataset defines any of the following namespaces:
 - http://purl.org/vocab/vann/
 - http://schemas.talis.com/2005/dir/schema#
 - http://sw.opencyc.org/2009/04/07/concept/en/
+- http://voag.linkedmodel.org/voag#
 - http://vocab.org/vann/.html
 - http://web.resource.org/cc/
 - http://www.loa-cnr.it/ontologies/DUL.owl#

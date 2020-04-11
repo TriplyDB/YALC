@@ -22,9 +22,7 @@
     "reco:union",
     "reco:utility"
   ],
-  "homepage": "https://www.w3.org/TR/owl2-overview",
   "id": "ctic/reco@2011-08",
-  "image": "reco.png",
   "license": "http://creativecommons.org/licenses/by-sa/3.0/",
   "name": "RECommendations Ontology (RECO)",
   "namespace": "http://purl.org/reco#",

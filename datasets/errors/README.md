@@ -4,6 +4,10 @@ Unfortunately, many datasets cannot be included into the LOD Cloud
 because they do follow standards.  Datasets that are currently not
 included because of errors are described in this directory.
 
+## No longer exists (404 reply)
+
+  - [LODE](lode.json)
+
 ## Erroneous `Content-Type` header
 
 The following datasets are serviced with an incorrect `Content-Type`

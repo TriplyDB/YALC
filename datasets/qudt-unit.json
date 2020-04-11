@@ -1,0 +1,19 @@
+{
+  "about": [
+    "topic:science",
+    "topic:vocabulary"
+  ],
+  "description": "Standard units of measure for all units.",
+  "homepage": "http://www.qudt.org/doc/2020/04/DOC_VOCAB-UNITS-ALL-v2.1.html",
+  "id": "qudt/unit@2.1.2",
+  "name": "All Units Ontology",
+  "namespace": "http://qudt.org/vocab/unit/",
+  "prefix": {
+    "qkdv": "http://qudt.org/vocab/dimensionvector/",
+    "quantitykind": "http://qudt.org/vocab/quantitykind/",
+    "qudt": "http://qudt.org/1.1/schema/qudt#",
+    "unit": "http://qudt.org/vocab/unit/",
+    "vaem": "http://www.linkedmodel.org/schema/vaem#"
+  },
+  "url": "http://qudt.org/2.1/vocab/unit"
+}

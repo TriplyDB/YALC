@@ -10,7 +10,7 @@
     "dbr:Painting"
   ],
   "homepage": "https://wiki.dbpedia.org/",
-  "identifier": "dbpedia/dbpedia@2019-08-30",
+  "id": "dbpedia/dbpedia@2019-08-30",
   "name": "DBpedia Dataset 2019-08-30 (Pre-Release)",
   "namespace": [
     "http://dbpedia.org/property/",
