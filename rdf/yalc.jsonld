@@ -10,6 +10,11 @@
     "@id": "sdo:about",
     "@type": "@id"
   },
+  "asset": {
+    "@container": "@set",
+    "@id": "sdo:hasPart",
+    "@type": "xsd:string"
+  },
   "date": {
     "@id": "time:inXSDDate",
     "@type": "xsd:date"
