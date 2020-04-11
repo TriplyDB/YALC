@@ -1,0 +1,15 @@
+{
+  "about": [
+    "topic:film"
+  ],
+  "description": "IMDb is an online database of information related to world films, television programs, home videos and video games, and internet streams, including cast, production crew, personnel and fictional character biographies, plot summaries, trivia, and fan reviews and ratings.",
+  "exampleResource": [],
+  "homepage": "http://www.cs.toronto.edu/~oktie/linkedmdb/",
+  "id": "triply/linkedmdb@2012-05-18",
+  "image": "imdb.png",
+  "name": "Linked Internet Movie Database (IMDb)",
+  "namespace": "http://data.linkedmdb.org/",
+  "prefix": {},
+  "successor": "triply/linkedmdb",
+  "url": "http://www.cs.toronto.edu/~oktie/linkedmdb/linkedmdb-latest-dump.zip"
+}
