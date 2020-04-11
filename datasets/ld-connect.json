@@ -1,0 +1,25 @@
+{
+  "about": [
+    "topic:bibliography"
+  ],
+  "description": "This linked data portal contains linked metadata of all IOS Press books and journals, as well as embeddings of all full text.\n\nThis newly released second version offers an improved user interface and twice the number of datapoints, now offering linked data for more than 132,000 journal articles and book chapters, over 330,000 authors resulting in more than 16 million triples.\n\nOur linked data is openly available to the public, so it can:\n\n
+  - Enrich third party datasets\n
+  - Further unsilo research data\n
+  - Incentivize new discoveries\n\nWe invite you to explore the data through our data browser, download our entire dataset or just subsets, download our word embeddings trained on the full text of all IOS Press publications or use the SPARQL endpoint search box on this platform.",
+  "exampleResource": [
+    "http://ld.iospress.nl/rdf/artifact/sw-v9-i1-SW288"
+  ],
+  "homepage": "http://ld.iospress.nl",
+  "id": "ios-press/ld-connect@2.0",
+  "name": "LD Connect",
+  "namespace": "http://ld.iospress.nl/rdf/",
+  "prefix": {
+    "artifact": "http://ld.iospress.nl/rdf/artifact/",
+    "category": "http://ld.iospress.nl/rdf/category/",
+    "contributor": "http://ld.iospress.nl/rdf/contributor/",
+    "ontology": "http://ld.iospress.nl/rdf/ontology/",
+    "organization": "http://ld.iospress.nl/rdf/organization/"
+  },
+  "url": "http://ld.iospress.nl/download/iospress-dataset.tar.gz"
+}
+
