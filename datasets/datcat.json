@@ -10,6 +10,7 @@
   "name": "DatCatInfo",
   "namespace": "http://www.datcatinfo.net/datcat/",
   "prefix": {
+    "cc": "http://creativecommons.org/ns#",
     "datcat": "http://www.datcatinfo.net/datcat/",
   },
   "url": [

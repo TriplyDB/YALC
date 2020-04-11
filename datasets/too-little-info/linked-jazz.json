@@ -1,0 +1,17 @@
+{
+  "about": [
+    "topic:music",
+    "topic:vocabulary"
+  ],
+  "description": "Linked Jazz is a research project investigating the application of Linked Open Data technologies to digital cultural heritage materials.  Our goals are:\n\n  - To uncover meaningful connections between documents and data related to the personal and professional lives of jazz artists, and\n  - To develop broadly applicable tools and methods for working with Linked Open Data.\n\nThe project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network.  New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement.",
+  "exampleResource": [
+    "dbr:Herbie_Hancock"
+  ],
+  "homepage": "https://linkedjazz.org",
+  "id": "pratt/linked-jazz@2.0",
+  "image": "linked-jazz.jpg",
+  "name": "Linked Jazz",
+  "namespace": "",
+  "prefix": {},
+  "url": ""
+}
