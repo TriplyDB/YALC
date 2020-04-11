@@ -138,6 +138,9 @@ as Linked Data.  This is achieved by the following definition files:
   <dd>Topic hierarchy that is used to tag datasets.</dd>
 </dl>
 
+The Linked Data version of the configuration files is itself published
+[over here](https://triplydb.com/Triply/YALC).
+
 ## Pull request details
 
 In order to add a new Linked Open Data to this repository, create a
