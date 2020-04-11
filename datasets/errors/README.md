@@ -6,6 +6,7 @@ included because of errors are described in this directory.
 
 ## No longer exists (404 reply)
 
+  - [Dublin Core Elements](dce.json)
   - [LODE](lode.json)
 
 ## Erroneous `Content-Type` header
