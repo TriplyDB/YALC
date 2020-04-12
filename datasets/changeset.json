@@ -1,0 +1,16 @@
+{
+  "about": [
+    "topic:metadata",
+    "topic:vocabulary"
+  ],
+  "description": "This vocabulary defines a set of terms for describing changes to resource descriptions.\n\nIt introduces the notion of a ChangeSet which encapsulates the delta between two versions of a resource description.  In this context a resource description is the set of triples that in some way comprise a description of a resource.  The delta is represented by two sets of triples: additions and removals.  A ChangeSet can be used to modify a resource description by first removing all triples from the description that are in the removals set and adding the triples in the additions set.",
+  "exampleResource": [],
+  "homepage": "https://vocab.org/changeset/schema#",
+  "id": "talis/changeset@2009-05-18",
+  "name": "Changeset",
+  "namespace": "http://purl.org/vocab/changeset/schema#",
+  "prefix": {
+    "cs": "http://purl.org/vocab/changeset/schema#"
+  },
+  "url": "https://vocab.org/changeset/schema-20090518.rdf"
+}
