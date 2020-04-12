@@ -1,0 +1,15 @@
+{
+  "about": [
+    "topic:topLevel"
+  ],
+  "description": "",
+  "exampleResource": [],
+  "homepage": "http://www.ontotext.com/proton/protontop.html",
+  "id": "ontotext/proton",
+  "name": "PROTo ONtology (PROTON)",
+  "namespace": "http://www.ontotext.com/proton/protontop#",
+  "prefix": {
+    "proton": "http://www.ontotext.com/proton/protontop#"
+  },
+  "url": "http://www.ontotext.com/proton/protontop#"
+}

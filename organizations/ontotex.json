@@ -1,0 +1,7 @@
+{
+  "description": "Building knowledge graphs to link diverse data, enrich it via text analysis and index it in GraphDB for semantic search.",
+  "homepage": "https://www.ontotext.com",
+  "id": "ontotext",
+  "image": "ontotext.png",
+  "name": "Ontotext"
+}
