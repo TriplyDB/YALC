@@ -1,10 +1,7 @@
 {
-  "description": "The Pelagios Network is a long-running initiative that links information online through common references to places.  To create and maintain these connections, Pelagios has developed:\n\n
-  - a method for creating semantic annotations, based on the W3C Web Annotation standard;\n
-  - tools and specifications for creating and making use of these annotations, most notably Recogito, an open-source platform for geo-annotating texts, images and databases;\n
-  - a community of individuals and organizations working with geographic data in humanities disciplines (history, language and literary studies, archaeology, etc.), and cultural heritage (galleries, libraries, archives and museums).",
+  "description": "The Pelagios Network is a long-running initiative that links information online through common references to places.  To create and maintain these connections, Pelagios has developed:\n\n  - a method for creating semantic annotations, based on the W3C Web Annotation standard;\n  - tools and specifications for creating and making use of these annotations, most notably Recogito, an open-source platform for geo-annotating texts, images and databases;\n  - a community of individuals and organizations working with geographic data in humanities disciplines (history, language and literary studies, archaeology, etc.), and cultural heritage (galleries, libraries, archives and museums).",
   "homepage": "https://pelagios.org",
-  "id": "pelagios Network",
+  "id": "pelagios",
   "image": "pelagios.png",
-  "name": "Pelagios"
+  "name": "Pelagios Network"
 }
