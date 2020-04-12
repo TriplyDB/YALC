@@ -10,7 +10,8 @@
   "name": "Changeset",
   "namespace": "http://purl.org/vocab/changeset/schema#",
   "prefix": {
-    "cs": "http://purl.org/vocab/changeset/schema#"
+    "cs": "http://purl.org/vocab/changeset/schema#",
+    "vann": "http://purl.org/vocab/vann/"
   },
   "url": "https://vocab.org/changeset/schema-20090518.rdf"
 }
