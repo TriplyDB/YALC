@@ -1,0 +1,17 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "Die GND-Sachgruppen werden dazu verwendet, einen systematischen Zugang zu Individualnamen und Sachschlagwörtern der Gemeinsamen Normdatei (GND) zu ermöglichen und fachliche oder Ausschnitte oder Teilausgaben zu bilden.",
+  "exampleResource": [],
+  "homepage": "https://d-nb.info/standards/vocab/gnd/gnd-sc.html#",
+  "id": "dnb/sachgruppen",
+  "name": "GND Sachgruppen",
+  "namespace": "https://d-nb.info/standards/vocab/gnd/gnd-sc#",
+  "prefix": {
+    "cc": "http://creativecommons.org/ns#",
+    "sc": "https://d-nb.info/standards/vocab/gnd/gnd-sc#",
+    "vann": "http://purl.org/vocab/vann/"
+  },
+  "url": "https://d-nb.info/standards/vocab/gnd/gnd-sc.ttl"
+}
