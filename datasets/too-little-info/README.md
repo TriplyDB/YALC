@@ -29,6 +29,7 @@ dataset defines any of the following namespaces:
 - http://web.resource.org/cc/
 - http://www.lingvoj.org/olca#
 - http://www.loa-cnr.it/ontologies/DUL.owl#
+- http://www.mpii.de/yago/resource/
 - http://www.rddl.org/purposes#
 - http://www.w3.org/1999/xhtml/vocab#
 - http://www.w3.org/2001/XMLSchema-datatypes#
