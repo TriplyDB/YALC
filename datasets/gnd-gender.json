@@ -1,0 +1,19 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "GND Gender is a value vocabulary (skos:ConceptScheme) listing the possible gender values used in the RDF encoding of the information in the Integrated Authority File (Gemeinsame Normdatei, GND).",
+  "exampleResource": [],
+  "homepage": "https://d-nb.info/standards/vocab/gnd/gender.html#",
+  "id": "dnb/gender",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "name": "GND Gender",
+  "namespace": "https://d-nb.info/standards/vocab/gnd/gender#",
+  "prefix": {
+    "cc": "http://creativecommons.org/ns#",
+    "gender": "https://d-nb.info/standards/vocab/gnd/gender#",
+    "rdagd": "http://rdaregistry.info/termList/gender/",
+    "sdmx-code": "http://purl.org/linked-data/sdmx/2009/code#"
+  },
+  "url": "https://d-nb.info/standards/vocab/gnd/gender.nt"
+}
