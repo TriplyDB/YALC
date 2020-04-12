@@ -6,6 +6,7 @@
   "exampleResource": [],
   "homepage": "https://d-nb.info/standards/vocab/gnd/gender.html#",
   "id": "dnb/gender",
+  "image": "gnd.jpg",
   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
   "name": "GND Gender",
   "namespace": "https://d-nb.info/standards/vocab/gnd/gender#",
