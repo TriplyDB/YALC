@@ -20,7 +20,6 @@ header:
     `application/rdf+xml`.
   - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
     `application/rdf+xml`.
-  - [RDDL](rddl.json) emits `test/plain` i.o. `application/rdf+xml`.
   - [SDMX Attribute](sdmx-attribute.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
   - [SDMX Code](sdmx-code.json) emits `text/plain; charset=utf-8`;
@@ -36,7 +35,6 @@ header:
 
 The following datasets emit no `Content-Type` header at all:
 
-  - [CIDOC-CRM](crm.json)
   - [DOAP](doap.json)
   - [lexinfo](lexinfo.json)
 
@@ -58,7 +56,7 @@ text/plain;q=0.8,
 ```
 
 The following datasets are serviced from servers that cannot process
-the above `Accept` header correctly:
+the above `Accept` header:
 
   - [DBpedia DataID](dataid.json)
   - [W3C Data Cube](qb.json)
