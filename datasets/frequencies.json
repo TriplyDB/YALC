@@ -1,0 +1,17 @@
+{
+  "about": [
+    "topic:bibliography",
+    "topic:vocabulary"
+  ],
+  "description": "Publication Frequency List is derived from a controlled list of coded values in MARC 21 Format for Bibliographic Data field 008/18.",
+  "exampleResource": [],
+  "homepage": "http://id.loc.gov/vocabulary/frequencies.html",
+  "id": "loc/frequencies",
+  "name": "",
+  "namespace": "http://id.loc.gov/vocabulary/frequencies/",
+  "prefix": {
+    "frequency": "http://id.loc.gov/vocabulary/frequencies/",
+    "mads": "http://www.loc.gov/mads/rdf/v1#"
+  },
+  "url": "http://id.loc.gov/vocabulary/frequencies.nt"
+}
