@@ -22,6 +22,7 @@
   "name": "Dublin Core Terms",
   "namespace": "http://purl.org/dc/terms/",
   "prefix": {
+    "dcam": "http://purl.org/dc/dcam/",
     "dct": "http://purl.org/dc/terms/"
   },
   "url": "http://purl.org/dc/terms/"

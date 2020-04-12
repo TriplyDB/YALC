@@ -1,0 +1,16 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "",
+  "exampleResource": [],
+  "homepage": "",
+  "id": "",
+  "name": "",
+  "namespace": "http://purl.org/cld/terms/",
+  "prefix": {
+    "cld": "http://purl.org/cld/terms/",
+    "dcam": "http://purl.org/dc/dcam/"
+  },
+  "url": "http://purl.org/cld/terms/"
+}

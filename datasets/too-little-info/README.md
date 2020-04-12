@@ -20,12 +20,14 @@ dataset defines any of the following namespaces:
 - http://ili.globalwordnet.org/ili/
 - http://metadataregistry.org/uri/profile/rdakit/
 - http://purl.org/net/vocab/2004/03/label#
+- http://purl.org/ontology/gbv/
 - http://purl.org/vocab/vann/
 - http://schemas.talis.com/2005/dir/schema#
 - http://sw.opencyc.org/2009/04/07/concept/en/
 - http://voag.linkedmodel.org/voag#
 - http://vocab.org/vann/.html
 - http://web.resource.org/cc/
+- http://www.lingvoj.org/olca#
 - http://www.loa-cnr.it/ontologies/DUL.owl#
 - http://www.rddl.org/purposes#
 - http://www.w3.org/1999/xhtml/vocab#

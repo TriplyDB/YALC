@@ -33,9 +33,12 @@ header:
   - [Simple Event Model (SEM)](sem.json) emits `application/rss+xml`
     i.o. `application/rdf+xml`.
 
+## No `Content-Type` header
+
 The following datasets emit no `Content-Type` header at all:
 
   - [DOAP](doap.json)
+  - [Lexvo Ontology](lvont.json)
   - [lexinfo](lexinfo.json)
 
 ## Erroneous handling of `Accept` header
