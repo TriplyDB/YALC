@@ -77,6 +77,8 @@ Character escapes in IRIs must use `%hh`-notation.
 
 The following datasets use `\u`-escaping:
 
+  - [Library of Congress Names](loc-names.json) line 66,292,711:
+    `<http://viaf.org/processed/NLI\u007C001461487>`
   - [VIAF](viaf.json) line 841,558:
     `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
 
