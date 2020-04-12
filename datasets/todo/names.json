@@ -1,0 +1,12 @@
+{
+  "about": [],
+  "description": "The Library of Congress Name Authority File (NAF) file provides authoritative data for names of persons, organizations, events, places, and titles.  Its purpose is the identification of these entities and, through the use of such controlled vocabulary, to provide uniform access to bibliographic resources.  Names descriptions also provide access to a controlled form of name through references from unused forms, e.g. a search under: Snodgrass, Quintus Curtius, 1835-1910 will lead users to the authoritative name for Mark Twain, which is, “Twain, Mark, 1835-1910”.  Names may also be used as subjects in bibliographic descriptions, so they may be combined with controlled values from subject heading schemes, such as LCSH.  Library of Congress Names includes over 8 million descriptions created over many decades and according to different cataloging policies.  LC Names is officially called the NACO Authority File and is a cooperative effort in which participants follow a common set of standards and guidelines.",
+  "exampleResource": [],
+  "homepage": "http://id.loc.gov/authorities/names.html",
+  "id": "loc/names",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "name": "Library of Congress Names",
+  "namespace": "",
+  "prefix": {},
+  "url": "http://id.loc.gov/static/data/downloads/authoritiesnames.nt.both.zip"
+}

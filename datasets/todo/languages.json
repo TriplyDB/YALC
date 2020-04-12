@@ -1,0 +1,19 @@
+{
+  "about": [
+    "topic:language",
+    "topic:vocabulary"
+  ],
+  "description": "MARC List for Languages provides three-character lowercase alphabetic strings that serve as the identifiers of languages and language groups.  The codes are usually based on the first three letters of the English form or, in some cases, vernacular form of the corresponding language name.  The codes are varied where necessary to resolve conflicts and are not intended to be abbreviations of a language name.  When the name of a language is changed in the list, the original code is generally retained.  The codes in this list are equivalent to those of ISO 639-2 (Bibliographic) codes and some codes from ISO 639-5, although the language name labels may differ.  They are linked to the equivalent codes in ISO 639-2 and ISO 639-5 and the corresponding two-character codes in ISO 639-1.  The list contains over 480 discrete codes.  It is also searchable at: MARC Code List for Languages.",
+  "exampleResource": [],
+  "homepage": "http://id.loc.gov/vocabulary/languages.html",
+  "id": "loc/languages",
+  "name": "MARC List for Languages",
+  "namespace": "http://id.loc.gov/vocabulary/iso639-1.html",
+  "prefix": {
+    "cs": "http://purl.org/vocab/changeset/schema#",
+    "language": "http://id.loc.gov/vocabulary/languages/",
+    "organization": "http://id.loc.gov/authorities/organizations/"
+    "subject": "http://id.loc.gov/authorities/subjects/"
+  },
+  "url": "http://id.loc.gov/static/data/downloads/vocabularylanguages.nt.skos.zip"
+}

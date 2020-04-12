@@ -1,0 +1,20 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "ISO 639-1 is the first part of the ISO 639 international-standard language-code family.  ISO 639-1 provides two-character lowercase alphabetic strings that serve as identifiers of languages.  The list contains approximately 180 discrete codes.  All ISO 639-1 languages also have ISO 639-2 three-character code representations.  These codes are linked to codes for the same languages in ISO 639-2 and the MARC Language Codes.",
+  "exampleResource": [],
+  "homepage": "http://id.loc.gov/vocabulary/iso639-1.html",
+  "id": "loc/iso639-1",
+  "name": "ISO 639-1: Codes for the Representation of Names of Languages ― Part 1: Two-letter codes for languages",
+  "namespace": "http://id.loc.gov/vocabulary/iso639-1/",
+  "prefix": {
+    "cs": "http://purl.org/vocab/changeset/schema#",
+    "iso639-1": "http://id.loc.gov/vocabulary/iso639-1/",
+    "iso639-2": "http://id.loc.gov/vocabulary/iso639-2/",
+    "language": "http://id.loc.gov/vocabulary/languages/",
+    "organization": "http://id.loc.gov/vocabulary/organizations/",
+    "skosxl": "http://www.w3.org/2008/05/skos-xl#"
+  },
+  "url": "http://id.loc.gov/static/data/downloads/vocabularyiso639-1.nt.skos.zip"
+}
