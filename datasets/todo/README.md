@@ -7,11 +7,11 @@ Client](https://triply.cc/docs/triply-client-js).
 
 ## File name extension `.skos`
 
-  - [LoC Languages](languages.json)
+  - [LoC Languages](loc-languages.json)
   - [LoC ISO 639-1](loc-iso639-1.json)
   - [LoC ISO 639-2](loc-iso639-2.json)
-  - [LoC Organizations](organizations.json)
-  - [LoC Subjects](subjects.json)
+  - [LoC Organizations](loc-organizations.json)
+  - [LoC Subjects](loc-subjects.json)
 
 ## File name extension `.rdfs`
 
