@@ -1,0 +1,23 @@
+{
+  "about": [
+    "topic:bibliography",
+    "topic:vocabulary"
+  ],
+  "description": "Stabiler Link auf den aktuellen Gesamtabzug ZDB-Titeldaten.\n\nThe German Union Catalogue of Serials (ZDB) is one of the world's largest databases dedicated to journals, newspapers, serials and other periodically issued publications from all countries, in all languages, with no time restrictions and in printed, electronic or other forms.\n\nThe ZDB currently contains over 1.8 million bibliographic records with more than 16.5 million holding records dating from 1500 to the present day.  These were compiled in cooperation with around 3,700 German and Austrian libraries.\n\nThe Staatsbibliothek zu Berlin – Preußischer Kulturbesitz and the German National Library are responsible for the maintenance and the further development of the ZDB as equal partners.",
+  "exampleResource": [],
+  "homepage": "https://www.zeitschriftendatenbank.de",
+  "id": "dnb/zdb",
+  "image": "zdb.png",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "name": "Zeitschriftendatenbank (ZDB)",
+  "namespace": "https://ld.zdb-services.de/resource/",
+  "prefix": {
+    "bibo": "http://purl.org/ontology/bibo/",
+    "data": "https://ld.zdb-services.de/data/",
+    "gndo": "https://d-nb.info/standards/elementset/gnd#",
+    "rdau": "http://rdaregistry.info/Elements/u/",
+    "relator": "http://id.loc.gov/vocabulary/relators/",
+    "wdrs": "http://www.w3.org/2007/05/powder-s#"
+  },
+  "url": "https://data.dnb.de/opendata/zdb_lds.ttl.gz"
+}
