@@ -35,5 +35,8 @@
     "title": "http://www.imdb.com/title/",
     "writer": "https://triplydb.com/Triply/linkedmdb/id/writer/"
   },
-  "url": "https://github.com/wouterbeek/linkedmdb/raw/master/linkedmdb.trig.gz"
+  "url": [
+    "https://github.com/wouterbeek/linkedmdb/raw/master/data.trig.gz",
+    "https://github.com/wouterbeek/linkedmdb/raw/master/vocab.trig"
+  ]
 }

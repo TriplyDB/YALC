@@ -96,15 +96,15 @@ Some characters are not allowed to appear unescaped in IRIs.
 
 #### Unescaped double quote
 
-  - [Linked Movie Database
-    (2009-05-18)](none-linkedmdb@2009-05-18.json) line 46.397:
+  - [Linked Movie Database (2009-05-18)](linkedmdb@2009-05-18.json)
+    line 46.397:
     `http://dbpedia.org/resource/Wkw/tk/1996%407%2755"hk.net`.
 
 #### Unescaped space characters
 
-  - [Linked Movie Database
-    (2012-02-10)](none-linkedmdb@2012-02-10.json) line 35.710:
-    `<http://data.linkedmdb.org/resource/country/iso alpha2>`.
+  - [Linked Movie Database (2012-02-10)](linkedmdb@2012-02-10.json)
+    line 35.710: `<http://data.linkedmdb.org/resource/country/iso
+    alpha2>`.
   - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
     rdf:resource=" https://rkd.nl/explore/artists/420649"/>`
 

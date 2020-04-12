@@ -13,7 +13,7 @@
     "d0:System",
     "d0:Topic"
   ],
-  "id": "odp/d0",
+  "id": "odp/d0@1.2",
   "image": "owl.png",
   "name": "Generalization of DOLCE+DnS Ultralite (D0)",
   "namespace": "http://www.ontologydesignpatterns.org/ont/d0.owl#",
@@ -23,6 +23,3 @@
   },
   "url": "http://www.ontologydesignpatterns.org/ont/d0.owl"
 }
-
-
-1.2
