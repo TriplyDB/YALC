@@ -11,7 +11,7 @@ Client](https://triply.cc/docs/triply-client-js).
   - [LoC ISO 639-1](loc-iso639-1.json)
   - [LoC ISO 639-2](loc-iso639-2.json)
   - [LoC Organizations](loc-organizations.json)
-  - [LoC Subjects](loc-subjects.json)
+  - [LoC Subjects](lcsh.json)
 
 ## File name extension `.rdfs`
 
