@@ -5,11 +5,11 @@
   "description": "Unique IRIs for Linked Data file formats.",
   "exampleResource": [],
   "homepage": "https://www.w3.org/ns/formats/",
-  "id": "w3c/formats",
+  "id": "w3c/fmt",
   "name": "Linked Data File Formats",
   "namespace": "http://www.w3.org/ns/formats/",
   "prefix": {
-    "format": "http://www.w3.org/ns/formats/",
+    "fmt": "http://www.w3.org/ns/formats/",
     "xhv": "http://www.w3.org/1999/xhtml/vocab#"
   },
   "url": [

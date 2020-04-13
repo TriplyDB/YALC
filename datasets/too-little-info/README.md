@@ -24,6 +24,7 @@ dataset defines any of the following namespaces:
 - http://metadataregistry.org/uri/profile/rdakit/
 - http://purl.org/net/vocab/2004/03/label#
 - http://purl.org/ontology/gbv/
+- http://purl.org/r2rml-ext/
 - http://purl.org/vocab/vann/
 - http://schemas.talis.com/2005/dir/schema#
 - http://sw.opencyc.org/2009/04/07/concept/en/
@@ -33,6 +34,9 @@ dataset defines any of the following namespaces:
 - http://www.lingvoj.org/olca#
 - http://www.loa-cnr.it/ontologies/DUL.owl#
 - http://www.mpii.de/yago/resource/
+- http://www.ontotext.com/owlim/geo#
+- http://www.ontotext.com/owlim/lucene#
+- http://www.openrdf.org/schema/sesame#
 - http://www.rddl.org/purposes#
 - http://www.w3.org/1999/xhtml/vocab#
 - http://www.w3.org/2001/XMLSchema-datatypes#

@@ -3,7 +3,7 @@
     "topic:geography",
     "topic:vocabulary"
   ],
-  "description": "A vocabulary for representing latitude, longitude and altitude information in the WGS84 geodetic reference datum.",
+  "description": "A vocabulary for representing latitude, longitude and altitude information in the WGS84 geodetic reference datum.  WGS stands for the World Geodetic Survey.",
   "exampleResource": [
     "wgs84:Point",
     "wgs84:lat",
