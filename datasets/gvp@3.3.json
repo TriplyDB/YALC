@@ -10,6 +10,7 @@
   "namespace": "http://vocab.getty.edu/ontology#",
   "prefix": {
     "gvp": "http://vocab.getty.edu/ontology#",
+    "skos-thes": "http://purl.org/iso25964/skos-thes#",
     "vann": "http://purl.org/vocab/vann/"
   },
   "url": "http://vocab.getty.edu/ontology.ttl"

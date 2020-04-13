@@ -115,6 +115,10 @@ Some characters are not allowed to appear unescaped in IRIs.
 
 The following datasets contain syntax errors:
 
+  - [Getty Art & Architecture Thesaurus (AAT)](aat.json) file
+    `AATOut_WikidataCoref.nt` does not use end-of-triple indicators
+    (i.e., trailing dots).
+
   - [GeoNames](geonames.json) is a concatenation of RDF/XML files with
     IRIs interspersed.  This was communicated to the GeoNames forum:
     [link](http://forum.geonames.org/gforum/forums/show/4.page)
