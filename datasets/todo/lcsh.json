@@ -10,8 +10,8 @@
   "namespace": "http://id.loc.gov/authorities/subjects/",
   "prefix": {
     "cs": "http://purl.org/vocab/changeset/schema#",
-    "organization": "http://id.loc.gov/vocabulary/organizations/",
-    "subject": "http://id.loc.gov/authorities/subjects/"
+    "lcsh": "http://id.loc.gov/authorities/subjects/",
+    "organization": "http://id.loc.gov/vocabulary/organizations/"
   },
   "url": "http://id.loc.gov/static/data/downloads/authoritiessubjects.nt.skos.zip"
 }

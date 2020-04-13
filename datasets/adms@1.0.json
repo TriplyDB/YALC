@@ -4,8 +4,7 @@
     "topic:vocabulary"
   ],
   "description": "This file specifies the controlled vocabularies defined by ADMS v1.0 as SKOS concept schemes and SKOS concepts.",
-  "exampleResource": [
-  ],
+  "exampleResource": [],
   "id": "eu/adms@1.0",
   "name": "Asset Description Metadata Schema (ADMS)",
   "namespace": "http://purl.org/adms/",

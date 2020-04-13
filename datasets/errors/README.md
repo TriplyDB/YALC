@@ -62,6 +62,7 @@ The following datasets are serviced from servers that cannot process
 the above `Accept` header:
 
   - [DBpedia DataID](dataid.json)
+  - [Getty VoID](getty-void.json)
   - [W3C Data Cube](qb.json)
   - [W3C PROV-O](prov.json)
   - [W3C RDFa](rdfa.json)
@@ -114,6 +115,11 @@ Some characters are not allowed to appear unescaped in IRIs.
 ## Syntax errors
 
 The following datasets contain syntax errors:
+
+  - [DBpedia](dbpedia@2019-08-30.json) URL
+    `https://downloads.dbpedia.org/repo/lts/text/short-abstracts/2016.10.01/short-abstracts_lang=yue.ttl.bz2`
+    contains an unescaped control character (0x11, device control 1)
+    on line 2,016.
 
   - [Getty Art & Architecture Thesaurus (AAT)](aat.json) file
     `AATOut_WikidataCoref.nt` does not use end-of-triple indicators

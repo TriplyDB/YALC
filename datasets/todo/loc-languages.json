@@ -12,8 +12,8 @@
   "prefix": {
     "cs": "http://purl.org/vocab/changeset/schema#",
     "language": "http://id.loc.gov/vocabulary/languages/",
+    "lcsh": "http://id.loc.gov/authorities/subjects/",
     "organization": "http://id.loc.gov/authorities/organizations/"
-    "subject": "http://id.loc.gov/authorities/subjects/"
   },
   "url": "http://id.loc.gov/static/data/downloads/vocabularylanguages.nt.skos.zip"
 }
