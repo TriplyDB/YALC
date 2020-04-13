@@ -1,0 +1,16 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "The GVP Ontology defines classes, properties and values ([`skos:Concept`](https://triplydb.com/w3c/skos/table?subject=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23Concept)s) used in GVP LOD.\n\nAs of version 3.0, it is complete regarding [AAT](/getty/aat), [TGN](/getty/tgn) and [ULAN](/getty/ulan), and will be extended in time with more elements needed for other GVP vocabularies (CONA).\n\nIt uses the [SKOS](/w3c/skos), [SKOS-XL](/w3c/skos-xl), ISO 25964; [DC](/dcmi/dce), [DCT](/dcmi/dct), [BIBO](/none/bibo), [FOAF](/none/foaf), [BIO](/none/bio), [Schema](/none/sdo), [PROV](/w3c/prov), [WGS84](/w3c/wgs84) ontologies.",
+  "exampleResource": [],
+  "homepage": "http://vocab.getty.edu/ontology#",
+  "id": "getty/gvp@3.3",
+  "name": "Getty Vocabulary Program (GVP)",
+  "namespace": "",
+  "prefix": {
+    "gvp": "http://vocab.getty.edu/ontology#",
+    "vann": "http://purl.org/vocab/vann/"
+  },
+  "url": "http://vocab.getty.edu/ontology.ttl"
+}
