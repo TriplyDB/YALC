@@ -19,6 +19,7 @@ dataset defines any of the following namespaces:
 - http://data.semanticweb.org/person/
 - http://dewey.info/class/
 - http://ili.globalwordnet.org/ili/
+- http://metadataregistry.org/concepts/
 - http://metadataregistry.org/uri/profile/rdakit/
 - http://purl.org/net/vocab/2004/03/label#
 - http://purl.org/ontology/gbv/
