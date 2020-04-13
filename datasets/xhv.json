@@ -19,5 +19,5 @@
   "prefix": {
     "xhv": "http://www.w3.org/1999/xhtml/vocab#"
   },
-  "url": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/xhv.ttl"
+  "url": "https://raw.githubusercontent.com/wouterbeek/xhv/master/xhv.ttl"
 }
