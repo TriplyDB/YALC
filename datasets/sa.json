@@ -1,0 +1,24 @@
+{
+  "about": [
+    "topic:poetry"
+  ],
+  "asset": [],
+  "description": "Ruth and Marvin Sackner founded the Archive in Miami Beach, Florida in 1979, later moving it to Miami, Florida in 2005.  Its initial mission was to establish a collection of books, critical texts, periodicals, ephemera, prints, drawings, collages, paintings, sculptures, objects, manuscripts, and correspondence dealing with precedent and contemporary, internationally produced, concrete and visual poetry.  The antecedent material had at its starting point, Stephane Mallarme’s poem, “Un Coup de Des” (Cosmopolis, 1897).\n\nThe historic examples included works with concrete/visual poetic sensibilities from such twentieth century art movements as Italian Futurism, Russian and Eastern European Avant Garde, Dada, Surrealism, Bauhaus, De Stijl, Ultra, Tabu-Dada, Lettrisme, and Ultra-Lettrisme.",
+  "exampleResource": [
+    "work:10112",
+    "work:10325",
+    "work:1308",
+    "work:1053"
+  ],
+  "id": "lib-uiowa/sa",
+  "image": "sa.png",
+  "name": "Sackner Archive",
+  "namespace": "https://triplydb.com/lib-uiowa/sa",
+  "prefix": {
+    "work": "https://triplydb.com/lib-uiowa/sa/id/work/"
+  },
+  "url": [
+    "https://raw.githubusercontent.com/wouterbeek/sackner-archive/master/data.trig.gz",
+    "https://raw.githubusercontent.com/wouterbeek/sackner-archive/master/vocab.trig"
+  ]
+}
