@@ -12,5 +12,5 @@
   "prefix": {
     "relationship": "https://vocab.org/relationship/"
   },
-  "url": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/relationship.ttl"
+  "url": "https://raw.githubusercontent.com/wouterbeek/relationship/master/relationship.ttl"
 }
