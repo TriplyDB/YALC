@@ -3,7 +3,7 @@
   "description": "Gesamtabzug der DNB-Titeldaten",
   "exampleResource": [],
   "homepage": "https://data.dnb.de/opendata/",
-  "id": "dnb/bib",
+  "id": "dnb/dnb",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
   "name": "Gesamtabzug der DNB-Titeldaten",
   "namespace": "https://d-nb.info/",
