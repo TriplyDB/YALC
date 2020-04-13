@@ -17,6 +17,7 @@ dataset defines any of the following namespaces:
 - http://bibframe.org/vocab/
 - http://creativecommons.org/licenses/
 - http://data.semanticweb.org/person/
+- http://dewey.info/class/
 - http://ili.globalwordnet.org/ili/
 - http://metadataregistry.org/uri/profile/rdakit/
 - http://purl.org/net/vocab/2004/03/label#
@@ -37,4 +38,5 @@ dataset defines any of the following namespaces:
 - http://www.w3.org/TR/powder-formal/#
 - http://www.w3.org/TR/rdf-concepts/#
 - http://www.w3.org/TR/xpath-functions/#
+- https://ns.editeur.org/thema/
 - https://w3id.org/credentials#

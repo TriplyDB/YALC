@@ -1,0 +1,19 @@
+{
+  "about": [],
+  "description": "Stabiler Link auf den aktuellen Gesamtabzug Metadatenprovenienz DNB-Titeldaten.",
+  "exampleResource": [],
+  "homepage": "https://data.dnb.de/opendata/",
+  "id": "dnb/prov",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "name": "",
+  "namespace": "",
+  "prefix": {
+    "activity": "https://d-nb.info/provenance/activity/",
+    "agrelon": "http://d-nb.info/standards/elementset/agrelon#",
+    "dnbt": "http://d-nb.info/standards/elementset/dnb#",
+    "gnd": "http://d-nb.info/gnd/",
+    "iso639-2": "http://id.loc.gov/vocabulary/iso639-2/",
+    "lcsh": "http://id.loc.gov/authorities/subjects/"
+  },
+  "url": "https://data.dnb.de/opendata/dnb-all_ldsprov.nt.gz"
+}
