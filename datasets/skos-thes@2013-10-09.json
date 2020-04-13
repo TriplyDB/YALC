@@ -2,7 +2,7 @@
   "about": [
     "topic:vocabulary"
   ],
-  "description": "A mapping between the ISO 25964 data model and the [SKOS](/w3c/skos) schema.",
+  "description": "A mapping between the ISO 25964 data model and the [SKOS](/w3c/skos) schema.  ISO 25964 is an ISO standard on thesauri.",
   "exampleResource": [],
   "id": "skos-thes@2013-12-09",
   "name": "ISO 25964 ↔ SKOS mapping",

@@ -32,6 +32,7 @@ header:
     charset=utf-8` i.o. `text/turtle`.
   - [Simple Event Model (SEM)](sem.json) emits `application/rss+xml`
     i.o. `application/rdf+xml`.
+  - [W3C R2RML](rr.json) emits `text/html` i.o. `application/rdf+xml`.
 
 ## No `Content-Type` header
 

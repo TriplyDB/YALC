@@ -1,0 +1,15 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "An RDF Schema defined by the W3C [RDB2RDF Working Group](http://www.w3.org/2001/sw/rdb2rdf/) in the [R2RML: RDB to RDF Mapping Language](http://www.w3.org/TR/r2rml/) document.  It can be used to specify a mapping from relational data to RDF.",
+  "exampleResource": [],
+  "homepage": "https://www.w3.org/ns/r2rml#",
+  "id": "w3c/rr",
+  "name": "R2RML: RDB to RDF Mapping Language Schema",
+  "namespace": "http://www.w3.org/ns/r2rml#",
+  "prefix": {
+    "rr": "http://www.w3.org/ns/r2rml#"
+  },
+  "url": "http://www.w3.org/ns/r2rml#"
+}
