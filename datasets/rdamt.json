@@ -1,0 +1,18 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "A categorization reflecting the general type of intermediation device required to view, play, run, etc., the content of a resource.",
+  "exampleResource": [],
+  "homepage": "http://www.rdaregistry.info/termList/RDAMediaType",
+  "id": "rda/rdamt",
+  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "name": "RDA Media Type",
+  "namespace": "http://rdaregistry.info/termList/RDAMediaType/"
+  "prefix": {
+    "rdamt": "http://rdaregistry.info/termList/RDAMediaType/",
+    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
+    "regap": "http://metadataregistry.org/uri/profile/regap/"
+  },
+  "url": "http://rdaregistry.info/termList/RDAMediaType.nt"
+}
