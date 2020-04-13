@@ -1,0 +1,41 @@
+{
+  "about": [
+    "topic:vocabulary"
+  ],
+  "description": "Unique IRIs for Linked Data file formats.",
+  "exampleResource": [],
+  "homepage": "https://www.w3.org/ns/formats/",
+  "id": "w3c/formats",
+  "name": "Linked Data File Formats",
+  "namespace": "http://www.w3.org/ns/formats/",
+  "prefix": {
+    "format": "http://www.w3.org/ns/formats/",
+    "xhv": "http://www.w3.org/1999/xhtml/vocab#"
+  },
+  "url": [
+    "http://www.w3.org/ns/formats/Format",
+    "http://www.w3.org/ns/formats/JSON-LD",
+    "http://www.w3.org/ns/formats/LD_Patch",
+    "http://www.w3.org/ns/formats/N-Quads",
+    "http://www.w3.org/ns/formats/N-Triples",
+    "http://www.w3.org/ns/formats/N3",
+    "http://www.w3.org/ns/formats/OWL_Functional",
+    "http://www.w3.org/ns/formats/OWL_Manchester",
+    "http://www.w3.org/ns/formats/OWL_XML",
+    "http://www.w3.org/ns/formats/POWDER",
+    "http://www.w3.org/ns/formats/POWDER-S",
+    "http://www.w3.org/ns/formats/PROV-N",
+    "http://www.w3.org/ns/formats/PROV-XML",
+    "http://www.w3.org/ns/formats/RDF_JSON",
+    "http://www.w3.org/ns/formats/RDF_XML",
+    "http://www.w3.org/ns/formats/RDFa",
+    "http://www.w3.org/ns/formats/RIF_XML",
+    "http://www.w3.org/ns/formats/SPARQL_Results_CSV",
+    "http://www.w3.org/ns/formats/SPARQL_Results_JSON",
+    "http://www.w3.org/ns/formats/SPARQL_Results_TSV",
+    "http://www.w3.org/ns/formats/SPARQL_Results_XML",
+    "http://www.w3.org/ns/formats/TriG",
+    "http://www.w3.org/ns/formats/Turtle",
+    "http://www.w3.org/ns/formats/microdata"
+  ]
+}
