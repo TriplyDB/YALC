@@ -1,6 +1,6 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-148-brightgreen)](datasets)
+[![](https://img.shields.io/badge/datasets-152-brightgreen)](datasets)
 [![](https://img.shields.io/badge/organizations-35-brightgreen)](organizations)
 [![](https://img.shields.io/badge/tooLittleInfo-8-yellow)](datasets/too-little-info)
 [![](https://img.shields.io/badge/todo-10-red)](datasets/todo)

@@ -6,7 +6,14 @@
   "id": "dnb/bib",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
   "name": "Gesamtabzug der DNB-Titeldaten",
-  "namespace": "",
-  "prefix": {},
+  "namespace": "https://d-nb.info/",
+  "prefix": {
+    "bibo": "http://purl.org/ontology/bibo/",
+    "dnb": "https://d-nb.info/",
+    "iso639-2": "http://id.loc.gov/vocabulary/iso639-2/",
+    "relator": "http://id.loc.gov/vocabulary/relators/",
+    "umbel": "http://umbel.org/umbel#",
+    "wdrs": "http://www.w3.org/2007/05/powder-s#"
+  },
   "url": "https://data.dnb.de/opendata/dnb-all_lds.nt.gz"
 }

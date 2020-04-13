@@ -40,5 +40,6 @@ dataset defines any of the following namespaces:
 - http://www.w3.org/TR/powder-formal/#
 - http://www.w3.org/TR/rdf-concepts/#
 - http://www.w3.org/TR/xpath-functions/#
+- https://nbn-resolving.org/
 - https://ns.editeur.org/thema/
 - https://w3id.org/credentials#

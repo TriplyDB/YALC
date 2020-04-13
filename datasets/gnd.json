@@ -3,13 +3,13 @@
     "topic:bibliography",
     "topic:vocabulary"
   ],
-  "description": " Stabiler Link auf den aktuellen Gesamtabzug der GND:\n  - Entitäten Körperschaft (Corporate body, Code b)\n  - Entitäten Kongress (Congress, Code f)\n  - Entitäten Geografikum (Geographical entity, Code g)\n  - Entitäten Personenname (nicht indiv.) (Name, Code n)\n  - Entitaeten Person (indiv.) (Person, Code p)\n  - Entitäten Sachbegriff (Subject term, Code s)\n  - Entitäten Werk (Work, Code u)",
+  "description": " Aktuellen Gesamtabzug der GND:\n  - Entitäten Körperschaft (Corporate body, Code b)\n  - Entitäten Kongress (Congress, Code f)\n  - Entitäten Geografikum (Geographical entity, Code g)\n  - Entitäten Personenname (nicht indiv.) (Name, Code n)\n  - Entitaeten Person (indiv.) (Person, Code p)\n  - Entitäten Sachbegriff (Subject term, Code s)\n  - Entitäten Werk (Work, Code u)",
   "exampleResource": [],
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/gnd",
   "image": "gnd.jpg",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
-  "name": "",
+  "name": "Gesamtabzug der GND",
   "namespace": "http://d-nb.info/gnd/",
   "prefix": {
     "agent": "http://id.loc.gov/rwo/agents/",

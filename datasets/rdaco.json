@@ -8,7 +8,7 @@
   "id": "rda/rdaco",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Content Type",
-  "namespace": "http://rdaregistry.info/termList/RDAContentType/"
+  "namespace": "http://rdaregistry.info/termList/RDAContentType/",
   "prefix": {
     "rdaco": "http://rdaregistry.info/termList/RDAContentType/",
     "regStatus": "http://metadataregistry.org/uri/RegStatus/",

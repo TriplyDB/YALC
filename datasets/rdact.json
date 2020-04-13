@@ -8,7 +8,7 @@
   "id": "rda/rdact",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Carrier Type",
-  "namespace": "http://rdaregistry.info/termList/RDACarrierType/"
+  "namespace": "http://rdaregistry.info/termList/RDACarrierType/",
   "prefix": {
     "rdact": "http://rdaregistry.info/termList/RDACarrierType/",
     "regStatus": "http://metadataregistry.org/uri/RegStatus/",

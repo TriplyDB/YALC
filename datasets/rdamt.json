@@ -8,7 +8,7 @@
   "id": "rda/rdamt",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Media Type",
-  "namespace": "http://rdaregistry.info/termList/RDAMediaType/"
+  "namespace": "http://rdaregistry.info/termList/RDAMediaType/",
   "prefix": {
     "rdamt": "http://rdaregistry.info/termList/RDAMediaType/",
     "regStatus": "http://metadataregistry.org/uri/RegStatus/",
