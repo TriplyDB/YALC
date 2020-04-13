@@ -37,5 +37,5 @@
     "ma-ont": "http://www.w3.org/ns/ma-ont#",
     "vann": "http://purl.org/vocab/vann/"
   },
-  "url": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/cinelab.ttl"
+  "url": "https://raw.githubusercontent.com/wouterbeek/cinelab/master/cinelab.ttl"
 }

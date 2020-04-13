@@ -3,7 +3,7 @@
     "topic:metadata",
     "topic:vocabulary"
   ],
-  "description": "This document describes a vocabulary for annotating descriptions of vocabularies with examples and usage notes.",
+  "description": "A vocabulary for annotating descriptions of vocabularies with examples and usage notes.",
   "exampleResource": [
     "vann:changes",
     "vann:example",
@@ -17,5 +17,5 @@
   "prefix": {
     "vann": "https://vocab.org/vann/"
   },
-  "url": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/vann.ttl"
+  "url": "https://raw.githubusercontent.com/wouterbeek/vann/master/vann.ttl"
 }

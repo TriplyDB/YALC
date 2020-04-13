@@ -11,5 +11,5 @@
   "prefix": {
     "label": "http://purl.org/net/vocab/2004/03/label#"
   },
-  "url": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/label.ttl"
+  "url": "https://raw.githubusercontent.com/wouterbeek/label/master/label.ttl"
 }
