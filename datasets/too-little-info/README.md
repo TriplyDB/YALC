@@ -18,6 +18,7 @@ dataset defines any of the following namespaces:
 - http://creativecommons.org/licenses/
 - http://data.semanticweb.org/person/
 - http://dewey.info/class/
+- http://hub.culturegraph.org/resource/
 - http://ili.globalwordnet.org/ili/
 - http://metadataregistry.org/concepts/
 - http://metadataregistry.org/uri/profile/rdakit/
