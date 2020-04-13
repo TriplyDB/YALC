@@ -16,6 +16,7 @@ dataset defines any of the following namespaces:
 
 - http://bibframe.org/vocab/
 - http://creativecommons.org/licenses/
+- http://data.lirmm.fr/ontologies/vdpp#
 - http://data.semanticweb.org/person/
 - http://dewey.info/class/
 - http://hub.culturegraph.org/resource/
@@ -30,6 +31,7 @@ dataset defines any of the following namespaces:
 - http://sw.opencyc.org/2009/04/07/concept/en/
 - http://voag.linkedmodel.org/voag#
 - http://vocab.org/vann/.html
+- http://vocab.org/waiver/terms/
 - http://web.resource.org/cc/
 - http://www.lingvoj.org/olca#
 - http://www.loa-cnr.it/ontologies/DUL.owl#
