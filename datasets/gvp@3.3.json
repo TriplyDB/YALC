@@ -7,7 +7,7 @@
   "homepage": "http://vocab.getty.edu/ontology#",
   "id": "getty/gvp@3.3",
   "name": "Getty Vocabulary Program (GVP)",
-  "namespace": "",
+  "namespace": "http://vocab.getty.edu/ontology#",
   "prefix": {
     "gvp": "http://vocab.getty.edu/ontology#",
     "vann": "http://purl.org/vocab/vann/"
