@@ -1,0 +1,20 @@
+{
+  "about": [
+    "topic:agriculture",
+    "topic:vocabulary"
+  ],
+  "description": "The Global Agricultural Concept Space (GACS) is a hub for concepts related to agriculture, in multiple languages, for use in Linked Data.  GACS Core is the first of potentially many concept schemes in this larger concept space.  The idea for GACS emerged out of discussions at the World Congress of IAALD, the International Association of Agricultural Information Specialists, in July 2013.  The Food and Agricultural Organization of the United Nations (FAO), CAB International (CABI), and the National Agricultural Library of the USA (NAL) agreed in October 2013 to explore the feasibility of developing a shared concept scheme by integrating their three thesauri: the AGROVOC Concept Scheme, the CAB Thesaurus (CABT), and NAL Thesaurus (NALT).  In the GACS vision, the integration of these three thesauri was the first step towards the realization of a hub that links to and from the concept schemes beyond the initial three, and in multiple language areas.",
+  "exampleResource": [],
+  "homepage": "https://agrisemantics.org/#GACShome",
+  "id": "gacs",
+  "image": "gacs.jpg",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "name": "Global Agricultural Concept Space (GACS)",
+  "namespace": "http://id.agrisemantics.org/gacs/",
+  "prefix": {
+    "gacs": "http://id.agrisemantics.org/gacs/",
+    "skosxl": "http://www.w3.org/2008/05/skos-xl#",
+    "wde": "http://www.wikidata.org/entity/"
+  },
+  "url": "https://github.com/agrisemantics/website/raw/master/downloads/gacs-core-scheme.zip"
+}
