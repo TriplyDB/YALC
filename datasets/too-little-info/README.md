@@ -14,19 +14,31 @@ no dataset could yet be found.  Please open a ‘Dataset request’
 [issue](https://github.com/TriplyDB/YALC/issues) if you know which
 dataset defines any of the following namespaces:
 
+- http://aims.fao.org/aos/agrovoc/
 - http://bibframe.org/vocab/
+- http://catalog.digitalarchives.tw/
 - http://creativecommons.org/licenses/
 - http://data.lirmm.fr/ontologies/vdpp#
+- http://data.odw.tw/agent/
+- http://data.odw.tw/r1/
+- http://data.odw.tw/r2/
+- http://data.odw.tw/r3/
 - http://data.semanticweb.org/person/
 - http://dewey.info/class/
+- http://eol.org/pages/
 - http://hub.culturegraph.org/resource/
+- http://id.agrisemantics.org/vocab#
+- http://id.cabi.org/cabt/
 - http://ili.globalwordnet.org/ili/
+- http://lod.nal.usda.gov/nalt/
+- http://lod.taxonconcept.org/ontology/txn.owl#
 - http://metadataregistry.org/concepts/
 - http://metadataregistry.org/uri/profile/rdakit/
 - http://purl.org/net/vocab/2004/03/label#
 - http://purl.org/ontology/gbv/
 - http://purl.org/r2rml-ext/
 - http://purl.org/vocab/vann/
+- http://rs.tdwg.org/dwc/terms/
 - http://schemas.talis.com/2005/dir/schema#
 - http://sw.opencyc.org/2009/04/07/concept/en/
 - http://voag.linkedmodel.org/voag#
@@ -42,6 +54,7 @@ dataset defines any of the following namespaces:
 - http://www.rddl.org/purposes#
 - http://www.w3.org/1999/xhtml/vocab#
 - http://www.w3.org/2001/XMLSchema-datatypes#
+- http://www.w3.org/TR/owl-time/#
 - http://www.w3.org/TR/powder-dr/#
 - http://www.w3.org/TR/powder-formal/#
 - http://www.w3.org/TR/rdf-concepts/#
