@@ -1,0 +1,17 @@
+{
+  "about": [
+    "topic:commerce",
+    "topic:vocabulary"
+  ],
+  "description": "The Linked Data representation of the CPC taxonomy.",
+  "exampleResource": [],
+  "homepage": "https://data.epo.org/linked-data/download",
+  "id": "epo/cpc-taxonomy",
+  "name": "CPC Taxonomy",
+  "namespace": "http://data.epo.org/linked-data/def/cpc/",
+  "prefix": {
+    "cpc": "http://data.epo.org/linked-data/def/cpc/",
+    "ipc": "http://data.epo.org/linked-data/def/ipc/"
+  },
+  "url": "https://data.epo.org/linked-data/download/cpc/cpc.nt.gz"
+}

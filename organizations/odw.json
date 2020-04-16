@@ -1,6 +1,7 @@
-o{
+{
   "description": "A Taiwan Linked Data Platform ([data.odw.tw](http://data.odw.tw/)) build by the Institute of Information Science, Academia Sinica.  The LOD site using CKAN (The Comprehensive Knowledge Archive Network) to curate more than 840,000 semantically enriched catalogue records (CC0 licensed) across multiple subject areas.  Two types of linked data resources are generated: one type is simply described by [Dublin Core](/dcmi)'s 15 elements (DC Version), and the other type is enriched by W3C recommendations ([CSVW](/w3c/csvw), [DCAT](/w3c/dcat), [Org](/w3c/org), [PROV](/w3c/prov), [SKOS](/w3c/skos), [Time Ontology](/w3c/time), general upper vocabularies ([Creative Commons](/cc/rel), [Dublin Core Elements](/dcmi/dce), [Dublin Core Terms](/dcmi/dct), [Event Ontology](/none/event), [FOAF](/none/foaf), [r4r](/none/r4r), and [Schema.org](/none/sdo)) as well as domain vocabularies ([AAT](/getty/aat), [dwc](/none/tdwg), [GeoSPARQL](/ogc/geo), [GeoNames](/gn/gn) and [txn](TODO)). Datasets are further linked to external knowledge bases including Wikidata, GeoNames, and Encyclopedia of Life(EOL).",
   "homepage": "http://data.odw.tw",
+  "id": "odw",
   "image": "odw.jpg",
   "name": "Open Data Web"
 }

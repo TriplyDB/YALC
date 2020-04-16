@@ -1,0 +1,16 @@
+{
+  "about": [
+    "topic:commerce",
+    "topic:vocabulary"
+  ],
+  "description": "An ontology for representing the Cooperative Patent Classification (CPC) scheme.",
+  "exampleResource": [],
+  "homepage": "https://data.epo.org/linked-data/download",
+  "id": "epo/cpc-ontology",
+  "name": "CPC Ontology",
+  "namespace": "http://data.epo.org/linked-data/def/cpc/",
+  "prefix": {
+    "cpc": "http://data.epo.org/linked-data/def/cpc/"
+  },
+  "url": "https://data.epo.org/linked-data/download/vocabularies/cpcOnt.ttl"
+}

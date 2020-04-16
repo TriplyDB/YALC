@@ -1,0 +1,16 @@
+{
+  "about": [
+    "topic:commerce",
+    "topic:vocabulary"
+  ],
+  "description": "An ontology for representing information about states, other entities and intergovernmental organizations.",
+  "exampleResource": [],
+  "homepage": "https://data.epo.org/linked-data/download",
+  "id": "epo/st3",
+  "name": "ST3 Ontology",
+  "namespace": "http://data.epo.org/linked-data/def/st3/",
+  "prefix": {
+    "st3": "http://data.epo.org/linked-data/def/st3/"
+  },
+  "url": "https://data.epo.org/linked-data/download/vocabularies/st3Ont.ttl"
+}
