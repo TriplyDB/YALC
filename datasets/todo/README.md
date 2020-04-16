@@ -7,7 +7,6 @@ Client](https://triply.cc/docs/triply-client-js).
 
 ## File name extension `.skos`
 
-  - [LoC Languages](loc-languages.json)
   - [LoC ISO 639-1](loc-iso639-1.json)
   - [LoC ISO 639-2](loc-iso639-2.json)
   - [LoC Organizations](loc-organizations.json)
@@ -15,7 +14,7 @@ Client](https://triply.cc/docs/triply-client-js).
 
 ## File name extension `.rdfs`
 
-  - [CIDOC-CRM](crm.json)
+  - [CIDOC-CRM](crm@6.2.1.json)
   - [RDDL](rddl.json)
 
 ## Empty Bzipped file
