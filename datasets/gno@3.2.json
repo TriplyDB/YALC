@@ -6,7 +6,7 @@
   "description": "The GeoNames Ontology makes it possible to add geospatial semantic information to the Word Wide Web.",
   "exampleResource": [],
   "homepage": "http://www.geonames.org/ontology/documentation.html",
-  "id": "geonames/gno@3.2",
+  "id": "gn/gno@3.2",
   "name": "GeoNames Ontology",
   "namespace": "https://www.geonames.org/ontology#",
   "prefix": {

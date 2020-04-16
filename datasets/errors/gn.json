@@ -12,7 +12,7 @@
     "gn:6465763/"
   ],
   "homepage": "https://www.geonames.org",
-  "id": "geonames/geonames",
+  "id": "gn/gn",
   "name": "GeoNames",
   "namespace": "http://sws.geonames.org/",
   "prefix": {
