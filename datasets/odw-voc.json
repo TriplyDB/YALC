@@ -7,7 +7,6 @@
   "exampleResource": [],
   "homepage": "http://voc.odw.tw/ontology/",
   "id": "odw/voc@2016-06-01",
-  "license": "http://www.opendefinition.org/licenses/odc-odbl",
   "name": "Ontology for Open Data Web",
   "namespace": "http://voc.odw.tw/",
   "prefix": {
