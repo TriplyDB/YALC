@@ -18,7 +18,7 @@
     "rel:spouseOf"
   ],
   "homepage": "http://www.perceive.net/schemas/20031015/relationship/",
-  "id": "rel@2003-10-15",
+  "id": "perceive-designs/relationship@2003-10-15",
   "name": "Relationship",
   "namespace": "http://www.perceive.net/schemas/relationship/",
   "prefix": {
