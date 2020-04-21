@@ -18,6 +18,7 @@ dataset defines any of the following namespaces:
 - http://bibframe.org/vocab/
 - http://catalog.digitalarchives.tw/
 - http://creativecommons.org/licenses/
+- http://data.europa.eu/88u/ontology/dcatapop#numberOfDownloads
 - http://data.lirmm.fr/ontologies/vdpp#
 - http://data.odw.tw/agent/
 - http://data.odw.tw/r1/
