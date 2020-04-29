@@ -3,20 +3,11 @@
     "topic:geospatial",
     "topic:vocabulary"
   ],
-  "description": "",
-  "exampleResource": [
-    "cpmeta:Instrument",
-    "cpmeta:LatLonBox",
-    "cpmeta:QuantityKind",
-    "cpmeta:SimpleDataObject"
-  ],
   "homepage": "http://static.icos-cp.eu/share/slides/dataServiceWorkshop",
   "id": "icos/cpmeta",
   "name": "ICOS CP Metadata Ontology",
-  "namespace": "https://meta.icos-cp.eu/ontologies/cpmeta/",
   "prefix": {
     "cpmeta": "https://meta.icos-cp.eu/ontologies/cpmeta/"
-  },
-  "url": "https://meta.icos-cp.eu/ontologies/cpmeta/"
+  }
 }
 

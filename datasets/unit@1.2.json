@@ -1,24 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "An ontology for units of measure.",
-  "exampleResource": [
-    "unit:Quantity",
-    "unit:Unit",
-    "unit:hz",
-    "unit:kg",
-    "unit:m",
-    "unit:m2",
-    "unit:mps",
-    "unit:s"
-  ],
   "homepage": "http://www-ksl.stanford.edu/knowledge-sharing/papers/engmath.html",
   "id": "w3c/unit@1.2",
   "name": "Ontology for Units of Measure",
-  "namespace": "http://www.w3.org/2007/ont/unit#",
   "prefix": {
     "unit": "http://www.w3.org/2007/ont/unit#"
-  },
-  "url": "http://www.w3.org/2007/ont/unit#"
+  }
 }

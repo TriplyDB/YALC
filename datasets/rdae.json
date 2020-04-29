@@ -1,20 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Expression properties element set consists of properties representing attributes and relationships of the RDA *Expression* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/e/",
   "id": "rda/rdae",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Element Sets: Expression Properties",
-  "namespace": "http://rdaregistry.info/Elements/e/",
   "prefix": {
-    "rdac": "http://rdaregistry.info/Elements/e/",
-    "rdae": "http://rdaregistry.info/Elements/e/",
-    "rdau": "http://rdaregistry.info/Elements/u/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdae": "http://rdaregistry.info/Elements/e/"
   },
   "url": "http://rdaregistry.info/Elements/e.nt"
 }

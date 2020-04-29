@@ -1,16 +1,11 @@
 {
-  "about": [],
+  "about": [
+    "topic:libraries"
+  ],
   "description": "Stabiler Link auf den aktuellen Gesamtabzug der Adressdatei (ISIL- und Sigelverz.).",
-  "exampleResource": [],
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/bib",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
   "name": "Gesamtabzug der Adressdatei",
-  "namespace": "",
-  "prefix": {
-    "cdtype": "http://purl.org/cld/cdtype/",
-    "vcard": "http://www.w3.org/2006/vcard/ns#",
-    "wdrs": "http://www.w3.org/2007/05/powder-s#"
-  },
   "url": "https://data.dnb.de/opendata/bib_lds.nt.gz"
 }

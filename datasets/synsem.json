@@ -4,26 +4,10 @@
     "topic:vocabulary"
   ],
   "description": "This is the **Syntactic Frames** module of the [Lemon](/lemon) collection of lexicographic vocabularies.\n\nUse this vocabulary to describe syntactic frames for categories of words.\n\nFor example, *transitive verbs* (“to own”) require a syntactic subject and a syntactic object, *relational nouns* (“mother of”) require a prepositional object, *adjectives* require a noun to modify.",
-  "exampleResource": [
-    "synsem:OntoMap",
-    "synsem:SyntacticArgument",
-    "synsem:SyntacticFrame",
-    "synsem:isA",
-    "synsem:marker",
-    "synsem:objOfProp",
-    "synsem:ontoCorrespondence",
-    "synsem:ontoMapping",
-    "synsem:subjOfProp",
-    "synsem:submap",
-    "synsem:synArg",
-    "synsem:synBehavior"
-  ],
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Syntax_and_Semantics_.28synsem.29",
   "id": "lemon/synsem",
   "name": "Syntax and Semantics (SynSem)",
-  "namespace": "http://www.w3.org/ns/lemon/synsem#",
   "prefix": {
     "synsem": "http://www.w3.org/ns/lemon/synsem#"
-  },
-  "url": "http://www.w3.org/ns/lemon/synsem#"
+  }
 }

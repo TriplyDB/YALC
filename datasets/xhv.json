@@ -1,21 +1,9 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "This is a vocabulary collection utilized by XHTML Family modules and document types using XHTML Modularization, including XHTML Role and XHTML + RDFa as defined in [rdfa-syntax](/w3c/rdfa).",
-  "exampleResource": [
-    "xhv:alternate",
-    "xhv:appendix",
-    "xhv:banner",
-    "xhv:bookmark",
-    "xhv:button",
-    "xhv:chapter",
-    "xhv:cite"
-  ],
   "homepage": "http://www.w3.org/1999/xhtml/vocab",
   "id": "w3c/xhv",
   "name": "XHTML Vocabulary",
-  "namespace": "http://www.w3.org/1999/xhtml/vocab#",
   "prefix": {
     "xhv": "http://www.w3.org/1999/xhtml/vocab#"
   },

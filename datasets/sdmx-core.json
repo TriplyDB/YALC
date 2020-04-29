@@ -4,11 +4,9 @@
     "topic:vocabulary"
   ],
   "description": "SDMX vocabulary describing the core statistical concepts.",
-  "exampleResource": [],
   "homepage": "https://sdmx.org",
   "id": "sdmx/core",
   "name": "SDMX Core Vocabulary",
-  "namespace": "http://purl.org/linked-data/sdmx#",
   "prefix": {
     "sdmx": "http://purl.org/linked-data/sdmx#"
   },

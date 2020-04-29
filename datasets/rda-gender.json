@@ -1,18 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
-  "description": "",
-  "exampleResource": [],
+  "about": "topic:vocabulary",
   "homepage": "http://www.rdaregistry.info/termList/gender/",
   "id": "rda/gender",
   "license": "http://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Gender",
-  "namespace": "http://rdaregistry.info/termList/gender/",
   "prefix": {
-    "rdagd": "http://rdaregistry.info/termList/gender/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdagd": "http://rdaregistry.info/termList/gender/"
   },
   "url": "http://rdaregistry.info/termList/gender.nt"
 }

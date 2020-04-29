@@ -1,21 +1,12 @@
 {
-  "about": [
-    "topic:topLevel"
-  ],
+  "about": "topic:topLevel",
   "asset": "http://old.cidoc-crm.org/docs/cidoc_crm_version_6.2.1.pdf",
   "description": "The CIDOC Conceptual Reference Model (CRM) provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation.\n\nThe CIDOC CRM is intended to promote a shared understanding of cultural heritage information by providing a common and extensible semantic framework that any cultural heritage information can be mapped to. It is intended to be a common language for domain experts and implementers to formulate requirements for information systems and to serve as a guide for good practice of conceptual modelling. In this way, it can provide the “semantic glue” needed to mediate between different sources of cultural heritage information, such as that published by museums, libraries and archives.\n\nThe CIDOC CRM is the culmination of over 10 years work by the [CIDOC Documentation Standards Working Group](http://network.icom.museum/cidoc/working-groups/overview/) and CIDOC CRM SIG which are working groups of [CIDOC](http://network.icom.museum/cidoc/). Since 9/12/2006 it is official standard [ISO 21127:2006](http://www.iso.org/iso/catalogue_detail?csnumber=34424).",
-  "exampleResource": [
-    "crm:E1_CRM_Entity",
-    "crm:E19_Physical_Object",
-    "crm:E20_Biological_Object",
-    "crm:E21_Person"
-  ],
   "homepage": "http://www.cidoc-crm.org/versions-of-the-cidoc-crm",
   "id": "cidoc/crm@6.2.1",
   "image": "crm.png",
   "name": "Conceptual Reference Model (CRM)",
-  "namespace": "http://www.cidoc-crm.org/cidoc-crm/",
-  "prefix": {
+  "namespace": {
     "crm": "http://www.cidoc-crm.org/cidoc-crm/"
   },
   "url": "http://www.cidoc-crm.org/sites/default/files/cidoc_crm_v6.2.1-2018April.rdfs"

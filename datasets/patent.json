@@ -4,17 +4,11 @@
     "topic:vocabulary"
   ],
   "description": "An ontology for representing information about patent applications, patents and patent documents.",
-  "exampleResource": [],
   "homepage": "https://data.epo.org/linked-data/download",
   "id": "epo/patent",
   "name": "Patent Ontology",
-  "namespace": "http://data.epo.org/linked-data/def/patent/",
   "prefix": {
-    "cpc": "http://data.epo.org/linked-data/def/cpc/",
-    "ipc": "http://data.epo.org/linked-data/def/ipc/",
-    "mads": "http://www.loc.gov/mads/rdf/v1#",
-    "patent": "http://data.epo.org/linked-data/def/patent/",
-    "vcard": "http://www.w3.org/2006/vcard/ns#"
+    "patent": "http://data.epo.org/linked-data/def/patent/"
   },
   "url": "https://data.epo.org/linked-data/download/vocabularies/patent.ttl"
 }

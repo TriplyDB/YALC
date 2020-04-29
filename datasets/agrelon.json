@@ -4,19 +4,12 @@
     "topic:vocabulary"
   ],
   "description": "The ontology of agent relationships (AgRelOn) defines relations of persons to other persons and to organisations, since agents (persons, organisations) and their interconnections are important in the cultural heritage domain.  AgRelOn is developed to foster uniform cataloging as well as semantic searchability of and via relations between agents.  Therefore, a general set of nearly 70 relationhip types is provided.  AgRelOn discerns private acquaintanceship, group affiliation, correspondence, occupational contact, kinship, spiritual contact, and vital/lethal contact.  For these kinds of relations more specific sub-relations are formulated.  Meta statements are supported to obtain transparency of reliability and provenance as well as validity period of facts.  The modelled relations are determined on the one hand by exemplary knowledge base searches, on the other hand by available data sources.  Hence, the model consciously is incomplete and pertinent to a cultural area and period.",
-  "exampleResource": [],
   "homepage": "https://d-nb.info/standards/elementset/agrelon",
   "id": "dnb/agrelon",
   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
   "name": "AgRelOn: An Agent Relationship Ontology",
-  "namespace": "https://d-nb.info/standards/elementset/agrelon#",
   "prefix": {
-    "agrelon": "https://d-nb.info/standards/elementset/agrelon#",
-    "cc": "http://creativecommons.org/ns#",
-    "organization": "http://ld.zdb-services.de/resource/organisations/",
-    "vann": "http://purl.org/vocab/vann/",
-    "voaf": "http://purl.org/vocommons/voaf#",
-    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    "agrelon": "https://d-nb.info/standards/elementset/agrelon#"
   },
   "url": "https://d-nb.info/standards/elementset/agrelon.nt"
 }

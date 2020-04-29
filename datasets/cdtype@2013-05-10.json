@@ -1,14 +1,9 @@
 {
-  "about": [],
   "description": "The collection description type namespace.",
-  "exampleResource": [],
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/cdtype@2013-05-10",
   "name": "Collection Description",
-  "namespace": "http://purl.org/cld/cdtype/",
   "prefix": {
-    "cdtype": "http://purl.org/cld/cdtype/",
-    "dcam": "http://purl.org/dc/dcam/"
-  },
-  "url": "http://purl.org/cld/cdtype/"
+    "cdtype": "http://purl.org/cld/cdtype/"
+  }
 }

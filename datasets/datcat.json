@@ -4,14 +4,11 @@
     "topic:vocabulary"
   ],
   "description": "DatCatInfo is a Data Category Repository (DCR) developed according to ISO 12620.\n\nISO 12620 provides a framework for defining data categories compliant with the ISO/IEC 11179 family of standards.  According to this model, each data category is assigned a unique administrative identifier, together with information on the status or decision-making process associated with the data category.  In addition, data category specifications in the DCR contain linguistic descriptions, such as data category definitions, statements of associated value domains, and examples.  Data category specifications can be associated with a variety of data element names and with language-specific versions of definitions, names, value domains and other attributes.",
-  "exampleResource": [],
   "homepage": "http://www.datcatinfo.net",
   "id": "iso/datcat",
   "name": "DatCatInfo",
-  "namespace": "http://www.datcatinfo.net/datcat/",
   "prefix": {
-    "cc": "http://creativecommons.org/ns#",
-    "datcat": "http://www.datcatinfo.net/datcat/",
+    "datcat": "http://www.datcatinfo.net/datcat/"
   },
   "url": [
     "http://www.datcatinfo.net/rest/dc/1.rdf",

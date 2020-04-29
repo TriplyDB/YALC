@@ -4,13 +4,8 @@
     "topic:vocabulary"
   ],
   "description": "A content ontology pattern that encodes a basic semiotic theory, by reusing the situation pattern.  The basic classes are: Expression, Meaning, Reference (the semiotic triangle), LinguisticAct (for the pragmatics), and Agent.  A linguistic act is said to be context for expressions, with their meanings and references, and agents involved.  Based on this pattern, several specific linguistic acts, such as ‘tagging’, ‘translating’, ‘defining’, ‘formalizing’, etc. can be defined, so constituting a formal vocabulary for a pragmatic web.  This pattern has been extracted from a larger reference ontology, LMM, which is used in conjunction with [DOLCE+DnS](/odp/dul), in order to provide a metamodel to Wordnet, Linked Open Data, natural language processing data, etc.",
-  "exampleResource": [],
-  "homepage": "",
   "id": "odp/semiotics",
-  "name": "",
-  "namespace": "http://www.ontologydesignpatterns.org/cp/owl/semiotics.owl#",
   "prefix": {
     "semiotics": "http://www.ontologydesignpatterns.org/cp/owl/semiotics.owl#"
-  },
-  "url": "http://www.ontologydesignpatterns.org/cp/owl/semiotics.owl#"
+  }
 }

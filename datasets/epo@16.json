@@ -4,18 +4,13 @@
     "topic:vocabulary"
   ],
   "description": "The full Linked Dataset of the European Patent Office (EPO) data, [CPC taxonomy](/epo/cpc-taxonomy) and vocabulary files.\n\nThis data is updated weekly.",
-  "exampleResource": [],
   "homepage": "https://data.epo.org/linked-data/download",
   "id": "epo/epo@16",
   "name": "European Parent Office (EPO)",
   "namespace": "http://data.epo.org/linked-data/data/",
   "prefix": {
     "address": "http://data.epo.org/linked-data/data/address/",
-    "ipc": "http://data.epo.org/linked-data/def/ipc/",
-    "iso639-1": "http://id.loc.gov/vocabulary/iso639-1/",
-    "patent": "http://data.epo.org/linked-data/def/patent/",
-    "vc": "http://data.epo.org/linked-data/data/vc/",
-    "vcard": "http://www.w3.org/2006/vcard/ns#"
+    "vc": "http://data.epo.org/linked-data/data/vc/"
   },
   "url": [
     "https://data.epo.org/linked-data/download/full/15/full_part01.nt.gz",

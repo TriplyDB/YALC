@@ -1,19 +1,7 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
-  "description": "",
-  "exampleResource": [
-    "objectRole:Role",
-    "objectRole:hasRole"
-  ],
-  "homepage": "",
+  "about": "topic:vocabulary",
   "id": "odp/object-role",
-  "name": "",
-  "namespace": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#",
   "prefix": {
     "objectRole": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#"
-  },
-  "organization": "odp",
-  "url": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl"
+  }
 }

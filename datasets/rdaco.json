@@ -1,18 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "A categorization reflecting the fundamental form of communication in which the content is expressed and the human sense through which it is intended to be perceived.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/termList/RDAContentType",
   "id": "rda/rdaco",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Content Type",
-  "namespace": "http://rdaregistry.info/termList/RDAContentType/",
   "prefix": {
-    "rdaco": "http://rdaregistry.info/termList/RDAContentType/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdaco": "http://rdaregistry.info/termList/RDAContentType/"
   },
   "url": "http://rdaregistry.info/termList/RDAContentType.nt"
 }

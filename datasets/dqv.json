@@ -1,34 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Data Quality Vocabulary (DQV) provides a framework in which the quality of a dataset can be described, whether by the dataset publisher or by a broader community of users.  It does not provide a formal, complete definition of quality, rather, it sets out a consistent means by which information can be provided such that a potential user of a dataset can make his/her own judgment about its fitness for purpose.",
-  "exampleResource": [
-    "dqv:Category",
-    "dqv:Dimension",
-    "dqv:Metric",
-    "dqv:QualityAnnotation",
-    "dqv:QualityMeasurement",
-    "dqv:QualityMetadata",
-    "dqv:computedOn",
-    "dqv:hasQualityMeasurement",
-    "dqv:inDimension",
-    "dqv:qualityAssessment"
-  ],
   "homepage": "https://www.w3.org/TR/vocab-dqv",
   "id": "w3c/dqv",
   "name": "Data Quality Vocabulary (DQV)",
-  "namespace": "http://www.w3.org/ns/dqv#",
   "prefix": {
-    "assetType": "http://purl.org/adms/assettype/",
-    "daq": "http://purl.org/eis/vocab/daq#",
-    "dqv": "http://www.w3.org/ns/dqv#",
-    "duv": "http://www.w3.org/ns/duv#",
-    "oa": "http://www.w3.org/ns/oa#",
-    "qb": "http://purl.org/linked-data/cube#",
-    "rdfg": "http://www.w3.org/2004/03/trix/rdfg-1/",
-    "vann": "http://purl.org/vocab/vann/",
-    "voaf": "http://purl.org/vocommons/voaf#"
-  },
-  "url": "http://www.w3.org/ns/dqv#"
+    "dqv": "http://www.w3.org/ns/dqv#"
+  }
 }

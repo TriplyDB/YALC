@@ -1,19 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Agent properties element set consists of properties representing attributes and relationships of the RDA *Agent*, *Collective Agent*, *Person*, *Family*, and *Corporate Body* entities.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/a",
   "id": "rda/rdaa",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA element sets: Agent properties",
-  "namespace": "http://rdaregistry.info/Elements/a/",
   "prefix": {
-    "rdaa": "http://rdaregistry.info/Elements/a/",
-    "rdau": "http://rdaregistry.info/Elements/u/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdaa": "http://rdaregistry.info/Elements/a/"
   },
   "url": "http://rdaregistry.info/Elements/a.nt"
 }

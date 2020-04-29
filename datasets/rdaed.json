@@ -1,20 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Expression datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Expression* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/e/datatype/",
   "id": "rda/rdaed",
   "name": "RDA Element Sets: Expression datatype Properties",
-  "namespace": "http://rdaregistry.info/Elements/e/datatype/",
   "prefix": {
-    "rdaa": "http://rdaregistry.info/Elements/a/",
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdae": "http://rdaregistry.info/Elements/e/",
-    "rdaed": "http://rdaregistry.info/Elements/e/datatype/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdaed": "http://rdaregistry.info/Elements/e/datatype/"
   },
   "url": "http://rdaregistry.info/Elements/e/datatype.nt"
 }

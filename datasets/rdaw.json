@@ -1,19 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Work properties element set consists of properties representing attributes and relationships of the RDA *Work* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/w",
   "id": "rda/rdaw",
   "name": "RDA element sets: Work properties",
-  "namespace": "http://rdaregistry.info/Elements/w/",
   "prefix": {
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdau": "http://rdaregistry.info/Elements/u/",
-    "rdaw": "http://rdaregistry.info/Elements/w/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdaw": "http://rdaregistry.info/Elements/w/"
   },
   "url": "http://rdaregistry.info/Elements/w.nt"
 }

@@ -1,12 +1,9 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "An ontology of systems, plugins to DOLCE Ultralite.  OWL engineering by Aldo Gangemi.",
-  "exampleResource": [],
-  "homepage": "",
   "id": "odp/systems-lite@1.1",
   "name": "Systems Lite",
-  "namespace": "http://www.ontologydesignpatterns.org/ont/dul/SystemsLite.owl",
-  "url": "http://www.ontologydesignpatterns.org/ont/dul/SystemsLite.owl"
+  "prefix": {
+    "SystemsLite": "http://www.ontologydesignpatterns.org/ont/dul/SystemsLite.owl"
+  }
 }

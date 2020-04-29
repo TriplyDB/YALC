@@ -1,25 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Item object properties element set consists of properties accommodating object values for relationships of the RDA *Item* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/i/object/",
   "id": "rda/rdaio",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Element Sets: Item Object Properties",
-  "namespace": "http://rdaregistry.info/Elements/i/object/",
   "prefix": {
-    "rdaao": "http://rdaregistry.info/Elements/a/object/",
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdai": "http://rdaregistry.info/Elements/i/",
-    "rdaio": "http://rdaregistry.info/Elements/i/object/",
-    "rdamo": "http://rdaregistry.info/Elements/m/object/",
-    "rdano": "http://rdaregistry.info/Elements/n/object/",
-    "rdawo": "http://rdaregistry.info/Elements/w/object/",
-    "rdaxo": "http://rdaregistry.info/Elements/x/object/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdaio": "http://rdaregistry.info/Elements/i/object/"
   },
   "url": "http://rdaregistry.info/Elements/i/object.nt"
 }

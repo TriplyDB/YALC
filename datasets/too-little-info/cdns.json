@@ -1,15 +1,8 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
-  "description": "",
-  "exampleResource": [],
-  "homepage": "",
+  "about": "topic:vocabulary",
   "id": "odp/cdns",
   "name": "Constructive DnS",
-  "namespace": "http://www.ontologydesignpatterns.org/ont/dul/cDnS.owl",
   "prefix": {
-    "cdns": "http://www.ontologydesignpatterns.org/ont/dul/cDnS.owl"
-  },
-  "url": "http://www.ontologydesignpatterns.org/ont/dul/cDnS.owl"
+    "cDnS": "http://www.ontologydesignpatterns.org/ont/dul/cDnS.owl"
+  }
 }

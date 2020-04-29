@@ -4,28 +4,10 @@
     "topic:publishing",
     "topic:vocabulary"
   ],
-  "description": "",
-  "exampleResource": [
-    "dcmit:Collection",
-    "dcmit:Dataset",
-    "dcmit:Event",
-    "dcmit:Image",
-    "dcmit:InteractiveResource",
-    "dcmit:MovingImage",
-    "dcmit:PhysicalObject",
-    "dcmit:Service",
-    "dcmit:Software",
-    "dcmit:Sound",
-    "dcmit:StillImage",
-    "dcmit:Text"
-  ],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary",
   "id": "dcmi/dcmit@2012-06-14",
   "name": "Dublin Core Types",
-  "namespace": "http://purl.org/dc/dcmitype/",
   "prefix": {
-    "dcam": "http://purl.org/dc/dcam/memberOf",
-    "dcmit": "http://purl.org/dc/dcmitype/"
-  },
-  "url": "http://purl.org/dc/dcmitype/"
+    "dcm": "http://purl.org/dc/dcmitype/"
+  }
 }

@@ -3,14 +3,9 @@
     "topic:commerce",
     "topic:vocabulary"
   ],
-  "description": "",
-  "exampleResource": [],
   "homepage": "https://data.epo.org/linked-data/download",
   "id": "epo/st3-ref",
-  "name": "",
-  "namespace": "http://data.epo.org/linked-data/id/st3/",
   "prefix": {
-    "id": "http://data.epo.org/linked-data/id/st3/",
     "st3": "http://data.epo.org/linked-data/def/st3/"
   },
   "url": "https://data.epo.org/linked-data/download/vocabularies/st3Ref.ttl"

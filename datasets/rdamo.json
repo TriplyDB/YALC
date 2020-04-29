@@ -1,24 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Manifestation object properties element set consists of properties accommodating object values for relationships of the RDA *Manifestation*",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/m/object/",
   "id": "rda/rdamo",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Element Sets: Manifestation Object Properties",
-  "namespace": "http://rdaregistry.info/Elements/m/object/",
   "prefix": {
-    "rdaao": "http://rdaregistry.info/Elements/a/object/",
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdam": "http://rdaregistry.info/Elements/m/",
-    "rdamo": "http://rdaregistry.info/Elements/m/object/",
-    "rdano": "http://rdaregistry.info/Elements/n/object/",
-    "rdato": "http://rdaregistry.info/Elements/t/object/",
-    "rdaxo": "http://rdaregistry.info/Elements/x/object/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdamo": "http://rdaregistry.info/Elements/m/object/"
   },
   "url": "http://rdaregistry.info/Elements/m/object.nt"
 }

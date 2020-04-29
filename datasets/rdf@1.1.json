@@ -1,21 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "This is the RDF Schema for the RDF vocabulary terms in the RDF Namespace, defined in RDF Concepts.",
-  "exampleResource": [
-    "rdf:HTML",
-    "rdf:List",
-    "rdf:type",
-    "rdf:value"
-  ],
   "homepage": "https://www.w3.org/TR/rdf11-concepts",
   "id": "w3c/rdf@1.1",
   "image": "rdf.png",
   "name": "Resource Description Framework (RDF)",
-  "namespace": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
   "prefix": {
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  },
-  "url": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  }
 }

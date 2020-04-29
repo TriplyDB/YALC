@@ -4,14 +4,11 @@
     "topic:vocabulary"
   ],
   "description": "Open Metadata Registry Status Vocabulary",
-  "exampleResource": [],
   "homepage": "http://metadataregistry.org/vocabulary/show/id/31.html",
   "id": "mma/reg-status",
   "name": "Open Metadata Registry Status Vocabulary",
-  "namespace": "http://metadataregistry.org/uri/RegStatus/",
   "prefix": {
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "RegStatus": "http://metadataregistry.org/uri/RegStatus/"
   },
   "url": "http://metadataregistry.org/vocabulary/show/id/31.rdf"
 }

@@ -4,27 +4,10 @@
     "topic:vocabulary"
   ],
   "description": "The Dataset Usage Vocabulary (DUV) is used to describe consumer experiences, citations, and feedback about datasets from the human perspective.\n\nDatasets published on the Web are accessed and experienced by consumers in a variety of ways, but little information about these experiences is typically conveyed.  Dataset publishers many times lack feedback from consumers about how datasets are used.  Consumers lack an effective way to discuss experiences with fellow collaborators and explore referencing material citing the dataset.  Datasets as defined by DCAT are a collection of data, published or curated by a single agent, and available for access or download in one or more formats.  The Dataset Usage Vocabulary (DUV) is used to describe consumer experiences, citations, and feedback about the dataset from the human perspective.\n\nBy specifying a number of foundational concepts used to collect dataset consumer feedback, experiences, and cite references associated with a dataset, APIs can be written to support collaboration across the Web by structurally publishing consumer opinions and experiences, and provide a means for dataset consumers and producers advertise and search for published open dataset usage.",
-  "exampleResource": [
-    "duv:RatingFeedback",
-    "duv:Usage",
-    "duv:UsageTool",
-    "duv:UserFeedback",
-    "duv:hasDistributor",
-    "duv:hasFeedback",
-    "duv:hasRating",
-    "duv:hasUsage",
-    "duv:hasUsageTool",
-    "duv:refersTo"
-  ],
   "homepage": "https://www.w3.org/TR/vocab-duv",
   "id": "w3c/duv",
   "name": "Dataset Usage Vocabulary (DUV)",
-  "namespace": "http://www.w3.org/ns/duv#",
   "prefix": {
-    "assetType": "http://purl.org/adms/assettype/",
-    "duv": "https://www.w3.org/ns/duv#",
-    "vann": "http://purl.org/vocab/vann/",
-    "voaf": "http://purl.org/vocommons/voaf#"
-  },
-  "url": "https://www.w3.org/ns/duv#"
+    "duv": "https://www.w3.org/ns/duv#"
+  }
 }

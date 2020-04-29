@@ -1,17 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "This guide is intended to facilitate the use of Darwin Core terms in the Resource Description Framework (RDF). It explains basic features of RDF and provides details of how to expose data in the form of RDF using Darwin Core terms and terms from other key vocabularies. It defines terms in the namespace http://rs.tdwg.org/dwc/iri/ which are intended for use excusively with non-literal objects.",
-  "exampleResource": [],
   "id": "tdwg@2015-06-02",
   "license": "http://creativecommons.org/licenses/by/4.0/",
   "name": "Darwin Core RDF Guide",
-  "namespace": "http://rs.tdwg.org/dwc/",
   "prefix": {
-    "dwc": "http://rs.tdwg.org/dwc/terms/",
-    "vcard": "http://www.w3.org/2006/vcard/ns#",
-    "wde": "http://www.wikidata.org/entity/"
+    "dwc": "http://rs.tdwg.org/dwc/",
   },
   "url": "http://rs.tdwg.org/dwc/terms/guides/rdf/"
 }

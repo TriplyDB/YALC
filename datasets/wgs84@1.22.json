@@ -4,17 +4,10 @@
     "topic:vocabulary"
   ],
   "description": "A vocabulary for representing latitude, longitude and altitude information in the WGS84 geodetic reference datum.  WGS stands for the World Geodetic Survey.",
-  "exampleResource": [
-    "wgs84:Point",
-    "wgs84:lat",
-    "wgs84:long"
-  ],
   "homepage": "http://www.w3.org/2003/01/geo/wgs84_pos#",
   "id": "w3c/wgs84@1.22",
   "name": "WGS84 Geo Positioning",
-  "namespace": "http://www.w3.org/2003/01/geo/wgs84_pos#",
-  "prefix": {
+  "namespace": {
     "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#"
-  },
-  "url": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  }
 }

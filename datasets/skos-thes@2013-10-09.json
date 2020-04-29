@@ -1,16 +1,9 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "A mapping between the ISO 25964 data model and the [SKOS](/w3c/skos) schema.  ISO 25964 is an ISO standard on thesauri.",
-  "exampleResource": [],
   "id": "skos-thes@2013-12-09",
   "name": "ISO 25964 ↔ SKOS mapping",
-  "namespace": "http://purl.org/iso25964/skos-thes#",
   "prefix": {
-    "skos-thes": "http://purl.org/iso25964/skos-thes#",
-    "skosxl": "http://www.w3.org/2008/05/skos-xl#",
-    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
-  },
-  "url": "http://purl.org/iso25964/skos-thes#"
+    "skos-thes": "http://purl.org/iso25964/skos-thes#"
+  }
 }

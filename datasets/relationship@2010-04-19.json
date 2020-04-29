@@ -4,11 +4,9 @@
     "topic:vocabulary"
   ],
   "description": "A vocabulary for describing relationships between people.",
-  "exampleResource": [],
   "homepage": "https://vocab.org/relationship/",
   "id": "relationship@2010-04-19",
   "name": "RELATIONSHIP",
-  "namespace": "https://vocab.org/relationship/",
   "prefix": {
     "relationship": "https://vocab.org/relationship/"
   },

@@ -4,18 +4,11 @@
     "topic:vocabulary"
   ],
   "description": "ISO 639-2 is part of the ISO 639 language code family, which provides also a two-character code set (ISO 639-1) for the representation of names of languages.  ISO 639-2 contains codes for all languages contained in ISO 639-1 and several hundred additional languages.  The ISO 639-2 (Bibliographic) codes were devised for use in bibliographic metadata, e.g., for libraries, information services, and publishers, and ISO 639-2 (Terminology) targets terminology, lexicography, and linguistic applications.  The lists are the same except for 20 languages that have different Bibliographic and Terminology codes.  The list contains over 500 discrete codes.  The ISO 639-2 (Bibliographic) codes are equivalent to the MARC Language Codes.  The ISO 639-2 codes are linked to two-character codes for the same language in ISO 639-1, to the MARC Language Codes, and to equivalent codes for language groups in ISO 639-5.",
-  "exampleResource": [],
   "homepage": "http://id.loc.gov/vocabulary/iso639-2.html",
   "id": "loc/iso639-2",
   "name": "ISO 639-2: Codes for the Representation of Names of Languages - Part 2: Alpha-3 Code for the Names of Languages",
-  "namespace": "http://id.loc.gov/vocabulary/iso639-2/"
-  "prefix": {
-    "cs": "http://purl.org/vocab/changeset/schema#",
-    "iso639-1": "http://id.loc.gov/vocabulary/iso639-1/",
+  "namespace": {
     "iso639-2": "http://id.loc.gov/vocabulary/iso639-2/"
-    "language": "http://id.loc.gov/vocabulary/languages/",
-    "organization": "http://id.loc.gov/vocabulary/organizations/",
-    "skosxl": "http://www.w3.org/2008/05/skos-xl#"
   },
   "url": "http://id.loc.gov/static/data/downloads/vocabularyiso639-2.nt.skos.zip"
 }

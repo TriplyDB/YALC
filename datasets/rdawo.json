@@ -1,24 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Work object properties element set consists of properties accommodating object values for relationships of the RDA *Work* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/w/object/",
   "id": "rda/rdawo",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Element Sets: Work Object Properties",
-  "namespace": "http://rdaregistry.info/Elements/w/object/",
   "prefix": {
-    "rdaao": "http://rdaregistry.info/Elements/a/object/",
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdano": "http://rdaregistry.info/Elements/n/object/",
-    "rdapo": "http://rdaregistry.info/Elements/p/object/",
-    "rdaw": "http://rdaregistry.info/Elements/w/",
-    "rdawo": "http://rdaregistry.info/Elements/w/object/",
-    "rdaxo": "http://rdaregistry.info/Elements/x/object/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdawo": "http://rdaregistry.info/Elements/w/object/"
   },
   "url": "http://rdaregistry.info/Elements/w/object.nt"
 }

@@ -1,21 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Item properties element set consists of properties representing attributes and relationships of the RDA *Item* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/i",
   "id": "rda/rdai",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA element sets: Item properties",
-  "namespace": "http://rdaregistry.info/Elements/i/",
   "prefix": {
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdai": "http://rdaregistry.info/Elements/i/",
-    "rdau": "http://rdaregistry.info/Elements/u/",
-    "rdax": "http://rdaregistry.info/Elements/x/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdai": "http://rdaregistry.info/Elements/i/"
   },
   "url": "http://rdaregistry.info/Elements/i.nt"
 }

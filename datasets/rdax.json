@@ -1,33 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The RDA Entity properties element set consists of properties representing elements of the RDA *Entity* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/x",
   "id": "rda/rdax",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA element sets: Entity properties",
-  "namespace": "http://rdaregistry.info/Elements/x/",
   "prefix": {
-    "rdaa": "http://rdaregistry.info/Elements/a/",
-    "rdaad": "http://rdaregistry.info/Elements/a/datatype/",
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdae": "http://rdaregistry.info/Elements/e/",
-    "rdaed": "http://rdaregistry.info/Elements/e/datatype/",
-    "rdaeo": "http://rdaregistry.info/Elements/e/object/",
-    "rdai": "http://rdaregistry.info/Elements/i/",
-    "rdaid": "http://rdaregistry.info/Elements/i/datatype/",
-    "rdamd": "http://rdaregistry.info/Elements/m/datatype/",
-    "rdan": "http://rdaregistry.info/Elements/n/",
-    "rdap": "http://rdaregistry.info/Elements/p/",
-    "rdat": "http://rdaregistry.info/Elements/t/",
-    "rdaw": "http://rdaregistry.info/Elements/w/",
-    "rdawd": "http://rdaregistry.info/Elements/w/datatype/",
-    "rdax": "http://rdaregistry.info/Elements/x/",
-    "rdaxd": "http://rdaregistry.info/Elements/x/datatype/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdax": "http://rdaregistry.info/Elements/x/"
   },
   "url": "http://rdaregistry.info/Elements/x.nt"
 }

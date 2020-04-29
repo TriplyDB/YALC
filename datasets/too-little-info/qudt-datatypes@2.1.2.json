@@ -3,11 +3,7 @@
     "topic:science",
     "topic:vocabulary"
   ],
-  "description": "",
   "homepage": "http://www.qudt.org/doc/2019/10/DOC_SCHEMA-QUDT-DATATYPES-v2.1.html",
   "id": "qudt/qudt-datatypes@2.1.2",
-  "name": "QUDT Datatypes",
-  "namespace": "",
-  "prefix": {},
-  "url": ""
+  "name": "QUDT Datatypes"
 }

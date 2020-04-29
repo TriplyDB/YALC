@@ -4,20 +4,10 @@
     "topic:vocabulary"
   ],
   "description": "Semantic Web Application Platform (SWAP) or, if you like, Semantic Web Area for Play… visiting RDF and all points west.  Working toward the SWELL langauge, MIT-LCS's advanced development prototyping of tools and langauges for the Semantic Web.",
-  "exampleResource": [
-    "swap:Work",
-    "swap:creator",
-    "swap:derivativeWork",
-    "swap:derivedFrom",
-    "swap:obsoletes",
-    "swap:version"
-  ],
   "homepage": "https://www.w3.org/2000/10/swap",
   "id": "w3c/swap@1.52",
   "name": "Semantic Web Application Platform (SWAP)",
-  "namespace": "http://www.w3.org/2000/10/swap/pim/doc#",
   "prefix": {
     "swap": "http://www.w3.org/2000/10/swap/pim/doc#"
-  },
-  "url": "http://www.w3.org/2000/10/swap/pim/doc#"
+  }
 }

@@ -1,13 +1,9 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Collection Description Accrual Method Vocabulary provides a set of terms that can be used as values of the [`dct:accrualPolicy`](https://triplydb.com/dcmi/dct/table?subject=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FaccrualPolicy) property in descriptions of collections.  It has been developed in association with the [Dublin Core Collections Application Profile (DC Collections AP)](http://dublincore.org/specifications/dublin-core/collection-description/collection-application-profile/) but this vocabulary is independent of that profile and the terms defined here may be referenced in other metadata descriptions and used as the values of other properties.\n\nIn statements in DC metadata descriptions, the URIs of the individual terms may be used as value URIs and/or the labels of the terms may be used as value strings.",
-  "exampleResource": [],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/collection-description/accrual-method/",
   "id": "dcmi/accmeth",
   "name": "Collection Description Accrual Method Vocabulary",
-  "namespace": "http://purl.org/cld/accmeth/",
   "prefix": {
     "accmeth": "http://purl.org/cld/accmeth/"
   },

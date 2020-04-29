@@ -4,20 +4,9 @@
     "topic:vocabulary"
   ],
   "description": "Relator terms and their associated codes designate the relationship between a name and a bibliographic resource.  The relator codes are three-character lowercase alphabetic strings that serve as identifiers.  Either the term or the code may be used as controlled values.",
-  "exampleResource": [
-    "relator:abr",
-    "relator:acp",
-    "relator:act",
-    "relator:adi",
-    "relator:adp",
-    "relator:aft",
-    "relator:anl",
-    "relator:anm"
-  ],
   "homepage": "http://id.loc.gov/vocabulary/relators.html",
   "id": "loc/relators@2017-09-07",
   "name": "MARC Code List for Relators Scheme",
-  "namespace": "http://id.loc.gov/vocabulary/relators/",
   "prefix": {
     "relator": "http://id.loc.gov/vocabulary/relators/"
   },

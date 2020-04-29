@@ -1,21 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Place datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Place* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/p/datatype",
   "id": "rda/rdapd",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA element sets: Place datatype properties",
-  "namespace": "http://rdaregistry.info/Elements/p/datatype/",
   "prefix": {
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdap": "http://rdaregistry.info/Elements/p/",
-    "rdapd": "http://rdaregistry.info/Elements/p/datatype/",
-    "rdaxd": "http://rdaregistry.info/Elements/x/datatype/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdapd": "http://rdaregistry.info/Elements/p/datatype/"
   },
   "url": "http://rdaregistry.info/Elements/p/datatype.nt"
 }

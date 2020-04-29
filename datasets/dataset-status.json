@@ -1,0 +1,11 @@
+{
+  "about": "topic:metadata",
+  "description": "This dataset provides possible statuses for datasets.  It has been developed specifically for the EU Open Data Portal.",
+  "homepage": "https://op.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/dataset-status",
+  "id": "publications-office/dataset-status@2016-09-21",
+  "name": "Dataset status",
+  "prefix": {
+    "dataset-status": "http://publications.europa.eu/resource/authority/dataset-status/"
+  },
+  "url": "https://op.europa.eu/o/opportal-service/euvoc-download-handler?cellarURI=http%3A%2F%2Fpublications.europa.eu%2Fresource%2Fcellar%2F4e6b4524-261d-11e8-ac73-01aa75ed71a1.0001.02%2FDOC_1&fileName=datasetstatus-skos.rdf"
+}

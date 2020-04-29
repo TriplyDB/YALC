@@ -7,13 +7,8 @@
   "homepage": "http://www.qudt.org/doc/2020/04/DOC_VOCAB-QUANTITY-KIND-DIMENSION-VECTORS-v2.1.html",
   "id": "qudt/qkdv@2.1.2",
   "name": "QUDT Dimension Vectors",
-  "namespace": "http://qudt.org/vocab/dimensionvector/",
   "prefix": {
-    "qkdv": "http://qudt.org/vocab/dimensionvector/",
-    "quantitykind": "http://qudt.org/vocab/quantitykind/",
-    "qudt": "http://qudt.org/1.1/schema/qudt#",
-    "voag": "http://voag.linkedmodel.org/schema/voag#",
-    "vaem": "http://www.linkedmodel.org/schema/vaem#"
+    "qkdv": "http://qudt.org/vocab/dimensionvector/"
   },
   "url": "http://qudt.org/2.1/vocab/dimensionvector"
 }

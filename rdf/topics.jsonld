@@ -145,6 +145,10 @@
           "label": "Linkset"
         },
         {
+          "@id": "topic:thesaurus",
+          "label": "Thesaurus"
+        },
+        {
           "@id": "topic:vocabulary",
           "label": "Vocabulary",
           "narrower": {

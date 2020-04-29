@@ -1,21 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "The Expression properties element set consists of properties representing attributes and relationships of the RDA *Timespan* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/t",
   "id": "rda/rdat",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA element sets: Timespan properties",
-  "namespace": "http://rdaregistry.info/Elements/t/",
   "prefix": {
-    "rdac": "http://rdaregistry.info/Elements/c/",
-    "rdat": "http://rdaregistry.info/Elements/t/",
-    "rdau": "http://rdaregistry.info/Elements/u/",
-    "rdax": "http://rdaregistry.info/Elements/x/",
-    "regStatus": "http://metadataregistry.org/uri/RegStatus/",
-    "regap": "http://metadataregistry.org/uri/profile/regap/"
+    "rdat": "http://rdaregistry.info/Elements/t/"
   },
   "url": "http://rdaregistry.info/Elements/t.nt"
 }

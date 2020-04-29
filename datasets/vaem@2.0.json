@@ -4,11 +4,9 @@
     "topic:vocabulary"
   ],
   "description": "The purpose of VAEM is to provide, by import, a foundation for commonly needed resources for metadata on an ontology.\n\nVAEM stands for “Vocabulary for Attaching Essential Metadata”.  What VAEM regards as essential metadata is data about dates and times, confidentiality, and other characterisitic qualifiers of the ontology, but also references to where a ontology is documented and where to find ontology registration for governance, attribution and provenance.  VAEM makes use of some properties from the [Dublin Core Terms](/dcmi/dct) vocabulary.",
-  "exampleResource": [],
   "homepage": "http://www.linkedmodel.org/doc/2015/SCHEMA_vaem-v2.0",
   "id": "top-quadrant/vaem@2.0",
   "name": "Vocabulary for Attaching Essential Metadata (VAEM)",
-  "namespace": "http://www.linkedmodel.org/schema/vaem#",
   "prefix": {
     "vaem": "http://www.linkedmodel.org/schema/vaem#"
   },

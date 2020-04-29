@@ -4,22 +4,9 @@
     "topic:vocabulary"
   ],
   "description": "The BIBFRAME vocabulary uses a Linked Data model and thus leverages the RDF modeling practice of uniquely identifying as Web resources all entities, attributes, and relationships (i.e., properties) between entities.  The BIBFRAME Vocabulary is comprised of the RDF properties, classes, and relationships between and among them.  In addition to the basic vocabulary linked to below the extension that the Library of Congress established in its work on a BIBFRAME 2.0 pilot is specified.",
-  "exampleResource": [
-    "bf:Agent",
-    "bf:BookFormat",
-    "bf:Cartographic",
-    "bf:Classification",
-    "bf:CopyrightRegistration",
-    "bf:CoverArt",
-    "bf:Dissertation",
-    "bf:Event",
-    "bf:Extent",
-    "bf:Frequency"
-  ],
   "homepage": "http://www.loc.gov/bibframe/docs/index.html",
   "id": "loc/bf@2.0.1",
   "name": "BIBFRAME Vocabulary",
-  "namespace": "http://id.loc.gov/ontologies/bibframe/",
   "prefix": {
     "bf": "http://id.loc.gov/ontologies/bibframe/"
   },

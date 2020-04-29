@@ -1,18 +1,11 @@
 {
-  "about": [
-    "topic:topLevel"
-  ],
+  "about": "topic:topLevel",
   "description": "Implementation of the CIDOC Conceptual Reference Model, version 5.0.1, in OWL 2.",
-  "exampleResource": [],
   "id": "cidoc/crm@5.0.1",
   "image": "crm.png",
   "license": "http://creativecommons.org/licenses/by/3.0/",
   "name": "Conceptual Reference Model (CRM)",
   "namespace": "http://purl.org/NET/cidoc-crm/core#",
-  "prefix": {
-    "cc": "http://creativecommons.org/ns#",
-    "vann": "http://purl.org/vocab/vann/"
-  },
   "successor": "cidoc/crm",
   "url": "http://purl.org/NET/cidoc-crm/core#"
 }

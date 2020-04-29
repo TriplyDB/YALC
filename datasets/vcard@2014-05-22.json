@@ -4,16 +4,10 @@
     "topic:vocabulary"
   ],
   "description": "A mapping of the [vCard specification](https://tools.ietf.org/html/rfc6350) to RDF/OWL.  The goal is to promote the use of vCard for the description of people and organizations utilizing semantic web techniques and allowing compatibility with traditional vCard implementations.",
-  "exampleResource": [
-    "vcard:email",
-    "vcard:tel"
-  ],
   "homepage": "https://www.w3.org/TR/vcard-rdf",
   "id": "w3c/vcard@2014-05-22",
   "name": "vCard",
-  "namespace": "http://www.w3.org/2006/vcard/ns#",
-  "prefix": {
+  "namespace": {
     "vcard": "http://www.w3.org/2006/vcard/ns#"
-  },
-  "url": "http://www.w3.org/2006/vcard/ns#"
+  }
 }

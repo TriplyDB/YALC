@@ -1,21 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "Units of measure that are used by the [GeoSPARQL functions](/ogc/geof).",
-  "exampleResource": [
-    "uom:GridSpacing",
-    "uom:degree",
-    "uom:metre",
-    "uom:radian",
-    "uom:unity"
-  ],
   "homepage": "https://www.opengeospatial.org/standards/geosparql",
   "id": "ogc/uom@1.0",
   "name": "Units of Measure",
-  "namespace": "http://www.opengis.net/def/uom/OGC/1.0/",
   "prefix": {
     "uom": "http://www.opengis.net/def/uom/OGC/1.0/"
-  },
-  "url": "http://www.opengis.net/def/uom/OGC/1.0/"
+  }
 }

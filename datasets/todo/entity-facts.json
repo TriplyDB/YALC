@@ -1,12 +1,8 @@
 {
-  "about": [],
+  "about": "topic:libraries",
   "description": "Stabiler Link auf den aktuellen Gesamtabzug von Entity Facts.",
-  "exampleResource": [],
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/entity-facts",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
-  "name": "",
-  "namespace": "",
-  "prefix": {},
   "url": "https://data.dnb.de/opendata/authorities_entityfacts.jsonld.gz"
 }

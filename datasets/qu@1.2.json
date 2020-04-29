@@ -1,15 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "This Model Library for Quantities, Units, Dimensions and Values (QUDV).\n\nThis ontology is partially based on the SysML QUDV (Quantities, Units, Dimensions and Values) proposed by a working group of the SysML 1.2 Revision Task Force (RTF), working in close coordination with the OMG MARTE specification group.  This model library is specified in a UML/SysML class/block diagram in the [OMG SysML, Version 1.2 specification](http://www.omg.org/spec/SysML/1.2/).  This model is described in [OMG SysML, Version 1.2 Appendix C.4 Model Library for Quantity Kinds and Units](http://ontolog.cim3.net/file/resource/reference/UoM_Ontology_Standard/available-UoM-references/QUDV-Annex-C4-C5--OMG-SysML-v1-2_Oct-2009.pdf).  The QUDV model has also been represented in the form of an ontology using a formal ontology definition language.  The resulting OWL ontology, called the [QUDV ontology](http://www.omgwiki.org/OMGSysML/doku.php?id=sysml-qudv:qudv_owl) has been published by members of the QUDV working group of the SysML 1.2 Revision Task Force (RTF).  OMG SysML is a trademark of OMG (see <http://www.omg.org/spec/SysML/1.2/PDF/> for the conditions of use of the OMG SysML, Version 1.2 specification).\n\nIn order to generalize its potential usage and alignment with other standardization efforts concerning quantities and units, the QU ontology has been further developed as a complement to the Agriculture Meteorology example showcasing the ontology developed by the W3C Semantic Sensor Networks incubator group (SSN-XG).",
-  "exampleResource": [],
   "homepage": "https://www.w3.org/2005/Incubator/ssn/ssnx/qu/qu",
   "id": "w3c/qu@1.2",
   "name": "Library for Quantity Kinds and Units",
-  "namespace": "http://purl.oclc.org/NET/ssnx/qu/qu#",
   "prefix": {
     "qu": "http://purl.oclc.org/NET/ssnx/qu/qu#"
-  },
-  "url": "http://purl.oclc.org/NET/ssnx/qu/qu#"
+  }
 }

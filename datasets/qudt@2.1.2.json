@@ -7,10 +7,8 @@
   "homepage": "http://www.qudt.org/doc/2020/04/DOC_SCHEMA-QUDT-v2.1.html",
   "id": "qudt/qudt@2.1.2",
   "name": "Quantities, Units, Dimensions and Types (QUDT)",
-  "namespace": "http://qudt.org/schema/qudt/",
   "prefix": {
-    "qudt": "http://qudt.org/1.1/schema/qudt#",
-    "vaem": "http://www.linkedmodel.org/schema/vaem#"
+    "qudt": "http://qudt.org/schema/qudt/"
   },
   "url": "http://qudt.org/2.1/schema/qudt"
 }

@@ -1,21 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "topic:vocabulary",
   "description": "RDF Schema provides a data-modelling vocabulary for RDF data.  RDF Schema is an extension of the basic RDF vocabulary.",
-  "exampleResource": [
-    "rdfs:Class",
-    "rdfs:subClassOf",
-    "rdfs:subPropertyOf",
-    "rdfs:domain",
-    "rdfs:range"
-  ],
   "homepage": "https://www.w3.org/TR/rdf-schema",
   "id": "w3c/rdfs@1.1",
   "name": "RDF Schema",
-  "namespace": "http://www.w3.org/2000/01/rdf-schema#",
   "prefix": {
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
-  },
-  "url": "http://www.w3.org/2000/01/rdf-schema#"
+  }
 }
