@@ -12,11 +12,6 @@ Client](https://triply.cc/docs/triply-client-js).
   - [LoC Organizations](loc-organizations.json)
   - [LoC Subjects](lcsh.json)
 
-## File name extension `.rdfs`
-
-  - [CIDOC-CRM](crm@6.2.1.json)
-  - [RDDL](rddl.json)
-
 ## Empty Bzipped file
 
 The following datasets require support for empty Bzipped files:
@@ -29,10 +24,3 @@ The following datasets cannot be uploaded because JSON-LD is not yet
 supported:
 
   - [Entity Facts](entity-facts.json)
-
-## Bug in RDF/XML parser
-
-The following datasets cannot be uploaded because of bugs in the
-RDF/XML parser:
-
-  - [EARL](earl.json)

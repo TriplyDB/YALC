@@ -6,7 +6,7 @@
   "id": "cidoc/crm@6.2.1",
   "image": "crm.png",
   "name": "Conceptual Reference Model (CRM)",
-  "namespace": {
+  "prefix": {
     "crm": "http://www.cidoc-crm.org/cidoc-crm/"
   },
   "url": "http://www.cidoc-crm.org/sites/default/files/cidoc_crm_v6.2.1-2018April.rdfs"

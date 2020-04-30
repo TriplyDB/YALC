@@ -1,0 +1,11 @@
+{
+  "about": [
+    "topic:metadata",
+    "topic:vocabulary"
+  ],
+  "description": "The MetaVocab vocabulary (for lack of a better name) includes the terms necessary for describing vocabularies.\n\nWe should also take a look at the RDDL work to see how we can include those definitions in this vocabulary.",
+  "homepage": "http://webns.net/mvcb/",
+  "id": "rddl",
+  "name": "MetaVocab",
+  "url": "http://rddl.org/rddl.rdfs"
+}

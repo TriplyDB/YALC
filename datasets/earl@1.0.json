@@ -4,7 +4,7 @@
   "homepage": "https://www.w3.org/TR/EARL10/",
   "id": "w3c/earl@1.0",
   "name": "Developer Guide for Evaluation and Report Language (EARL)",
-  "namespace": {
+  "prefix": {
     "earl": "http://www.w3.org/ns/earl#"
   }
 }
