@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "Vocabulary for describing test results.  The primary motivation for developing this vocabulary is to facilitate the exchange of test results between Web accessibility evaluation tools in a vendor-neutral and platform-independent format.  It also provides reusable terms for generic quality assurance and validation purposes.",
   "homepage": "https://www.w3.org/TR/EARL10/",
   "id": "w3c/earl@1.0",

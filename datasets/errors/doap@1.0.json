@@ -1,15 +1,9 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "The Description of a Project (DOAP) vocabulary, described using W3C [RDF Schema](/w3c/rdfs) and the [Web Ontology Language](/w3c/owl).",
-  "exampleResource": [],
-  "homepage": "",
   "id": "w3c/doap@1.0",
   "name": "Description of a Project (DOAP)",
-  "namespace": "http://usefulinc.com/ns/doap#",
   "preifx": {
     "doap": "http://usefulinc.com/ns/doap#"
-  },
-  "url": "http://usefulinc.com/ns/doap#"
+  }
 }

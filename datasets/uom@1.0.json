@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "Units of measure that are used by the [GeoSPARQL functions](/ogc/geof).",
   "homepage": "https://www.opengeospatial.org/standards/geosparql",
   "id": "ogc/uom@1.0",

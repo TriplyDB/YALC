@@ -1,26 +1,13 @@
 {
   "about": [
-    "topic:statistics",
-    "topic:vocabulary"
+    "statistics",
+    "vocabulary"
   ],
   "description": "Component properties corresponding to each Content Oriented Guidelines (COG) concept that can be used as an attribute.",
-  "exampleResource": [
-    "sdmx-attribute:accessibility",
-    "sdmx-attribute:accuracy",
-    "sdmx-attribute:accuracyOverall",
-    "sdmx-attribute:adjustCoded",
-    "sdmx-attribute:adjustDetail",
-    "sdmx-attribute:adjustment",
-    "sdmx-attribute:advNotice",
-    "sdmx-attribute:basePer",
-    "sdmx-attribute:clarity"
-  ],
   "homepage": "https://sdmx.org",
   "id": "sdmx/attribute",
   "name": "SDMX Attributes",
-  "namespace": "http://purl.org/linked-data/sdmx/2009/attribute#",
   "prefix": {
     "sdmx-attribute": "http://purl.org/linked-data/sdmx/2009/attribute#"
-  },
-  "url": "http://purl.org/linked-data/sdmx/2009/attribute#"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The RDA Entity properties element set consists of properties representing elements of the RDA *Entity* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/x",
   "id": "rda/rdax",

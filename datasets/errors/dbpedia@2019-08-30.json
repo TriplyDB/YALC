@@ -1,7 +1,5 @@
 {
-  "about": [
-    "topic:encyclopedia"
-  ],
+  "about": "encyclopedia",
   "description": "DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.  This structured information resembles an open knowledge graph (OKG) which is available for everyone on the Web.  A knowledge graph is a special kind of database which stores knowledge in a machine-readable form and provides a means for information to be collected, organized, shared, searched and utilized.  Google uses a similar approach to create those knowledge cards during search.  We hope that this work will make it easier for the huge amount of information in Wikimedia projects to be used in some new interesting ways.",
   "exampleResource": [
     "dbr:Amsterdam",
@@ -12,10 +10,6 @@
   "homepage": "https://wiki.dbpedia.org/",
   "id": "dbpedia/dbpedia@2019-08-30",
   "name": "DBpedia Dataset 2019-08-30 (Pre-Release)",
-  "namespace": [
-    "http://dbpedia.org/property/",
-    "http://dbpedia.org/resource/"
-  ],
   "prefix": {
     "dbp": "http://dbpedia.org/property/",
     "dbr": "http://dbpedia.org/resource/"

@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Place object properties element set consists of properties accommodating object values for relationships of the RDA *Place* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/p/object/",
   "id": "rda/rdapo",

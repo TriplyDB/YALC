@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "The Collection Description Terms",
+  "id": "dcmi/cld@2013-06-26",
+  "name": "The Collection Description Terms",
+  "prefix": {
+    "cld": "http://purl.org/cld/terms/"
+  }
+}

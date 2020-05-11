@@ -1,5 +1,5 @@
 {
-  "about": "topic:topLevel",
+  "about": "topLevel",
   "description": "The Schema.org vocabulary, including the core vocabulary and all domain-specific layers.",
   "homepage": "https://schema.org",
   "id": "sdo@7.3",

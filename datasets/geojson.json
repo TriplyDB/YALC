@@ -1,32 +1,13 @@
 {
   "about": [
-    "topic:geospatial",
-    "topic:vocabulary"
+    "geospatial",
+    "vocabulary"
   ],
   "description": "A description of the [RFC 7946](https://tools.ietf.org/html/rfc7946) GeoJSON model.  See [this link](https://github.com/geojson/geojson-ld) for vocabulary developments.",
-  "exampleResource": [
-    "geojson:Feature",
-    "geojson:FeatureCollection",
-    "geojson:GeometryCollection",
-    "geojson:LineString",
-    "geojson:MultiLineString",
-    "geojson:MultiPoint",
-    "geojson:MultiPolygon",
-    "geojson:Point",
-    "geojson:Polygon",
-    "geojson:bbox",
-    "geojson:coordinates",
-    "geojson:geometry",
-    "geojson:id",
-    "geojson:properties",
-    "geojson:type"
-  ],
   "homepage": "https://geojson.org/geojson-ld/vocab.html",
   "id": "w3c/geojson",
   "name": "GeoJSON-LD Vocabulary",
-  "namespace": "https://purl.org/geojson/vocab#",
   "prefix": {
     "geojson": "https://purl.org/geojson/vocab#"
-  },
-  "url": "https://purl.org/geojson/vocab#"
+  }
 }

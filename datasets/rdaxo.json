@@ -1,7 +1,6 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The RDA Entity object properties element set consists of properties accommodating object values for relationships of the RDA *Entity* entity.",
-  "exampleResource": [],
   "homepage": "http://www.rdaregistry.info/Elements/x/object/",
   "id": "rda/rdaxo",
   "name": "RDA Element Sets: Entity object properties",

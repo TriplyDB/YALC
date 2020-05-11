@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Timespan datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Timespan* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/t/datatype",
   "id": "rda/rdatd",

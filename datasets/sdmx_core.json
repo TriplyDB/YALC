@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:statistics",
-    "topic:vocabulary"
+    "statistics",
+    "vocabulary"
   ],
   "description": "SDMX vocabulary describing the core statistical concepts.",
   "homepage": "https://sdmx.org",

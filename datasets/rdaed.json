@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Expression datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Expression* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/e/datatype/",
   "id": "rda/rdaed",

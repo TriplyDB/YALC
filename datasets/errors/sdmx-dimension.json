@@ -1,27 +1,13 @@
 {
   "about": [
-    "topic:statistics",
-    "topic:vocabulary"
+    "statistics",
+    "vocabulary"
   ],
   "description": "Dimensions are concepts that determine the dataset's ‘physical’ structure.",
-  "exampleResource": [
-    "sdmx-dimension:age",
-    "sdmx-dimension:civilStatus",
-    "sdmx-dimension:currency",
-    "sdmx-dimension:educationLev",
-    "sdmx-dimension:freq",
-    "sdmx-dimension:occupation",
-    "sdmx-dimension:refArea",
-    "sdmx-dimension:refPeriod",
-    "sdmx-dimension:sex",
-    "sdmx-dimension:timePeriod"
-  ],
   "homepage": "https://sdmx.org",
   "id": "sdmx/dimension",
   "name": "SDMX Dimensions",
-  "namespace": "http://purl.org/linked-data/sdmx/2009/dimension#",
   "prefix": {
     "sdmx-dimension": "http://purl.org/linked-data/sdmx/2009/dimension#"
-  },
-  "url": "http://purl.org/linked-data/sdmx/2009/dimension#"
+  }
 }

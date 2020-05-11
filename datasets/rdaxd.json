@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The RDA Entity datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Entity* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/x/datatype/",
   "id": "rda/rdaxd",

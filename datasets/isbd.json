@@ -1,17 +1,12 @@
 {
-  "about": [
-    "topic:biography"
-  ],
+  "about": "biography",
   "asset": "http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf",
   "description": "This is a registration of classes and properties from International Standard Bibliographic Description (ISBD), consolidated edition, published by De Gruyter Saur in July 2011 (ISBN 978-3-11-026379-4).",
-  "exampleResource": [],
   "homepage": "http://metadataregistry.org/schema/show/id/25.html",
   "id": "isbd",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
   "name": "ISBD Elements",
-  "namespace": "http://iflastandards.info/ns/isbd/elements/",
   "prefix": {
     "isbd": "http://iflastandards.info/ns/isbd/elements/"
-  },
-  "url": "http://iflastandards.info/ns/isbd/elements/"
+  }
 }

@@ -1,26 +1,14 @@
 {
   "about": [
-    "topic:social",
-    "topic:vocabulary"
+    "social",
+    "vocabulary"
   ],
   "description": "FOAF is a project devoted to linking people and information using the Web.  Regardless of whether information is in people's heads, in physical or digital documents, or in the form of factual data, it can be linked.  FOAF integrates three kinds of network: social networks of human collaboration, friendship and association; representational networks that describe a simplified view of a cartoon universe in factual terms, and information networks that use Web-based linking to share independently published descriptions of this inter-connected world.  FOAF does not compete with socially-oriented Web sites; rather it provides an approach in which different sites can tell different parts of the larger story, and by which users can retain some control over their information in a non-proprietary format.",
-  "exampleResource": [
-    "foaf:Agent",
-    "foaf:Document",
-    "foaf:Group",
-    "foaf:Image",
-    "foaf:Organization",
-    "foaf:Person",
-    "foaf:age",
-    "foaf:depiction"
-  ],
   "homepage": "http://xmlns.com/foaf/spec",
   "id": "foaf@0.1",
   "image": "foaf.png",
   "name": "Friend of a Friend (FOAF)",
-  "namespace": "http://xmlns.com/foaf/0.1/",
   "prefix": {
     "foaf": "http://xmlns.com/foaf/0.1/"
-  },
-  "url": "http://xmlns.com/foaf/0.1/"
+  }
 }

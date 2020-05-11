@@ -1,5 +1,5 @@
 {
-  "about": "topic:geography",
+  "about": "geography",
   "description": "The LinkedGeoData data set is a large spatial knowledge base which has been derived from [OpenStreetMap](https://www.openstreetmap.org).\n\nIn order to employ the Web as a medium for data and information integration, comprehensive datasets and vocabularies are required as they enable the disambiguation and alignment of other data and information.  Many real-life information integration and aggregation tasks are impossible without comprehensive background knowledge related to spatial features of the ways, structures and landscapes surrounding us.\n\nLinkedGeoData uses the comprehensive [OpenStreetMap](https://openstreetmap.org) spatial data collection to create a large spatial knowledge base.  It consists of more than 3 billion nodes and 300 million ways and the resulting RDF data comprises approximately 20 billion triples.  The data is available according to the Linked Data principles and interlinked with [DBpedia](/wikimedia/dbpedia) and [GeoNames](/geonames/geonames).",
   "id": "aksw/LinkedGeoData@2015-11-02",
   "image": "LinkedGeoData.png",

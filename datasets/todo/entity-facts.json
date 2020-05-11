@@ -1,5 +1,5 @@
 {
-  "about": "topic:libraries",
+  "about": "libraries",
   "description": "Stabiler Link auf den aktuellen Gesamtabzug von Entity Facts.",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/entity-facts",

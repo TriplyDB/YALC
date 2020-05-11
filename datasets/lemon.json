@@ -1,27 +1,13 @@
 {
   "about": [
-    "topic:lexicography",
-    "topic:vocabulary"
+    "lexicography",
+    "vocabulary"
   ],
   "description": "Lemon: The lexicon model for ontologies is designed to allow for descriptions of lexical information regarding ontological elements and other RDF resources.  Lemon covers mapping of lexical decomposition, phrase structure, syntax, variation, morphology, and lexicon-ontology mapping.",
-  "exampleResource": [
-    "lemon:Argument",
-    "lemon:Component",
-    "lemon:Form",
-    "lemon:Frame",
-    "lemon:LexicalEntry",
-    "lemon:LexicalSense",
-    "lemon:LexicalTopic",
-    "lemon:Lexicon",
-    "lemon:PhraseElement",
-    "lemon:SenseDefinition"
-  ],
   "homepage": "http://www.lemon-model.net",
   "id": "lemon/lemon",
   "name": "Lexicon Model for Ontologies (Lemon)",
-  "namespace": "http://lemon-model.net/lemon#",
   "prefix": {
     "lemon": "http://lemon-model.net/lemon#"
-  },
-  "url": "http://lemon-model.net/lemon#"
+  }
 }

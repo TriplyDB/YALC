@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Protocol for Web Description Resources (POWDER) allows metadata to be associated with groups of resources such as those found on a Web site.  Its main 'unit of information' is the Description Resource (DR), one or more of which are contained in a POWDER document.  Processing such a document yields RDF triples describing the resources that are within the scope of the DRs.  POWDER documents are written in XML and have relatively loose semantics, however, a GRDDL transform, associated with the root namespace, renders the data in OWL with more formal semantics.\n\nAn RDF vocabulary is defined to support Semantic POWDER, or POWDER-S encoding, of Description Resources.  This is the namespace document for that vocabulary.  Although this document sets out the domain and range of each term, their full definitions are to be found in other documents in the set, notably the Description Resources document [DR](https://www.w3.org/2007/05/powder-s#dr) and the Formal Semantics document [FORMAL](https://www.w3.org/2007/05/powder-s#formal).",
   "homepage": "https://www.w3.org/2007/05/powder-s#",
   "id": "okfn/wdrs@2.3",

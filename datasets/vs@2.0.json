@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:versioning",
-    "topic:vocabulary"
+    "versioning",
+    "vocabulary"
   ],
   "description": "An RDF vocabulary for relating SW vocabulary terms to their status.",
   "id": "w3c/vs@2.0",

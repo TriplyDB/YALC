@@ -1,18 +1,15 @@
 {
   "about": [
-    "topic:bibliography",
-    "topic:vocabulary"
+    "bibliography",
+    "vocabulary"
   ],
   "description": "This ontology describes the GND elements, defined as a dictionary of named properties and classes using W3C's RDF technology.\n\nGND stands for “Gemeinsame Normdatei” (Integrated Authority File) and offers a broad range of elements to describe authorities.  The GND originates from the German library community and aims to solve the name ambiguity problem in the library world.  Corresponding data is usually expressed in a customized MARC 21 Authority Format (GND MARC Format) which is quite domain specific and is not used beyond the library and publisher world.  The GND ontology tries to bridge this gap by providing a format specification for the usage in the semantic web.\n\nThe need for name disambiguation and entries having an authoritative character is an issue that concerns a lot more communities than the library world.  In a growing information society the unique identification and linking of persons, places and other authorities becomes more and more important.  The GND Ontology aims to transfer the made experience from libraries to the web community by providing a vocabulary for the description of conferences or events, corporate bodies, places or geographic names, differentiated persons, undifferentiated persons (name of undifferentiated persons), subject headings, and works.\n\nTo ensure compatibility, the GND ontology aligns with already established vocabularies such as the FOAF vocabulary as well as with new ones like the RDA Vocabularies.  We aim to align a number of additional vocabularies as soon as possible wherefore vocabulary suggestions as well as contribution in the alignment work is more than welcome.",
-  "exampleResource": [],
   "homepage": "https://d-nb.info/standards/elementset/gnd",
   "id": "dnb/gndo",
   "image": "gnd.jpg",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
   "name": "GND Ontology",
-  "namespace": "https://d-nb.info/standards/elementset/gnd#",
   "prefix": {
-    "gnd": "https://d-nb.info/gnd/",
     "gndo": "https://d-nb.info/standards/elementset/gnd#"
   },
   "url": "https://d-nb.info/standards/elementset/gnd.nt"

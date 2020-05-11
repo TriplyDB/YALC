@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:geospatial",
-    "topic:vocabulary"
+    "geospatial",
+    "vocabulary"
   ],
   "description": "A vocabulary describing the geometries that are defined in OGC Simple Features (points, lines, polygons, etc.)",
   "id": "ogc/sf@1.0.1",

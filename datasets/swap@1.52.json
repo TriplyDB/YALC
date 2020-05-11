@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:api",
-    "topic:vocabulary"
+    "api",
+    "vocabulary"
   ],
   "description": "Semantic Web Application Platform (SWAP) or, if you like, Semantic Web Area for Play… visiting RDF and all points west.  Working toward the SWELL langauge, MIT-LCS's advanced development prototyping of tools and langauges for the Semantic Web.",
   "homepage": "https://www.w3.org/2000/10/swap",

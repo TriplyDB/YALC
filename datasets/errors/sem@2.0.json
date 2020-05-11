@@ -1,17 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "The Simple Event Model (SEM) is created to model events in various subject domains.",
-  "exampleResource": [
-    "sem:Actor"
-  ],
   "homepage": "http://semanticweb.cs.vu.nl/2009/11/sem/",
   "id": "w3c/sem@2.0",
   "name": "Simple Event Model",
-  "namespace": "http://semanticweb.cs.vu.nl/2009/11/sem/",
   "prefix": {
     "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/"
-  },
-  "url": "http://semanticweb.cs.vu.nl/2009/11/sem/"
+  }
 }

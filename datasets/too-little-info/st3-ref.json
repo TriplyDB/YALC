@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "homepage": "https://data.epo.org/linked-data/download",
   "id": "epo/st3-ref",

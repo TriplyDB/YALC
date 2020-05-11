@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:science",
-    "topic:vocabulary"
+    "science",
+    "vocabulary"
   ],
   "homepage": "http://www.qudt.org/doc/2019/10/DOC_SCHEMA-QUDT-DATATYPES-v2.1.html",
   "id": "qudt/qudt-datatypes@2.1.2",

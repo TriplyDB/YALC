@@ -1,5 +1,5 @@
 {
-  "about": "topic:metadata",
+  "about": "metadata",
   "description": "This dataset provides possible statuses for datasets.  It has been developed specifically for the EU Open Data Portal.",
   "homepage": "https://op.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/dataset-status",
   "id": "publications-office/dataset-status@2016-09-21",

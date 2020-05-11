@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Agent properties element set consists of properties representing attributes and relationships of the RDA *Agent*, *Collective Agent*, *Person*, *Family*, and *Corporate Body* entities.",
   "homepage": "http://www.rdaregistry.info/Elements/a",
   "id": "rda/rdaa",

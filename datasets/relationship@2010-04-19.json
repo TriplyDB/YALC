@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:social",
-    "topic:vocabulary"
+    "social",
+    "vocabulary"
   ],
   "description": "A vocabulary for describing relationships between people.",
   "homepage": "https://vocab.org/relationship/",

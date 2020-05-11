@@ -1,8 +1,8 @@
 {
   "about": [
-    "topic:metadata",
-    "topic:publishing",
-    "topic:vocabulary"
+    "metadata",
+    "publishing",
+    "vocabulary"
   ],
   "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary",
   "id": "dcmi/dcmit@2012-06-14",

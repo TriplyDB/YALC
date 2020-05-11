@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:science",
-    "topic:vocabulary"
+    "science",
+    "vocabulary"
   ],
   "description": "Standard units of measure for all units.",
   "homepage": "http://www.qudt.org/doc/2020/04/DOC_VOCAB-UNITS-ALL-v2.1.html",

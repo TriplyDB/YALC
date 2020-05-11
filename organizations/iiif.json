@@ -1,0 +1,7 @@
+{
+  "description": "The IIIF Consortium (IIIF-C) was formed in [June 2015](https://iiif.io/news/2015/06/17/iiif-consortium/) in Oxford, England, to provide steering and sustainability for the IIIF community.  The IIIF-C now comprises more than 40 Founding Members across the globe who have signed the IIIF-C [Memorandum of Understanding](https://iiif.io/community/consortium/mou/), committing to support the growth and adoption of IIIF. IIIF-C provides continued support for adoption, experimentation, outreach, and a thriving community of libraries, museums, software firms, scholars, and technologists working with IIIF.",
+  "homepage": "https://iiif.io/community/consortium/",
+  "id": "iiif-c",
+  "image": "iiif.svg",
+  "name": "International Image Interoperability Framework Consortium (IIIF-C)"
+}

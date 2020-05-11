@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:metadata",
-    "topic:vocabulary"
+    "metadata",
+    "vocabulary"
   ],
   "description": "Open Metadata Registry Status Vocabulary",
   "homepage": "http://metadataregistry.org/vocabulary/show/id/31.html",

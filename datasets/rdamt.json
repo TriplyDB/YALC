@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "A categorization reflecting the general type of intermediation device required to view, play, run, etc., the content of a resource.",
   "homepage": "http://www.rdaregistry.info/termList/RDAMediaType",
   "id": "rda/rdamt",

@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:metadata",
-    "topic:vocabulary"
+    "metadata",
+    "vocabulary"
   ],
   "description": "VOAF is a vocabulary specification providing elements allowing the description of vocabularies (RDFS vocabularies or OWL ontologies) used in the Linked Data Cloud.  In particular it provides properties expressing the different ways such vocabularies can rely on, extend, specify, annotate or otherwise link to each other.  It relies itself on [Dublin Core](/dcmi) and [VoID](/w3c/void).  The name of the vocabulary makes an explicit reference to [FOAF](/w3c/foaf) because VOAF can be used to define networks of vocabularies in a way similar to the one FOAF is used to define networks of people.",
   "homepage": "http://purl.org/vocommons/voaf",

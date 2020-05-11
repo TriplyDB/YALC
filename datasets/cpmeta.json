@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:geospatial",
-    "topic:vocabulary"
+    "geospatial",
+    "vocabulary"
   ],
   "homepage": "http://static.icos-cp.eu/share/slides/dataServiceWorkshop",
   "id": "icos/cpmeta",

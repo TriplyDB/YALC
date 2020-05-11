@@ -1,5 +1,5 @@
 {
-  "about": "topic:topLevel",
+  "about": "topLevel",
   "description": "Ontology for DBpedia.",
   "homepage": "https://wiki.dbpedia.org",
   "id": "dbpedia/dbo@2016-10",

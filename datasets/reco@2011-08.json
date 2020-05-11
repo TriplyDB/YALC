@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The RECO ontology defines the vocabulary for representing preferences-as-constraints and preferences-as-ratings as RDF graphs.  This lightweight vocabulary provides domain-independent means to describe user profiles in a coherent and context-aware way.  RECO has been designed as an extension of both [Friend-Of-A-Friend (FOAF)](/none/foaf) and [Who Am I! (WAI)](/treelogic/wai) ontologies.",
   "id": "ctic/reco@2011-08",
   "license": "http://creativecommons.org/licenses/by-sa/3.0/",

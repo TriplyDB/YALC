@@ -1,7 +1,5 @@
 {
-  "about": [
-    "topic:heritage"
-  ],
+  "about": "heritage",
   "description": "The controlled vocabulary of actors is a list of persons and organisations. The data is structured according to the [Europeana Data Model](https://pro.europeana.eu/edm-documentation), Linked Data compatible and available in XML.",
   "exampleResource": [
     "http://hdl.handle.net/10934/RM0001.PEOPLE.3437",
@@ -10,7 +8,6 @@
   "homepage": "https://data.rijksmuseum.nl",
   "id": "rijksmuseum/actors@2019-11",
   "name": "Rijksmuseum Actors",
-  "namespace": "http://hdl.handle.net/10934/",
   "prefix": {
     "actor": "http://hdl.handle.net/10934/"
   },

@@ -1,14 +1,12 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "A vocabulary for representing some concepts from the International Patent Classification (IPC) scheme.  This is currently minimal.",
-  "exampleResource": [],
   "homepage": "https://data.epo.org/linked-data/download",
   "id": "ipc-ontology",
   "name": "International Patent Classification (IPC) Ontology",
-  "namespace": "http://data.epo.org/linked-data/def/ipc/",
   "prefix": {
     "ipc": "http://data.epo.org/linked-data/def/ipc/"
   },

@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "This is a vocabulary collection utilized by XHTML Family modules and document types using XHTML Modularization, including XHTML Role and XHTML + RDFa as defined in [rdfa-syntax](/w3c/rdfa).",
   "homepage": "http://www.w3.org/1999/xhtml/vocab",
   "id": "w3c/xhv",

@@ -1,16 +1,14 @@
 {
   "about": [
-    "topic:language",
-    "topic:vocabulary"
+    "language",
+    "vocabulary"
   ],
   "description": "The i18n namespace is used for describing combinations of language tag and base direction in RDF literals.\n\nIt is used as an alternative mechanism for describing the [BCP47](https://tools.ietf.org/html/bcp47) language tag and base direction of RDF literals that would otherwise use the `xsd:string` or `rdf:langString` datatypes.",
   "exampleResource": [],
   "homepage": "https://www.w3.org/TR/json-ld11/#the-i18n-namespace",
   "id": "w3c/i18n",
   "name": "The I18N Namespace",
-  "namespace": "https://www.w3.org/ns/i18n#",
   "prefix": {
     "i18n": "https://www.w3.org/ns/i18n#"
-  },
-  "url": "https://www.w3.org/ns/i18n#"
+  }
 }

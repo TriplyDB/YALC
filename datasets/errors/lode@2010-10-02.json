@@ -1,29 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "An ontology for publishing descriptions of historical events as Linked Data, and for mapping between other event-related vocabularies and ontologies.",
-  "exampleResource": [
-    "lode:Event",
-    "lode:atPlace",
-    "lode:atTime",
-    "lode:circa",
-    "lode:illustrate",
-    "lode:inSpace",
-    "lode:involved",
-    "lode:involvedAgent"
-  ],
   "homepage": "http://linkedevents.org/ontology",
   "id": "lode@2010-10-02",
   "license": "http://creativecommons.org/licenses/by-sa/3.0/",
   "name": "LODE",
-  "namespace": "http://linkedevents.org/ontology/",
   "prefix": {
-    "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",
-    "event": "http://purl.org/NET/c4dm/event.owl#",
-    "lode": "http://linkedevents.org/ontology/",
-    "time": "http://www.w3.org/2006/time#",
-    "vann": "http://purl.org/vocab/vann/"
-  },
-  "url": "http://linkedevents.org/ontology/"
+    "lode": "http://linkedevents.org/ontology/"
+  }
 }

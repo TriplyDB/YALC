@@ -1,5 +1,5 @@
 {
-  "about": "topic:topLevel",
+  "about": "topLevel",
   "description": "Implementation of the CIDOC Conceptual Reference Model, version 5.0.1, in OWL 2.",
   "id": "cidoc/crm@5.0.1",
   "image": "crm.png",

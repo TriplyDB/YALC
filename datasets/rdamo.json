@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Manifestation object properties element set consists of properties accommodating object values for relationships of the RDA *Manifestation*",
   "homepage": "http://www.rdaregistry.info/Elements/m/object/",
   "id": "rda/rdamo",

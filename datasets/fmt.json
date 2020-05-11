@@ -1,28 +1,12 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "Unique IRIs for Linked Data file formats.",
-  "exampleResource": [
-    "http://www.w3.org/ns/formats/JSON-LD",
-    "http://www.w3.org/ns/formats/N-Quads",
-    "http://www.w3.org/ns/formats/N-Triples",
-    "http://www.w3.org/ns/formats/N3",
-    "http://www.w3.org/ns/formats/RDF_XML",
-    "http://www.w3.org/ns/formats/RDFa",
-    "http://www.w3.org/ns/formats/SPARQL_Results_CSV",
-    "http://www.w3.org/ns/formats/SPARQL_Results_JSON",
-    "http://www.w3.org/ns/formats/SPARQL_Results_TSV",
-    "http://www.w3.org/ns/formats/SPARQL_Results_XML",
-    "http://www.w3.org/ns/formats/TriG"
-  ],
   "homepage": "https://www.w3.org/ns/formats/",
   "id": "w3c/fmt",
   "name": "Linked Data File Formats",
   "namespace": "http://www.w3.org/ns/formats/",
   "prefix": {
-    "fmt": "http://www.w3.org/ns/formats/",
-    "xhv": "http://www.w3.org/1999/xhtml/vocab#"
+    "fmt": "http://www.w3.org/ns/formats/"
   },
   "url": [
     "http://www.w3.org/ns/formats/Format",

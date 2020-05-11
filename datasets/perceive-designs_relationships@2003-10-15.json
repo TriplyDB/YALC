@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:social",
-    "topic:vocabulary"
+    "social",
+    "vocabulary"
   ],
   "description": "This vocabulary is a module for extending the usefullness of the [`foaf:knows`](/none/foaf) element.  This is accomplished by aliasing the [`foaf:knows`](/none/foaf) element into elements that describe the relationship between people in more detail.",
   "homepage": "http://www.perceive.net/schemas/20031015/relationship/",

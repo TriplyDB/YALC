@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Nomen object properties element set consists of properties accommodating object values for relationships of the RDA *Nomen* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/n/object/",
   "id": "rda/rdano",

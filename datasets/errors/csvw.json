@@ -1,15 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "This vocabulary is used in the Metadata Vocabulary for Tabular Data, along with the default JSON-LD Context.",
-  "exampleResource": [],
   "homepage": "https://www.w3.org/TR/tabular-metadata/",
   "id": "w3c/csvw",
   "name": "Metadata Vocabulary for Tabular Data",
-  "namespace": "http://www.w3.org/ns/csvw#",
   "prefix": {
     "csvw": "http://www.w3.org/ns/csvw#"
-  },
-  "url": "http://www.w3.org/ns/csvw#"
+  }
 }

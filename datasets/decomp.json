@@ -1,7 +1,5 @@
 {
-  "about": [
-    "topic:lexicography"
-  ],
+  "about": "lexicography",
   "description": "This is the **Decomposition** module of the [Lemon](/lemon) collection of lexicographic vocabularies.\n\nDecomposition is the process of indicating which elements constitute a multi-word or compound lexical entry.",
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Decomposition_.28decomp.29",
   "id": "lemon/decomp",

@@ -1,19 +1,10 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "The Event Ontology is developed by the Centre for Digital Music in Queen Mary, University of London. The first draft of the ontology was written in October, 2004.\n\nThis ontology is centered around the notion of event, seen here as the way by which cognitive agents classify arbitrary time/space regions, which is essentially the view expressed by Allen and Fergusson:\n\n“[…] events are primarily linguistic or cognitive in nature. That is, the world does not really contain events. Rather, events are the way by which agents classify certain useful and relevant patterns of change.  This ontology has already been proven useful in a wide range of context, due to its simplicity and usability: from talks in a conference, to description of a concert, or chords being played in a Jazz piece (when used with the Timeline ontology), festivals, etc. Relevant references are given in the reference section. Some tools to manipulate data from this ontology can be found in the motools project on Sourceforge.”",
-  "exampleResource": [
-    "event:Event",
-    "event:hasAgent",
-    "event:hasProduct"
-  ],
   "homepage": "http://motools.sourceforge.net/event/event.html#",
   "id": "event@1.0",
   "name": "Event Ontology",
-  "namespace": "http://purl.org/NET/c4dm/event.owl#",
   "prefix": {
     "event": "http://purl.org/NET/c4dm/event.owl#"
-  },
-  "url": "http://purl.org/NET/c4dm/event.owl#"
+  }
 }

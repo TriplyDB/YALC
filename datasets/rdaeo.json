@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Expression object properties element set consists of properties accommodating object values for relationships of the RDA *Expression* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/e/object/",
   "id": "rda/rdaeo",

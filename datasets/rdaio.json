@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Item object properties element set consists of properties accommodating object values for relationships of the RDA *Item* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/i/object/",
   "id": "rda/rdaio",

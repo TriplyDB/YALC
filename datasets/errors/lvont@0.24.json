@@ -1,16 +1,11 @@
 {
   "about": [
-    "topic:linguistics",
-    "topic:vocabulary"
+    "linguistics",
+    "vocabulary"
   ],
-  "description": "",
-  "exampleResource": [],
-  "homepage": "",
   "id": "lvont@0.24",
   "name": "Lexvo Ontology",
-  "namespace": "http://lexvo.org/ontology#",
   "prefix": {
-    "gold": "http://purl.org/linguistics/gold/",
     "lvont": "http://lexvo.org/ontology#"
   },
   "url": "http://lexvo.org/ontology"

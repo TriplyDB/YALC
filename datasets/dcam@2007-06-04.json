@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "This is the abstract model for [Dublin Core™](/dcmi) metadata.  The primary purpose of this vocabulaty is to specify the components and constructs used in Dublin Core™ metadata.  It defines the nature of the components used and describes how those components are combined to create information structures.  It provides an information model which is independent of any particular encoding syntax.  Such an information model allows us to gain a better understanding of the kinds of descriptions that we are encoding and facilitates the development of better mappings and cross-syntax translations.",
   "homepage": "https://www.dublincore.org/specifications/dublin-core/abstract-model",
   "id": "dcmi/dcam@2007-06-04",

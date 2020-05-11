@@ -1,13 +1,9 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "Term definitions for singular and plural label properties.",
-  "exampleResource": [],
   "id": "label",
   "license": "http://creativecommons.org/licenses/by/1.0/",
-  "name": "",
-  "namespace": "http://purl.org/net/vocab/2004/03/label#",
+  "name": "Label properties",
   "prefix": {
     "label": "http://purl.org/net/vocab/2004/03/label#"
   },

@@ -1,8 +1,8 @@
 {
   "about": [
-    "topic:architecture",
-    "topic:art",
-    "topic:thesaurus"
+    "architecture",
+    "art",
+    "thesaurus"
   ],
   "description": "AAT is a structured, multilingual vocabulary including terms, descriptions, and other information for generic concepts related to art, architecture, other cultural heritage, and conservation.  For decades now, the AAT has been used as a primary reference by museums, art libraries, archives, visual resource catalogers, conservation specialists, archaeological projects, bibliographic projects, researchers, and information specialists who are dealing with the needs of these users.\n\nTerms for any concept may include the plural form of the term, singular form, natural order, inverted order, spelling variants, scientific and common forms, various forms of speech, and synonyms that have various etymological roots.  Among these terms, one is flagged as the term (or descriptor) preferred by the Getty Vocabulary Program.  There may be multiple descriptors reflecting usage in multiple languages. Preferences for individual contributors may differ and are noted.\n\nThe AAT is a thesaurus in compliance with ISO and NISO standards.\n\nThe focus of each AAT record is a concept.  Linked to each concept are terms, related concepts, its position in the hierarchy, sources for the data, and notes.  The conceptual framework of facets and hierarchies in the AAT is designed to allow a general classification scheme for art, architecture and conservation.  The framework is not subject-specific; for example, there is no defined portion of the AAT that is specific only for Renaissance painting.  The terms to describe Renaissance paintings will be found in many locations in the AAT hierarchies.  There may be multiple broader contexts, making AAT polyhierarchical.  In addition the AAT has equivalence and associative relationships.  The temporal coverage of the AAT ranges from Antiquity to the present and the scope is global.",
   "homepage": "https://www.getty.edu/research/tools/vocabularies/ulan/",

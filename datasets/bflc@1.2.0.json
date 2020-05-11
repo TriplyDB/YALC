@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:bibliography",
-    "topic:vocabulary"
+    "bibliography",
+    "vocabulary"
   ],
   "description": "BIBFRAME Vocabulary with LC Extensions",
   "homepage": "http://www.loc.gov/bibframe/docs/index.html",

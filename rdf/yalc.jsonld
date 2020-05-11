@@ -1,12 +1,14 @@
 {
   "@base": "https://triplydb.com/",
-  "@protected": true,
   "@version": 1.1,
   "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
   "Dataset": "void:Dataset",
   "Organization": "sdo:Organization",
   "about": {
-    "@container": "@list",
+    "@container": "@set",
+    "@context": {
+      "@base": "https://triplydb.com/Triply/topics/id/"
+    },
     "@id": "sdo:about",
     "@type": "@id"
   },
@@ -15,15 +17,16 @@
     "@id": "sdo:hasPart",
     "@type": "xsd:string"
   },
-  "date": {
-    "@id": "time:inXSDDate",
-    "@type": "xsd:date"
-  },
   "contentUrl": {
     "@container": "@set",
     "@id": "sdo:contentUrl",
     "@type": "xsd:anyURI"
   },
+  "date": {
+    "@id": "time:inXSDDate",
+    "@type": "xsd:date"
+  },
+  "dct": "http://purl.org/dc/terms/",
   "description": {
     "@id": "dct:description",
     "@type": "markdown"
@@ -33,7 +36,7 @@
     "@type": "sdo:DataDownlod"
   },
   "exampleResource": {
-    "@container": "@list",
+    "@container": "@set",
     "@type": "@id"
   },
   "homepage": {
@@ -72,6 +75,7 @@
   "organization": {
     "@type": "@id"
   },
+  "owl": "http://www.w3.org/2002/07/owl#",
   "prefix": {
     "@type": "xsd:anyURI"
   },
@@ -82,119 +86,20 @@
     "@id": "owl:priorVersion",
     "@type": "@id"
   },
+  "prov": "http://www.w3.org/ns/prov#",
+  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "time": "http://www.w3.org/2006/time#",
+  "sdo": "https://schema.org/",
+  "void": "http://rdfs.org/ns/void#",
   "wasDerivedFrom": {
     "@id": "prov:wasDerivedFrom",
     "@type": "@id"
   },
+  "xsd": "http://www.w3.org/2001/XMLSchema#"
   "yearMonth": {
     "@id": "time:inXSDgYearMonth",
     "@type": "xsd:gYearMonth"
-  },
-
-  "actingFor": "http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl#",
-  "bag": "http://bag.basisregistraties.overheid.nl/def/bag#",
-  "bibo": "http://purl.org/ontology/bibo/",
-  "cnt": "http://www.w3.org/2011/content#",
-  "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#",
-  "d0": "http://www.ontologydesignpatterns.org/ont/d0.owl#",
-  "dataid": "http://dataid.dbpedia.org/ns/core#",
-  "dbo": "http://dbpedia.org/ontology/",
-  "dbp": "http://dbpedia.org/property/",
-  "dbr": "http://dbpedia.org/resource/",
-  "dbt": "http://dbpedia.org/resource/Template:",
-  "dcam": "http://purl.org/dc/dcam/",
-  "dcat": "http://www.w3.org/ns/dcat#",
-  "dce": "http://purl.org/dc/elements/1.1/",
-  "dcmit": "http://purl.org/dc/dcmitype/",
-  "dct": "http://purl.org/dc/terms/",
-  "decomp": "http://www.w3.org/ns/lemon/decomp#",
-  "doap": "http://usefulinc.com/ns/doap#",
-  "dqv": "http://www.w3.org/ns/dqv#",
-  "dul": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#",
-  "earl": "http://www.w3.org/ns/earl#",
-  "event": "http://purl.org/NET/c4dm/event.owl#",
-  "foaf": "http://xmlns.com/foaf/0.1/",
-  "geo": "http://www.opengis.net/ont/geosparql#",
-  "geof": "http://www.opengis.net/def/function/geosparql/",
-  "geojson": "http://ld.geojson.org/vocab#",
-  "gn": "http://sws.geonames.org/",
-  "gno": "http://www.geonames.org/ontology#",
-  "holding": "http://purl.org/ontology/holding#",
-  "http": "http://www.w3.org/2011/http#",
-  "i18n": "https://www.w3.org/ns/i18n#",
-  "iolite": "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl",
-  "ipo": "http://purl.org/ipo/core#",
-  "lemon": "http://lemon-model.net/lemon#",
-  "lexicog": "http://www.w3.org/ns/lemon/lexicog#",
-  "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
-  "lexinfo1": "http://www.lexinfo.net/lexinfo#",
-  "lexinfo2": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
-  "lode": "http://linkedevents.org/ontology/",
-  "lime": "http://www.w3.org/ns/lemon/lime#",
-  "mads": "http://www.loc.gov/mads/rdf/v1#",
-  "mo": "http://purl.org/ontology/mo/",
-  "oa": "http://www.w3.org/ns/oa#",
-  "oils": "http://lemon-model.net/oils#",
-  "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
-  "ov": "http://open.vocab.org/terms/",
-  "owl": "http://www.w3.org/2002/07/owl#",
-  "prov": "http://www.w3.org/ns/prov#",
-  "provenance-core": "http://purl.org/net/provenance/ns#",
-  "provenance-files": "http://purl.org/net/provenance/files#",
-  "provenance-integrity": "http://purl.org/net/provenance/integrity#",
-  "provenance-types": "http://purl.org/net/provenance/types#",
-  "ptr": "http://www.w3.org/2009/pointers#",
-  "qb": "http://purl.org/linked-data/cube#",
-  "rdag2": "http://rdvocab.info/ElementsGr2/",
-  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-  "rdfa": "http://www.w3.org/ns/rdfa#",
-  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-  "relationship": "https://vocab.org/relationship/",
-  "relator": "http://id.loc.gov/vocabulary/relators/",
-  "sd": "http://www.w3.org/ns/sparql-service-description#",
-  "sdmx": "http://purl.org/linked-data/sdmx#",
-  "sdmx-attribute": "http://purl.org/linked-data/sdmx/2009/attribute#",
-  "sdmx-code": "http://purl.org/linked-data/sdmx/2009/code#",
-  "sdmx-concept": "http://purl.org/linked-data/sdmx/2009/concept#",
-  "sdmx-dimension": "http://purl.org/linked-data/sdmx/2009/dimension#",
-  "sdmx-measure": "http://purl.org/linked-data/sdmx/2009/measure#",
-  "sdo": "http://schema.org/",
-  "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
-  "sf": "http://www.opengis.net/ont/sf#",
-  "sh": "http://www.w3.org/ns/shacl#",
-  "sioc": "http://rdfs.org/sioc/ns#",
-  "sioc-access": "http://rdfs.org/sioc/access#",
-  "sioc-actions": "http://rdfs.org/sioc/actions#",
-  "sioc-argument": "http://rdfs.org/sioc/argument#",
-  "sioc-nepomuk": "http://rdfs.org/sioc/nepomuk#",
-  "sioc-quotes": "http://rdfs.org/sioc/quotes#",
-  "sioc-services": "http://rdfs.org/sioc/services#",
-  "sioc-swan": "http://rdfs.org/sioc/swan#",
-  "sioc-types": "http://rdfs.org/sioc/types#",
-  "sioc-wikitalk": "http://rdfs.org/sioc/wikitalk#",
-  "skos": "http://www.w3.org/2004/02/skos/core#",
-  "skos-xl": "http://www.w3.org/2008/05/skos-xl#",
-  "swap": "http://www.w3.org/2000/10/swap/pim/doc#",
-  "synsem": "http://www.w3.org/ns/lemon/synsem#",
-  "time": "http://www.w3.org/2006/time#",
-  "topic": "https://triplydb.com/Triply/yalc/id/topic/",
-  "unit": "http://www.w3.org/2007/ont/unit#",
-  "uom": "http://www.opengis.net/def/uom/OGC/1.0/",
-  "vann": "http://purl.org/vocab/vann/",
-  "vartrans": "http://www.w3.org/ns/lemon/vartrans#",
-  "vcard": "http://www.w3.org/2006/vcard/ns#",
-  "viaf": "http://viaf.org/viaf/",
-  "voaf": "http://purl.org/vocommons/voaf#",
-  "void": "http://rdfs.org/ns/void#",
-  "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#",
-  "wde": "http://www.wikidata.org/entity/",
-  "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#",
-  "wdp": "http://www.wikidata.org/prop/direct/",
-  "wdrs": "http://www.w3.org/2007/05/powder-s#",
-  "wn30": "http://purl.org/vocabularies/princeton/wn30/",
-  "wno": "http://wordnet-rdf.princeton.edu/ontology#",
-  "wnr": "http://wordnet-rdf.princeton.edu/id/",
-  "xhtml2": "http://www.w3.org/2002/06/xhtml2/#",
-  "xhv": "http://www.w3.org/1999/xhtml/vocab#",
-  "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
 }

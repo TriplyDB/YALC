@@ -1,20 +1,12 @@
 {
   "about": [
-    "topic:api",
-    "topic:vocabulary"
+    "api",
+    "vocabulary"
   ],
   "description": "Configuration vocabulary for the Linked Data API.",
-  "exampleResource": [
-    "ld-api:Endpoint",
-    "ld-api:Page",
-    "ld-api:RdfXmlFormatter",
-    "ld-api:Selector",
-    "ld-api:TurtleFormatter"
-  ],
   "homepage": "https://github.com/UKGovLD/linked-data-api",
   "id": "UKGovLD/ld-api",
   "name": "Linked Data API",
-  "namespace": "http://purl.org/linked-data/api/vocab#",
   "prefix": {
     "ld-api": "http://purl.org/linked-data/api/vocab#"
   },

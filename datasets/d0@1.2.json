@@ -1,5 +1,5 @@
 {
-  "about": "topic:topLevel",
+  "about": "topLevel",
   "description": "A supplementary ontology used as a generalization of [DOLCE+DnS Ultralite (DUL)](/odp/dul), in order to deal with the systematic polysemy of many lexical items, whose senses create problems when used as OWL classes.  For example, it's customary to find lexical items that carry both a sense of physical or abstract location, of event or event type, etc.",
   "id": "odp/d0@1.2",
   "name": "Generalization of DOLCE+DnS Ultralite (D0)",

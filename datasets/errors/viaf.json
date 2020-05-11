@@ -1,21 +1,11 @@
 {
-  "about": [
-    "topic:library"
-  ],
+  "about": "library",
   "contact": "mailto:viaf@oclc.org",
   "description": "VIAF (Virtual International Authority File) is an OCLC service ― built in cooperation with national libraries and other partners ― that virtually combines multiple LAM (Library Archives Museum) name authority files into a single name authority service.",
-  "exampleResource": [
-    "viaf:39377930",
-    "viaf:100226284",
-    "viaf:76349832",
-    "viaf:9854560",
-    "viaf:56617645"
-  ],
   "homepage": "http://viaf.org",
   "id": "oclc/viaf@2020-03-02",
   "image": "viaf.png",
   "name": "Virtual International Authority File (VIAF)",
-  "namespace": "http://viaf.org/viaf/",
   "prefix": {
     "viaf": "http://viaf.org/viaf/"
   },

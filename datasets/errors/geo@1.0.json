@@ -1,31 +1,13 @@
 {
   "about": [
-    "topic:geography",
-    "topic:vocabulary"
+    "geography",
+    "vocabulary"
   ],
   "description": "The OGC GeoSPARQL standard supports representing and querying geospatial data on the Semantic Web.  GeoSPARQL defines a vocabulary for representing geospatial data in RDF, and it defines an extension to the SPARQL query language for processing geospatial data.  In addition, GeoSPARQL is designed to accommodate systems based on qualitative spatial reasoning and systems based on quantitative spatial computations.",
-  "exampleResource": [
-    "geo:asWKT",
-    "geo:coordinateDimension",
-    "geo:defaultGeometry",
-    "geo:dimension",
-    "geo:Feature",
-    "geo:Geometry",
-    "geo:sfContains",
-    "geo:sfCrosses",
-    "geo:sfDisjoint",
-    "geo:sfEquals",
-    "geo:sfIntersects",
-    "geo:sfOverlaps",
-    "geo:sfTouches",
-    "geo:sfWithin"
-  ],
   "homepage": "https://www.opengeospatial.org/standards/geosparql",
   "id": "ogc/geo@1.0",
   "name": "GeoSPARQL",
-  "namespace": "http://www.opengis.net/ont/geosparql#",
   "prefix": {
     "geo": "http://www.opengis.net/ont/geosparql#"
-  },
-  "url": "http://www.opengis.net/ont/geosparql#"
+  }
 }

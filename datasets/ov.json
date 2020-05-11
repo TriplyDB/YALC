@@ -1,21 +1,11 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "This vocabulary was originally openly-editable at <http://open.vocab.org/>.  The editing interface has been retired and this data dump published in its place.",
-  "exampleResource": [
-    "ov:AutomobileCataologType",
-    "ov:AvatarCharacterTraits",
-    "ov:ClassSkeleton",
-    "ov:Course"
-  ],
   "homepage": "https://vocab.org/open",
   "id": "w3c/ov",
   "name": "Open Vocabulary",
-  "namespace": "http://open.vocab.org/terms/",
   "prefix": {
-    "ov": "http://open.vocab.org/terms/",
-    "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    "ov": "http://open.vocab.org/terms/"
   },
   "url": "https://vocab.org/open/terms.rdf"
 }

@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:social",
-    "topic:vocabulary"
+    "social",
+    "vocabulary"
   ],
   "description": "The “Who am I!” (WAI) vocabulary aims to extend the [FOAF](/none/foaf) specification through introducing the concepts of roles and profiles.  In society, people are more than just persons, they can be musicians, presidents of government, firemen, football players or car drivers in a traffic jam.  In addition, a person modulates her own desires and preferences (her personality) adequating them to the pertinent situation or context.  For instance, John as a member of the Last.fm community expresses some musical interests which can be used to find like-minded people and to recommend some contents (artists, genres, albums, etc.).  John's preferences watching TV may be completely different, and it is necessary to capture this complexity inherent to individuals and their involvement in society.\n\nRooting on modeling and philosophical approaches, WAI provides a flexible mechanism to refine a person's FOAF description in particular domain scenarios and applications.  This mechanism is intended to shape people, specifying temporal and social features like their jobs, position in a company, tastes, security credentials, status in a given community and in general their participation in what is technicallly called, state of affairs.",
   "homepage": "http://vocab.ctic.es/wai/wai.html",

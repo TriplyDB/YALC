@@ -1,25 +1,13 @@
 {
   "about": [
-    "topic:statistics",
-    "topic:vocabulary"
+    "statistics",
+    "vocabulary"
   ],
   "description": "[SKOS](/w3c/skos) concepts and concept schemes for each Content Oriented Guidelines (COG) defined code list.",
-  "exampleResource": [
-    "sdmx-code:Area",
-    "sdmx-code:Currency",
-    "sdmx-code:Decimals",
-    "sdmx-code:Freq",
-    "sdmx-code:ObsStatus",
-    "sdmx-code:Sex",
-    "sdmx-code:TimeFormat",
-    "sdmx-code:UnitMult"
-  ],
   "homepage": "https://sdmx.org",
   "id": "sdmx/code",
   "name": "SDMX Codes",
-  "namespace": "http://purl.org/linked-data/sdmx/2009/code#",
   "prefix": {
     "sdmx-code": "http://purl.org/linked-data/sdmx/2009/code#"
-  },
-  "url": "http://purl.org/linked-data/sdmx/2009/code#"
+  }
 }

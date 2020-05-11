@@ -1,17 +1,14 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "GoodRelations is a standardized vocabulary (also known as “schema”, “data dictionary”, or “ontology”) for product, price, store, and company data that can (1) be embedded into existing static and dynamic Web pages and that (2) can be processed by other computers.  This increases the visibility of your products and services in the latest generation of search engines, recommender systems, and other novel applications.",
-  "exampleResource": [],
   "homepage": "http://purl.org/goodrelations/v1",
   "id": "gr@1.0",
   "license": "http://creativecommons.org/licenses/by/3.0/",
   "name": "GoodRelations: The Web Vocabulary for E-Commerce",
-  "namespace": "http://www.heppnetz.de/ontologies/goodrelations/v1#",
   "prefix": {
     "gr": "http://www.heppnetz.de/ontologies/goodrelations/v1#"
-  },
-  "url": "http://www.heppnetz.de/ontologies/goodrelations/v1"
+  }
 }

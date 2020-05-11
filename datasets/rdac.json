@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Classes element set consists of classes representing the RDA entities, including RDA Entity, Work, Expression, Manifestation, Item, Agent, Collective Agent, Person, Family, Corporate Body, Nomen, Place, and Timespan.",
   "homepage": "http://www.rdaregistry.info/Elements/c",
   "id": "rda/rdac",

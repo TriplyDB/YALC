@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:library",
-    "topic:vocabulary"
+    "library",
+    "vocabulary"
   ],
   "description": "The collection description frequency namespace.",
   "exampleResource": [],
@@ -10,7 +10,6 @@
   "namespace": "http://purl.org/cld/freq/",
   "prefix": {
     "cld": "http://purl.org/cld/terms/",
-    "dcam": "http://purl.org/dc/dcam/",
     "freq": "http://purl.org/cld/freq/"
   },
   "url": "http://purl.org/cld/freq/"

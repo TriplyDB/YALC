@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:license",
-    "topic:vocabulary"
+    "license",
+    "vocabulary"
   ],
   "description": "The [Creative Commons](/cc) Rights Expression Language (CC REL) lets you describe copyright licenses in RDF.  For more information on describing licenses in RDF and attaching those descriptions to digital works, see [CC REL](https://wiki.creativecommons.org/CC_REL) in the [Creative Commons wiki](https://wiki.creativecommons.org).",
   "homepage": "https://creativecommons.org/ns#",

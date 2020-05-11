@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "The full Linked Dataset of the European Patent Office (EPO) data, [CPC taxonomy](/epo/cpc-taxonomy) and vocabulary files.\n\nThis data is updated weekly.",
   "homepage": "https://data.epo.org/linked-data/download",

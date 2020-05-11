@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "Provides a specification of simple data types such as enumerations and codelists.  These are needed in support of the conversion of XML Schemas and UML Models to [OWL](/w3c/owl).  The purpose of *dtype* is to provide a foundation for expressing rich data types.  These data types are typically needed when dealing with OWL representations of data structures derived from XML Schema.",
   "homepage": "http://www.linkedmodel.org/doc/2015/SCHEMA_dtype-v1.2",
   "id": "top-quadrant/dtype@1.2",

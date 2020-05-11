@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "This annotation property is used for exemplifying possible requirements the content pattern provides a solution for.  Requirements are expressed as natural language competency questions.",
   "id": "odp/annotation",
   "name": "Annotation property",

@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "An ontology for representing information about states, other entities and intergovernmental organizations.",
   "homepage": "https://data.epo.org/linked-data/download",

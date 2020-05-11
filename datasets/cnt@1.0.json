@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:metadata",
-    "topic:vocabulary"
+    "metadata",
+    "vocabulary"
   ],
   "description": "Vocabulary for [representing content in RDF](http://www.w3.org/TR/Content-in-RDF/).  This vocabulary is intended to provide a flexible framework within different usage scenarios to semantically represent any type of content, be it on the Web or in local storage media.  For example, it can be used by web quality assurance tools such as web accessibility evaluation tools to record a representation of the assessed web content, including text, images, or other types of formats.  In many cases, it can be used together with [HTTP Vocabulary in RDF](/w3c/http), which allows quality assurance tools to record the HTTP headers that have been exchanged between a client and a server. This is particularly useful for quality assurance testing, conformance claims, and reporting languages like the [W3C Evaluation And Report Language (EARL)](/w3c/earl).",
   "homepage": "https://www.w3.org/TR/Content-in-RDF",

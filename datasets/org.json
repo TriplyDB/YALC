@@ -1,17 +1,14 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "Vocabulary for describing organizational structures, specializable to a broad variety of types of organization.",
-  "exampleResource": [],
   "homepage": "https://www.w3.org/TR/vocab-org/",
   "id": "w3c/org@0.8",
   "license": "http://www.opendatacommons.org/licenses/pddl/1.0/",
   "name": "Organization ontology",
-  "namespace": "https://www.w3.org/ns/org#",
   "prefix": {
     "org": "https://www.w3.org/ns/org#"
-  },
-  "url": "https://www.w3.org/ns/org#"
+  }
 }

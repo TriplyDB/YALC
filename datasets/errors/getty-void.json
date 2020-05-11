@@ -1,24 +1,13 @@
 {
-  "about": [
-    "topic:vocabulary"
-  ],
+  "about": "vocabulary",
   "description": "",
-  "exampleResource": [],
   "homepage": "http://vocab.getty.edu/doc/#Descriptive_Information",
   "id": "getty/void",
   "name": "Getty VoID",
   "namespace": "",
   "prefix": {
-    "aat": "http://vocab.getty.edu/aat/",
-    "adms": "http://www.w3.org/ns/adms#",
     "assetType": "http://purl.org/adms/assettype/",
-    "cc": "http://creativecommons.org/ns#",
-    "dbr": "http://dbpedia.org/resource/",
-    "format": "http://www.w3.org/ns/formats/",
-    "freq": "http://purl.org/cld/freq/",
-    "vann": "http://purl.org/vocab/vann/",
-    "wde": "http://www.wikidata.org/entity/",
-    "wdrs": "http://www.w3.org/2007/05/powder-s#"
+    "freq": "http://purl.org/cld/freq/"
   },
   "url": "http://vocab.getty.edu/void.ttl"
 }

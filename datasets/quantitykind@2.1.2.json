@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:science",
-    "topic:vocabulary"
+    "science",
+    "vocabulary"
   ],
   "description": "Provides the set of all quantity kinds.",
   "homepage": "http://www.qudt.org/doc/2020/04/DOC_VOCAB-QUANTITY-KINDS-ALL-v2.1.html",

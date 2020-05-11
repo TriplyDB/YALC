@@ -1,24 +1,13 @@
 {
   "about": [
-    "topic:statistics",
-    "topic:vocabulary"
+    "statistics",
+    "vocabulary"
   ],
   "description": "[SKOS](/w3c/skos) concepts for elements defined in the Content Oriented Guidelines (COG).",
-  "exampleResource": [
-    "sdmx-concept:accessibility",
-    "sdmx-concept:accuracy",
-    "sdmx-concept:age",
-    "sdmx-concept:civilStatus",
-    "sdmx-concept:coherence",
-    "sdmx-concept:comment",
-    "sdmx-concept:refPeriod"
-  ],
   "homepage": "https://sdmx.org",
   "id": "sdmx/concept",
   "name": "SDMX Concepts",
-  "namespace": "http://purl.org/linked-data/sdmx/2009/concept#",
   "prefix": {
     "sdmx-concept": "http://purl.org/linked-data/sdmx/2009/concept#"
-  },
-  "url": "http://purl.org/linked-data/sdmx/2009/concept#"
+  }
 }

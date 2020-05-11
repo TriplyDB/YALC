@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "An ontology of systems, plugins to DOLCE Ultralite.  OWL engineering by Aldo Gangemi.",
   "id": "odp/systems-lite@1.1",
   "name": "Systems Lite",

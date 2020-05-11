@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:lexicography",
-    "topic:vocabulary"
+    "lexicography",
+    "vocabulary"
   ],
   "description": "This is the **Variation and Translation** module of the [Lemon](/lemon) collection of lexicographic vocabularies.  It can be used to represent relations between lexical entries and lexical senses that are variants of each other.",
   "homepage": "https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Variation_.26_Translation_.28vartrans.29",

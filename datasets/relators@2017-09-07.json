@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:bibliography",
-    "topic:vocabulary"
+    "bibliography",
+    "vocabulary"
   ],
   "description": "Relator terms and their associated codes designate the relationship between a name and a bibliographic resource.  The relator codes are three-character lowercase alphabetic strings that serve as identifiers.  Either the term or the code may be used as controlled values.",
   "homepage": "http://id.loc.gov/vocabulary/relators.html",

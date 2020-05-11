@@ -1,5 +1,5 @@
 {
-  "about": "topic:libraries",
+  "about": "libraries",
   "description": "The DNB RDF Vocabulary is a collection of classes, properties and datatypes used within the DNB's linked data service.  It complements the [GND Ontology](dnb/gndo) which is specifically geared towards authority data from the Integrated Authority File (GND), whereas this vocabulary is more general-purpose.",
   "homepage": "https://d-nb.info/standards/elementset/dnb#",
   "id": "dnb/dnbt",

@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "The Place datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Place* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/p/datatype",
   "id": "rda/rdapd",

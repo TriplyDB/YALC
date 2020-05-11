@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "The Linked Data representation of the CPC taxonomy.",
   "homepage": "https://data.epo.org/linked-data/download",

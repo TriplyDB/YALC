@@ -1,5 +1,5 @@
 {
-  "about": "topic:libraries",
+  "about": "libraries",
   "description": "Gesamtabzug der DNB-Titeldaten",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/dnb",

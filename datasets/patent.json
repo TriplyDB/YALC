@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:commerce",
-    "topic:vocabulary"
+    "commerce",
+    "vocabulary"
   ],
   "description": "An ontology for representing information about patent applications, patents and patent documents.",
   "homepage": "https://data.epo.org/linked-data/download",

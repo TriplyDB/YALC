@@ -1,14 +1,12 @@
 {
   "about": [
-    "topic:linguistics"
+    "linguistics"
   ],
   "description": "GOLD is an ontology for descriptive linguistics.  It gives a formalized account of the most basic categories and relations (the ‘atoms’) used in the scientific description of human language.  GOLD is intended to capture the knowledge of a well-trained linguist, and can thus be viewed as an attempt to codify the general knowledge of the field.  It will facilite automated reasoning over linguistic data and help establish the basic concepts through which intelligent search can be carried out.  Furthermore, GOLD is meant to be compatible with the general goals of the Semantic Web.",
-  "exampleResource": [],
   "homepage": "http://linguistics-ontology.org",
   "id": "gold@2010",
   "license": "http://creativecommons.org/licenses/by/3.0/",
   "name": "General Ontology for Linguistic Description (GOLD)",
-  "namespace": "http://purl.org/linguistics/gold/",
   "prefix": {
     "gold": "http://purl.org/linguistics/gold/"
   },

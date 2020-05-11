@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "id": "odp/object-role",
   "prefix": {
     "objectRole": "http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#"

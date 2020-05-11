@@ -1,5 +1,5 @@
 {
-  "about": "topic:vocabulary",
+  "about": "vocabulary",
   "description": "This is the RDF Schema for the RDF vocabulary terms in the RDF Namespace, defined in RDF Concepts.",
   "homepage": "https://www.w3.org/TR/rdf11-concepts",
   "id": "w3c/rdf@1.1",

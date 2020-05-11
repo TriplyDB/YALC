@@ -1,7 +1,7 @@
 {
   "about": [
-    "topic:metadata",
-    "topic:vocabulary"
+    "metadata",
+    "vocabulary"
   ],
   "description": "A vocabulary for annotating descriptions of vocabularies with examples and usage notes.",
   "homepage": "http://vocab.org/vann",
