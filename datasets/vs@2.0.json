@@ -6,7 +6,7 @@
   "description": "An RDF vocabulary for relating SW vocabulary terms to their status.",
   "id": "w3c/vs@2.0",
   "name": "Vocabulary Status",
-  "namespace": {
+  "prefix": {
     "vs": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
   }
 }

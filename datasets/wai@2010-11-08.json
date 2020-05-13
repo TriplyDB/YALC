@@ -8,7 +8,7 @@
   "id": "treelogic/wai@2010-11-08",
   "license": "http://creativecommons.org/licenses/by-sa/3.0/",
   "name": "Who Am I!",
-  "namespace": {
+  "prefix": {
     "wai": "http://purl.org/wai#"
   }
 }

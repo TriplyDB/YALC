@@ -7,7 +7,7 @@
   "homepage": "https://www.w3.org/TR/void",
   "id": "w3c/void",
   "name": "Vocabulary of Interlinked Datasets (VoID)",
-  "namespace": {
+  "prefix": {
     "void": "http://rdfs.org/ns/void#"
   }
 }

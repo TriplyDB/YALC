@@ -7,7 +7,7 @@
   "homepage": "https://www.w3.org/TR/vcard-rdf",
   "id": "w3c/vcard@2014-05-22",
   "name": "vCard",
-  "namespace": {
+  "prefix": {
     "vcard": "http://www.w3.org/2006/vcard/ns#"
   }
 }

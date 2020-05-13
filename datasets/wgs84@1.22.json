@@ -7,7 +7,7 @@
   "homepage": "http://www.w3.org/2003/01/geo/wgs84_pos#",
   "id": "w3c/wgs84@1.22",
   "name": "WGS84 Geo Positioning",
-  "namespace": {
+  "prefix": {
     "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#"
   }
 }

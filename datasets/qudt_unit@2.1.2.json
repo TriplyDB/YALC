@@ -9,6 +9,5 @@
   "name": "All Units Ontology",
   "prefix": {
     "unit": "http://qudt.org/vocab/unit/"
-  },
-  "url": "http://qudt.org/2.1/vocab/unit"
+  }
 }
