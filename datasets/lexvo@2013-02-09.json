@@ -10,5 +10,5 @@
     "iso639-3": "http://lexvo.org/id/iso639-3/",
     "lvont": "http://lexvo.org/ontology#"
   },
-  "url": "http://www.lexvo.org/resources/lexvo_2013-02-09.nt.gz"
+  "url": "https://github.com/wouterbeek/lexvo/raw/master/data.trig.gz"
 }
