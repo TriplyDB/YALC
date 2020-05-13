@@ -40,7 +40,8 @@ The following datasets emit no `Content-Type` header at all:
 
   - [Datatype Schema](dtype.json)
   - [DOAP](doap.json)
-  - [lexinfo](lexinfo.json)
+  - [lexinfo 2.0](lexinfo@2.0.json)
+  - [lexinfo 3.0](lexinfo@3.0.json)
   - [Lexvo Ontology](lvont.json)
 
 ## Erroneous handling of `Accept` header
