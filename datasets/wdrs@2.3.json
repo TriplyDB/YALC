@@ -5,7 +5,7 @@
   "id": "okfn/wdrs@2.3",
   "license": "http://creativecommons.org/licenses/by/3.0/",
   "name": "Protocol for Web Description Resources (POWDER): POWDER-S Vocabulary (WDRS)",
-  "namespace": {
+  "prefix": {
     "wdrs": "https://www.w3.org/2007/05/powder-s#"
   }
 }
