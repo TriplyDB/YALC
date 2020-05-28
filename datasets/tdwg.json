@@ -5,7 +5,7 @@
   "license": "http://creativecommons.org/licenses/by/4.0/",
   "name": "Darwin Core RDF Guide",
   "prefix": {
-    "dwc": "http://rs.tdwg.org/dwc/",
+    "dwc": "http://rs.tdwg.org/dwc/"
   },
   "url": "http://rs.tdwg.org/dwc/terms/guides/rdf/"
 }

@@ -1,8 +1,5 @@
 {
-  "about": [
-    "bibliography",
-    "vocabulary"
-  ],
+  "about": ["bibliography", "vocabulary"],
   "description": " Aktuellen Gesamtabzug der GND:\n  - Entitäten Körperschaft (Corporate body, Code b)\n  - Entitäten Kongress (Congress, Code f)\n  - Entitäten Geografikum (Geographical entity, Code g)\n  - Entitäten Personenname (nicht indiv.) (Name, Code n)\n  - Entitaeten Person (indiv.) (Person, Code p)\n  - Entitäten Sachbegriff (Subject term, Code s)\n  - Entitäten Werk (Work, Code u)",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/gnd",
@@ -26,6 +23,6 @@
     "https://data.dnb.de/opendata/authorities-person_lds.ttl.gz",
     "https://data.dnb.de/opendata/authorities-name_lds.ttl.gz",
     "https://data.dnb.de/opendata/authorities-kongress_lds.ttl.gz",
-    "https://data.dnb.de/opendata/authorities-koerperschaft_lds.ttl.gz",
+    "https://data.dnb.de/opendata/authorities-koerperschaft_lds.ttl.gz"
   ]
 }
