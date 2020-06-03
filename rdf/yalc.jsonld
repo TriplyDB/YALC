@@ -97,7 +97,7 @@
     "@id": "prov:wasDerivedFrom",
     "@type": "@id"
   },
-  "xsd": "http://www.w3.org/2001/XMLSchema#"
+  "xsd": "http://www.w3.org/2001/XMLSchema#",
   "yearMonth": {
     "@id": "time:inXSDgYearMonth",
     "@type": "xsd:gYearMonth"
