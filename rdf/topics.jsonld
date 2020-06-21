@@ -53,8 +53,12 @@
       ]
     },
     {
-      "@id": "topic:biomedicine",
-      "label": "Biomedicine"
+      "@id": "topic:biomedical",
+      "label": "Biomedicine",
+      "narrower": {
+        "@id": "topic:corona",
+        "label": "Corona (Covid-19)"
+      }
     },
     {
       "@id": "topic:commerce",
@@ -93,6 +97,10 @@
         "@id": "topic:lexicography",
         "label": "Lexicography"
       }
+    },
+    {
+      "@id": "topic:legal",
+      "label": "Legal"
     },
     {
       "@id": "topic:metadata",

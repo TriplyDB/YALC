@@ -1,0 +1,9 @@
+{
+  "about": "legal",
+  "description": "The key contents of Finish legal norms, such as acts, decrees that further define acts, and case-law (legal cases) related to their implementation have been made available for viewing on the Internet.  This service is proviced by Finlex, a program by the Ministry of Justice of Finland.  Although information on law and justice has been available, in this way, to human readers in the form of web pages, this dataset now also makes this information accessible for IT applications, other online services and legislative applications.\n\nSemantic Finlex includes the following components:\n  - A linked open data service on Finnish legislation and jurisdiction.\n  - Pilot applications presenting practical uses of the data service.\n\nAt its current initial stage, Semantic Finlex includes:\n  - a wide range of original texts of acts and decrees (approx. 45,000),\n  - consolidated legislation based on the aforementioned statutes (approx. 2,800),\n  - decisions of the Supreme Court (approx. 5,400), and\n  - decisions of the Supreme Administrative Court (approx. 7,000).\n\nThe contents are automatically updated from the Finlex service.",
+  "homepage": "https://data.finlex.fi",
+  "id": "finlex/alkup",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "Semantic Finlex: Original statutes",
+  "url": "https://data.finlex.fi/download/rdf/alkup-nq.zip"
+}

@@ -1,0 +1,7 @@
+{
+  "description": "The research and development work for Semantic Finlex was launched in 2012 as part of the national [Linked Data Finland project](http://seco.cs.aalto.fi/projects/ldf/) managed by [Aalto University's Semantic Computing Research Group (SeCo)](http://seco.cs.aalto.fi/).\n\nThe project first led to a prototype which included a selection of datasets from a specific point in time. With support from the Finnish Open Data Programme led by the Ministry of Finance, this prototype was further developed into the <http://data.finlex.fi> data service, through which a data publication is automatically updated in tandem with Finlex. Meanwhile, the data model underlying the data publication was further developed, and the following new standards under development at EU level were implemented:\n\n  - [European Legislation Identifier (ELI)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52012XG1026(01)) system, and\n  - [European Case Law Identifier (ECLI)](https://e-justice.europa.eu/content_european_case_law_identifier_ecli-175-en.do) system and a Dublin Core-based metadata model.\n\nFurther information on the project and related scientific publications is available on the home page of the Semantic Finlex project.",
+  "homepage": "https://data.finlex.fi",
+  "id": "finlex",
+  "image": "finlex.png",
+  "name": "Semantic Finlex Project"
+}
