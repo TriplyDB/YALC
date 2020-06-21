@@ -1,0 +1,7 @@
+{
+  "description": "The goal of [Ordnance Survey Ireland's](https://osi.ie) (OSi) initiative with [ADAPT](https://adaptcentre.ie) is to develop a platform to publish OSi's geospatial data as Linked Data on the Web whilst adhering to best practices in the domain of geospatial information.  The publication of Linked Data enables third parties to explore and consume rich data in a meaningful manner via a combination of simple, standardized technologies (e.g., RDF and URI) that operate over the Web's existing HTTP infrastructure.",
+  "homepage": "http://data.geohive.ie",
+  "id": "osi",
+  "image": "osi.jpg",
+  "name": "Ordnance Survey Ireland (OSi)"
+}

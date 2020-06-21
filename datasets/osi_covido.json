@@ -1,0 +1,19 @@
+{
+  "about": [
+    "corona",
+    "statistics",
+    "vocabulary"
+  ],
+  "changeFrequency": "daily",
+  "description": "The Covid Statistics Profile data consists of the up to date Covid-19 Daily Statistics as well as the Profile of Covid-19 Daily Statistics for Ireland, as reported by the Health Surveillance Protection Centre.  The Covid-19 Daily Statistics are updated on a daily basis, with the latest record reporting the counts recorded at 1pm the same day.  The further breakdown of these counts (age, gender, transmission, etc.) is part of a Daily Statistics Profile of Covid-19, an analysis that utilises the data that dates back to 12am two days previous to help identify patterns and trends.",
+  "homepage": "http://data.geohive.ie/covidData.html",
+  "id": "osi/covido",
+  "name": "Covid Statistics Profile",
+  "prefix": {
+    "covid": "http://ontologies.geohive.ie/covid#",
+    "covido": "https://covid.geog.ucsb.edu/lod/ontology/",
+    "dataset": "https://opendata.arcgis.com/datasets/",
+    "stat": "http://data.geohive.ie/resource/covid/stat/",
+    "statmeta": "http://data.geohive.ie/resource/covid/statmeta/"
+  }
+}

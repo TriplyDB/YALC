@@ -1,0 +1,18 @@
+{
+  "about": [
+    "corona",
+    "statistics"
+  ],
+  "changeFrequency": "daily",
+  "description": "The Covid County Statistics data consists of Covid-19 Daily Statistics for Ireland by County as reported by the Health Surveillance Protection Centre. This data links into the OSi county geospatial Linked Data through the Unique Geospatial Identifier (UGI) for each each county.",
+  "homepage": "http://data.geohive.ie/covidData.html",
+  "id": "osi/covid",
+  "name": "Covid County Statistics",
+  "prefix": {
+    "covid": "http://ontologies.geohive.ie/covid#",
+    "covido": "https://covid.geog.ucsb.edu/lod/ontology/",
+    "dataset": "https://opendata.arcgis.com/datasets/",
+    "stat": "http://data.geohive.ie/resource/covid/stat/",
+    "statmeta": "http://data.geohive.ie/resource/covid/statmeta/"
+  }
+}
