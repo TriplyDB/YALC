@@ -2,7 +2,7 @@
   "about": "vocabulary",
   "description": "The Activity Streams 2.0 Vocabulary defines a set of abstract types and properties that describe past, present and future activities.  The vocabulary is defined in two parts:\n\n1. A Core set of properties describing the generalized structure of an Activity; and\n2. An Extended set of properties that cover specific types of Activities and Artifacts common to many social Web application systems.",
   "homepage": "https://www.w3.org/TR/activitystreams-vocabulary/",
-  "id": "w3c/av@2.0",
+  "id": "w3c/as@2.0",
   "prefix": {
     "as": "https://www.w3.org/ns/activitystreams#"
   },
