@@ -15,5 +15,6 @@
     "dataset": "https://opendata.arcgis.com/datasets/",
     "stat": "http://data.geohive.ie/resource/covid/stat/",
     "statmeta": "http://data.geohive.ie/resource/covid/statmeta/"
-  }
+  },
+  "url": "http://data.geohive.ie/dumps/covid/CovidStatisticsProfile.ttl"
 }
