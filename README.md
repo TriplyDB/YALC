@@ -8,9 +8,9 @@
 
 # YALC: Yet Another LOD Cloud
 
-This repository contains configuration files for the Linked Open
-Datasets that are part of YALC, an alternative to [the official LOD
-Cloud](https://lod-cloud.net).
+This repository contains configuration files for Linked Open Datasets
+that are published on the web.  These datasets can be freely used at
+<https://triplydb.com>.
 
 ## Get started
 
