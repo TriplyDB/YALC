@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "This vocabulary describes the vocabulary terms and term definitions that used for creating metadata descriptions for tabular data on the web.",
+  "homepage": "https://www.w3.org/ns/csvw#",
+  "id": "w3c/csvw",
+  "name": "CSV on the Web (CSVW)",
+  "prefix": {
+    "csvw": "http://www.w3.org/ns/csvw#"
+  },
+  "url": "https://www.w3.org/ns/csvw.ttl"
+}
