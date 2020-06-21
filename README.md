@@ -61,7 +61,7 @@ object with the following keys:
   <dt><code>"about"</code></dt>
   <dd>
     <p>Zero or more topics that characterize what the dataset is about.</p>
-    <p>Topic values must also appear in [the topic hierarchy](rdf/topics.jsonld).  Topic values are specified with their IRI local name.  For example, <code>"eGov"</code> is used to denote the topic with IRI <code>https://triplydb.com/Triply/yalc/id/topic/eGov</code>.</p>
+    <p>Topic values must also appear in the <a href="rdf/topics.jsonld">topic hierarchy</a>.  Topic values are specified with their IRI local name.  For example, <code>"eGov"</code> is used to denote the topic with IRI <code>https://triplydb.com/Triply/yalc/id/topic/eGov</code>.</p>
     <p>For vocabularies, this key must include the value <code>"vocabulary"</code>.</p>
     <p>This key is optional, in which case the dataset has zero topics.</dd>
 
@@ -83,8 +83,8 @@ object with the following keys:
   <dd>
     <p>Identifies the dataset and (optionally) its organization and version.  The format for this value is <code>"ORGANIZATION/DATASET@VERSION"</code>.</p>
     <p>The values for <code>ORGANIZATION</code> and <code>DATASET</code> must be at least 2 and at most 40 characters long.  They must consist of digits (<code>[0-9]</code>), letters (<code>[A-Za-z]</code>), and hyphens (<code>-</code>).</p>
-    <p>The value for <code>ORGANIZATION</code> must correspond with a file named <code>ORGANIZATION.json</code> in the <a href="organizations"><code>/organizations</code></a> subdirectory.  See the [organization configuration
-     format](#organization-configuration-format) section for more information.</p>
+    <p>The value for <code>ORGANIZATION</code> must correspond with a file named <code>ORGANIZATION.json</code> in the <a href="organizations"><code>/organizations</code></a> subdirectory.  See the <a href="#organization-configuration-format">organization configuration
+     format section</a> for more information.</p>
     <p>The value of <code>VERSION</code> must follow one of the following formats:</p>
     <table>
       <thead>
@@ -200,7 +200,7 @@ The organization configuration format is used for files in the
   <dt><code>"image"</code></dt>
   <dd>
     <p>The logo or image for the organization.  This value must be the local name for a file in the <a href="img"><code>/img</code></a> subdirectory.</p>
-    <p>This key is optional.  If it is omitted, the image [`/img/rdf.png`](img/rdf.png) is used.</p>
+    <p>This key is optional.  If it is omitted, the image <a href="/img/rdf.png"><code>img/rdf.png</code></a> is used.</p>
   </dd>
 
   <dt><code>"name"</code></dt>

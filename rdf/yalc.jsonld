@@ -1,108 +1,110 @@
 {
-  "@base": "https://triplydb.com/",
-  "@version": 1.1,
-  "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
-  "Dataset": "void:Dataset",
-  "Organization": "sdo:Organization",
-  "about": {
-    "@container": "@set",
-    "@context": {
-      "@base": "https://triplydb.com/Triply/topics/id/"
+  "@context": {
+    "@base": "https://triplydb.com/",
+    "@version": 1.1,
+    "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
+    "Dataset": "void:Dataset",
+    "Organization": "sdo:Organization",
+    "about": {
+      "@container": "@set",
+      "@context": {
+        "@base": "https://triplydb.com/Triply/yalc/id/topic/"
+      },
+      "@id": "sdo:about",
+      "@type": "@id"
     },
-    "@id": "sdo:about",
-    "@type": "@id"
-  },
-  "asset": {
-    "@container": "@set",
-    "@id": "sdo:hasPart",
-    "@type": "xsd:string"
-  },
-  "changeFrequency": {
-    "@type": "ChangeFrequency"
-  },
-  "contentUrl": {
-    "@container": "@set",
-    "@id": "sdo:contentUrl",
-    "@type": "xsd:anyURI"
-  },
-  "date": {
-    "@id": "time:inXSDDate",
-    "@type": "xsd:date"
-  },
-  "dct": "http://purl.org/dc/terms/",
-  "description": {
-    "@id": "dct:description",
-    "@type": "markdown"
-  },
-  "distribution": {
-    "@id": "sdo:distribution",
-    "@type": "sdo:DataDownlod"
-  },
-  "exampleResource": {
-    "@container": "@set",
-    "@type": "@id"
-  },
-  "homepage": {
-    "@id": "foaf:homepage",
-    "@type": "xsd:anyURI"
-  },
-  "identifier": {
-    "@id": "sdo:identifier"
-  },
-  "image": {
-    "@id": "sdo:image"
-  },
-  "label": {
-    "@id": "rdfs:label"
-  },
-  "license": {
-    "@id": "sdo:license"
-  },
-  "major": {
-    "@type": "xsd:nonNegativeInteger"
-  },
-  "minor": {
-    "@type": "xsd:nonNegativeInteger"
-  },
-  "name": {
-    "@id": "sdo:name"
-  },
-  "namespace": {
-    "@container": "@set",
-    "@type": "xsd:anyURI"
-  },
-  "narrower": {
-    "@id": "skos:narrower",
-    "@type": "@id"
-  },
-  "organization": {
-    "@type": "@id"
-  },
-  "owl": "http://www.w3.org/2002/07/owl#",
-  "prefix": {
-    "@type": "xsd:anyURI"
-  },
-  "prefixDeclaration": {
-    "@container": "@set"
-  },
-  "priorVersion": {
-    "@id": "owl:priorVersion",
-    "@type": "@id"
-  },
-  "prov": "http://www.w3.org/ns/prov#",
-  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-  "skos": "http://www.w3.org/2004/02/skos/core#",
-  "time": "http://www.w3.org/2006/time#",
-  "sdo": "https://schema.org/",
-  "void": "http://rdfs.org/ns/void#",
-  "wasDerivedFrom": {
-    "@id": "prov:wasDerivedFrom",
-    "@type": "@id"
-  },
-  "xsd": "http://www.w3.org/2001/XMLSchema#",
-  "yearMonth": {
-    "@id": "time:inXSDgYearMonth",
-    "@type": "xsd:gYearMonth"
+    "asset": {
+      "@container": "@set",
+      "@id": "sdo:hasPart",
+      "@type": "xsd:string"
+    },
+    "changeFrequency": {
+      "@type": "ChangeFrequency"
+    },
+    "contentUrl": {
+      "@container": "@set",
+      "@id": "sdo:contentUrl",
+      "@type": "xsd:anyURI"
+    },
+    "date": {
+      "@id": "time:inXSDDate",
+      "@type": "xsd:date"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "description": {
+      "@id": "dct:description",
+      "@type": "markdown"
+    },
+    "distribution": {
+      "@id": "sdo:distribution",
+      "@type": "sdo:DataDownlod"
+    },
+    "exampleResource": {
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "homepage": {
+      "@id": "foaf:homepage",
+      "@type": "xsd:anyURI"
+    },
+    "identifier": {
+      "@id": "sdo:identifier"
+    },
+    "image": {
+      "@id": "sdo:image"
+    },
+    "label": {
+      "@id": "rdfs:label"
+    },
+    "license": {
+      "@id": "sdo:license"
+    },
+    "major": {
+      "@type": "xsd:nonNegativeInteger"
+    },
+    "minor": {
+      "@type": "xsd:nonNegativeInteger"
+    },
+    "name": {
+      "@id": "sdo:name"
+    },
+    "namespace": {
+      "@container": "@set",
+      "@type": "xsd:anyURI"
+    },
+    "narrower": {
+      "@id": "skos:narrower",
+      "@type": "@id"
+    },
+    "organization": {
+      "@type": "@id"
+    },
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "prefix": {
+      "@type": "xsd:anyURI"
+    },
+    "prefixDeclaration": {
+      "@container": "@set"
+    },
+    "priorVersion": {
+      "@id": "owl:priorVersion",
+      "@type": "@id"
+    },
+    "prov": "http://www.w3.org/ns/prov#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "time": "http://www.w3.org/2006/time#",
+    "sdo": "https://schema.org/",
+    "void": "http://rdfs.org/ns/void#",
+    "wasDerivedFrom": {
+      "@id": "prov:wasDerivedFrom",
+      "@type": "@id"
+    },
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "yearMonth": {
+      "@id": "time:inXSDgYearMonth",
+      "@type": "xsd:gYearMonth"
+    }
   }
 }

@@ -1,137 +1,139 @@
 {
-  "@id": "topic:Something",
+  "@base": "https://triplydb.com/Triply/yalc/id/topic/",
+  "@context": "https://raw.githubusercontent.com/TriplyDB/YALC/master/rdf/yalc.jsonld",
+  "@id": "Something",
   "label": "Concept",
   "narrower": [
     {
-      "@id": "topic:agriculture",
+      "@id": "agriculture",
       "label": "Agriculture"
     },
     {
-      "@id": "topic:art",
+      "@id": "art",
       "label": "Art",
       "narrower": [
         {
-          "@id": "topic:architecture",
+          "@id": "architecture",
           "label": "Architecture"
         },
         {
-          "@id": "topic:cartoon",
+          "@id": "cartoon",
           "label": "Cartoon",
           "narrower": {
-            "@id": "topic:anime",
+            "@id": "anime",
             "label": "Anime"
           }
         },
         {
-          "@id": "topic:film",
+          "@id": "film",
           "label": "Film"
         },
         {
-          "@id": "topic:literature",
+          "@id": "literature",
           "label": "Literature",
           "narrower": {
-            "@id": "topic:poetry",
+            "@id": "poetry",
             "label": "Poetry"
           }
         },
         {
-          "@id": "topic:music",
+          "@id": "music",
           "label": "Music"
         },
         {
-          "@id": "topic:painting",
+          "@id": "painting",
           "label": "Painting"
         },
         {
-          "@id": "topic:sculpture",
+          "@id": "sculpture",
           "label": "Sculpture"
         },
         {
-          "@id": "topic:multimedia",
+          "@id": "multimedia",
           "label": "Multimedia"
         }
       ]
     },
     {
-      "@id": "topic:biomedical",
+      "@id": "biomedical",
       "label": "Biomedicine",
       "narrower": {
-        "@id": "topic:corona",
+        "@id": "corona",
         "label": "Corona (Covid-19)"
       }
     },
     {
-      "@id": "topic:commerce",
+      "@id": "commerce",
       "label": "Commerce"
     },
     {
-      "@id": "topic:egov",
+      "@id": "egov",
       "label": "eGovernment"
     },
     {
-      "@id": "topic:encycloperia",
+      "@id": "encycloperia",
       "label": "Encyclopedia"
     },
     {
-      "@id": "topic:geography",
+      "@id": "geography",
       "label": "Geography"
     },
     {
-      "@id": "topic:history",
+      "@id": "history",
       "label": "History",
       "narrower": [
         {
-          "@id": "topic:archeology",
+          "@id": "archeology",
           "label": "Archeology"
         },
         {
-          "@id": "topic:heritage",
+          "@id": "heritage",
           "label": "Cultural Heritage"
         }
       ]
     },
     {
-      "@id": "topic:language",
+      "@id": "language",
       "label": "Language",
       "narrower": {
-        "@id": "topic:lexicography",
+        "@id": "lexicography",
         "label": "Lexicography"
       }
     },
     {
-      "@id": "topic:legal",
+      "@id": "legal",
       "label": "Legal"
     },
     {
-      "@id": "topic:metadata",
+      "@id": "metadata",
       "label": "Metadata",
       "narrower": [
         {
-          "@id": "topic:license",
+          "@id": "license",
           "label": "Licenses"
         },
         {
-          "@id": "topic:versioning",
+          "@id": "versioning",
           "label": "Versioning"
         }
       ]
     },
     {
-      "@id": "topic:publishing",
+      "@id": "publishing",
       "label": "Publishing",
       "narrower": [
         {
-          "@id": "topic:bibliography",
+          "@id": "bibliography",
           "label": "Bibliography"
         },
         {
-          "@id": "topic:library",
+          "@id": "library",
           "label": "Library"
         }
       ]
     },
     {
-      "@id": "topic:science",
+      "@id": "science",
       "label": "Science",
       "narrower": [
         {
@@ -145,53 +147,53 @@
       ]
     },
     {
-      "@id": "topic:semantics",
+      "@id": "semantics",
       "label": "Semantics",
       "narrower": [
         {
-          "@id": "topic:linkset",
+          "@id": "linkset",
           "label": "Linkset"
         },
         {
-          "@id": "topic:thesaurus",
+          "@id": "thesaurus",
           "label": "Thesaurus"
         },
         {
-          "@id": "topic:vocabulary",
+          "@id": "vocabulary",
           "label": "Vocabulary",
           "narrower": {
-            "@id": "topic:topLevel",
+            "@id": "topLevel",
             "label": "Top-Level Ontology"
           }
         }
       ]
     },
     {
-      "@id": "topic:services",
+      "@id": "services",
       "label": "Services",
       "narrower": [
         {
-          "@id": "topic:api",
+          "@id": "api",
           "label": "API"
         },
         {
-          "@id": "topic:sparql",
+          "@id": "sparql",
           "label": "SPARQL"
         }
       ]
     },
     {
-      "@id": "topic:social",
+      "@id": "social",
       "label": "Social",
       "narrower": [
         {
-          "@id": "topic:persons",
+          "@id": "persons",
           "label": "Persons"
         }
       ]
     },
     {
-      "@id": "topic:statistics",
+      "@id": "statistics",
       "label": "Statistics"
     }
   ]
