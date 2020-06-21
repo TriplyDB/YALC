@@ -1,0 +1,25 @@
+{
+  "about": [
+    "egov",
+    "geography"
+  ],
+  "description": "The OSi ‘boundary’ dataset includes a 20m generalised geometry of the boundaries of the administrative units (e.g., county, city, and rural area) of the Republic of Ireland using the ITM coordinate reference system.",
+  "homepage": "http://data.geohive.ie/downloadAndQuery.html",
+  "id": "osi/adminitrative-units@2019",
+  "name": "Administrative Unit",
+  "url": [
+    "http://data.geohive.ie/dumps/boundary/barony_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/council_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/county_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/ed_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/gaeltacht_region_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/lea_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/municipal_district_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/national_constituency_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/parish_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/rural_area_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/townload_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/boundaries-links.n3"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "about": [
+    "egov",
+    "geography"
+  ],
+  "description": "The OSi ‘building’ dataset includes a point geometry (ITM coordinate reference system), along with building form and function details.  Please see the Geospatial Form and Function (Geoff) ontology (avaliable [here](http://ontologies.geohive.ie/geoff/voc.ttl)) which provides explainations of the different forms and functions of the building data. The following table allows building data to be downloaded in the RDF N3 format. Currently the buildng data for County Galway is available.",
+  "homepage": "http://data.geohive.ie/downloadAndQuery.html",
+  "id": "osi/buildings",
+  "name": "Administrative Unit",
+  "url": [
+    "http://data.geohive.ie/dumps/boundary/barony_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/council_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/county_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/ed_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/gaeltacht_region_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/lea_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/municipal_district_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/national_constituency_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/parish_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/rural_area_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/townload_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/boundaries-links.n3"
+  ]
+}
