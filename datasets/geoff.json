@@ -1,0 +1,16 @@
+{
+  "about": [
+    "geospatial",
+    "vocabulary"
+  ],
+  "description": "This vocabulary defines the geospatial information systems concepts of form and function that may be applied to any geospatial feature to classify it or to further describe its shape and use.  It extends the [OGC](/ogc) [GeoSPARQL](/ogc/geosparql) ontology by defining two new classes and two new properties that may be associated with a GeoSPARQL geospatial feature entity.  Most forms and functions are highly relevant for the built environment but any geospatial entity may gain from having a form and/or a function associated with it.",
+  "homepage": "http://ontologies.geohive.ie/geoff/index-en.html",
+  "id": "osi/geoff",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "name": "Geoff, the Geospatial Form and Function Vocabulary",
+  "namespace": "http://ontologies.geohive.ie/geoff#",
+  "prefix": {
+    "geoff": "http://ontologies.geohive.ie/geoff"
+  },
+  "url": "http://ontologies.geohive.ie/geoff/ontology.nt"
+}
