@@ -17,6 +17,9 @@
     "@id": "sdo:hasPart",
     "@type": "xsd:string"
   },
+  "changeFrequency": {
+    "@type": "ChangeFrequency"
+  },
   "contentUrl": {
     "@container": "@set",
     "@id": "sdo:contentUrl",

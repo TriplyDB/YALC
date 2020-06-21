@@ -1,6 +1,8 @@
 prefix dataset: <https://triplydb.com/Triply/yalc/>
 prefix graph: <https://triplydb.com/Triply/yalc/graphs/>
+prefix id: <https://triplydb.com/Triply/yalc/id/>
 prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix sdo: <http://schema.org/>
 prefix time: <http://www.w3.org/2006/time#>
@@ -12,7 +14,7 @@ prefix yalc: <https://triplydb.com/Triply/yalc/vocab/>
 dataset: {
   dataset: a void:Dataset;
     rdfs:label "LOD Cloud Catalog"@en;
-    owl:versionNumber "2020.03";
+    owl:versionNumber "2020.06";
     void:subSet graph:vocab.
 
   graph:vocab a owl:Ontology;
@@ -21,6 +23,61 @@ dataset: {
 }
 
 graph:vocab {
+  id:always a yalc:ChangeFrequence;
+    rdfs:comment "Indicates that a resource is expected to be different every time it is accessed."@en;
+    rdfs:label "Always"@en.
+
+  id:hourly a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Hourly"@en.
+
+  id:daily a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every day."@en;
+    rdfs:label "Daily"@en.
+
+  id:weekly a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Weekly"@en.
+
+  id:monthly a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Monthly"@en.
+
+  id:yearly a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Yearly"@en.
+
+  id:never a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to never change.  This is used for archived resources."@en;
+    rdfs:label "Never"@en.
+
+  yalc:ChangeFrequency
+    owl:equivalentClass
+      [ owl:oneOf (
+          id:always
+          id:hourly
+          id:daily
+          id:weekly
+          id:monthly
+          id:yearly
+          id:never ) ];
+    rdfs:comment """<p>How frequently a resource is expected to change:</p>
+<dl>
+  <dt>always</dt>
+  <dd>The resource is expected to be different every time it is accessed.</dd>
+  <dt>hourly</dt>
+  <dt>daily</dt>
+  <dt>weekly</dt>
+  <dt>monthly</dt>
+  <dt>yearly</dt>
+  <dt>never</dt>
+  <dd>Used for archived resources (i.e. resources that will not be changed again).</dd>
+</dl>
+<p>This is used only as a guide for crawlers, and is not used to determine how frequently pages are indexed.</p>"""^^rdf:HTML;
+    rdfs:isDefinedBy dataset:;
+    rdfs:label "change frequency"@en;
+    rdfs:subClassOf owl:Thing.
+
   yalc:PrefixDeclaration
     rdfs:comment "A declaration that assigns an alias label to an IRI prefix.  Such declarations are often used to abbreviate long IRIs."@en ;
     rdfs:isDefinedBy dataset:;
@@ -55,7 +112,14 @@ graph:vocab {
     rdfs:label "has alias"@en;
     rdfs:range xsd:string.
 
-  yalc:exampleResource
+  yalc:changeFrequency a owl:ObjectProperty;
+    rdfs:command "The expected change frequency for a resource."@en;
+    rdfs:domain rdfs:Resource;
+    rdfs:isDefinedBy dataset:;
+    rdfs:label "change frequency"@en;
+    rdfs:range yalc:ChangeFrequency.
+
+  yalc:exampleResource a owl:ObjectProperty;
     rdfs:comment "An example resource that is indicative of the dataset."@en;
     rdfs:domain void:Dataset;
     rdfs:isDefinedBy dataset:;
