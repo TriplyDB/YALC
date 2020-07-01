@@ -4,9 +4,10 @@
     "publishing",
     "vocabulary"
   ],
+  "description": "The DCMI Type Vocabulary was created in 2001.  It defines classes for basic types of thing that can be described using DCMI metadata terms.",
   "homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary",
-  "id": "dcmi/dcmit@2012-06-14",
-  "name": "Dublin Core Types",
+  "id": "dcmi/dcm@2012-06-14",
+  "name": "Dublin Core Type Vocabulary",
   "prefix": {
     "dcm": "http://purl.org/dc/dcmitype/"
   }
