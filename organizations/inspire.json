@@ -1,0 +1,7 @@
+{
+  "description": "The INSPIRE Directive aims to create a European Union spatial data infrastructure for the purposes of EU environmental policies and policies or activities which may have an impact on the environment.  This European Spatial Data Infrastructure will enable the sharing of environmental spatial information among public sector organisations, facilitate public access to spatial information across Europe and assist in policy-making across boundaries.\n\nINSPIRE is based on the infrastructures for spatial information established and operated by the Member States of the European Union.  The Directive addresses 34 spatial data themes needed for environmental applications.\n\nThe Directive came into force on 15 May 2007 and will be implemented in [various stages](https://inspire.ec.europa.eu/inspire-roadmap/61), with full implementation required by 2021.\n\nThis video provides an overview of why INSPIRE is needed and what types of spatial are covered by INSPIRE.",
+  "homepage": "https://inspire.ec.europa.eu",
+  "id": "inspire",
+  "image": "inspire.png",
+  "name": "Infrastructure for Spatial Information in Europe (INSPIRE)"
+}

@@ -1,0 +1,13 @@
+{
+  "about": [
+    "geospatial",
+    "vocabulary"
+  ],
+  "description": "This is a draft RDF vocabulary for representing spatial data sets in INSPIRE as RDF.  This vocabulary has been created using the [“Guidelines for the RDF encoding of spatial data”](http://inspire-eu-rdf.github.io/inspire-rdf-guidelines).\n\nThe use of RDF is optional and does not supersede or replace the requirements regarding encoding specified in Clause 9 of the INSPIRE Data Specifications.  This optional encoding is intended to support the e-government and open data community in Europe, which is increasingly looking at RDF to represent data.\n\nThis is a draft version.  It has limitations and is expected to contain errors.  Please report any issues or concerns in [GitHub](https://github.com/inspire-eu-rdf/inspire-rdf-vocabularies/issues).\n\nThis ontology contains classes and properties that have been derived from the INSPIRE Hydro - Network application schema.\n\nDuring the derivation, the following mappings, alignments, and omissions have been applied:\n- Mappings:\n  - Code list values are mapped to `skos:Concept`.\n\n- Alignments (through subsumption):\n  - Spatial object types are aligned with `gsp:Feature`.\n\n- Omissions: none",
+  "id": "inspire/hy-n",
+  "name": "INSPIRE Hydro ― Network",
+  "prefix": {
+    "hy-n": "http://inspire.ec.europa.eu/ont/hy-n#"
+  },
+  "url": "https://raw.githubusercontent.com/inspire-eu-rdf/inspire-rdf-vocabularies/master/hy-n/hy-n.ttl"
+}
