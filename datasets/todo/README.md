@@ -7,10 +7,11 @@ Client](https://triply.cc/docs/triply-client-js).
 
 ## File name extension `.skos`
 
-  - [LoC ISO 639-1](loc-iso639-1.json)
-  - [LoC ISO 639-2](loc-iso639-2.json)
-  - [LoC Organizations](loc-organizations.json)
-  - [LoC Subjects](lcsh.json)
+  - [Code List for Cultural Heritage Organizations](loc_organizations.json)
+  - [ISO 639-1: Codes for the Representation of Names of Languages ― Part 1: Two-letter codes for languages](loc_iso639-1.json)
+  - [ISO 639-2: Codes for the Representation of Names of Languages - Part 2: Alpha-3 Code for the Names of Languages](loc_iso639-2.json)
+  - [Library of Congress Subject Headings](lcsh.json)
+  - [MARC List for Languages](loc_languages.json)
 
 ## Empty Bzipped file
 
