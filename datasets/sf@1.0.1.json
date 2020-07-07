@@ -1,6 +1,6 @@
 {
   "about": [
-    "geospatial",
+    "geography",
     "vocabulary"
   ],
   "description": "A vocabulary describing the geometries that are defined in OGC Simple Features (points, lines, polygons, etc.)",

@@ -1,6 +1,6 @@
 {
   "about": [
-    "geospatial",
+    "geography",
     "vocabulary"
   ],
   "description": "A description of the [RFC 7946](https://tools.ietf.org/html/rfc7946) GeoJSON model.  See [this link](https://github.com/geojson/geojson-ld) for vocabulary developments.",

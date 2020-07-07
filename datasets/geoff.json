@@ -1,6 +1,6 @@
 {
   "about": [
-    "geospatial",
+    "geography",
     "vocabulary"
   ],
   "description": "This vocabulary defines the geospatial information systems concepts of form and function that may be applied to any geospatial feature to classify it or to further describe its shape and use.  It extends the [OGC](/ogc) [GeoSPARQL](/ogc/geosparql) ontology by defining two new classes and two new properties that may be associated with a GeoSPARQL geospatial feature entity.  Most forms and functions are highly relevant for the built environment but any geospatial entity may gain from having a form and/or a function associated with it.",
