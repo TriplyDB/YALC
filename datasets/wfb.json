@@ -263,13 +263,6 @@
   "homepage": "https://www.cia.gov/library/publications/the-world-factbook/",
   "id": "cia/wfb",
   "name": "The World Factbook",
-  "namespace": [
-    "http://www.daml.org/2001/09/countries/fips#",
-    "http://www.daml.org/2001/12/factbook/agricultureProducts#",
-    "http://www.daml.org/2001/12/factbook/factbook-ont#",
-    "http://www.daml.org/2001/12/factbook/governmentTypes#",
-    "http://www.daml.org/2001/12/factbook/industries#"
-  ],
   "prefix": {
     "agricultureProduct": "http://www.daml.org/2001/12/factbook/agricultureProducts#",
     "country": "http://www.daml.org/2001/09/countries/fips#",

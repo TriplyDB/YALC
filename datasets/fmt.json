@@ -4,7 +4,6 @@
   "homepage": "https://www.w3.org/ns/formats/",
   "id": "w3c/fmt",
   "name": "Linked Data File Formats",
-  "namespace": "http://www.w3.org/ns/formats/",
   "prefix": {
     "fmt": "http://www.w3.org/ns/formats/"
   },

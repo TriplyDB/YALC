@@ -5,7 +5,6 @@
   "id": "rda/rdamd",
   "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
   "name": "RDA Element Sets: Manifestation datatype Properties",
-  "namespace": "http://rdaregistry.info/Elements/m/datatype/",
   "prefix": {
     "rdamd": "http://rdaregistry.info/Elements/m/datatype/"
   },

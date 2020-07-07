@@ -7,7 +7,6 @@
   "homepage": "http://id.loc.gov/vocabulary/languages.html",
   "id": "loc/languages",
   "name": "MARC List for Languages",
-  "namespace": "http://id.loc.gov/vocabulary/iso639-1.html",
   "prefix": {
     "language": "http://id.loc.gov/vocabulary/languages/",
     "lcsh": "http://id.loc.gov/authorities/subjects/",

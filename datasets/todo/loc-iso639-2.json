@@ -7,7 +7,7 @@
   "homepage": "http://id.loc.gov/vocabulary/iso639-2.html",
   "id": "loc/iso639-2",
   "name": "ISO 639-2: Codes for the Representation of Names of Languages - Part 2: Alpha-3 Code for the Names of Languages",
-  "namespace": {
+  "prefix": {
     "iso639-2": "http://id.loc.gov/vocabulary/iso639-2/"
   },
   "url": "http://id.loc.gov/static/data/downloads/vocabularyiso639-2.nt.skos.zip"

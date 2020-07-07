@@ -4,7 +4,7 @@
   "homepage": "http://id.loc.gov/vocabulary/iso639-1.html",
   "id": "loc/iso639-1",
   "name": "ISO 639-1: Codes for the Representation of Names of Languages ― Part 1: Two-letter codes for languages",
-  "namespace": {
+  "prefix": {
     "iso639-1": "http://id.loc.gov/vocabulary/iso639-1/"
   },
   "url": "http://id.loc.gov/static/data/downloads/vocabularyiso639-1.nt.skos.zip"

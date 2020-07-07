@@ -7,7 +7,7 @@
   "homepage": "http://id.loc.gov/vocabulary/organizations.html",
   "id": "loc/organizations",
   "name": "Code List for Cultural Heritage Organizations",
-  "namespace": {
+  "prefix": {
     "organization": "http://id.loc.gov/vocabulary/organizations/"
   },
   "url": "http://id.loc.gov/static/data/downloads/vocabularyorganizations.nt.skos.zip"

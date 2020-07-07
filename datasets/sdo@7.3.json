@@ -5,12 +5,8 @@
   "id": "sdo@7.3",
   "image": "sdo.png",
   "name": "Schema.org",
-  "namespace": [
-    "http://schema.org/",
-    "https://schema.org/"
-  ],
   "prefix": {
-    "schema": "http://schema.org",
+    "schema": "http://schema.org/",
     "sdo": "https://schema.org/"
   },
   "url": "http://schema.org/version/latest/all-layers.nq"
