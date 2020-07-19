@@ -6,5 +6,6 @@
   "name": "RECommendations Ontology (RECO)",
   "prefix": {
     "reco": "http://purl.org/reco#"
-  }
+  },
+  "url": "https://raw.githubusercontent.com/wouterbeek/reco/master/reco.ttl"
 }
