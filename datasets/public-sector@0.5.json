@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Este vocabulario se utiliza para la descripción de territorios en España (incluyendo divisiones administrativas y también otros conceptos que se utilizan normalmente pero no tienen entidad jurídica, como por ejemplo barrios).  Surge de la necesidad de hacer referencia a conceptos que normalmente se utilizan para describir territorios en España, y para los que no existía ningún vocabulario suficientemente completo.\n\nEste vocabulario está en proceso de revisión continua hasta que se consolide como un vocabulario de referencia para la descripción de territorios en el contexto nacional, por lo que sus términos pueden sufrir cambios en los próximos meses.\n\nEs importante destacar que el objetivo de este vocabulario es el de representar unidades territoriales que van desde el país hasta la sección censal.  Para llegar a mayor nivel de detalle (por ejemplo, calles, tramos de calles o inmuebles) se está trabajando en otros vocabularios que extienden este y que tratan sobre el [callejero](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero) o sobre la representación de [direcciones postales](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccionPostal), entre otros.",
+  "homepage": "http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio/index-en.html",
+  "id": "public-sector@0.5",
+  "name": "Vocabulario para la representación de datos de territorio (incluyendo divisiones administrativas) en España",
+  "prefix": {
+    "public-sector": "http://vocab.linkeddata.es/datosabiertos/def/sector-publico/"
+  },
+  "url": "http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio/ontology.ttl"
+}
