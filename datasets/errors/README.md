@@ -122,6 +122,11 @@ Some characters are not allowed to appear unescaped in IRIs.
 
 #### Unescaped space characters
 
+  - [ISO 19115-1](iso_19115-1@2018.json) file
+    `https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ExampleOfExtendedMatadata.rdf`
+    contains a space in IRI
+    `http://def.isotc211.org/iso19115/-1/2014/ExampleOfExtendedMatadata/code/KeywordTypeCode
+    -BioCollection`.
   - [Linked Movie Database (2012-02-10)](linkedmdb@2012-02-10.json)
     line 35.710: `<http://data.linkedmdb.org/resource/country/iso
     alpha2>`.
