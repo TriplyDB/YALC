@@ -4,6 +4,13 @@ Unfortunately, many datasets cannot be included into the LOD Cloud
 because they do follow standards.  Datasets that are currently not
 included because of errors are described in this directory.
 
+## Certificate error
+
+The following datasets can not be accessed because of an incorrect
+certificate:
+
+  - [Who Am I!](wai@2010-11-08.json)
+
 ## No longer exists (404 reply)
 
   - [Dublin Core Elements](dce.json)
