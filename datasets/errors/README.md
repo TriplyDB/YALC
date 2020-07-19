@@ -19,6 +19,7 @@ location no longer exists:
   - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)
   - [LODE](lode.json)
+  - [SIOC](sioc@1.36.json)
 
 ## Erroneous `Content-Type` header
 
