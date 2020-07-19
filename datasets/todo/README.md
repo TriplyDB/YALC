@@ -25,3 +25,11 @@ The following datasets cannot be uploaded because JSON-LD is not yet
 supported:
 
   - [Entity Facts](entity-facts.json)
+
+## Only the most recent data is made available
+
+The following datasets only publish the most recent versions that go
+offline again after some time.  This requires an archiving approach
+that we do not yet have.
+
+  - [EPO](epo.json)

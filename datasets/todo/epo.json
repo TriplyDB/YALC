@@ -5,7 +5,7 @@
   ],
   "description": "The full Linked Dataset of the European Patent Office (EPO) data, [CPC taxonomy](/epo/cpc-taxonomy) and vocabulary files.\n\nThis data is updated weekly.",
   "homepage": "https://data.epo.org/linked-data/download",
-  "id": "epo/epo@16",
+  "id": "epo/epo",
   "name": "European Parent Office (EPO)",
   "namespace": "http://data.epo.org/linked-data/data/",
   "prefix": {
