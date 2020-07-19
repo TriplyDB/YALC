@@ -13,6 +13,10 @@ certificate:
 
 ## No longer exists (404 reply)
 
+The following dataset can not be accessed because their online
+location no longer exists:
+
+  - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)
   - [LODE](lode.json)
 
