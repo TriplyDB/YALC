@@ -17,12 +17,12 @@
     "zdb": "https://ld.zdb-services.de/resource/"
   },
   "url": [
-    "https://data.dnb.de/opendata/authorities_lds.nt.gz",
-    "https://data.dnb.de/opendata/authorities-werk_lds.ttl.gz",
-    "https://data.dnb.de/opendata/authorities-sachbegriff_lds.ttl.gz",
-    "https://data.dnb.de/opendata/authorities-person_lds.ttl.gz",
-    "https://data.dnb.de/opendata/authorities-name_lds.ttl.gz",
+    "https://data.dnb.de/opendata/authorities-geografikum_lds.ttl.gz",
+    "https://data.dnb.de/opendata/authorities-koerperschaft_lds.ttl.gz",
     "https://data.dnb.de/opendata/authorities-kongress_lds.ttl.gz",
-    "https://data.dnb.de/opendata/authorities-koerperschaft_lds.ttl.gz"
+    "https://data.dnb.de/opendata/authorities-person_lds.ttl.gz",
+    "https://data.dnb.de/opendata/authorities-sachbegriff_lds.ttl.gz",
+    "https://data.dnb.de/opendata/authorities-werk_lds.ttl.gz",
+    "https://data.dnb.de/opendata/authorities_lds.nt.gz"
   ]
 }
