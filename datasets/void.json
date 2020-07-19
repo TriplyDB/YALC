@@ -9,5 +9,6 @@
   "name": "Vocabulary of Interlinked Datasets (VoID)",
   "prefix": {
     "void": "http://rdfs.org/ns/void#"
-  }
+  },
+  "url": "http://vocab.deri.ie/void.ttl"
 }
