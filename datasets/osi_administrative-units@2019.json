@@ -9,6 +9,7 @@
   "name": "Administrative Unit",
   "url": [
     "http://data.geohive.ie/dumps/boundary/barony_20M.n3",
+    "http://data.geohive.ie/dumps/boundary/boundaries-links.n3",
     "http://data.geohive.ie/dumps/boundary/council_20M.n3",
     "http://data.geohive.ie/dumps/boundary/county_20M.n3",
     "http://data.geohive.ie/dumps/boundary/ed_20M.n3",
@@ -18,8 +19,7 @@
     "http://data.geohive.ie/dumps/boundary/national_constituency_20M.n3",
     "http://data.geohive.ie/dumps/boundary/parish_20M.n3",
     "http://data.geohive.ie/dumps/boundary/rural_area_20M.n3",
-    "http://data.geohive.ie/dumps/boundary/townload_20M.n3",
-    "http://data.geohive.ie/dumps/boundary/boundaries-links.n3"
+    "http://data.geohive.ie/dumps/boundary/townload_20M.n3"
   ]
 }
 
