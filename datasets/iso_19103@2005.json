@@ -1,0 +1,27 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO TS 19103:2005 provides rules and guidelines for the use of a conceptual schema language within the ISO geographic information standards.  The chosen conceptual schema language is the Unified Modeling Language (UML).\n\nISO TS 19103:2005 provides a profile of UML for use with geographic information.  In addition, it provides guidelines on how UML should be used to create standardized geographic information and service models.",
+  "homepage": "https://www.iso.org/standard/37800.html",
+  "id": "iso/19103@2005",
+  "name": "Geographic information — Conceptual schema language (ISO/TS 19103:2005)",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/BasicTypes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Collections.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/DateAndTime.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Derived.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Enumerations.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Implementation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Multiplicities.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Names.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Numerics.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Primitive.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/RecordsAndClassMetadata.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/SchemaLanguage.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Text.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/Truth.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2005/UnitsOfMeasure.rdf"
+  ]
+}

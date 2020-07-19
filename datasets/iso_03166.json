@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "The purpose of ISO 3166 is to define internationally recognized codes of letters and/or numbers that we can use when we refer to countries and their subdivisions.  However, it does not define the names of countries – this information comes from United Nations sources (Terminology Bulletin Country Names and the Country and Region Codes for Statistical Use maintained by the United Nations Statistics Divisions).\n\nUsing codes saves time and avoids errors as instead of using a country's name (which will change depending on the language being used), we can use a combination of letters and/or numbers that are understood all over the world.\n\nFor example, all national postal organizations throughout the world exchange international mail in containers identified with the relevant country code.  Internet domain name systems use the codes to define top-level domain names such as “.fr” for France, “.au” for Australia.  In addition, in machine-readable passports, the codes are used to determine the nationality of the user and, when we send money from one bank to another, the country codes are a way to identify where the bank is based.",
+  "homepage": "https://www.iso.org/iso-3166-country-codes.html",
+  "id": "iso/03166",
+  "name": "Country Codes (ISO 3166)",
+  "prefix": {
+    "iso03166": "http://def.isotc211.org/iso03166/-1/CountryCodes#",
+    "iso03166Code": "http://def.isotc211.org/iso03166/-1/ISO03166CountryCodes/code/"
+  },
+  "url": "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/03166/VersionUndefined/ISO03166CountryCodes.rdf"
+}

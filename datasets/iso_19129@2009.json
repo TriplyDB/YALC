@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO/TS 19129:2009 defines the framework for imagery, gridded and coverage data.  This framework defines a content model for the content type imagery and for other specific content types that can be represented as coverage data.  These content models are represented as a set of generic UML patterns for application schemas.",
+  "homepage": "https://www.iso.org/standard/43041.html",
+  "id": "iso/19129@2009",
+  "name": "Geographic information — Imagery, gridded and coverage data framework",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19129/2009/IGCD.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19129/2009/IGCDFramework.rdf"
+  ]
+}

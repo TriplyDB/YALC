@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19119:2005 identifies and defines the architecture patterns for service interfaces used for geographic information, defines its relationship to the Open Systems Environment model, presents a geographic services taxonomy and a list of example geographic services placed in the services taxonomy.  It also prescribes how to create a platform-neutral service specification, how to derive conformant platform-specific service specifications, and provides guidelines for the selection and specification of geographic services from both platform-neutral and platform-specific perspectives.",
+  "homepage": "https://www.iso.org/standard/39890.html",
+  "id": "iso/19118@2005",
+  "name": "Geographic information — Encoding",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19119/2005/ServiceMetadata.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19119/2005/ServiceModel.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19119/2005/Services.rdf"
+  ]
+}

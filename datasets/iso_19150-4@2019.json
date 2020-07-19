@@ -1,0 +1,20 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "This standard sets a framework for geographic information service ontology and the description of geographic information Web services in Web Ontology Language (OWL).\n\nOWL is the language adopted for ontologies.\n\nThis document makes use of service metadata (ISO 19115-1) and service definitions (ISO 19119) whenever appropriate.\n\nThis document does not define semantics operators, rules for ontologies, and does not develop any application ontology.\n\nIn relation to ISO 19101-1:2014, 6.2, this document defines and formalizes the following purpose of the ISO geographic information reference model:\n- geographic information service components and their behaviour for data processing purposes over the Web, and\n- OWL ontologies to cast ISO/TC 211 standards to benefit from and support the Semantic Web.\n\nIn relation to ISO 19101-1:2014, 8.3, this document addresses the Meta:Service foundation of the ISO geographic information reference model.",
+  "id": "iso/19150-4@2019",
+  "name": "Geographic information — Ontology — Part 4: Service ontology (ISO 19150-4:2019)",
+  "prefix": {
+    "iso19150-4": "http://def.isotc211.org/iso19150/-4/2019/Service#",
+    "iso19150-4Code": "http://def.isotc211.org/iso19150/-4/2019/Service/code/",
+    "iso19150-4_2275": "http://def.isotc211.org/iso19150/-4/2019/Capabilities#"
+  },
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19150/-4/2019/Capabilities.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19150/-4/2019/Metadata.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19150/-4/2019/Ontology-Part4_ServiceOntology.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19150/-4/2019/Service.rdf"
+  ]
+}

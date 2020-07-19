@@ -1,0 +1,25 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19101 defines a reference model for standardization in the field of geographic imagery processing.  This reference model identifies the scope of the standardization activity being undertaken and the context in which it takes place.  The reference model includes gridded data with an emphasis on imagery.  Although structured in the context of information technology and information technology standards, ISO/TS 19101-2:2008 is independent of any application development method or technology implementation approach.",
+  "homepage": "https://www.iso.org/standard/39983.html",
+  "id": "iso/19101-2@2008",
+  "name": "Geographic information — Reference model — Part 2: Imagery (ISO ISO/TS 19101-2:2008)",
+  "prefix": {
+    "iso19101-2": "http://def.isotc211.org/iso19101/-2/2008/DecisionSupport#",
+    "iso19101-2_432": "http://def.isotc211.org/iso19101/-2/2008/ImageInformation#",
+    "iso19101-2_434": "http://def.isotc211.org/iso19101/-2/2008/ImageClassificationAndUnderstanding#",
+    "iso19101-2_435": "http://def.isotc211.org/iso19101/-2/2008/ImageKnowledgeBase#"
+  },
+  "successor": "iso/19101-2@2018",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/03166/VersionUndefined/ISO03166CountryCodes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19101/-2/2008/ImageClassificationAndUnderstanding.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19101/-2/2008/ImageInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19101/-2/2008/ImageKnowledgeBase.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19101/-2/2008/ImageryKnowledge.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19101/-2/2008/ImageryReference.rdf"
+  ]
+}

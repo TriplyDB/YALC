@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19109:2005(E) defines rules for creating and documenting application schemas, including principles for the definition of features.  Its scope includes the following:\n- conceptual modelling of features and their properties from a universe of discourse;\n- definition of application schemas;\n- use of the conceptual schema language for application schemas;\n- transition from the concepts in the conceptual model to the data types in the application schema;\n- integration of standardized schemas from other ISO geographic information standards with the application schema.\n\nThe following are outside the scope:\n\n- choice of one particular conceptual schema language for application schemas;\n- definition of any particular application schema;\n- representation of feature types and their properties in a feature catalogue;\n- representation of metadata;\n- rules for mapping one application schema to another;\n- implementation of the application schema in a computer environment;\n- computer system and application software design;\n- programming.",
+  "homepage": "https://www.iso.org/standard/39891.html",
+  "id": "iso/19109@2005",
+  "name": "Geographic information — Rules for application schema (ISO 19109:2005)",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19109/2005/ApplicationSchema.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19109/2005/GeneralFeatureModel.rdf"
+  ]
+}

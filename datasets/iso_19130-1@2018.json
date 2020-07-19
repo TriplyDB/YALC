@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "This document identifies the information required to determine the relationship between the position of a remotely sensed pixel in image coordinates and its geoposition. It supports exploitation of remotely sensed images. It defines the metadata to be distributed with the image to enable user determination of geographic position from the observations.\n\nThis document specifies several ways in which information in support of geopositioning can be provided.\n\n1. It may be provided as a sensor description with the associated physical and geometric information necessary to rigorously construct a PSM. For the case where precise geoposition information is needed, this document identifies the mathematical equations for rigorously constructing PSMs that relate 2D image space to 3D ground space and the calculation of the associated propagated errors. This document provides detailed information for three types of passive electro-optical/ IR sensors (frame, pushbroom and whiskbroom) and for an active microwave sensing system SAR. It provides a framework by which these sensor models can be extended to other sensor types.\n2. It can be provided as a TRM, using functions whose coefficients are based on a PSM so that they provide information for precise geopositioning, including the calculation of errors, as precisely as the PSM they replace.\n3. It can be provided as a CM that provides a functional fitting based on observed relationships between the geopositions of a set of GCPs and their image coordinates.\n4. It can be provided as a set of GCPs that can be used to develop a CM or to refine a PSM or TRM.\n\nThis document does not specify either how users derive geoposition data or the format or content of the data the users generate.",
+  "homepage": "https://www.iso.org/standard/66847.html",
+  "id": "iso/19130-1@2018",
+  "name": "Geographic information — Imagery sensor models for geopositioning — Part 1: Fundamentals",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19130/-1/2018/ImagerySensorModelsForGeopositioning-Part1_Fundamentals.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19130/-1/2018/SensorData.rdf"
+  ]
+}

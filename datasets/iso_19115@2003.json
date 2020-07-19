@@ -1,0 +1,29 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19115:2003 defines the schema required for describing geographic information and services.  It provides information about the identification, the extent, the quality, the spatial and temporal schema, spatial reference, and distribution of digital geographic data.\n\nISO 19115:2003 is applicable to:\n- the cataloguing of datasets, clearinghouse activities, and the full description of datasets;\n- geographic datasets, dataset series, and individual geographic features and feature properties.\n\nISO 19115:2003 defines:\n- mandatory and conditional metadata sections, metadata entities, and metadata elements;\n- the minimum set of metadata required to serve the full range of metadata applications (data discovery, determining data fitness for use, data access, data transfer, and use of digital data);\n- optional metadata elements - to allow for a more extensive standard description of geographic data, if required;\n-a method for extending metadata to fit specialized needs.\n\nThough ISO 19115:2003 is applicable to digital data, its principles can be extended to many other forms of geographic data such as maps, charts, and textual documents as well as non-geographic data.\n\nNOTE Certain mandatory metadata elements may not apply to these other forms of data.",
+  "homepage": "https://www.iso.org/standard/26020.html",
+  "id": "iso/19115@2003",
+  "name": "Geographic information — Metadata",
+  "successor": "iso/19115-1@2014",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/ApplicationSchemaInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/CitationAndResponsiblePartyInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/ConstraintInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/ContentInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/DataQualityInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/DistributionInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/ExtentInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/IdentificationInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/MaintenanceInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/Metadata.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/MetadataApplicationInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/MetadataEntitySetInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/MetadataExtensionInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/PortrayalCatalogueInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/ReferenceSystemInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/2003/SpatialRepresentationInformation.rdf"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "This document specifies a concrete[1] implementable, conformance-testable coverage structure based on the abstract schema for coverages defined in the ISO 19123 schema for coverage geometry.  This document defines a structure that is suitable for encoding in many encoding formats.\n\n[1] ‘concrete’ is used here as a contrast to ‘abstract’ in the sense described in the Introduction.",
+  "homepage": "https://www.iso.org/standard/70948.html",
+  "id": "iso/19123@2018",
+  "name": "Geographic information — Schema for coverage geometry and functions — Part 2: Coverage implementation schema",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19123/-2/2018/CIS1.0.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19123/-2/2018/GML.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19123/-2/2018/SWE_Common.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19123/-2/2018/SchemaForCoverageGeometryAndFunctions-Part2_CoverageImplementation.rdf"
+  ]
+}

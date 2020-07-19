@@ -1,0 +1,18 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19115-2:2009 extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data.  It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data.  This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation.  The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.",
+  "homepage": "https://www.iso.org/standard/39229.html",
+  "id": "iso/19115-2@2009",
+  "name": "Geographic information — Metadata — Part 2: Extensions for imagery and gridded data",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-2/2009/AcquisitionInformation-Imagery.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-2/2009/ContentInformation-Imagery.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-2/2009/DataQualityInformation-Imagery.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-2/2009/Metadata-Imagery.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-2/2009/MetadataEntitySet-Imagery.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-2/2009/SpatialRepresentationInformation-Imagery.rdf"
+  ]
+}

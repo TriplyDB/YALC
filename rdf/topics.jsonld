@@ -159,6 +159,10 @@
           "label": "Thesaurus"
         },
         {
+          "@id": "temporal",
+          "label": "Temporal Semantics"
+        },
+        {
           "@id": "vocabulary",
           "label": "Vocabulary",
           "narrower": {

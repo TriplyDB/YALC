@@ -1,0 +1,16 @@
+{
+  "about": [
+    "geography",
+    "temporal",
+    "vocabulary"
+  ],
+  "description": "ISO 19108:2002 defines concepts for describing temporal characteristics of geographic information.  It depends upon existing information technology standards for the interchange of temporal information.  It provides a basis for defining temporal feature attributes, feature operations, and feature associations, and for defining the temporal aspects of metadata about geographic information.  Since this International Standard is concerned with the temporal characteristics of geographic information as they are abstracted from the real world, it emphasizes valid time rather than transaction time.",
+  "homepage": "https://www.iso.org/standard/44883.html",
+  "id": "iso/19108@2006",
+  "name": "Geographic information — Temporal schema — Technical Corrigendum 1 (ISO 19108:2002/COR 1:2006)",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19108/2006/TemporalObjects.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19108/2006/TemporalReferenceSystem.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19108/2006/TemporalSchema.rdf"
+  ]
+}

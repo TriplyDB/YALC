@@ -1,0 +1,19 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "This dataset defines the conceptual schema for the description of referencing by coordinates.  It describes the minimum data required to define coordinate reference systems.  This document supports the definition of:\n- spatial coordinate reference systems where coordinate values do not change with time.  The system may:\n  - be geodetic and apply on a national or regional basis, or\n  - apply locally such as for a building or construction site, or\n  - apply locally to an image or image sensor;\n  - be referenced to a moving platform such as a car, a ship, an aircraft or a spacecraft.  Such a coordinate reference system can be related to a second coordinate reference system which is referenced to the Earth through a transformation that includes a time element;\n- spatial coordinate reference systems in which coordinate values of points on or near the surface of the earth change with time due to tectonic plate motion or other crustal deformation.  Such dynamic systems include time evolution, however they remain spatial in nature;\n- parametric coordinate reference systems which use a non-spatial parameter that varies monotonically with height or depth;\n- temporal coordinate reference systems which use dateTime, temporal count or temporal measure quantities that vary monotonically with time;\n- mixed spatial, parametric or temporal coordinate reference systems.\n\nThe definition of a coordinate reference system does not change with time, although in some cases some of the defining parameters can include a rate of change of the parameter.  The coordinate values within a dynamic and in a temporal coordinate reference system can change with time.\n\nThis document also describes the conceptual schema for defining the information required to describe operations that change coordinate values.\n\nIn addition to the minimum data required for the definition of the coordinate reference system or coordinate operation, the conceptual schema allows additional descriptive information - coordinate reference system metadata - to be provided.\n\nThis document is applicable to producers and users of geographic information.  Although it is applicable to digital geographic data, the principles described in this document can be extended to many other forms of spatial data such as maps, charts and text documents.",
+  "homepage": "https://www.iso.org/standard/74039.html",
+  "id": "iso/19111@2019",
+  "name": "Geographic information — Referencing by coordinates",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/CommonClasses.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/CoordinateOperations.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/CoordinateReferenceSystems.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/CoordinateSystems.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/Coordinates.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/Datums.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2019/ReferencingByCoordinates.rdf"
+  ]
+}

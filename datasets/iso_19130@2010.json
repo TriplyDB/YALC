@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO/TS 19130:2010 identifies the information required to determine the relationship between the position of a remotely sensed pixel in image coordinates and its geoposition.  It supports exploitation of remotely sensed images.  It defines the metadata to be distributed with the image to enable user determination of geographic position from the observations.\n\nISO/TS 19130:2010 specifies several ways in which information in support of geopositioning may be provided.\n\n1. It may be provided as a sensor description with the associated physical and geometric information necessary to rigorously construct a Physical Sensor Model.  For the case where precise geoposition information is needed, ISO/TS 19130:2010 identifies the mathematical formulae for rigorously constructing Physical Sensor Models that relate two-dimensional image space to three-dimensional ground space and the calculation of the associated propagated errors.  ISO/TS 19130:2010 provides detailed information for three types of passive electro-optical/infrared (IR) sensors (frame, pushbroom and whiskbroom) and for an active microwave sensing system [Synthetic Aperture Radar (SAR)].  It provides a framework by which these sensor models can be extended to other sensor types.\n2. It may be provided as a True Replacement Model, using functions whose coefficients are based on a Physical Sensor Model so that they provide information for precise geopositioning, including the calculation of errors, as precisely as the Physical Sensor Model they replace.\n3. It may be provided as a Correspondence Model that provides a functional fitting based on observed relationships between the geopositions of a set of ground control points and their image coordinates.\n4. It may be provided as a set of ground control points that can be used to develop a Correspondence Model or to refine a Physical Sensor Model or True Replacement Model.\n\nISO/TS 19130:2010 does not specify either how users derive geoposition data or the format or content of the data the users generate.",
+  "homepage": "https://www.iso.org/standard/51789.html",
+  "id": "iso/19130@2010",
+  "name": "Geographic information — Imagery sensor models for geopositioning — Part 1: Fundamentals",
+  "successor": "iso/19130-1@2018",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19130/2010/SensorData.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19130/2010/SensorDataS.rdf"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "This document defines the conceptual schema for spatial references based on geographic identifiers.  It establishes a general model for spatial referencing using geographic identifiers and defines the components of a spatial reference system.  It also specifies a conceptual scheme for a gazetteer.\n\nSpatial referencing by coordinates is addressed in ISO 19111.  However, a mechanism for recording complementary coordinate references is included in this document.\n\nThis document enables producers of data to define spatial reference systems using geographic identifiers and assists users in understanding the spatial references used in datasets.  It enables gazetteers to be constructed in a consistent manner and supports the development of other standards in the field of geographic information.\n\nThis document is applicable to digital geographic data, and its principles may be extended to other forms of geographic data such as maps, charts and textual documents.",
+  "homepage": "https://www.iso.org/standard/70742.html",
+  "id": "iso/19112@2019",
+  "name": "Geographic information — Spatial referencing by geographic identifiers",
+  "url": "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19112/2019/SpatialReferencingByGeographicIdentifier.rdf"
+}

@@ -1,0 +1,16 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19118:2005 specifies the requirements for defining encoding rules to be used for interchange of geographic data within the ISO 19100 series of International Standards.\n\nISO 19118:2005 specifies:\n- requirements for creating encoding rules based on UML schemas,\n- requirements for creating encoding services,\n- an informative XML based encoding rule for neutral interchange of geographic data.\n\nISO 19118:2005 does not specify any digital media, it does not define any transfer services or transfer protocols, nor does it specify how to encode inline large images.",
+  "homepage": "https://www.iso.org/standard/37796.html",
+  "id": "iso/19118@2005",
+  "name": "Geographic information — Encoding",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19118/2005/Encoding.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19118/2005/ExchangeMetadata.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19118/2005/ExchangeModel.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19118/2005/InstanceModel.rdf"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19110:2016 defines the methodology for cataloguing feature types.  This document specifies how feature types can be organized into a feature catalogue and presented to the users of a set of geographic data.  This document is applicable to creating catalogues of feature types in previously uncatalogued domains and to revising existing feature catalogues to comply with standard practice.  This document applies to the cataloguing of feature types that are represented in digital form.  Its principles can be extended to the cataloguing of other forms of geographic data.  Feature catalogues are independent of feature concept dictionaries defined in ISO 19126 and can be specified without having to use or create a Feature Concept Dictionary.\n\nISO 19110:2016 is applicable to the definition of geographic features at the type level.  This document is not applicable to the representation of individual instances of each type.  This document excludes portrayal schemas as specified in ISO 19117.\n\nISO 19110:2016 may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application.",
+  "homepage": "https://www.iso.org/standard/57303.html",
+  "id": "iso/19110@2016",
+  "name": "Geographic information — Methodology for feature cataloguing",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19110/2016/FeatureCatalogueRegisters.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19110/2016/FeatureCataloguing.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19110/2016/MethodologyForFeatureCataloguing.rdf"
+  ]
+}

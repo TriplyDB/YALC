@@ -1,0 +1,13 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19128:2005 specifies the behaviour of a service that produces spatially referenced maps dynamically from geographic information.  It specifies operations to retrieve a description of the maps offered by a server, to retrieve a map, and to query a server about features displayed on a map.  ISO 19128:2005 is applicable to pictorial renderings of maps in a graphical format; it is not applicable to retrieval of actual feature data or coverage data values.",
+  "homepage": "https://www.iso.org/standard/32546.html",
+  "id": "iso/19128@2005",
+  "name": "Geographic information — Web map server interface",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19128/2005/MapServices.rdf"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19115-1:2018 defines the schema required for describing geographic information and services by means of metadata.  It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services.\n\nISO 19115-1:2018 is applicable to:\n- the cataloguing of all types of resources, clearinghouse activities, and the full description of datasets and services;\n- geographic services, geographic datasets, dataset series, and individual geographic features and feature properties.\n\nISO 19115-1:2018 defines:\n- mandatory and conditional metadata sections, metadata entities, and metadata elements;\n- the minimum set of metadata required to serve most metadata applications (data discovery, determining data fitness for use, data access, data transfer, and use of digital data and services);\n- optional metadata elements to allow for a more extensive standard description of resources, if required;\n- a method for extending metadata to fit specialized needs.\n\nThough ISO 19115-1:2018 is applicable to digital data and services, its principles can be extended to many other types of resources such as maps, charts, and textual documents as well as non-geographic data.  Certain conditional metadata elements might not apply to these other forms of data.",
+  "homepage": "https://www.iso.org/standard/73118.html",
+  "id": "iso/19115-1@2018",
+  "name": "Geographic information — Metadata — Part 1: Fundamentals — Amendment 1",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ApplicationSchemaInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/CitationAndResponsiblePartyInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/CommonClasses.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ConstraintInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ContentInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/DistributionInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ExampleOfExtendedMatadata.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ExtentInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/IdentificationInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/Language-CharactersetLocalizationInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/LineageInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/MaintenanceInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/Metadata-Fundamentals.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/MetadataApplicationInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/MetadataExtensionInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/MetadataInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/PortrayalCatalogueInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ReferenceSystemInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/ServiceMetadataInformation.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19115/-1/2018/SpatialRepresentationInformation.rdf"
+  ]
+}

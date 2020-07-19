@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19126:2009 specifies a schema for feature concept dictionaries to be established and managed as registers.  It does not specify schemas for feature catalogues or for the management of feature catalogues as registers.  However, because feature catalogue are often derived from feature concept dictionaries, ISO 19126:2009 does specify a schema for a hierarchical register of feature concept dictionaries and feature catalogues.  These registers are in accordance with ISO 19135.",
+  "homepage": "https://www.iso.org/standard/44875.html",
+  "id": "iso/19126@2009",
+  "name": "Geographic information — Feature concept dictionaries and registers",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19126/2009/FeatureConceptDictionary.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19126/2009/FeatureConcepts.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19126/2009/HierarchicalFeatureInformationRegister.rdf"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19103:2015 provides rules and guidelines for the use of a conceptual schema language within the context of geographic information.  The chosen conceptual schema language is the Unified Modeling Language (UML).\n\nISO 19103.2015 provides a profile of the Unified Modelling Language (UML).\n\nThe standardization target type of this standard is UML schemas describing geographic information.",
+  "homepage": "https://www.iso.org/standard/56734.html",
+  "id": "iso/19103@2015",
+  "name": "Geographic information — Conceptual schema language (ISO/TS 19103:2015)",
+  "successor": "iso/19103@2005",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/AnyType.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/Collections.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/ConceptualSchemaLanguage.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/CulturalAndLinguisticAdaptability.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/DateAndTime.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/EnumeratedTypes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/MeasureTypes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/NameTypes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/Numerics.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/PrimitiveTypes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/RecordTypes.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/Text.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/Truth.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19103/2015/WebEnvironment.rdf"
+  ]
+}

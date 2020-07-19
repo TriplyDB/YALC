@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19116:2004 specifies the data structure and content of an interface that permits communication between position-providing device(s) and position-using device(s) so that the position-using device(s) can obtain and unambiguously interpret position information and determine whether the results meet the requirements of the use.   A standardized interface of geographic information with position allows the integration of positional information from a variety of positioning technologies into a variety of geographic information applications, such as surveying, navigation and intelligent transportation systems.   ISO 19116:2004 will benefit a wide range of applications for which positional information is important.",
+  "homepage": "https://www.iso.org/standard/37805.html",
+  "id": "iso/19116@2004",
+  "name": "Geographic information — Metadata",
+  "successor": "iso/19116@2019",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19116/2004/PositioningServiceModel.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19116/2004/PositioningServices.rdf"
+  ]
+}

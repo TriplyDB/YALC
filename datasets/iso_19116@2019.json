@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "This document specifies the data structure and content of an interface that permits communication between position-providing device(s) and position-using device(s) enabling the position-using device(s) to obtain and unambiguously interpret position information and determine, based on a measure of the degree of reliability, whether the resulting position information meets the requirements of the intended use.\n\nA standardized interface for positioning allows the integration of reliable position information obtained from non-specific positioning technologies and is useful in various location-focused information applications, such as surveying, navigation, intelligent transportation systems (ITS), and location-based services (LBS).",
+  "homepage": "https://www.iso.org/standard/70882.html",
+  "id": "iso/19116@2019",
+  "name": "Geographic information — Positioning services",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19116/2019/PositioningServiceModel.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19116/2019/PositioningServices.rdf"
+  ]
+}

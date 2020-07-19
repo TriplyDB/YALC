@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19104:2016 specifies requirements for the collection, management and publication of terminology in the field of geographic information.\n\nThe scope of this document includes\n- selection of concepts, harmonization of concepts and development of concept systems,\n- structure and content of terminological entries,\n- term selection,\n- definition preparation,\n- cultural and linguistic adaptation,\n- layout and formatting requirements in rendered documents, and\n- establishment and management of terminology registers.\n\nISO 19104:2016 is applicable to International Standards and Technical Specifications in the field of geographic information.",
+  "homepage": "https://www.iso.org/standard/63541.html",
+  "id": "iso/19104@2015",
+  "name": "Geographic information — Terminology (ISO 19104:2016)",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19104/2015/TermRegister.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19104/2015/Terminology.rdf"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "about": [
+    "language",
+    "vocabulary"
+  ],
+  "description": "ISO 639 is a set of standards by the International Organization for Standardization that is concerned with representation of names for languages and language groups.\n\nIt was also the name of the original standard, approved in 1967 (as ISO 639/R) and withdrawn in 2002.  The ISO 639 set consists of five parts.",
+  "id": "iso/00639",
+  "name": "Language Codes (ISO 00639)",
+  "prefix": {
+    "iso00639": "http://def.isotc211.org/iso00639/-2/LanguageCodes#",
+    "iso00639Code": "http://def.isotc211.org/iso00639/-2/LanguageCodes/code/"
+  },
+  "url": "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/00639/VersionUndefined/ISO00639LanguageCodes.rdf"
+}

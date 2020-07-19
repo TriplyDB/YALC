@@ -1,0 +1,11 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19110:2005 defines the methodology for cataloguing feature types and specifies how the classification of feature types is organized into a feature catalogue and presented to the users of a set of geographic data. ISO 19110:2005 is applicable to creating catalogues of feature types in previously uncatalogued domains and to revising existing feature catalogues to comply with standard practice. ISO 19110:2005 applies to the cataloguing of feature types that are represented in digital form. Its principles can be extended to the cataloguing of other forms of geographic data.\n\nISO 19110:2005 is applicable to the definition of geographic features at the type level. ISO 19110:2005 is not applicable to the representation of individual instances of each type and excludes spatial, temporal, and portrayal schemas as specified in ISO 19107, ISO 19108, and the future ISO 19117, respectively. It also excludes collection criteria for feature instances.\n\nISO 19910:2005 may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application.",
+  "homepage": "https://www.iso.org/standard/39965.html",
+  "id": "iso/19110@2005",
+  "name": "Geographic information — Methodology for feature cataloguing",
+  "url": "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19110/2005/MethodologyForFeatureCataloguing.rdf"
+}

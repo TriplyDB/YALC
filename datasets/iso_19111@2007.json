@@ -1,0 +1,21 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "ISO 19111:2007 defines the conceptual schema for the description of spatial referencing by coordinates, optionally extended to spatio-temporal referencing.  It describes the minimum data required to define one-, two- and three-dimensional spatial coordinate reference systems with an extension to merged spatial-temporal reference systems.  It allows additional descriptive information to be provided.  It also describes the information required to change coordinates from one coordinate reference system to another.\n\nIn ISO 19111:2007, a coordinate reference system does not change with time.  For coordinate reference systems defined on moving platforms such as cars, ships, aircraft and spacecraft, the transformation to an Earth-fixed coordinate reference system can include a time element.\n\nISO 19111:2007 is applicable to producers and users of geographic information.  Although it is applicable to digital geographic data, its principles can be extended to many other forms of geographic data such as maps, charts and text documents.\n\nThe schema described can be applied to the combination of horizontal position with a third non-spatial parameter which varies monotonically with height or depth.  This extension to non-spatial data is beyond the scope of ISO 19111:2007 but can be implemented through profiles.",
+  "homepage": "https://www.iso.org/standard/41126.html",
+  "id": "iso/19111@2007",
+  "name": "Geographic information — Spatial referencing by coordinates",
+  "successor": "iso/19111@2019",
+  "url": [
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/CoordinateOperations.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/CoordinateReferenceSystems.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/CoordinateSystems.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/Datums.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/IdentifiedObjects.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/ReferenceSystems.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/ReferencingByCoordinates.rdf",
+    "https://raw.githubusercontent.com/ISO-TC211/GOM/master/isotc211_GOM_harmonizedOntology/iso19111/2007/TemporalReferenceSystems.rdf"
+  ]
+}
