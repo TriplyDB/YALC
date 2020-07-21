@@ -1,0 +1,13 @@
+{
+  "about": [
+    "quality",
+    "vocabulary"
+  ],
+  "description": "Representation of quality categories and dimensions from Amrapali Zaveri, Anisa Rula, Andrea Maurino, Ricardo Pietrobon, Jens Lehmann, Sören Auer. 2016. “Quality Assessment for Linked Data: A Survey” in *Semantic Web*, Vol. 7, No. 1, pp. 63-93 (<https://dx.doi.org/10.3233/SW-150175>).",
+  "homepage": "https://dx.doi.org/10.3233/SW-150175",
+  "id": "w3c/ldqv",
+  "name": "Linked Data Quality Dimensions",
+  "prefix": {
+    "ldqv": "https://www.w3.org/2016/05/ldqd#"
+  }
+}
