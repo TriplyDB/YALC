@@ -113,6 +113,10 @@
           "label": "Licenses"
         },
         {
+          "@id": "quality",
+          "label": "Data Quality"
+        },
+        {
           "@id": "versioning",
           "label": "Versioning"
         }

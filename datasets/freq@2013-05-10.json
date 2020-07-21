@@ -4,13 +4,11 @@
     "vocabulary"
   ],
   "description": "The collection description frequency namespace.",
-  "exampleResource": [],
   "id": "dcmi/freq@2013-05-10",
   "name": "Collection Description Frequency",
   "namespace": "http://purl.org/cld/freq/",
   "prefix": {
     "cld": "http://purl.org/cld/terms/",
     "freq": "http://purl.org/cld/freq/"
-  },
-  "url": "http://purl.org/cld/freq/"
+  }
 }
