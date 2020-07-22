@@ -1,0 +1,7 @@
+{
+  "description": "OpeNER is a project funded by the European Commission under the FP7 (7th Framework Program).  Its acronym stands for ‘Open Polarity Enhanced Name Entity Recognition”.\n\nOpeNER's main goal is to provide a set of ready to use tools to perform some natural language processing tasks, free and easy to adapt for Academia, Research and Small and Medium Enterprise to integrate them in their workflow.  More precisely, OpeNER aims to be able to detect and disambiguate entity mentions and perform sentiment analysis and opinion detection on the texts, to be able for example, to extract the sentiment and the opinion of customers about certain resource (e.g. hotels and accommodations) in Web reviews.",
+  "homepage": "https://www.opener-project.eu",
+  "id": "opner",
+  "image": "opner.png",
+  "name": "The OpeNER Project"
+}
