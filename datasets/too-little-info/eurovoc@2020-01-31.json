@@ -1,0 +1,8 @@
+{
+  "about": "thesaurus",
+  "description": "EuroVoc is a multilingual, multidisciplinary thesaurus covering the activities of the EU, the European Parliament in particular.  It contains terms in 23 EU languages (Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish), plus in three languages of countries which are candidates for EU accession: македонски (mk), shqip (sq) and cрпски (sr).",
+  "homepage": "https://op.europa.eu/en/web/eu-vocabularies/th-dataset/-/resource/dataset/eurovoc",
+  "id": "po/eurovoc@2020-01-31",
+  "name": "EuroVoc",
+  "url": "https://open-data.europa.eu/en/data/dataset/eurovoc.rdf"
+}

@@ -1,0 +1,15 @@
+{
+  "about": [
+    "egov",
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Vocabulary for the Dutch key registry of buildings and addresses (BAG).",
+  "homepage": "https://www.pdok.nl/introductie/-/article/basisregistratie-adressen-en-gebouwen-ba-1",
+  "id": "kadaster/bag",
+  "name": "Vocabulary key registry buildings & addresses (BAG)",
+  "prefix": {
+    "bag": "http://bag.basisregistraties.overheid.nl/def/bag#"
+  },
+  "url": ""
+}

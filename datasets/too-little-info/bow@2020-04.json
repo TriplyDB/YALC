@@ -1,0 +1,18 @@
+{
+  "about": "anime",
+  "description": "Between Our Worlds is an initiative to provide metadata information about anime.",
+  "homepage": "https://betweenourworlds.org",
+  "identifier": "bow/bow@2020-04",
+  "name": "Between our Worlds",
+  "namespace": "https://betweenourworlds.org/",
+  "prefix": {
+    "anime": "https://betweenourworlds.org/anime/",
+    "bow": "https://betweenourworlds.org/ontology/",
+    "character": "https://betweenourworlds.org/character/",
+    "episode": "https://betweenourworlds.org/episode/",
+    "season": "https://betweenourworlds.org/season/",
+    "steeam": "https://betweenourworlds.org/stream/",
+    "trailer": "https://betweenourworlds.org/trailer/"
+  },
+  "url": "https://datadump.betweenourworlds.org/2020-04.hdt"
+}

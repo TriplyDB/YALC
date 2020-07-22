@@ -1,0 +1,12 @@
+{
+  "about": [
+    "egov",
+    "statistics",
+    "vocabulary"
+  ],
+  "description": "Statistics about Dutch neighborhoods and municipalities.",
+  "homepage": "https://www.cbs.nl/nl-nl/onze-diensten/innovatie/project/linked-open-data",
+  "id": "cbs/wijk-buurt",
+  "name": "Wijken- en Buurtenkaart",
+  "organization": "cbs"
+}

@@ -1,0 +1,8 @@
+{
+  "about": "ecology",
+  "description": "This Natura 2000 database is an extract from the EUNIS database.  It is a sub-sample of the European Natura 2000 database that holds information about sites designated by EU Member States under the Birds Directive (79/409/EEC) and the Habitats Directive (92/43/EEC)."
+  "homepage": "https://data.europa.eu/euodp/en/data/dataset/data_natura-2000-eunis-database",
+  "id": "eea/natura-2000",
+  "image": "natura-2000.png",
+  "name": "Natura 2000"
+}
