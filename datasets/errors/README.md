@@ -21,6 +21,13 @@ location no longer exists:
   - [LODE](lode.json)
   - [SIOC](sioc@1.36.json)
 
+## Flaky server
+
+The following dataset regularly cannot be downloaded because of an
+unstable server:
+
+  - Semantic Finlex
+
 ## Erroneous `Content-Type` header
 
 The following datasets are serviced with an incorrect `Content-Type`
@@ -148,10 +155,10 @@ The following datasets contain syntax errors:
     contains an unescaped control character (0x11, device control 1)
     on line 2,016.
 
+  - [GeoNames](gn.json) is a concatenation of RDF/XML files with IRIs
+    interspersed.  This was communicated to [the GeoNames
+    forum](http://forum.geonames.org/gforum/posts/list/36258.page).
+
   - [Getty Art & Architecture Thesaurus (AAT)](aat.json) file
     `AATOut_WikidataCoref.nt` does not use end-of-triple indicators
     (i.e., trailing dots).
-
-  - [GeoNames](geonames.json) is a concatenation of RDF/XML files with
-    IRIs interspersed.  This was communicated to the GeoNames forum:
-    [link](http://forum.geonames.org/gforum/forums/show/4.page)
