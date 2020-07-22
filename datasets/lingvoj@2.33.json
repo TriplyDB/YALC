@@ -1,0 +1,14 @@
+{
+  "about": [
+    "linguistics",
+    "vocabulary"
+  ],
+  "description": "# Languages are an endangered heritage\n\nAccording to [Ethnologue](http://www.ethnologue.com), the number of human languages currently used in the world amounts to almost 7,000.  About half of them could be extinct before the end of this century.  Only a small fraction of them is supported by some writing system and have written heritage, and among those, still less are used in modern information systems and on the Web.  A good indication of the number of languages used on the Web is provided by the [multilingual editions of Wikipedia](http://meta.wikimedia.org/wiki/List_of_Wikipedias), to-date 285 different languages, that is less than 5% of all known languages.  Ranking of languages by importance of their respective Wikipedia is a fairly good indicator for the Web influence of their communities of speakers, but very different from the ranking based on the [number of speakers](http://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers).\n\n# We need languages as Linked Data\n\nIn current XML and RDF practice, languages are identified by tags, typically used in the `xml:lang` attribute.  The allowed values of tags are defined by [BCP 47](http://www.rfc-editor.org/rfc/bcp/bcp47.txt).  Those language tags are typically used for `rdfs:label` or `rdfs:comment`, and allow the filtering of such elements of description by language, for example in SPARQL queries.  But they do not provide support for queries such as:\n\n- “Can I find [native speakers](http://www.linkedvocabs.org/lingvoj/ontology#nativeLanguage) of [Bengali](http://lexvo.org/id/iso639-3/ben) in Berlin?”\n- “Which books by Victor Hugo are [translated](http://www.linkedvocabs.org/lingvoj/ontology#Translation) in [Arabic](http://lexvo.org/id/iso639-3/ara)?”\n- “Is this software documented in [Chinese](http://lexvo.org/id/iso639-3/zho)?”\n\nTo answer such queries, languages need to be represented as resources, likely to be linked to other resources representing books, people, organizations, places, events, products … through dedicated properties.  Such properties can be found in the [Lingvoj Ontology](http://www.linkedvocabs.org/lingvoj/ontology).  URIs for languages have been defined in lingvoj.org namespace since 2007, and many other URIs have been defined afterwards in the linked data cloud.  Since 2010 lingvoj.org URIs mainly redirect to those of lexvo.org.",
+  "homepage": "http://linkedvocabs.org/lingvoj",
+  "id": "mondeca/lingvoj@2.33",
+  "name": "Linked Languages Resources",
+  "prefix": {
+    "lingvoj": "http://www.lingvoj.org/ontology#"
+  },
+  "url": "http://www.linkedvocabs.org/lingvoj/ontology_v2.33.ttl"
+}
