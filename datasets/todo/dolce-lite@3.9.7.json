@@ -1,0 +1,9 @@
+{
+  "about": "topLevel",
+  "description": "DOLCE is a foundational ontology developed and maintained by the [ISTC-CNR Laboratory for Applied Ontology](http://www.loa.istc.cnr.it/).  It was originally developed within the [WonderWeb project](http://cordis.europa.eu/fetch?ACTION=D&CALLER=PROJ_IST&RCN=60325) and was conceived as the first module of the WonderWeb Foundational Ontologies Library (WFOL) together with OCHRE and BFO.  DOLCE has remained stable after its first release in 2002/2003.  It is formally specified in first-order logic (FOL); its consistency has been proved by Oliver Kutz and Till Mossakowski (see [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3754/3863)).",
+  "homepage": "http://www.loa.istc.cnr.it/dolce/overview.html",
+  "identifier": "loa/dolce-lite@3.9.7",
+  "image": "wonderweb.gif",
+  "name": "Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE) Lite",
+  "url": "http://www.loa.istc.cnr.it/old/ontologies/DLP3971.zip"
+}

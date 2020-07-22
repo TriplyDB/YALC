@@ -19,6 +19,15 @@ The following datasets require support for empty Bzipped files:
 
   - [LinkedGeoData](LinkedGeoData.json)
 
+## macOS archives
+
+The following datasets are published in an archive format that was
+created on macOS.  On macOS it is common practice to implicitly
+include additional files into archives, for which the upload feature
+currently fails.
+
+  - [DOLCE Lite](dolce-lite@3.9.7.json)
+
 ## JSON-LD uploads
 
 The following datasets cannot be uploaded because JSON-LD is not yet
