@@ -24,6 +24,7 @@ The following datasets require support for empty Bzipped files:
 The following datasets cannot be uploaded because JSON-LD is not yet
 supported:
 
+  - [Web Annotation Data Model](anno.json)
   - [Entity Facts](entity-facts.json)
 
 ## Only the most recent data is made available
