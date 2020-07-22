@@ -7,7 +7,7 @@
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "name": "Wikidata",
   "prefix": {
-    "wde": "http://www.wikidata.org/entity/"
+    "wde": "http://www.wikidata.org/entity/",
     "wdp": "http://www.wikidata.org/prop/direct/"
   },
   "url": "https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.ttl.gz"

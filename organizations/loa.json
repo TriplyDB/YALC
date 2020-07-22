@@ -1,6 +1,6 @@
 {
   "description": "The [ISTC-CNR](https://www.istc.cnr.it) Laboratory for Applied Ontology (LOA) performs basic and applied research on the ontological foundations of conceptual modeling, exploring the role of ontologies and ontology management in different fields, such as: knowledge representation, knowledge engineering, database design, information retrieval, natural language processing, and the semantic web.  The group is characterized by a strong interdisciplinary approach that combines Computer Science, Philosophy and Linguistics, and relies on logic as a unifying paradigm.  On the application side, special emphasis is given to the use of ontologies for e-government, enterprise and business modeling, product and process modeling, natural language processing, and the Semantic Web.",
-  "homepage": "http://www.loa.istc.cnr.it"
+  "homepage": "http://www.loa.istc.cnr.it",
   "id": "loa",
   "image": "loa.png",
   "name": "Laboratory for Applied Ontology (LOA)"
