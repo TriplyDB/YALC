@@ -4,6 +4,7 @@
     "vocabulary"
   ],
   "description": "This is the RDF encoding of the Asset Description Metadata Schema, originally developed under the European Union's ISA Programme and further developed by the W3C Government Linked Data Working Group.  It re-uses terms from several other vocabularies, notably Dublin Core, with elements of SKOS, FOAF and more.",
+  "homepage": "https://www.w3.org/TR/vocab-adms/",
   "id": "w3c/adms@1.0",
   "name": "Asset Description Metadata Schema (ADMS)",
   "prefix": {
