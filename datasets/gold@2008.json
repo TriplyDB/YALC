@@ -8,6 +8,6 @@
   "prefix": {
     "gold": "http://purl.org/linguistics/gold/"
   },
-  "successor": "none/gold-2009",
+  "successor": "gold@2009",
   "url": "http://linguistics-ontology.org/gold-2008.owl"
 }

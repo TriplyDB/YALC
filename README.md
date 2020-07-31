@@ -79,7 +79,7 @@ object with the following keys:
     <p>This key is optional, in which case the dataset will have no homepage.</p>
   </dd>
 
-  <dt><code>"id"</code></dt>
+  <dt id="dataset-id"><code>"id"</code></dt>
   <dd>
     <p>Identifies the dataset and (optionally) its organization and version.  The format for this value is <code>"ORGANIZATION/DATASET@VERSION"</code>.</p>
     <p>The values for <code>ORGANIZATION</code> and <code>DATASET</code> must be at least 2 and at most 40 characters long.  They must consist of digits (<code>[0-9]</code>), letters (<code>[A-Za-z]</code>), and hyphens (<code>-</code>).</p>
@@ -141,6 +141,12 @@ object with the following keys:
   <dd>
     <p>A JSON object containing RDF prefix declarations.  The keys of this JSON object are aliases that can be used to denote their corresponding IRI values.</p>
     <p>This key is optional.
+  </dd>
+
+  <dt><code>"successor"</code></dt>
+  <dd>
+    <p>Allows an outdated version of a dataset to point to its successor version.</p>
+    <p>The value notation is identical to the notation that is used for the <a href="#dataset-id"><code>"id"</code></a> key.</p>
   </dd>
 
   <dt><code>"url"</code><dt>

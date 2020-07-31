@@ -6,6 +6,6 @@
   "license": "http://creativecommons.org/licenses/by/3.0/",
   "name": "Conceptual Reference Model (CRM)",
   "namespace": "http://purl.org/NET/cidoc-crm/core#",
-  "successor": "cidoc/crm",
+  "successor": "cidoc/crm@6.2.1",
   "url": "http://purl.org/NET/cidoc-crm/core#"
 }

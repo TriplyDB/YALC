@@ -11,6 +11,6 @@
   "prefix": {
     "lexinfo1": "http://www.lexinfo.net/lexinfo#"
   },
-  "successor": "lemon/lexinfo-2-0",
+  "successor": "lemon/lexinfo@2.0",
   "url": "https://lexinfo.net/LexInfo.owl"
 }

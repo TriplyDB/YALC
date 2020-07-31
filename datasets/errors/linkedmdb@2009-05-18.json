@@ -6,6 +6,6 @@
   "image": "imdb.png",
   "name": "Linked Internet Movie Database (IMDb)",
   "namespace": "http://data.linkedmdb.org/",
-  "successor": "none/linkedmdb-2012-02-10",
+  "successor": "linkedmdb@20120210",
   "url": "http://www.cs.toronto.edu/~oktie/linkedmdb/linkedmdb-18-05-2009-dump.nt"
 }
