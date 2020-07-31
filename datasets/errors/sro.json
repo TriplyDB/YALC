@@ -1,0 +1,11 @@
+{
+  "about": [
+    "geospatial",
+    "vocabulary"
+  ],
+  "description": "An ontology describing basic spatial relations.",
+  "homepage": "http://data.ordnancesurvey.co.uk/ontology/spatialrelations/",
+  "id": "os/sro",
+  "name": "Spatial Relations Ontology",
+  "url": "http://www.ordnancesurvey.co.uk/ontology/spatialrelations.owl"
+}

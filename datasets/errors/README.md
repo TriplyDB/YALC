@@ -11,15 +11,18 @@ certificate:
 
   - [Who Am I!](wai@2010-11-08.json)
 
-## No longer exists (404 reply)
+## Does not exist (404 reply)
 
 The following dataset can not be accessed because their online
-location no longer exists:
+location does not exist:
 
+  - [The administrative geography and civil voting area ontology](admingeo.json)
   - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)
+  - [Geometry Ontology](os_geo.json)
   - [LODE](lode.json)
   - [SIOC](sioc@1.36.json)
+  - [Spatial Relations Ontology](sro.json)
 
 ## Flaky server
 

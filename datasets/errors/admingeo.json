@@ -1,0 +1,15 @@
+{
+  "about": [
+    "eGov",
+    "geospatial",
+    "vocabulary"
+  ],
+  "description": "An ontology describing the administrative and voting area geography of Great Britain.",
+  "homepage": "http://data.ordnancesurvey.co.uk/ontology/admingeo/",
+  "id": "os/admingeo",
+  "name": "The administrative geography and civil voting area ontology",
+  "prefix": {
+    "admingeo": "http://data.ordnancesurvey.co.uk/ontology/admingeo/"
+  },
+  "url": "http://www.ordnancesurvey.co.uk/ontology/admingeo.owl"
+}

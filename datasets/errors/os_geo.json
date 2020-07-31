@@ -1,0 +1,11 @@
+{
+  "about": [
+    "geospatial",
+    "vocabulary"
+  ],
+  "description": "A ontology to describe abstract geometries.",
+  "homepage": "http://data.ordnancesurvey.co.uk/ontology/geometry/",
+  "id": "os/geo",
+  "name": "Geometry Ontology",
+  "url": "http://www.ordnancesurvey.co.uk/ontology/geometry.owl"
+}
