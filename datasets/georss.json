@@ -1,0 +1,14 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Geo OWL provides an ontology which closely matches the GeoRSS feature model and which utilizes the existing GeoRSS vocabulary for geographic properties and classes.  The practical consequence is that fragments of GeoRSS XML within RSS 1.0 or Atom which conform to the GeoRSS specification will also conform to the Geo OWL ontology (front-matter aside).  Thus, the ontology provides a compatible extension of GeoRSS practice for use in more general RDF contexts.\n\nThe ontology consists of a root property `_featureproperty` which takes as its domain any OWL/RDF class that it makes sense (after ISO 19109) to cast as a geographic feature.  The property `_featureproperty` has a series of subproperties.  A particular subproperty is `geo:where` which takes as its range the abstract class `_geometry`.\n\nSubclasses of `_geometry` include `gml:Point`, `gml:Linestring`, `gml:Polygon`, and `gml:Envelope` after the corresponding GML objects.  The properties of these classes are a subset of the corresponding properties defined in the GML model and schema.  This represents *GeoRSS GML*.\n\nOther subproperties of `geo:where` represent *GeoRSS Simple* and include `geo:Point`, `geo:Line`, `geo:Polygon`, `geo:Circle`, and `geo:Box`.  These properties each take a literal list of doubles as their range, but are equivalent in definition to (are a shorthand for) `geo:where` plus the corresponding GeoRSS GML classes and their properties.\n\nFor backwards compatibility, `geo:lat` and `geo:long` are retained as subproperties of `geo:where`, but are taken together as the equivalent of `geo:where` plus `gml:Point` plus `gml:pos`, or of `geo:Point`.\n\nAnother set of subproperties of `_featureproperty` further define the ‘featureness’ of whatever class the geometry properties are applied to.  They include `geo:featurename`, `geo:featuretype`, `geo:relationship`, `geo:elev`, `geo:floor`, and `geo:radius`.  The nominal ranges of the first three properties are literal strings (for the latter three, doubles), but are envisioned to represent or evolve first into ‘folksonomies’ and later into more formal ontology concepts.\n\nThe Geo OWL vocabulary is nominally classified as OWL Lite, but what this designation means for decidability in terms of spatial reasoning is at present uncertain.",
+  "homepage": "https://www.w3.org/2005/Incubator/geo/XGR-geo/",
+  "id": "w3c/georss@2007",
+  "name": "GeoRSS: Geographically Encoded Objects for RSS feeds",
+  "prefix": {
+    "georss": "http://www.georss.org/georss/"
+  },
+  "url": "https://www.w3.org/2005/Incubator/geo/XGR-geo/W3C_XGR_Geo_files/geo_2007.owl"
+}
