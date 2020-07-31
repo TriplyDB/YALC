@@ -86,11 +86,11 @@ the above `Accept` header:
   - [DBpedia DataID](dataid.json)
   - [Getty VoID](getty-void.json)
   - [ISBD ELements](isbd.json)
-  - [W3C Data Cube](qb.json)
+  - [W3C Data Cube](qb@0.2.json)
   - [W3C Metadata Vocabulary for Tabular Data](csvw.json)
   - [W3C PROV-O](prov.json)
-  - [W3C RDFa](rdfa.json)
-  - [W3C SPARQL Service Description](sd.json)
+  - [W3C RDFa](rdfa@2013-03-11.json)
+  - [W3C SPARQL Service Description](sd@1.1.json)
 
 ## Erroneous IRIs
 

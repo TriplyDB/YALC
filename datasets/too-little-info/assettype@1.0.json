@@ -2,5 +2,12 @@
   "about": "metadata",
   "id": "assettype@1.0",
   "name": "Asset Type",
-  "prefix": "http://purl.org/adms/assettype/"
+  "prefix": {
+    "assetType": "http://purl.org/adms/assettype/",
+    "interoperabilityLevel": "http://purl.org/adms/interoperabilitylevel/",
+    "licenseType": "http://purl.org/adms/licencetype/",
+    "representationTechnique": "http://purl.org/adms/representationtechnique/",
+    "status": "http://purl.org/adms/status/"
+  },
+  "url": "http://purl.org/adms/assettype/"
 }

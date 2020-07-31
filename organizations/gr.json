@@ -1,0 +1,7 @@
+{
+  "description": "The work on GoodRelations is lead by [Martin Hepp](http://www.heppnetz.de).\n\nThe core GoodRelations team at the Universität der Bundeswehr München currently includes\n1. Alex Stolz (since 2009) and\n2. Uwe Stoll (since 2010).\n\nA special thanks goes to Andreas Radinger, who was a member of the team from 2008 through 2013.  He helped set up and maintain the early infrastructure for GoodRelations, thoroughly reviewed multiple revisions of the vocabulary, and submitted many proposals for enhancements.",
+  "homepage": "http://wiki.goodrelations-vocabulary.org/Acknowledgments",
+  "id": "gr",
+  "image": "gr.png",
+  "name": "GoodRelations"
+}
