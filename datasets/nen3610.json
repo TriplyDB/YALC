@@ -1,0 +1,13 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Geonovum beheert het Basismodel NEN3610.  Dit is de ‘moeder’ van de Nederlandse geo-informatiemodellen.  In informatiemodellen leggen we de semantiek van een domein vast.  Dit zijn afspraken over begrippen en definities van gegevens en daarmee essentieel om gegevens te kunnen uitwisselen.  Juist dan is het immers van belang dat voor iedereen ― mens en machine ― duidelijk is wat we met een gehanteerd begrip bedoelen.",
+  "homepage": "https://docs.geostandaarden.nl/nen3610/nldp/",
+  "id": "geonovum/nen3610",
+  "name": "NEN 3610 basismodel voor informatiemodellen",
+  "prefix": {
+    "nen3610": "http://definities.geostandaarden.nl/def/nen3610#"
+  }
+}

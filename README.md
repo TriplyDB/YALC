@@ -1,8 +1,8 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-229-brightgreen)](datasets)
-[![](https://img.shields.io/badge/organizations-49-brightgreen)](organizations)
-[![](https://img.shields.io/badge/tooLittleInfo-17-yellow)](datasets/too-little-info)
+[![](https://img.shields.io/badge/datasets-230-brightgreen)](datasets)
+[![](https://img.shields.io/badge/organizations-51-brightgreen)](organizations)
+[![](https://img.shields.io/badge/tooLittleInfo-18-yellow)](datasets/too-little-info)
 [![](https://img.shields.io/badge/todo-10-red)](datasets/todo)
 [![](https://img.shields.io/badge/errors-38-red)](datasets/errors)
 
