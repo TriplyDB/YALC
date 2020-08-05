@@ -9,5 +9,12 @@
   "name": "NEN 3610 basismodel voor informatiemodellen",
   "prefix": {
     "nen3610": "http://definities.geostandaarden.nl/def/nen3610#"
-  }
+  },
+  "url": [
+    "https://raw.githubusercontent.com/Geonovum/NEN3610-Linkeddata/gh-pages/NEN3610-LD/begrippen.ttl",
+    "https://raw.githubusercontent.com/Geonovum/NEN3610-Linkeddata/gh-pages/NEN3610-LD/metamodel.ttl",
+    "https://raw.githubusercontent.com/Geonovum/NEN3610-Linkeddata/gh-pages/NEN3610-LD/referenties.ttl",
+    "https://raw.githubusercontent.com/Geonovum/NEN3610-Linkeddata/gh-pages/NEN3610-LD/shapes.ttl",
+    "https://raw.githubusercontent.com/Geonovum/NEN3610-Linkeddata/gh-pages/NEN3610-LD/vocabulaire.ttl"
+  ]
 }
