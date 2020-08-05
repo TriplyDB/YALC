@@ -6,6 +6,5 @@
   "name": "Dublin Core Abstract Model",
   "prefix": {
     "dcam": "http://purl.org/dc/dcam/"
-  },
-  "url": "https://www.dublincore.org/2010/10/11/dcam.rdf"
+  }
 }
