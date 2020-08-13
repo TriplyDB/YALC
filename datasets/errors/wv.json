@@ -1,0 +1,13 @@
+{
+  "about": [
+    "license",
+    "vocabulary"
+  ],
+  "description": "This vocabulary defines properties for use when describing waivers of rights over data and content.  A waiver is the voluntary relinquishment or surrender of some known right or privilege.  This vocabulary is designed for use with the Open Data Commons Public Domain Dedication and License and with the Creative Commons CC-0 waiver.",
+  "homepage": "https://vocab.org/waiver",
+  "id": "waiver",
+  "name": "WAIVER: A vocabulary for waivers of rights",
+  "prefix": {
+    "wv": "http://vocab.org/waive/terms/"
+  }
+}

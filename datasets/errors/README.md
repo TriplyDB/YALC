@@ -22,6 +22,7 @@ location does not exist:
   - [Geometry Ontology](os_geo.json)
   - [SIOC](sioc@1.36.json)
   - [Spatial Relations Ontology](sro.json)
+  - [WAIVER](wv.json)
 
 ## Flaky server
 
