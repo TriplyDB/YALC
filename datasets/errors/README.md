@@ -20,7 +20,6 @@ location does not exist:
   - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)
   - [Geometry Ontology](os_geo.json)
-  - [LODE](lode.json)
   - [SIOC](sioc@1.36.json)
   - [Spatial Relations Ontology](sro.json)
 
