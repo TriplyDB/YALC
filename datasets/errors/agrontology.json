@@ -1,0 +1,14 @@
+{
+  "about": [
+    "agriculture",
+    "vocabulary"
+  ],
+  "description": "Agrontology is the [Web Ontology Language (OWL)](/w3c/owl) vocabulary providing a set of domain properties to the [AGROVOC thesaurus](/fao/agrovoc-core).",
+  "homepage": "http://aims.fao.org/agrovoc/agrontology",
+  "id": "fao/agrontology",
+  "name": "Agrontology",
+  "prefix": {
+    "agrontology": "http://aims.fao.org/aos/agrontology#"
+  },
+  "url": "http://aims.fao.org/aos/agrontology"
+}

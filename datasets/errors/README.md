@@ -60,6 +60,7 @@ header:
 
 The following datasets emit no `Content-Type` header at all:
 
+  - [Agrontology](agrontology.json)
   - [Datatype Schema](dtype.json)
   - [DOAP](doap.json)
   - [lexinfo 2.0](lexinfo@2.0.json)
