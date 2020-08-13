@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "A vocabulary for representing statistical data on the Web.\n\nNote: The SCOVO vocabulary is deprecated. We strongly advise to use the [Data Cube](/w3c/dq) Vocabulary instead.",
+  "homepage": "https://www.w3.org/TR/owl2-overview",
+  "id": "deri/scovo@2012-08-09",
+  "name": "The Statistical Core Vocabulary (SCOVO)",
+  "prefix": {
+    "scovo": "http://purl.org/NET/scovo#"
+  },
+  "url": "http://vocab.deri.ie/scovo.ttl"
+}
