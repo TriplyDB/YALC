@@ -1,10 +1,10 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-235-brightgreen)](datasets)
-[![](https://img.shields.io/badge/organizations-52-brightgreen)](organizations)
+[![](https://img.shields.io/badge/datasets-240-brightgreen)](datasets)
+[![](https://img.shields.io/badge/organizations-54-brightgreen)](organizations)
 [![](https://img.shields.io/badge/tooLittleInfo-19-yellow)](datasets/too-little-info)
 [![](https://img.shields.io/badge/todo-10-red)](datasets/todo)
-[![](https://img.shields.io/badge/errors-41-red)](datasets/errors)
+[![](https://img.shields.io/badge/errors-42-red)](datasets/errors)
 
 # YALC: Yet Another LOD Cloud
 

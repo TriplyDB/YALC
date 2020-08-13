@@ -1,0 +1,11 @@
+{
+  "about": [
+    "agriculture",
+    "vocabulary"
+  ],
+  "description": "AGROVOC is a controlled vocabulary covering all areas of interest of the Food and Agriculture Organization (FAO) of the United Nations, including food, nutrition, agriculture, fisheries, forestry, environment etc.  It is published by FAO and edited by a community of experts.  It is widely used in specialized libraries as well as digital libraries and repositories to index content and for the purpose of text mining.  It is also used as a specialized tagging resource for content organization by FAO and third-party stakeholders.\n\nThis dataset is the AGROVOC Core.  It includes:\n- data dump from VocBench\n- timestamp on the AGROVOC SKOS Concept Scheme, indicating the date/time of release\n- agrovoc mapping to other triple stores (now stored in the default graph, previously (until 2014) stored in the <http://aims.fao.org/aos/agrovoc-mappings> named graph; see Agrovoc VoID descriptor to get the list of all mapped files.  AGROVOC version before 2015, there is a link to the updated mapping file for that version).",
+  "homepage": "http://aims.fao.org/vest-registry/vocabularies/agrovoc",
+  "id": "fao/agrovoc-core@2020-07-08",
+  "name": "AGROVOC Core",
+  "url": "http://agrovoc.uniroma2.it/agrovocReleases/agrovoc_2020-07-08_lod.nq.zip"
+}

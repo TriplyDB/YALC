@@ -1,0 +1,11 @@
+{
+  "about": [
+    "agriculture",
+    "metadata"
+  ],
+  "description": "AGROVOC is a controlled vocabulary covering all areas of interest of the Food and Agriculture Organization (FAO) of the United Nations, including food, nutrition, agriculture, fisheries, forestry, environment etc.  It is published by FAO and edited by a community of experts.  It is widely used in specialized libraries as well as digital libraries and repositories to index content and for the purpose of text mining.  It is also used as a specialized tagging resource for content organization by FAO and third-party stakeholders.\n\nThis is the VoID metadata description of AGROVOC.",
+  "homepage": "http://aims.fao.org/node/121110",
+  "id": "fao/agrovoc-void",
+  "name": "AGROVOC VoID",
+  "url": "http://aims.fao.org/aos/agrovoc/void.ttl"
+}
