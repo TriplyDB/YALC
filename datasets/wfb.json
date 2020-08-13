@@ -1,5 +1,9 @@
 {
-  "about": "statistics",
+  "about": [
+    "agriculture",
+    "economy",
+    "statistics"
+  ],
   "asset": [
     "https://raw.githubusercontent.com/wouterbeek/cia-world-factbook/master/img/",
     "https://raw.githubusercontent.com/wouterbeek/cia-world-factbook/master/img/aa-lgflag.gif",

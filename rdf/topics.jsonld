@@ -63,8 +63,12 @@
       }
     },
     {
-      "@id": "commerce",
-      "label": "Commerce"
+      "@id": "economy",
+      "label": "Economy",
+      "narrower": {
+        "@id": "commerce",
+        "label": "Commerce"
+      }
     },
     {
       "@id": "egov",
@@ -85,6 +89,10 @@
         {
           "@id": "archeology",
           "label": "Archeology"
+        },
+        {
+          "@id": "archives",
+          "label": "Archives"
         },
         {
           "@id": "heritage",
