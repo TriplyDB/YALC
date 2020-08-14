@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "An extension vocabulary for chain relations in ontologies.",
+  "id": "w3c/o2",
+  "name": "O2",
+  "prefix": {
+    "o2": "http://www.w3.org/2007/ont/o2#"
+  }
+}
+
