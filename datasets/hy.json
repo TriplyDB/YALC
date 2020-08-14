@@ -4,7 +4,7 @@
     "vocabulary"
   ],
   "description": "This is a draft RDF vocabulary for representing spatial data sets in INSPIRE as RDF.  This vocabulary has been created using the [“Guidelines for the RDF encoding of spatial data”](http://inspire-eu-rdf.github.io/inspire-rdf-guidelines).\n\nThe use of RDF is optional and does not supersede or replace the requirements regarding encoding specified in Clause 9 of the INSPIRE Data Specifications.  This optional encoding is intended to support the e-government and open data community in Europe, which is increasingly looking at RDF to represent data.\n\nThis is a draft version.  It has limitations and is expected to contain errors.  Please report any issues or concerns in [GitHub](https://github.com/inspire-eu-rdf/inspire-rdf-vocabularies/issues).\n\nThis ontology contains classes and properties that have been derived from the INSPIRE Hydro - Base application schema.\n\nDuring the derivation, the following mappings, alignments, and omissions have been applied:\n- Mappings: none\n\n- Alignments (through subsumption):\n  - Properties of spatial object types with value type `GeographicalName` are aligned to property `locn:geographicName`.\n\n- Omissions: none",
-  "id": "inspire/base",
+  "id": "inspire/hy",
   "name": "INSPIRE Hydro",
   "prefix": {
     "base": "http://inspire.ec.europa.eu/ont/base#"
