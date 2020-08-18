@@ -10,5 +10,6 @@
     "wde": "http://www.wikidata.org/entity/",
     "wdp": "http://www.wikidata.org/prop/direct/"
   },
-  "url": "https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.ttl.gz"
+  "issue": "Downloads from https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.ttl.gz do not work because the Wikidata server is slow, the download is large, and the server disconnects the download every 24 hours (probably to refresh the file).",
+  "url": "http://lod.labs.vu.nl/wikidata.nt.bz2"
 }
