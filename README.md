@@ -65,6 +65,13 @@ object with the following keys:
     <p>For vocabularies, this key must include the value <code>"vocabulary"</code>.</p>
     <p>This key is optional, in which case the dataset has zero topics.</dd>
 
+  <dt><code>"asset"</code></dt>
+  <dd>
+    <p>Links to binary files that are part of the dataset.<p>
+    <p>One example is documentation files (DOCX, PDF, ODT) that either occur in the dataset or that describe it.  Another example is media files (images, sounds, videos) that occur in the dataset.</p>
+    <p>This key is optional.</p>
+  </dd>
+
   <dt><code>"description"</code></dt>
   <dd>
     <p>The description of the dataset.</p>
