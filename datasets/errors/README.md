@@ -20,6 +20,7 @@ location does not exist:
   - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)
   - [Geometry Ontology](os_geo.json)
+  - [PRISM](prism@2.1.json)
   - [SIOC](sioc@1.36.json)
   - [Spatial Relations Ontology](sro.json)
   - [WAIVER](wv.json)

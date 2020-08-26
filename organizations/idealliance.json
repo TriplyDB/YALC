@@ -1,0 +1,7 @@
+{
+  "description": "Idealliance is a global graphic communications industry non-profit association with twelve (12) strategically located offices around the world.  Idealliance serves brands, OEMs, service providers in print and packaging, content and media creators, creative agencies and design teams, material suppliers, and technology developers.\n\nWe do our work through Standards Innovation, Workflow Integration, Technical Research, and Certification and Training. We serve as a Global Connector for brands, print buyers, service providers, and OEMs through Brand and Facility Auditing Programs and Consulting and the world’s foremost certifying organization for competencies, systems, and facilities.\n\nOur specifications have transformed the graphic communications supply chain by creating a state-of-the-art architecture for production workflows in creation, production, and distribution including:\n- [GRACoL](https://www.idealliance.org/gracol)®\n- [SWOP](https://www.idealliance.org/swop)®\n- [XCMYK](https://www.idealliance.org/xcmyk)™\n- [G7](https://www.idealliance.org/g7spec)®\n- [BrandQ](https://connect.idealliance.org/brandq/home)®\n- Mail.dat®\n- Mail.XML™\n- papiNet®\n- PRISM®\n\nIdealliance is a Liaison A to ISO and is one of the largest contributors to ISO print standards through its TC130 workgroup.",
+  "homepage": "https://www.idealliance.org",
+  "id": "idealliance",
+  "image": "idealliance.jpg",
+  "name": "Idealliance"
+}

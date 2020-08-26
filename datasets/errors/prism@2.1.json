@@ -1,0 +1,14 @@
+{
+  "about": [
+    "bibliography",
+    "vocabulary"
+  ],
+  "asset": "http://www.prismstandard.org/specifications/2.0/PRISM_prism_namespace_2.1.pdf",
+  "description": "PRISM Publishing Requirements for Industry Standard Metadata defines an XML/RDF metadata vocabulary for managing, aggregating, post-processing, multi-purposing and aggregating magazine, news, catalog, book, and mainstream journal content.  PRISM recommends the use of certain existing standards, such as XML, RDF, the Dublin Core, and various ISO specifications for locations, languages, and date/time formats.  In addition PRISM provides a framework for the interchange and preservation of content and metadata, a collection of elements to describe that content, and a set of controlled vocabularies listing the values for those elements.\n\nMetadata is an exceedingly broad category of information covering everything from an article’s country of origin to the fonts used in its layout.  PRISM's scope is driven by the needs of publishers to receive, track, and deliver multi-part content.  The focus is on additional uses for the content, so metadata concerning the content’s appearance is outside PRISM's scope.\n\nPRISM focused on metadata for:\n- General-purpose description of resources as a whole\n- Specification of a resource's relationships to other resources\n- Definition of usage rights and permissions by platform and distribution channel\n- Expressing inline metadata (that is, markup within the resource itself)\n\nIn late 2012 the PRISM Metadata Initiative published its new Version 3.0.  The publications addressed by PRISM 3.0 have broadened to include books, blogs, bookazines and websites as well a articles.  Platforms addressed by PRISM 3.0 include  web, mobile, tablets and smart phones as well as print.  Three new taxonomies (Advertising, Images and Recipes) have been added.  PRISM consists of a number of related specifications that can be taken as a whole or module by module.",
+  "homepage": "https://www.idealliance.org/specification/prism",
+  "id": "idealliance/prism@2.1",
+  "name": "PRISM Publishing Requirements for Industry Standard Metadata",
+  "prefix": {
+    "prism": "http://prismstandard.org/namespaces/basic/2.1/"
+  }
+}
