@@ -1,0 +1,20 @@
+{
+  "about": [
+    "reasoning",
+    "vocabulary"
+  ],
+  "description": "Unique identifiers for the OWL 2 Profiles:\n- DL: (<http://www.w3.org/ns/owl-profile/DL>)\n- EL: (<http://www.w3.org/ns/owl-profile/EL>)\n- QL: (<http://www.w3.org/ns/owl-profile/QL>)\n- RL: (<http://www.w3.org/ns/owl-profile/RL>)\n- Full: (<http://www.w3.org/ns/owl-profile/Full>)\n\nNote that, strictly speaking, OWL DL and OWL Full are not referred to, formally, as “profiles” by the [OWL 2 Profiles](http://www.w3.org/TR/owl2-profiles/) specification.  However, “each profile is defined as a syntactic restriction of the OWL 2 Structural Specification, i.e., as a subset of the structural elements that can be used in a conforming ontology,…” (see the [OWL 2 Document Overview](http://www.w3.org/TR/owl2-overview/)).  In this sense, and for practical purposes, including a URI for OWL DL and Full is correct.  Indeed, OWL DL can be seen as a sytactic restriction of OWL that is particularly well suited for [OWL 2 Direct Semantics](http://www.w3.org/TR/owl2-direct-semantics/), whereas OWL Full is a “profile” without any syntactic restriction, and is usually associated with the usage of the [OWL 2 RDF-Based Semantics](http://www.w3.org/TR/owl2-rdf-based-semantics/).  Note also that there are no separate URIs for the 2004 version of OWL DL; OWL 2 DL, published in 2008 supersede that version.  Nor is there a URI for OWL Lite.",
+  "homepage": "https://www.w3.org/ns/owl-profile/",
+  "id": "w3c/profile@2011-12-06",
+  "name": "Unique URIs for OWL 2 Profiles",
+  "prefix": {
+    "profile": "http://www.w3.org/ns/owl-profile/"
+  },
+  "url": [
+    "http://www.w3.org/ns/owl-profile/DL",
+    "http://www.w3.org/ns/owl-profile/EL",
+    "http://www.w3.org/ns/owl-profile/Full",
+    "http://www.w3.org/ns/owl-profile/QL",
+    "http://www.w3.org/ns/owl-profile/RL"
+  ]
+}
