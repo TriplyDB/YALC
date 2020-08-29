@@ -171,6 +171,10 @@
           "label": "Thesaurus"
         },
         {
+          "@id": "reasoning",
+          "label": "Reasoning"
+        },
+        {
           "@id": "temporal",
           "label": "Temporal Semantics"
         },

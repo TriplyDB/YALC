@@ -1,0 +1,22 @@
+{
+  "about": [
+    "reasoning",
+    "vocabulary"
+  ],
+  "description": "This is a unique, top-level Class URI for various Semantic Web entailment regimes.  Instances include Simple entailment, RDF, RDFS, and D entailments, entailments with Direct and RDF Based Semantics of OWL, and RIF entailment.  For the specific entailment regimes, use these URI-s:\n- Simple Entailment: (<http://www.w3.org/ns/entailment/Simple>)\n- RDF Entailment: (<http://www.w3.org/ns/entailment/RDF>)\n- RDFS Entailment: (<http://www.w3.org/ns/entailment/RDFS>)\n- D Entailment: (<http://www.w3.org/ns/entailment/D>)\n- OWL Entailment with Direct Semantics: (<http://www.w3.org/ns/entailment/OWL-Direct>)\n- OWL Entailment with RDF Based Semantics: (<http://www.w3.org/ns/entailment/OWL-RDF-Based>)\n- RIF Entailment: (<http://www.w3.org/ns/entailment/RIF>)",
+  "homepage": "https://www.w3.org/ns/entailment/",
+  "id": "w3c/entailment@2010-05-03",
+  "name": "Unique URIs for Semantic Web Entailment Regimes",
+  "prefix": {
+    "entailment": "http://www.w3.org/ns/entailment/"
+  },
+  "url": [
+    "http://www.w3.org/ns/entailment/D",
+    "http://www.w3.org/ns/entailment/OWL-Direct",
+    "http://www.w3.org/ns/entailment/OWL-RDF-Based",
+    "http://www.w3.org/ns/entailment/RDF",
+    "http://www.w3.org/ns/entailment/RDFS",
+    "http://www.w3.org/ns/entailment/RIF",
+    "http://www.w3.org/ns/entailment/Simple"
+  ]
+}
