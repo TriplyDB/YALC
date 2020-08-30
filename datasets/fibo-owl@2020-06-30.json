@@ -1,0 +1,12 @@
+{
+  "about": [
+    "finance",
+    "vocabulary"
+  ],
+  "description": "FIBO OWL is available in a number of RDF formats.  These are available for offline use (i.e., download all of FIBO as a zip), or online use.  Each FIBO ontology file is available for “follow your nose” treatment, a general description of which is available here.\n\nFIBO OWL is published in two releases:\n- **FIBO Production** is published at the end of each calendar quarter and has been vetted by SMEs and passed standard industry hygiene tests for OWL.\n- **FIBO Development** is published in real-time as changes are incorporated by the FIBO Community and consists of a draft as well-vetted content.",
+  "homepage": "https://spec.edmcouncil.org/fibo/OWL",
+  "id": "edm/fibo-owl@2020-06-30",
+  "image": "fibo.png",
+  "name": "Financial Industry Business Ontology (FIBO) Ontology",
+  "url": "https://spec.edmcouncil.org/fibo/ontology/master/2020Q2/prod.ttl.zip"
+}
