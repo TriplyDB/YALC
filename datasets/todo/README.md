@@ -19,6 +19,13 @@ The following datasets require support for empty Bzipped files:
 
   - [LinkedGeoData](LinkedGeoData.json)
 
+## Unsupported licenses
+
+<https://www.gnu.org/licenses/lgpl-3.0.html>
+
+  - [LKIF Core Ontology](lkif@1.0.3.json)
+  - [LKIF Core Ontology](lkif@1.1.json)
+
 ## macOS archives
 
 The following datasets are published in an archive format that was
@@ -27,6 +34,7 @@ include additional files into archives, for which the upload feature
 currently fails.
 
   - [DOLCE Lite](dolce-lite@3.9.7.json)
+  - [LKIF Core Ontology](lkif@1.0.3.json)
 
 ## JSON-LD uploads
 
