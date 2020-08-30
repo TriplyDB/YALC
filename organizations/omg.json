@@ -1,0 +1,8 @@
+{
+  "description": "The [Object Management Group®](https://www.omg.org/index.htm) ([OMG®](https://www.omg.org/index.htm)) is an international, open membership, not-for-profit **technology standards** consortium, founded in 1989.  OMG standards are driven by vendors, end-users, academic institutions and government agencies.  OMG Task Forces develop enterprise integration standards for a wide range of technologies and an even wider range of industries.  OMG’s modeling standards, including the [Unified Modeling Language®](https://www.uml.org/) ([UML®](https://www.uml.org/)) and [Model Driven Architecture®](https://www.omg.org/mda/) ([MDA®](https://www.omg.org/mda/)), enable powerful visual design, execution and maintenance of software and other processes.  OMG also hosts organizations such as the [Consortium for Information & Software Quality™](https://it-cisq.org/) ([CISQ™](https://it-cisq.org/)), the [DDS Foundation](https://www.dds-foundation.org/) and [BPM+ Health](https://www.bpm-plus.org/).  In addition, OMG manages the [Industrial Internet Consortium®](https://www.iiconsortium.org/) ([IIC™](https://www.iiconsortium.org/)), the [Industry IoT Consortium®](https://www.iiconsortium.org/) and [Digital Twin Consortium™](https://www.digitaltwinconsortium.org/) ([DTC](https://www.digitaltwinconsortium.org/)).",
+  "homepage": "https://www.omg.org",
+  "id": "omg",
+  "image": "omg.png",
+  "name": "Object Management Group (OMG)"
+}
+

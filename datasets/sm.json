@@ -1,0 +1,12 @@
+{
+  "about": [
+    "metadata",
+    "vocabulary"
+  ],
+  "description": "This ontology provides a set of basic metadata annotations for use in describing Object Management Group (OMG) specifications, standards, and documents.  It was recommended for use by the OMG Architecture Board (AB) in OMG standard ontologies, vocabularies and other models at the March 2013 Reston meeting.\n\nThe annotations defined herein extend properties defined in the Dublin Core Metadata Terms Vocabulary and in the W3C Simple Knowledge Organization System (SKOS) Vocabulary, and have been customized to support the OMG specification development process.  Note that any of the original properties provided in Dublin Core and SKOS can be used in addition to the terms provided herein.  However, any Dublin Core terms that are not explicitly defined as OWL annotation properties below must be so declared in the ontologies that use them.",
+  "id": "omg/sm@2013-03-01",
+  "name": "Specification Metadata (SM) Ontology",
+  "prefix": {
+    "sm": "http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+  }
+}
