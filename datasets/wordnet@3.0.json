@@ -8,7 +8,7 @@
   "prefix": {
     "wn30": "http://purl.org/vocabularies/princeton/wn30/"
   },
-  "successor": "princeton/wordnet",
+  "successor": "princeton/wordnet@3.1",
   "url": [
     "https://github.com/jrvosse/wordnet-3.0-rdf/raw/master/basic/wnbasic-schema.ttl.gz",
     "https://github.com/jrvosse/wordnet-3.0-rdf/raw/master/basic/wordnet-senselabels.ttl.gz",

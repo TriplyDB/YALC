@@ -5,5 +5,5 @@
   "id": "w3c/skos@2008-05",
   "name": "Simple Knowledge Organization System (SKOS)",
   "namespace": "http://www.w3.org/2008/05/skos#",
-  "successor": "w3c/skos"
+  "successor": "w3c/skos@1.2"
 }

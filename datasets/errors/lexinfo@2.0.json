@@ -11,5 +11,5 @@
   "prefix": {
     "lexinfo2": "http://www.lexinfo.net/ontology/2.0/lexinfo#"
   },
-  "successor": "lemon/lexinfo"
+  "successor": "lemon/lexinfo@3.0"
 }
