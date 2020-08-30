@@ -1,0 +1,28 @@
+{
+  "about": [
+    "finance",
+    "vocabulary"
+  ],
+  "description": "The Hedge Fund Regulation Ontology is an operational application of the Financial Regulation Ontology.\n\nSemantic Compliance® is an ontological approach to regulatory reporting and oversight.  The ontology defines semantic rules to process regulatory compliance forms. The purpose is operational for:\n- Hedge Funds under the supervision of the Securities and Exchange Commission is to fill out Form PF (private fund).\n- Regulators to extract Form PF filing data, transform and load it into semantic data structures.\n\nLatest update: The Hedge Fund Ontology will be a package in the Financial Industry Business Data Model (FIB-DM) in Q3, 2019.\n\nThe data triples in this ontology instantiate `FinRegOnt` classes `USC_Title`, `USC_Chapter`, `USC_Paragraph` etc. along with their properties.  They are loaded from `USC-2015-title12-chapter17`, reverse engineered from the original data in Office of the Law Revision Counsel XML file.",
+  "homepage": "https://hedgefundontology.com",
+  "id": "jayzed/hfr",
+  "image": "fro.png",
+  "name": "Hedge Fund Regulation (HFR) ontology",
+  "prefix": {
+    "hfr-fund-reas": "http://www.finregont.com/fro/"
+  },
+  "url": [
+    "https://hedgefundontology.com/hfr/Hedge_Fund_Reasoning.ttl",
+    "https://hedgefundontology.com/hfr/data/PFRD_Example_PF.ttl",
+    "https://hedgefundontology.com/hfr/data/PFRD_Example_PF_Amended.ttl",
+    "https://hedgefundontology.com/hfr/data/PFRD_Example_PF_Final.ttl",
+    "https://hedgefundontology.com/hfr/data/PFRD_Example_PF_Initial.ttl",
+    "https://hedgefundontology.com/hfr/data/PFRD_Example_PF_Transition.ttl",
+    "https://hedgefundontology.com/hfr/data/PFRD_Example_PF_Updating.ttl",
+    "https://hedgefundontology.com/hfr/data/PrivateFundSampleData.ttl",
+    "https://hedgefundontology.com/hfr/form/PFFormFiling.ttl",
+    "https://hedgefundontology.com/hfr/ref/Hedge_Fund_Financial_Reference.ttl",
+    "https://hedgefundontology.com/hfr/ref/Hedge_Fund_Legal_Reference.ttl",
+    "https://hedgefundontology.com/hfr/rule/Rules_Investment_Adviser_Act_Private_Fund.ttl"
+  ]
+}

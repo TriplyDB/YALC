@@ -1,0 +1,24 @@
+{
+  "about": [
+    "finance",
+    "vocabulary"
+  ],
+  "description": "",
+  "homepage": "https://fundontology.com/ontology-files/",
+  "id": "jayzed/fro@2016-08-01",
+  "image": "fro.png",
+  "name": "Fund Regulation (FR)",
+  "prefix": {
+    "fro": "http://www.finregont.com/fro/"
+  },
+  "url": [
+    "https://fundontology.com/fr/Fund_Reasoning.ttl",
+    "https://fundontology.com/fr/data/FR_IA_Firm_SEC.ttl",
+    "https://fundontology.com/fr/data/FundSampleData.ttl",
+    "https://fundontology.com/fr/data/IA_Firm_SEC_Feed.ttl",
+    "https://fundontology.com/fr/form/IAPDSECCompilationReport.ttl",
+    "https://fundontology.com/fr/ref/Fund_Financial_Reference.ttl",
+    "https://fundontology.com/fr/ref/Fund_Legal_Reference.ttl",
+    "https://fundontology.com/fr/rule/Rules_Investment_Adviser_Act.ttl"
+  ]
+}
