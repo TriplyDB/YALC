@@ -1,0 +1,22 @@
+{
+  "about": [
+    "finance",
+    "vocabulary"
+  ],
+  "description": "FRO is a foundational part of a Semantic Web approach to regulatory compliance for (alternative) investment funds. FRO is populated with the full text of US laws and regulations for investment management and Bank regulations.",
+  "homepage": "https://finregont.com/fro/html_widoco/index-en.html",
+  "id": "jayzed/fro@2016-08-01",
+  "image": "fro.png",
+  "name": "Financial Regulation Ontology (FRO)",
+  "prefix": {
+    "fro": "http://www.finregont.com/fro/"
+  },
+  "url": [
+    "http://finregont.com/fro/cfr/Code_Federal_Regulations.ttl",
+    "http://finregont.com/fro/ref/AnnotationProperty.ttl",
+    "http://finregont.com/fro/ref/LegalReference.ttl",
+    "http://finregont.com/fro/ref/US_LegalReference.ttl",
+    "http://finregont.com/fro/usc/United_States_Code.ttl",
+    "https://finregont.com/fro/html_widoco/ontology.n3"
+  ]
+}
