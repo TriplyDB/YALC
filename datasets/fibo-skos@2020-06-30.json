@@ -5,7 +5,7 @@
   ],
   "description": "The FIBO vocabulary is distributed using the Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/02/skos/)).  SKOS is a W3C Recommendation that supports the use of knowledge organization systems (KOS) such as thesauri, classification schemes, subject heading lists, and taxonomies within the framework of the Semantic Web.\n\nThe FIBO vocabulary is distributed as a machine-readable file in which the FIBO class hierarchy is rendered as a tree structure of broader and narrower terms.  Properties in FIBO appear as properties in the FIBO vocabulary.  Logical restrictions relating pairs of FIBO classes are rendered as simple relationships between corresponding concepts in FIBO Vocabulary.  The FIBO Vocabulary, therefore, does not reflect the full richness of the FIBO Ontologies and is provided to support knowledge organization applications that do not require the full logic of FIBO.\n\nThe FIBO Vocabulary machine-readable files are intended to provide input to a range of tools, usually characterized as Glossary or Vocabulary tools.  These tools are generally used to provide further business-facing presentations of the content of these files.",
   "homepage": "https://spec.edmcouncil.org/fibo/vocabulary",
-  "id": "edm/fibo-skos@2020-06-30",
+  "id": "edmc/fibo-skos@2020-06-30",
   "image": "fibo.png",
   "name": "Financial Industry Business Ontology (FIBO) Vocabulary",
   "url": "https://spec.edmcouncil.org/fibo/vocabulary/master/2020Q2/fibo-vP.ttl"
