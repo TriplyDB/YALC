@@ -1,0 +1,12 @@
+{
+  "about": [
+    "rhetoric",
+    "vocabulary"
+  ],
+  "homepage": "http://vocab.deri.ie/rstvoc",
+  "id": "deri/rstvoc@2014-05-16",
+  "name": "Rhetorical structure",
+  "prefix": {
+    "rstvoc": "http://vocab.deri.ie/rstvoc#"
+  }
+}

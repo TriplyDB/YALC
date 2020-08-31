@@ -103,10 +103,16 @@
     {
       "@id": "language",
       "label": "Language",
-      "narrower": {
-        "@id": "lexicography",
-        "label": "Lexicography"
-      }
+      "narrower": [
+        {
+          "@id": "lexicography",
+          "label": "Lexicography"
+        },
+        {
+          "@id": "rhetoric",
+          "label": "Rhetoric"
+        }
+      ]
     },
     {
       "@id": "legal",
