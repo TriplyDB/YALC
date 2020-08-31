@@ -1,0 +1,13 @@
+{
+  "about": [
+    "metadata",
+    "vocabulary"
+  ],
+  "description": "This is a capability meta-model that is presented as an RDF schema for describing capabilities as an action category and a set of properties. Additionally, this schema defines the possible property value types that can be considered when modelling capabilities: ConditionalValue, ConstrainedValue, EnumerationValue, DynamicValue and RangeValue.",
+  "homepage": "http://vocab.deri.ie/cmm",
+  "id": "deri/cmm@2015-05-20",
+  "name": "Capability Meta Model (CMM)",
+  "prefix": {
+    "cmm": "http://vocab.deri.ie/cmm#"
+  }
+}
