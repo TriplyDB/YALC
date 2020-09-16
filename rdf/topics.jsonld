@@ -63,6 +63,14 @@
       }
     },
     {
+      "@id": "design",
+      "label": "Design",
+      "narrower": {
+        "@id": "ui",
+        "label": "User Interfaces"
+      }
+    },
+    {
       "@id": "economy",
       "label": "Economy",
       "narrower": {

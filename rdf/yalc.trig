@@ -1,4 +1,3 @@
-prefix dataset: <https://triplydb.com/Triply/yalc/>
 prefix graph: <https://triplydb.com/Triply/yalc/graphs/>
 prefix id: <https://triplydb.com/Triply/yalc/id/>
 prefix owl: <http://www.w3.org/2002/07/owl#>
@@ -11,10 +10,10 @@ prefix void: <http://rdfs.org/ns/void#>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix yalc: <https://triplydb.com/Triply/yalc/vocab/>
 
-dataset: {
-  dataset: a void:Dataset;
+<https://triplydb.com/Triply/yalc> {
+  <https://triplydb.com/Triply/yalc> a void:Dataset;
     rdfs:label "LOD Cloud Catalog"@en;
-    owl:versionNumber "2020.06";
+    owl:versionNumber "2020.9.5";
     void:subSet graph:vocab.
 
   graph:vocab a owl:Ontology;
