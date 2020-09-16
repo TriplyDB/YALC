@@ -3,7 +3,7 @@
     "ui",
     "vocabulary"
   ],
-  "description": "The User Interface ontology allows the definition of forms for processing RDF model data, and include a bootstrap form for editing forms.  It allows user interface hints such as background colors, can be associated with objects and classes."
+  "description": "The User Interface ontology allows the definition of forms for processing RDF model data, and include a bootstrap form for editing forms.  It allows user interface hints such as background colors, can be associated with objects and classes.",
   "id": "w3c/ui@2020-03-22",
   "image": "owl.png",
   "license": "CC0",
