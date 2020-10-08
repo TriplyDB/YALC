@@ -1,7 +1,5 @@
 {
-  "about": [
-    "libraries"
-  ],
+  "about": "libraries",
   "description": "Stabiler Link auf den aktuellen Gesamtabzug der Adressdatei (ISIL- und Sigelverz.).",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/bib",

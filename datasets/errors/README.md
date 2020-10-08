@@ -39,6 +39,8 @@ header:
 
   - [BIBO](bibo.json) emits `application/xml`
     i.o. `application/rdf+xml`.
+  - [Bibsonomy](bibsonomy.json) emits `application/xml`
+    i.o. `application/rdf+xml`.
   - [OGC GeoSPARQL](geo.json) emits `text/xml` i.o.
     `application/rdf+xml`.
   - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
