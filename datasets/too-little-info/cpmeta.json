@@ -3,11 +3,10 @@
     "geography",
     "vocabulary"
   ],
-  "homepage": "http://static.icos-cp.eu/share/slides/dataServiceWorkshop",
+  "homepage": "https://meta.icos-cp.eu/ontologies/cpmeta/DataObjectSpec",
   "id": "icos/cpmeta",
   "name": "ICOS CP Metadata Ontology",
   "prefix": {
     "cpmeta": "https://meta.icos-cp.eu/ontologies/cpmeta/"
   }
 }
-
