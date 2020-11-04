@@ -1,0 +1,14 @@
+{
+  "about": [
+    "biomedical",
+    "topLevel"
+  ],
+  "description": "The Gene Ontology resource provides a computational representation of our current scientific knowledge about the functions of genes (or, more properly, the protein and non-coding RNA molecules produced by genes) from many different organisms, from humans to bacteria. It is widely used to support scientific research, and has been cited in tens of thousands of publications.\n\nUnderstanding gene function—how individual genes contribute to the biology of an organism at the molecular, cellular and organism levels—is one of the primary aims of biomedical research. Moreover, experimental knowledge obtained in one organism is often applicable to other organisms, particularly if the organisms share the relevant genes because they inherited them from their common ancestor. The Gene Ontology (GO), as a consortium, began in 1998 when researchers studying the genome of three model organisms—Drosophila melanogaster (fruit fly), Mus musculus (mouse), and Saccharomyces cerevisiae (brewer’s or baker’s yeast)—agreed to work collaboratively on a common classification scheme for gene function, and today the number of different organisms represented in GO is in the thousands. GO makes it possible, in a flexible and dynamic way, to provide comparable descriptions of homologous gene and protein sequences across the phylogenetic spectrum.\n\nGO is also at the hub of a major effort to represent the vast amount of biomedical knowledge in a computable form. GO is linked to many other biomedical ontologies, and is a foundation for research applying computer science in biology and medicine.",
+  "homepage": "http://geneontology.org",
+  "id": "obo/go",
+  "image": "go.png",
+  "name": "Gene Ontology (GO)",
+  "prefix": {
+    "go": "http://purl.obolibrary.org/obo/go.owl"
+  }
+}

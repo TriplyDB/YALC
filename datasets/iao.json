@@ -1,0 +1,7 @@
+{
+  "about": "biomedical",
+  "description": "An information artifact is, loosely, a dependent continuant or its bearer that is created as the result of one or more intentional processes. Examples: uniprot, the english language, the contents of this document or a printout of it, the temperature measurements from a weather balloon. For more information, see the project home page at [link](https://github.com/information-artifact-ontology/IAO).",
+  "id": "obo/iao",
+  "name": "Information Artifact Ontology (IAO)",
+  "url": "http://purl.obolibrary.org/obo/iao/2019-06-07/iao.owl"
+}

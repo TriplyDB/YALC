@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "This is a vocabulary for describing relationships between linked data objects and things fetched from the web.",
+  "id": "w3c/link@1.15",
+  "name": "Ontology for Linked Data",
+  "prefix": {
+    "link": "http://www.w3.org/2007/ont/link#"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "about": "biomedical",
+  "description": "An ontology for describing the classification of human diseases organized by etiology.",
+  "homepage": "http://www.disease-ontology.org",
+  "id": "obo/doid",
+  "image": "doid.png",
+  "name": "Human Disease Ontology (DO)",
+  "prefix": {
+    "doid": "http://purl.obolibrary.org/obo/doid.owl"
+  }
+}

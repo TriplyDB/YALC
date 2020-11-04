@@ -1,0 +1,11 @@
+{
+  "about": "topLevel",
+  "description": "**Ch**emical **E**ntities of **B**iological Interest (**ChEBI**) is a freely available dictionary of molecular entities focused on ‘small’ chemical compounds. The term ‘molecular entity’ refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity. The molecular entities in question are either products of nature or synthetic products used to intervene in the processes of living organisms.\n\nChEBI incorporates an ontological classification, whereby the relationships between molecular entities or classes of entities and their parents and/or children are specified.\n\nChEBI uses nomenclature, symbolism and terminology endorsed by the following international scientific bodies:\n\n  - [International Union of Pure and Applied Chemistry](http://www.iupac.org) (IUPAC)\n- Nomenclature Committee of the [International Union of Biochemistry and Molecular Biology](http://www.iubmb.org) (NC-IUBMB)\n\nMolecules directly encoded by the genome (e.g. nucleic acids, proteins and peptides derived from proteins by cleavage) are *not* as a rule included in ChEBI.",
+  "homepage": "https://www.ebi.ac.uk/chebi",
+  "id": "obo/chebi",
+  "image": "chebi.png",
+  "name": "Chemical Entities of Biological Interest (ChEBI)",
+  "prefix": {
+    "chebi": "http://purl.obolibrary.org/obo/chebi.owl"
+  }
+}
