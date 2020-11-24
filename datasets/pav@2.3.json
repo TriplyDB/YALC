@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "PAV is a lightweight ontology for tracking Provenance, Authoring and Versioning.  PAV specializes the W3C provenance ontology [PROV-O](http://www.w3.org/TR/prov-o/) in order to describe authorship, curation and digital creation of online resources.",
+  "homepage": "http://pav-ontology.github.io/pav/",
+  "id": "mind-informatics/pav@2.3",
+  "name": "Provenance, Authoring and Versioning (PAV)",
+  "prefix": {
+    "pav": "http://purl.org/pav/"
+  }
+}
