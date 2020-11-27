@@ -16,3 +16,11 @@ This directory has the following subdirectories:
   <dt><a href="too-little-info"><code>/too-little-info</code></a></dt>
   <dd>Contains partial configuration files for datasets for which currently have too little information.</dd>
 </dl>
+
+## Locations
+
+The following locations may contain datasets that can be added to YALC:
+
+  - https://lod-cloud.net
+  - https://github.com/ncarboni/awesome-GLAM-semweb
+  - https://github.com/CLARIAH/awesome-humanities-ontologies
