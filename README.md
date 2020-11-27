@@ -30,13 +30,17 @@ This repository contains the following directories:
 
 <dl>
   <dt><a href="datasets"><code>/datasets</code></a></dt>
-  <dd>Contains one configuration file for each Linked Open Dataset.</dd>
-  <dt><a href="datasets/errors"><code>/datasets/errors</code></a></dt>
-  <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because it contains errors.</dd>
-  <dt><a href="datasets/todo"><code>/datasets/todo</code></a></dt>
-  <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because some functionality is still missing.</dd>
-  <dt><a href="datasets/too-little-info"><code>/datasets/too-little-info</code></a></dt>
-  <dd>Contains partial configuration files for datasets for which currently have too little information.</dd>
+  <dd>
+    Contains one configuration file for each Linked Open Dataset.
+    <dl>
+      <dt><a href="datasets/errors"><code>/datasets/errors</code></a></dt>
+      <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because it contains errors.</dd>
+      <dt><a href="datasets/todo"><code>/datasets/todo</code></a></dt>
+      <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because some functionality is still missing.</dd>
+      <dt><a href="datasets/too-little-info"><code>/datasets/too-little-info</code></a></dt>
+      <dd>Contains partial configuration files for datasets for which currently have too little information.</dd>
+    </dl>
+  </dd>
   <dt><a href="img"><code>/img</code></a></dt>
   <dd>Contains images that are used in dataset and organization configurations.</dd>
   <dt><a href="organizations"><code>/organizations</code></a></dt>
