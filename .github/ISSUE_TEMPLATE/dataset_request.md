@@ -14,9 +14,9 @@ assignees: ''
 # Dataset information
 
 * Dataset homepage: URL
-* Dataset image: FILE_NAME
-* Dataset license: URL
-* Dataset name: STRING
+* Dataset image: URL
+* Dataset license: NAME or URL
+* Dataset name: NAME
 
 ## Dataset description
 
