@@ -1,26 +1,26 @@
 ---
 name: Dataset request
-about: Request for including a specific dataset.
-title: "ORGANIZATION_NAME/DATASET_NAME@VERSION"
+about: Request for including a specific dataset
+title: "ORGANIZATION/DATASET@VERSION"
 labels: ''
 assignees: ''
 
 ---
 
-* Organization name: ORGANIZATION_NAME (example: w3c; must use `[A-Z][a-z][0-9]-`)
-* Dataset name: DATASET_NAME (example: owl; must use `[A-Z][a-z][0-9]-`)
-* Dataset version: MAJOR.MINOR.PATCH (default: 1.0.0)
+* `ORGANIZATION`: The organization (example: `w3c`; must use `[A-Z][a-z][0-9]-`)
+* `DATASET`: The dataset name (example: `owl`; must use `[A-Z][a-z][0-9]-`)
+* `MAJOR.MINOR.PATCH`: The dataset version (default: 1.0.0)
 
 # Dataset information
 
 * Dataset homepage: URL
 * Dataset image: URL
-* Dataset license: NAME or URL
+* Dataset license: URL or NAME
 * Dataset name: NAME
 
 ## Dataset description
 
-MARKDOWN_STRING
+DESCRIPTION (Markdown)
 
 ## Namespaces
 
@@ -45,8 +45,8 @@ One or more of the following items (IRI must appear in the dataset):
 
 * Organization homepage: URL
 * Organization image: FILE_NAME
-* Organization name: STRING
+* Organization name: NAME
 
 ## Organization description
 
-MARKDOWN_STRING
+DESCRIPTION (Markdown)
