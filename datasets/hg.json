@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "A historical geocoder for search and standardization of place names throughout history.  For example, people used different names for the city of The Hague: ’s-Gravenhage, Vander Haegen, Haga Comitis, Den Haege, La Haye, De Haach, In den Haige, Schravenhaegen and ‘t Haagie.  Histograph collects and links place names and uses these to georeference and standardize place names in time; currently, sources used include birth places of Dutch East India Company crew members, monastry records and historical census data.",
+  "homepage": "http://histograph.io",
+  "id": "rce/hg",
+  "prefix": {
+    "hg": "https://rdf.histograph.io/"
+  }
+}
