@@ -2,13 +2,9 @@
   "about": "topLevel",
   "description": "The Schema.org vocabulary, including the core vocabulary and all domain-specific layers.",
   "homepage": "https://schema.org",
-  "id": "sdo@9.0",
+  "id": "sdo@11.0",
   "image": "sdo.png",
   "name": "Schema.org",
-  "namespace": [
-    "http://schema.org/",
-    "https://schema.org/"
-  ],
   "prefix": {
     "sdo": "https://schema.org/"
   },
