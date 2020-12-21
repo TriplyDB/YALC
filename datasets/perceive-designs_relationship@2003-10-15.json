@@ -10,5 +10,5 @@
   "prefix": {
     "rel": "http://www.perceive.net/schemas/relationship/"
   },
-  "url": "http://www.perceive.net/schemas/20031015/relationship/relationship.rdf"
+  "url": "https://raw.githubusercontent.com/wouterbeek/perceive-designs_relationship/master/relationship.ttl"
 }
