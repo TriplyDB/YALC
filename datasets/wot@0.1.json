@@ -1,0 +1,14 @@
+{
+  "about": [
+    "security",
+    "vocabulary"
+  ],
+  "description": "RDF documents can make any number of statements.  Without some kind of signature or other similar verification mechanism, there is no way to understand who made these statements.  One way to document who made a set of statements is via the use of [Digital Signatures](http://en.wikipedia.org/wiki/Digital_signature): signing a document using [Public Key Cryptography](http://en.wikipedia.org/wiki/Public-key_cryptography).  The WOT, or Web Of Trust, schema is designed to facilitate the use of Public Key Cryptography tools such as PGP or GPG to sign RDF documents and document these signatures.",
+  "homepage": "http://xmlns.com/wot/0.1/",
+  "id": "wot@0.1",
+  "name": "Web Of Trust RDF Ontology",
+  "prefix": {
+    "wot": "http://xmlns.com/wot/0.1/"
+  },
+  "url": "http://xmlns.com/wot/0.1/index.rdf"
+}

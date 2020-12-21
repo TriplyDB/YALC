@@ -173,6 +173,10 @@
       ]
     },
     {
+      "@id": "security",
+      "label": "Security"
+    },
+    {
       "@id": "semantics",
       "label": "Semantics",
       "narrower": [
