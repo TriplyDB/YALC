@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "A SHACL shapes graph to validate SHACL shapes graphs.",
+  "homepage": "https://www.w3.org/TR/shacl/#shacl-shacl",
+  "id": "w3c/shsh@2017-04-04",
+  "name": "",
+  "prefix": {
+    "shsh": "http://www.w3.org/ns/shacl-shacl#"
+  }
+}
