@@ -9,6 +9,5 @@
   "name": "Metadata Authority Description Schema (MADS)",
   "prefix": {
     "mads": "http://www.loc.gov/mads/rdf/v1#"
-  },
-  "url": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
+  }
 }
