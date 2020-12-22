@@ -25,6 +25,58 @@ location does not exist:
   - [Spatial Relations Ontology](sro.json)
   - [WAIVER](wv.json)
 
+## Intentional server error (503) for DDoS mitigation
+
+Some servers use CloudFlare DDoS mitigation.  The intention is to
+allow human users who access the data through a web browser with
+JavaScript engine, and to disallow machine users who access the data
+from scripts (and typically without a JavaScript engine).
+
+The CloudFlare process works as follows:
+
+  1. When a human user first visits a URL in their web browser with
+     JavaScript engine, the browser does not know that the URL will be
+     serviced from a CloudFlare server.  This is therefore a regular
+     HTTP request.
+
+  2. The CloudFlare server does not support regular HTTP requests and
+     sends back a 503 server error, together with an HTML page body
+     containing JavaScript code.
+
+  3. The web browser loads the HTML page with the intention of showing
+     a human-readable message to the user.  However, the HTML page
+     also includes JavaScript code from CloudFlare.  This code is
+     tries to determine whether the user is a legitimate user.  The
+     requirements for being a legitimate user are unclear, but at
+     least includes the requirements under step (1): accessing the URL
+     through a web browser with a JavaScript engine.
+
+  4. If the CloudFlare code determines that the user who isssued the
+     HTTP request under step (1) is a valid user, the JavaScript code
+     automatically issues another HTTP requests for the URL originally
+     requested in step (1).  The JavaScript code ensures that the new
+     request contains certain tokens to communicate to the server that
+     the request is now initiated through CloudFlare JavaScript code.
+
+  5. Observing the tokens in the new HTTP request, the server verifies
+     whether the tokens make the request eligible for a reply.  If the
+     request is considered eligible, the reply will provide access to
+     the resource requested in step (1).  The reply will also contain
+     `Set-Cookie` header.
+
+  6. The web browser retains the cookie.  If the same resource is
+     requested in the future, the web browser will include the cookie
+     in the request, and will directly obtain access to the resource.
+
+Since this process requires a JavaScript engine and Cookie store, most
+machine users will not be able to access datasets disseminated through
+CloudFlare.
+
+The following datasets cannot be accessed because they use the
+CloudFlare approach:
+
+  - [AGROVOC VoID](agrovoc-void.json)
+
 ## Flaky server
 
 The following dataset regularly cannot be downloaded because of an
