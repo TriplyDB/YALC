@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "",
+  "homepage": "http://citydata.wu.ac.at/ocdp/qb-equations.html",
+  "id": "city-data-pipeline/qbe@1.0",
+  "name": "QB Equations Ontology",
+  "prefix": {
+    "qbe": "http://citydata.wu.ac.at/qb-equations#"
+  }
+}
