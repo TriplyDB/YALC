@@ -5,7 +5,8 @@
   "image": "crm.png",
   "license": "https://creativecommons.org/licenses/by/3.0/",
   "name": "Conceptual Reference Model (CRM)",
-  "namespace": "http://purl.org/NET/cidoc-crm/core#",
-  "successor": "cidoc/crm@6.2.1",
-  "url": "http://purl.org/NET/cidoc-crm/core#"
+  "prefix": {
+    "crm": "http://purl.org/NET/cidoc-crm/core#"
+  },
+  "successor": "cidoc/crm@6.2.1"
 }

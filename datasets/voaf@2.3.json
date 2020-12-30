@@ -10,6 +10,5 @@
   "name": "Vocabulary of a Friend (VOAF)",
   "prefix": {
     "voaf": "http://purl.org/vocommons/voaf#"
-  },
-  "url": "http://purl.org/vocommons/voaf#"
+  }
 }

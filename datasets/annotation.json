@@ -5,6 +5,5 @@
   "name": "Annotation property",
   "prefix": {
     "cpa": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#"
-  },
-  "url": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl"
+  }
 }

@@ -6,6 +6,5 @@
   "name": "Collection Description Accrual Method Vocabulary",
   "prefix": {
     "accmeth": "http://purl.org/cld/accmeth/"
-  },
-  "url": "http://purl.org/cld/accmeth/"
+  }
 }

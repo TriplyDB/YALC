@@ -4,17 +4,10 @@
   "homepage": "http://trdf.sourceforge.net/provenance/ns.html",
   "id": "provenance@0.6",
   "name": "Provenance Vocabulary",
-  "namespace": "http://purl.org/net/provenance/",
   "prefix": {
     "provenanceCore": "http://purl.org/net/provenance/ns#",
     "provenanceFiles": "http://purl.org/net/provenance/files#",
     "provenanceIntegrity": "http://purl.org/net/provenance/integrity#",
     "provenanceTypes": "http://purl.org/net/provenance/types#"
-  },
-  "url": [
-    "http://purl.org/net/provenance/files#",
-    "http://purl.org/net/provenance/integrity#",
-    "http://purl.org/net/provenance/ns#",
-    "http://purl.org/net/provenance/types#"
-  ]
+  }
 }
