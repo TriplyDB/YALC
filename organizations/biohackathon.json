@@ -1,0 +1,7 @@
+{
+  "description": "National Bioscience Database Center ([NBDC](http://biosciencedbc.jp/?lng=en)) and Database Center for Life Science ([DBCLS](http://dbcls.rois.ac.jp/en/)) have been organizing annual BioHackathon since 2008, mainly focusing on standardization and interoperability of bioinformatics data and web services for improving integration, preservation, and utilization of databases in life sciences.",
+  "homepage": "http://biohackathon.org/",
+  "id": "biohackathon",
+  "image": "biohackathon.png",
+  "name": "BioHackathon"
+}

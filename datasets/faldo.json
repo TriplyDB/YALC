@@ -1,0 +1,13 @@
+{
+  "about": [
+    "biomedical",
+    "vocabulary"
+  ],
+  "description": "FALDO is the Feature Annotation Location Description Ontology.  It is a simple ontology to describe sequence feature positions and regions as found in [GFF3](http://www.sequenceontology.org/gff3.shtml), [DDBJ](http://www.ddbj.nig.ac.jp), [EMBL](http://www.embl.org), [GenBank](http://www.ncbi.nlm.nih.gov/genbank) files, [UniProt](http://www.uniprot.org), and many other bioinformatics resources.\n\nThe aim of this ontology is to describe the position of a sequence region or a feature.  It does not aim to describe features or regions itself, but instead depends on resources such as the Sequence Ontology or the UniProt core ontolgy.\n\nYou can read more about it our [paper describing FALDO](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4907002/).\n\nThe ontology can be browsed here: <http://biohackathon.org/resource/faldo> or at <http://aber-owl.net/ontology/FALDO/#/>.",
+  "homepage": "http://biohackathon.org/resource/faldo",
+  "id": "biohackathon/faldo",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "name": "Feature Annotation Location Description Ontology (FALDO)",
+  "namespace": "http://biohackathon.org/resource/faldo#",
+  "url": "http://biohackathon.org/resource/faldo.ttl"
+}
