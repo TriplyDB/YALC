@@ -89,6 +89,8 @@ unstable server:
 The following datasets are serviced with an incorrect `Content-Type`
 header:
 
+  - [BabelNet](bn.json) emits `text/rdf+n3;charset=utf-8`
+    i.o. `text/turtle`.
   - [BIBO](bibo.json) emits `application/xml`
     i.o. `application/rdf+xml`.
   - [Bibsonomy](bibsonomy.json) emits `application/xml`

@@ -1,0 +1,7 @@
+{
+  "description": "The Sapienza Natural Language Processing Group (Sapienza NLP) is part of the [Computer Science Department](https://www.di.uniroma1.it/en) of the Sapienza University of Rome.\n\nOur group aims at devising and developing innovative approaches to multilingual Natural Language Understanding. We pursue a vision focused on integrating explicit, symbolic knowledge with deep learning.",
+  "homepage": "http://lcl.uniroma1.it/",
+  "id": "sapienza",
+  "image": "sapienza.png",
+  "name": "Sapienza NLP"
+}

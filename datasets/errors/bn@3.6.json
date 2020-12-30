@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "BabelNet is both a multilingual encyclopedic dictionary, with lexicographic and encyclopedic coverage of terms, and an ontology which connects concepts and named entities in a very large network of semantic relations, made up of 13,801,844 millions of nodes, called Babel synsets.  Each Babel synset represents a given meaning and contains all the synonyms which in different languages express that meaning.  The BabelNet resource is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.  The different resources from which BabelNet originates are made available under different licenses, as follows: WordNet: <http://wordnet.princeton.edu/wordnet/license/>, Wikipedia: Creative Commons Attribution-ShareAlike 3.0 Unported license, Wiktionary: Creative Commons Attribution-ShareAlike 3.0 Unported license, OmegaWiki: Creative Commons Attribution 2.5 Generic license or higher, ItalWordNet: Open Data Commons Attribution 1.0 License, and Open Multilingual WordNet: different licenses according to the language, as indicated at <http://compling.hss.ntu.edu.sg/omw/>.  When applicable, specific license rights are specified through the property `dcterms:license`.  Please make sure of using data in compliance with their respective licenses.",
+  "homepage": "http://babelnet.org/rdf/page/",
+  "id": "sapienza/bn@3.6",
+  "image": "bn.svg",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "name": "BabelNet",
+  "prefix": {
+    "bn": "http://babelnet.org/rdf/"
+  }
+}
