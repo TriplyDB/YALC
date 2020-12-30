@@ -1,0 +1,11 @@
+{
+  "about": [
+    "semantics",
+    "statistics"
+  ],
+  "description": "An ontology to capture the use of OWL 2 semantics in RDF knowledge graphs.",
+  "homepage": "https://cedric.cnam.fr/isid/ontologies/files/OntoSemStats.html"
+  "id": "cnam/onto-sem-stats@1.0",
+  "name": "OntoSemStats",
+  "url": "http://cedric.cnam.fr/isid/ontologies/OntoSemStats.owl#"
+}
