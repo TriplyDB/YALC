@@ -160,6 +160,14 @@ Use the following cURL command to test these URLs:
 curl -vL -H 'Accept: application/trig, application/n-quads, application/n-triples;q=0.9, text/turtle;q=0.9, application/x-turtle;q=0.9, text/rdf+n3;q=0.9, application/rdf+xml;q=0.8, text/plain;q=0.8, */*;q=0.7' -H 'User-Agent: TriplyDB/develop (https://api.nightly.triplydb.com/info)' '{url}' | head
 ```
 
+## No RDF
+
+Requesting the following datasets results in a valid server reply, but
+do not return RDF data:
+
+  - [SWRL](swrl@2004-05-21.json) emits `text/html;
+    charset=iso-8859-1`.
+
 ## Erroneous IRIs
 
 ### Incorrect escaping

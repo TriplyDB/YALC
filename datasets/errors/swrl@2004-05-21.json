@@ -1,0 +1,14 @@
+{
+  "about": [
+    "semantics",
+    "vocabulary"
+  ],
+  "description": "The Semantic Web Rule Language (SWRL) is based on a combination of the OWL DL and OWL Lite sublanguages of the OWL Web Ontology Language with the Unary/Binary Datalog RuleML sublanguages of the Rule Markup Language.  SWRL includes a high-level abstract syntax for Horn-like rules in both the OWL DL and OWL Lite sublanguages of OWL.",
+  "homepage": "https://www.w3.org/Submission/SWRL/",
+  "id": "w3c/swrl@2004-05-21",
+  "name": "SWRL: A Semantic Web Rule Language Combining OWL and RuleML",
+  "prefix": {
+    "swrl": "http://www.w3.org/2003/11/swrl#",
+    "swrlb": "http://www.w3.org/2003/11/swrlb#"
+  }
+}
