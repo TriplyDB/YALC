@@ -3,6 +3,6 @@
   "description": "Stabiler Link auf den aktuellen Gesamtabzug von Entity Facts.",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/entity-facts",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "url": "https://data.dnb.de/opendata/authorities_entityfacts.jsonld.gz"
 }

@@ -3,7 +3,7 @@
   "description": "The Manifestation properties element set consists of properties representing attributes and relationships of the RDA *Manifestation* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/m",
   "id": "rda/rdam",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Element Sets: Manifestation Properties",
   "prefix": {
     "rdam": "http://rdaregistry.info/Elements/m/"

@@ -3,7 +3,7 @@
   "description": "Stabiler Link auf den aktuellen Gesamtabzug der Adressdatei (ISIL- und Sigelverz.).",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/bib",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "name": "Gesamtabzug der Adressdatei",
   "url": "https://data.dnb.de/opendata/bib_lds.nt.gz"
 }

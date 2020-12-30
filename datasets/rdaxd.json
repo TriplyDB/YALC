@@ -3,7 +3,7 @@
   "description": "The RDA Entity datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Entity* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/x/datatype/",
   "id": "rda/rdaxd",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Element Sets: Entity datatype Properties",
   "prefix": {
     "rdaxd": "http://rdaregistry.info/Elements/x/datatype/"

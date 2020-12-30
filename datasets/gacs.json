@@ -7,7 +7,7 @@
   "homepage": "https://agrisemantics.org/#GACShome",
   "id": "gacs",
   "image": "gacs.jpg",
-  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "Global Agricultural Concept Space (GACS)",
   "prefix": {
     "gacs": "http://id.agrisemantics.org/gacs/"

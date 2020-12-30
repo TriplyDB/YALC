@@ -6,7 +6,7 @@
   "description": "Vocabulary for describing issues (or problems) and corresponding symptoms and solutions to a broad variety of contexts.  It is intended to provide a generic, reusable core ontology that can be extended or specialized for use in domain-specific situations, aimed at supporting Linked Data publishing.  The solutions are represented by procedures, which are possible workflows for solving corresponding issues.",
   "homepage": "http://ipocore.sourceforge.net",
   "id": "ipo@1.2",
-  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
   "name": "Issue Procedure Ontology (IPO)",
   "prefix": {
     "ipo": "http://purl.org/ipo/core#"

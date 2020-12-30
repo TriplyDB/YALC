@@ -7,7 +7,7 @@
   "homepage": "https://www.zeitschriftendatenbank.de",
   "id": "dnb/zdb",
   "image": "zdb.png",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "name": "Zeitschriftendatenbank (ZDB)",
   "prefix": {
     "zdb": "https://ld.zdb-services.de/resource/"

@@ -3,6 +3,7 @@
   "description": "Ontology for DBpedia.",
   "homepage": "https://wiki.dbpedia.org",
   "id": "dbpedia/dbo@2016-10",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
   "name": "DBpedia Ontology",
   "prefix": {
     "dbo": "http://dbpedia.org/ontology/",

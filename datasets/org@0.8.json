@@ -6,7 +6,7 @@
   "description": "Vocabulary for describing organizational structures, specializable to a broad variety of types of organization.",
   "homepage": "https://www.w3.org/TR/vocab-org/",
   "id": "w3c/org@0.8",
-  "license": "http://www.opendatacommons.org/licenses/pddl/1.0/",
+  "license": "https://www.opendatacommons.org/licenses/pddl/1.0/",
   "name": "Organization ontology",
   "prefix": {
     "org": "https://www.w3.org/ns/org#"

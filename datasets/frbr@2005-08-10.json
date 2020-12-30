@@ -6,7 +6,7 @@
   "description": "This vocabulary is an expression in RDF of the concepts and relations described in the IFLA report on the Functional Requirements for Bibliographic Records (FRBR).\n\nThis vocabulary is a work in progress, it includes RDF classes for the group 1, 2 and 3 entities described by the FRBR report and properties corresponding to the core relationships between those entities.  It does not yet describe attributes of the entities.  Where possible, appropriate relationships with other vocabularies are included in order to place this vocabulary in the context of existing RDF work.",
   "homepage": "https://vocab.org/frbr/core#",
   "id": "ifla/frbr@2005-08-10",
-  "license": "http://creativecommons.org/licenses/by/2.0/uk/",
+  "license": "https://creativecommons.org/licenses/by/2.0/",
   "name": "Functional Requirements for Bibliographic Records (FRBR)",
   "prefix": {
     "frbr": "http://purl.org/vocab/frbr/core#"

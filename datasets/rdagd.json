@@ -2,7 +2,7 @@
   "about": "vocabulary",
   "homepage": "http://www.rdaregistry.info/termList/gender/",
   "id": "rda/rdagd",
-  "license": "http://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Gender",
   "prefix": {
     "rdagd": "http://rdaregistry.info/termList/gender/"

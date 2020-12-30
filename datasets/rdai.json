@@ -3,7 +3,7 @@
   "description": "The Item properties element set consists of properties representing attributes and relationships of the RDA *Item* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/i",
   "id": "rda/rdai",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Item properties",
   "prefix": {
     "rdai": "http://rdaregistry.info/Elements/i/"

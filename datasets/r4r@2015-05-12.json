@@ -6,7 +6,7 @@
   "description": "R4R is a light-weight ontology for representing general relationships of resource for publication and reusing.  It asserts that a certain reusing context occurred and determined by its two basic relations, namely, isPackagedWith and isCitedBy.  The isPackagedWith relation declares the resource is ready to be reused by incorporating License and Provenance information.  The Cites relation is an exceptional to isCitedBy which occurs only two related objects cite each other at the same time.  Five resource objects including article, data, code, provenance and license are major class concepts to represent in this ontology.",
   "homepage": "https://www.w3.org/TR/vocab-org/",
   "id": "r4r@2015-05-12",
-  "license": "http://www.opendatacommons.org/licenses/pddl/1.0/",
+  "license": "https://opendatacommons.org/licenses/pddl/1-0/",
   "prefix": {
     "r4r": "http://guava.iis.sinica.edu.tw/r4r/"
   }

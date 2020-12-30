@@ -3,7 +3,7 @@
   "description": "The Unconstrained properties element set consists of properties representing the elements of all of the RDA entities.  Each property in the element set has semantics which are independent of the LRM model and has no specified domain or range.",
   "homepage": "http://www.rdaregistry.info/Elements/u",
   "id": "rda/rdau",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Unconstrained properties",
   "prefix": {
     "rdau": "http://rdaregistry.info/Elements/u/"

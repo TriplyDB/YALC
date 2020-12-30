@@ -6,7 +6,7 @@
   "description": "Ontology of the [Between our Worlds](/bow) dataset.",
   "homepage": "https://betweenourworlds.org",
   "identifier": "bow/bowo@1.3",
-  "license": "http://creativecommons.org/publicdomain/zero/1.0",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0",
   "name": "Between Our Worlds Ontology",
   "prefix": {
     "bow": "https://betweenourworlds.org/ontology/"

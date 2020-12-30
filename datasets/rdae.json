@@ -3,7 +3,7 @@
   "description": "The Expression properties element set consists of properties representing attributes and relationships of the RDA *Expression* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/e/",
   "id": "rda/rdae",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Element Sets: Expression Properties",
   "prefix": {
     "rdae": "http://rdaregistry.info/Elements/e/"

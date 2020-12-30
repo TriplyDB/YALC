@@ -3,7 +3,7 @@
   "description": "The Manifestation object properties element set consists of properties accommodating object values for relationships of the RDA *Manifestation*",
   "homepage": "http://www.rdaregistry.info/Elements/m/object/",
   "id": "rda/rdamo",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Element Sets: Manifestation Object Properties",
   "prefix": {
     "rdamo": "http://rdaregistry.info/Elements/m/object/"

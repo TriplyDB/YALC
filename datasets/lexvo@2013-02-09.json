@@ -3,7 +3,7 @@
   "description": "Lexvo.org brings information about languages, words, characters, and other human language-related entities to the Linked Data Web and Semantic Web.  The Linked Data Web is a worldwide initiative to create a Web of Data that exposes the relationships between entities in our world.  Lexvo.org adds a new perspective to this Web by exposing how everything in our world is connected in terms of language, e.g. by considering semantic relationships between multilingual labels (like book or New York).  Lexvo not only defines global IDs (URIs) for language-related objects, but also ensures that these identifiers are dereferenceable and highly interconnected as well as externally linked to a variety of resources on the Web.  Some of the main features up to date.",
   "homepage": "http://www.lexvo.org",
   "id": "lexvo@2013-02-09",
-  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
   "name": "Lexvo",
   "namespace": "http://lexvo.org/",
   "prefix": {

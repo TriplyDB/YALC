@@ -3,7 +3,7 @@
   "description": "Implementation of the CIDOC Conceptual Reference Model, version 5.0.1, in OWL 2.",
   "id": "cidoc/crm@5.0.1",
   "image": "crm.png",
-  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
   "name": "Conceptual Reference Model (CRM)",
   "namespace": "http://purl.org/NET/cidoc-crm/core#",
   "successor": "cidoc/crm@6.2.1",

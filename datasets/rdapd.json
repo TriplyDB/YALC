@@ -3,7 +3,7 @@
   "description": "The Place datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Place* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/p/datatype",
   "id": "rda/rdapd",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Place datatype properties",
   "prefix": {
     "rdapd": "http://rdaregistry.info/Elements/p/datatype/"

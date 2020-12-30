@@ -3,7 +3,7 @@
   "description": "The Nomen object properties element set consists of properties accommodating object values for relationships of the RDA *Nomen* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/n/object/",
   "id": "rda/rdano",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Element Sets: Nomen Object Properties",
   "prefix": {
     "rdano": "http://rdaregistry.info/Elements/n/object/"

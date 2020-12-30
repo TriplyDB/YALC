@@ -4,7 +4,7 @@
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/gnd",
   "image": "gnd.jpg",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "name": "Gesamtabzug der GND",
   "namespace": "http://d-nb.info/gnd/",
   "prefix": {

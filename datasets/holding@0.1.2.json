@@ -7,7 +7,7 @@
   "description": "A vocabulary for describing (library) holdings.  The Holding Ontology deals with [items]() and their relations to agents and documents. An item is a copy or exemplar of a document. Items are also referred to as holdings, but a holding is moreover the description of an agents inventory and access information for the item. Items may further be connected to services, locations, and chronologies.",
   "homepage": "http://dini-ag-kim.github.io/holding-ontology/holding.html",
   "id": "holding@0.1.2",
-  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
   "name": "Holding Ontology",
   "prefix": {
     "holding": "http://purl.org/ontology/holding#"

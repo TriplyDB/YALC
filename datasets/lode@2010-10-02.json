@@ -3,7 +3,7 @@
   "description": "An ontology for publishing descriptions of historical events as Linked Data, and for mapping between other event-related vocabularies and ontologies.",
   "homepage": "http://linkedevents.org/ontology",
   "id": "lode@2010-10-02",
-  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
   "name": "LODE",
   "prefix": {
     "lode": "http://linkedevents.org/ontology/"

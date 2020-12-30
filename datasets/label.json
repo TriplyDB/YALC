@@ -2,7 +2,7 @@
   "about": "vocabulary",
   "description": "Term definitions for singular and plural label properties.",
   "id": "label",
-  "license": "http://creativecommons.org/licenses/by/1.0/",
+  "license": "https://creativecommons.org/licenses/by/1.0/",
   "name": "Label properties",
   "prefix": {
     "label": "http://purl.org/net/vocab/2004/03/label#"

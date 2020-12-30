@@ -3,7 +3,7 @@
   "description": "A categorization reflecting the fundamental form of communication in which the content is expressed and the human sense through which it is intended to be perceived.",
   "homepage": "http://www.rdaregistry.info/termList/RDAContentType",
   "id": "rda/rdaco",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Content Type",
   "prefix": {
     "rdaco": "http://rdaregistry.info/termList/RDAContentType/"

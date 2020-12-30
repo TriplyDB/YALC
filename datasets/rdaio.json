@@ -3,7 +3,7 @@
   "description": "The Item object properties element set consists of properties accommodating object values for relationships of the RDA *Item* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/i/object/",
   "id": "rda/rdaio",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Element Sets: Item Object Properties",
   "prefix": {
     "rdaio": "http://rdaregistry.info/Elements/i/object/"

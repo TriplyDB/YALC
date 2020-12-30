@@ -7,7 +7,7 @@
   "description": "1:50 000 Scale Gazetteer contains over 250 000 place names and is the most detailed gazetteer available.",
   "homepage": "http://data.ordnancesurvey.co.uk/datasets/50k-gazetteer",
   "id": "os/gazetteer",
-  "license": "http://www.ordnancesurvey.co.uk/oswebsite/opendata/licence/docs/licence.pdf",
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
   "name": "50K Gazetteer Linked Data",
   "url": "http://download.data.ordnancesurvey.co.uk/os-linked-data/50KGaz.zip"
 }

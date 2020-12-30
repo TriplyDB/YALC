@@ -3,7 +3,7 @@
   "description": "A categorization reflecting the general type of intermediation device required to view, play, run, etc., the content of a resource.",
   "homepage": "http://www.rdaregistry.info/termList/RDAMediaType",
   "id": "rda/rdamt",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA Media Type",
   "prefix": {
     "rdamt": "http://rdaregistry.info/termList/RDAMediaType/"

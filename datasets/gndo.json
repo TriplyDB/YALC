@@ -7,7 +7,7 @@
   "homepage": "https://d-nb.info/standards/elementset/gnd",
   "id": "dnb/gndo",
   "image": "gnd.jpg",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "name": "GND Ontology",
   "prefix": {
     "gndo": "https://d-nb.info/standards/elementset/gnd#"

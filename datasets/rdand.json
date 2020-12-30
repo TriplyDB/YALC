@@ -3,7 +3,7 @@
   "description": "The Nomen datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Nomen* entity.",
   "homepage": "http://www.rdaregistry.info/Elements/n/datatype",
   "id": "rda/rdand",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Nomen datatype properties",
   "prefix": {
     "rdand": "http://rdaregistry.info/Elements/n/datatype/"

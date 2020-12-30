@@ -7,7 +7,7 @@
   "description": "Boundary-Line™ contains all levels of electoral and administrative boundaries, from district, wards and civil parishes or communities up to parliamentary, assembly and European constituencies.",
   "homepage": "http://data.ordnancesurvey.co.uk/datasets/boundary-line",
   "id": "os/boundary-line",
-  "license": "http://www.ordnancesurvey.co.uk/oswebsite/opendata/licence/docs/licence.pdf",
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
   "name": "Boundary Line Linked Data",
   "url": "http://download.data.ordnancesurvey.co.uk/os-linked-data/boundary-line.zip"
 }

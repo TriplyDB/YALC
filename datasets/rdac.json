@@ -3,7 +3,7 @@
   "description": "The Classes element set consists of classes representing the RDA entities, including RDA Entity, Work, Expression, Manifestation, Item, Agent, Collective Agent, Person, Family, Corporate Body, Nomen, Place, and Timespan.",
   "homepage": "http://www.rdaregistry.info/Elements/c",
   "id": "rda/rdac",
-  "license": "https://creativecommons.org/licenses/by/4.0/deed.en_US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Classes",
   "prefix": {
     "rdac": "http://rdaregistry.info/Elements/c/"

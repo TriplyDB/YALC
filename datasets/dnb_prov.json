@@ -3,6 +3,6 @@
   "description": "Stabiler Link auf den aktuellen Gesamtabzug Metadatenprovenienz DNB-Titeldaten.",
   "homepage": "https://data.dnb.de/opendata/",
   "id": "dnb/prov",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "url": "https://data.dnb.de/opendata/dnb-all_ldsprov.nt.gz"
 }
