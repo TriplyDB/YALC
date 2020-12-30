@@ -127,6 +127,7 @@ object with the following keys:
       <li><code>https://creativecommons.org/licenses/by-sa/3.0/</code></li>
       <li><code>https://creativecommons.org/licenses/by/1.0/</code></li>
       <li><code>https://creativecommons.org/licenses/by/2.0/</code></li>
+      <li><code>https://creativecommons.org/licenses/by/2.5/</code></li>
       <li><code>https://creativecommons.org/licenses/by/3.0/</code></li>
       <li><code>https://creativecommons.org/licenses/by/4.0/</code></li>
       <li><code>https://creativecommons.org/licenses/by/4.0/</code></li>

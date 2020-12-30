@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Encoded Archival Context - Corporate bodies, Persons, and Families ([EAC-CPF](http://eac.staatsbibliothek-berlin.de/)) primarily addresses the description of individuals, families and corporate bodies that create, preserve, use and are responsible for and/or associated with records in a variety of ways.  EAC-CPF standard is quite different from his relative EAD ([Encoded Archival Description](https://archivi.ibc.regione.emilia-romagna.it/ontology/reference_document/www.loc.gov/ead)) widely used in archival description, especially because EAC-CPF standard haven't the concept of “inheritance” and is more “data-centric” than EAD.  During last summer we have studied long time the xsd schema of the standard to find a way to describe te elements and the relations in another way, using an OWL ontology.  The first result was an ontology that describes all the elements and the attributes of the XML schema and refers to tag library and xml diagram for technical specification.  This beta version of the ontology is now available as rdf file and as a graph principally to support the archivist's work during the description of individual or organization responsible for the creation, accumulation, or assembly the described materials.  This first result was added at the W3C document on vocabulary and dataset used in library and archives of the Library Linked Data working group.",
+  "homepage": "https://archivi.ibc.regione.emilia-romagna.it/ontology/reference_document/referencedocument.html",
+  "id": "ibc/eac-cpf@1.1",
+  "license": "https://creativecommons.org/licenses/by/2.5/",
+  "name": "Encoded Archival Context - Corporate bodies, Persons, and Families (EAC-CPF)",
+  "namespace": "http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/"
+}
