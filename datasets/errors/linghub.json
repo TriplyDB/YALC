@@ -1,0 +1,9 @@
+{
+  "about": "language",
+  "description": "A comprehensive location for finding information about language resources.  Information about over 100,000 resources.  For over 1,000 languages.  Drawn from multiple sources.",
+  "homepage": "http://linghub.org/",
+  "id": "clarin/linghub",
+  "image": "llodc.svg",
+  "name": "LingHub",
+  "url": "http://linghub.org/linghub.nt.gz"
+}

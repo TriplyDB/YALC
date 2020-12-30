@@ -206,6 +206,9 @@ Some characters are not allowed to appear unescaped in IRIs.
     contains a space in IRI
     `http://def.isotc211.org/iso19115/-1/2014/ExampleOfExtendedMatadata/code/KeywordTypeCode
     -BioCollection`.
+  - [LingHub](linghub.json) line 11:
+    `<http://logd.tw.rpi.edu/source/congress-gov/file/biographical-directory-of-the-united-states-congress/version/2012-Jan-04/conversion/congress-gov-biographical-directory-of-the-united-state
+    s-congress-2012-Jan-04.ttl.tgz>`
   - [Linked Movie Database (2012-02-10)](linkedmdb@2012-02-10.json)
     line 35.710: `<http://data.linkedmdb.org/resource/country/iso
     alpha2>`.

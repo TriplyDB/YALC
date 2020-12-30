@@ -1,0 +1,7 @@
+{
+  "description": "CLARIN makes digital language resources available to scholars, researchers, students and citizen-scientists from all disciplines, especially in the humanities and social sciences, through single sign-on access.  CLARIN offers long-term solutions and technology services for deploying, connecting, analyzing and sustaining digital language data and tools.  CLARIN supports scholars who want to engage in cutting edge data-driven research, contributing to a truly multilingual European Research Area.",
+  "homepage": "https://www.clarin.eu/",
+  "id": "clarin",
+  "image": "clarin.png",
+  "name": "CLARIN - European Research Infrastructure for Language Resources and Technology"
+}
