@@ -1,0 +1,14 @@
+{
+  "about": [
+    "multimedia",
+    "vocabulary"
+  ],
+  "description": "This small vocabulary is intended to extend [Atom OWL](/sun/awol).\n\nCurrently covers:\n  - [Atom Threading Extensions](http://www.ietf.org/rfc/rfc4685.txt)\n  - [Feed Paging and Archiving](http://www.ietf.org/rfc/rfc5005.txt)\n\nNo plans:\n  - [Atom License Extension](http://www.ietf.org/rfc/rfc4946.txt); use `xhv:license` instead.",
+  "id": "ax@2010-01-20",
+  "license": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "name": "AtomOwl Vocabulary Specification Extentions"
+  "prefix": {
+    "ax": "http://buzzword.org.uk/rdf/atomix#"
+  },
+  "url": "https://ontologi.es/atomix#"
+}

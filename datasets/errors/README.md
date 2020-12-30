@@ -221,6 +221,9 @@ Some characters are not allowed to appear unescaped in IRIs.
 
 The following datasets contain syntax errors:
 
+  - [AtomOwl Vocabylary Specification Extension](ax.json) contains two
+    predicate terms on line 73: `ax:updated rdfs:range a
+    xsd:dateTime.`
   - [DBpedia](dbpedia@2019-08-30.json) URL
     `https://downloads.dbpedia.org/repo/lts/text/short-abstracts/2016.10.01/short-abstracts_lang=yue.ttl.bz2`
     contains an unescaped control character (0x11, device control 1)
