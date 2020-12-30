@@ -1,0 +1,6 @@
+{
+  "description": "We present the City Data Pipeline – a system for gathering city performance indicators published as Open Data in order to ease the compilation of studies and reports used within Siemens.  Under the assumption that Open Data provides means to automatise tedious data research tasks, we have built a system that integrates basic indicators for cities from various Open Data sources.  The architecture is flexible, extensible, and natively based on RDF & SPARQL.",
+  "homepage": "http://citydata.wu.ac.at",
+  "id": "city-data-pipeline",
+  "name": "Open City Data Pipeline"
+}

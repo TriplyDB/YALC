@@ -1,0 +1,12 @@
+{
+  "about": [
+    "egov",
+    "vocabulary"
+  ],
+  "homepage": "http://citydata.wu.ac.at/ontology.html#",
+  "id": "city-data-pipeline/cd",
+  "name": "City Data Ontology",
+  "prefix": {
+    "cd": "http://citydata.wu.ac.at/ns#"
+  }
+}
