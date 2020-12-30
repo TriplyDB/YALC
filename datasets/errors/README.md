@@ -152,6 +152,12 @@ the above `Accept` header:
   - [W3C RDFa](rdfa@2013-03-11.json)
   - [W3C SPARQL Service Description](sd@1.1.json)
 
+Use the following cURL command to test these URLs:
+
+```sh
+curl -vL -H 'Accept: application/trig, application/n-quads, application/n-triples;q=0.9, text/turtle;q=0.9, application/x-turtle;q=0.9, text/rdf+n3;q=0.9, application/rdf+xml;q=0.8, text/plain;q=0.8, */*;q=0.7' -H 'User-Agent: TriplyDB/develop (https://api.nightly.triplydb.com/info)' '{url}' | head
+```
+
 ## Erroneous IRIs
 
 ### Incorrect escaping
