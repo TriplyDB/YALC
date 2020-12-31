@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "Public Contracts Ontology offers a means of expression for describing public contracts in the public sector.",
+  "homepage": "https://github.com/opendatacz/public-contracts-ontology",
+  "id": "opendata-cz/pc@2012-10-10",
+  "name": "Public Contracts Ontology",
+  "prefix": {
+    "pc": "http://purl.org/procurement/public-contracts#"
+  }
+}
