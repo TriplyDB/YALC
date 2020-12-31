@@ -1,0 +1,13 @@
+{
+  "about": [
+    "egov",
+    "vocabulary"
+  ],
+  "homepage": "https://colinmaudry.github.io/datagouvfr-rdf/OnToology/ontology/dgfr.ttl/documentation/index.html",
+  "id": "data-gouv-fr/dgfr@2014-12-12",
+  "license": "https://unlicense.org",
+  "name": "Data.gouv.fr (DGFR) ontology",
+  "prefix": {
+    "dgfr": "http://colin.maudry.com/ontologies/dgfr#"
+  }
+}
