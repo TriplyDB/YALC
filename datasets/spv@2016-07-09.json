@@ -1,0 +1,12 @@
+{
+  "about": [
+    "semantics",
+    "vocabulary"
+  ],
+  "description": "The vocabulary for SP-statements, i.e., statements about data completeness of entity-centric KBs (e.g., Wikidata).",
+  "id": "unibz/spv@2016-07-09",
+  "name": "SP-statements Vocabulary",
+  "prefix": {
+    "spv": "http://completeness.inf.unibz.it/sp-vocab#"
+  }
+}
