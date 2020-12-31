@@ -99,6 +99,8 @@ header:
     `application/rdf+xml`.
   - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
     `application/rdf+xml`.
+  - [Public Contracts Ontology](pc@2012-10-10) emits `text/plain`
+    i.o. `application/rdf+xml`.
   - [SDMX Attribute](sdmx-attribute.json) emits `text/plain;
     charset=utf-8` i.o. `text/turtle`.
   - [SDMX Code](sdmx-code.json) emits `text/plain; charset=utf-8`;
