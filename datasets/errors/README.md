@@ -125,6 +125,7 @@ The following datasets emit no `Content-Type` header at all:
   - [lexinfo 2.0](lexinfo@2.0.json)
   - [lexinfo 3.0](lexinfo@3.0.json)
   - [Lexvo Ontology](lvont.json)
+  - [SP-statements vocabulary](spv@2016-07-09)
   - [SPIN: Modeling Vocabulary](spin@2014-11-07.json)
 
 ## Erroneous handling of `Accept` header
