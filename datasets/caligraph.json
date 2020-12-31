@@ -1,0 +1,21 @@
+{
+  "about": "",
+  "description": "CaLiGraph is a large semantic knowledge graph with a rich ontology compiled from the DBpedia ontology and Wikipedia categories & list pages.  The ontology is enriched with fine-grained value restrictions on its classes that are learned through the Cat2Ax approach.  A large amount of CaLiGraph's resources are extracted from Wikipedia list pages through a combination of the ontological information with machine learning methods.",
+  "id": "dws/caligraph@1.3",
+  "name": "CaLiGraph",
+  "url": [
+    "https://zenodo.org/record/4050308/files/caligraph-metadata.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-ontology.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-ontology_dbpedia-mapping.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-ontology_provenance.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-instances_types.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-instances_transitive-types.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-instances_labels.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-instances_relations.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-instances_dbpedia-mapping.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/caligraph-instances_provenance.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/dbpedia_caligraph-instances.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/dbpedia_caligraph-types.nt.bz2?download=1",
+    "https://zenodo.org/record/4050308/files/dbpedia_caligraph-relations.nt.bz2?download=1"
+  ]
+}
