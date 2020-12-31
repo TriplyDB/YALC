@@ -10,5 +10,5 @@
   "prefix": {
     "relator": "http://id.loc.gov/vocabulary/relators/"
   },
-  "url": "http://id.loc.gov/static/data/downloads/vocabularyrelators.nt.zip"
+  "url": "https://lds-downloads.s3.amazonaws.com/vocabularyrelators.nt.zip"
 }
