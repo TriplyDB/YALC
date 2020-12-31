@@ -1,0 +1,15 @@
+{
+  "about": [
+    "cartoon",
+    "vocabulary"
+  ],
+  "description": "The Comic Book Ontology is a metadata vocabulary for describing comic books and comic book collections.  It is a work in progress and part of a larger research project exploring the organization and description of data about comic books.",
+  "homepage": "https://comicmeta.org/cbo/",
+  "id": "comicmeta/cbo@0.15.3",
+  "license": "https://creativecommons.org/licenses/by/4.0",
+  "name": "Comic Book Ontology",
+  "prefix": {
+    "cbo": "http://comicmeta.org/cbo"
+  },
+  "url": "https://comicmeta.org/cbo/cbo.owl"
+}
