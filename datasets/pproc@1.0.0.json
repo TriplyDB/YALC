@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "The PPROC ontology defines the necessary concepts to describe public procurement process and the contracts of public sector (public e-procurement).  The ontology has been designed with the main purpose of publishing data about public contracts.  This ontology extends the [Public Contracts Ontology](https://code.google.com/p/public-contracts-ontology/), an ontology developed by the czech Open Data initiative.  The development of this ontology was part of the CONTSEM project (TSI-020606-2012-4), led by [iASoft](http://www.iasoft.es) ([OESIA](http://www.oesia.com/en/home)).",
+  "homepage": "http://contsem.unizar.es/def/sector-publico/pproc.html#",
+  "id": "pproc@1.0.0",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "name": "Public Procurement Ontology",
+  "prefix": {
+    "pproc": "http://contsem.unizar.es/def/sector-publico/pproc#"
+  }
+}
