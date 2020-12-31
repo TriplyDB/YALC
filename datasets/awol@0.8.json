@@ -6,7 +6,7 @@
   "description": "AtomOwl is an ontology whose aim is to capture the semantics of [rfc4287](http://www.atompub.org/rfc4287.html).  RFC4287 is a format to syndicate online content, such as weblogs, podcasts, videocasts, etc.  Syndication is a helpful way to alert interested readers to changes to a web site, be it to new content or changed content.\n\nAs AtomOwl captures the semantics of rfc4287 it is easy to convert rfc4287 feeds to AtomOwl statements and thus add them to a triple database, which can the be queried using a SPARQL endpoint.  This should then help make very powerful searched for updated content possible.\n\nAtom being built on RDF is very easily extensible.  It meshes very well with other Ontologies such as [FOAF](/none/foaf) or [SIOC](/sioc-project/sioc).",
   "homepage": "https://bblfish.net/work/atom-owl/2006-06-06/AtomOwl.html",
   "id": "sun/awol@0.8",
-  "image": "awol",
+  "image": "awol.jpg",
   "license": "https://creativecommons.org/licenses/by/1.0/",
   "name": "AtomOwl Vocabulary Specification",
   "prefix": {
