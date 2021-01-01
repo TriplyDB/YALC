@@ -44,6 +44,13 @@ supported:
   - [Web Annotation Data Model](anno.json)
   - [Entity Facts](entity-facts.json)
 
+## Unclear why no RDF was extracted
+
+Investigate why no RDF can be extracted from the following, seemingly
+correct, URLs:
+
+  - [HistoGraph](hg.json) bug [#4878](https://issues.triply.cc/issues/4878).
+
 ## Only the most recent data is made available
 
 The following datasets only publish the most recent versions that go
