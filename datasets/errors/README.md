@@ -72,7 +72,7 @@ Since this process requires a JavaScript engine and Cookie store, most
 machine users will not be able to access datasets disseminated through
 CloudFlare.
 
-The following datasets cannot be accessed because they use the
+The following datasets cannot be accessed because they use this
 CloudFlare approach:
 
   - [AGROVOC VoID](agrovoc-void.json)

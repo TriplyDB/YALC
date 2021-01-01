@@ -135,9 +135,6 @@ object with the following keys:
       <li><code>https://opendatacommons.org/licenses/by/1-0/</code></li>
       <li><code>https://opendatacommons.org/licenses/odbl/1.0/</code></li>
       <li><code>https://opendatacommons.org/licenses/pddl/1-0/</code></li>
-      <li><code>https://unlicense.org/</code></li>
-      <li><code>https://www.gnu.org/licenses/lgpl-3.0.html</code></li>
-      <li><code>https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/</code></li>
     </ul>
     <p>This key is optional.  Since datasets in YALC must have a license, the value <code>https://creativecommons.org/licenses/by/4.0/</code> is used in case this key is omitted.
   </dd>
