@@ -1,0 +1,7 @@
+{
+  "description": "Eurostat is the statistical office of the European Union.\n\nIts mission is to provide high quality statistics and data on Europe.\n\nEurostat produces European statistics in partnership with National Statistical Institutes and other national authorities in the EU Member States.  This partnership is known as the European Statistical System (ESS).  It also includes the statistical authorities of the European Economic Area (EEA) countries and Switzerland.",
+  "homepage": "https://ec.europa.eu/eurostat",
+  "id": "eurostat",
+  "image": "eurostat.png",
+  "name": "Eurostat"
+}
