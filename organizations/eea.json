@@ -1,0 +1,7 @@
+{
+  "description": "The European Environment Agency provides sound, independent information on the environment for those involved in developing, adopting, implementing and evaluating environmental policy, and also the general public.  In close collaboration with [the European Environmental Information and Observation Network (Eionet)](https://www.eea.europa.eu/about-us/countries-and-eionet) and its 32 member countries, the EEA gathers data and produces assessments on a wide range of topics related to the environment.",
+  "homepage": "https://www.eea.europa.eu",
+  "id": "eea",
+  "image": "eea.png",
+  "name": "European Environment Agency (EEA)"
+}

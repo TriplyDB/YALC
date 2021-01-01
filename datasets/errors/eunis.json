@@ -1,0 +1,25 @@
+{
+  "about": "ecology",
+  "description": "EUNIS consists of information on Species, Habitat types and Sites.",
+  "id": "eea/eunis",
+  "image": "eunis.png",
+  "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE",
+  "name": "European Nature Information System (EUNIS)",
+  "url": [
+    "http://eunis.eea.europa.eu/rdf/biogeoregions.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/countries.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/countrybiogeo.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/designations.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/eunishabitats.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/geoscope.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/habitats.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/images.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/legalrefs.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/references.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/regioncoverage.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/sites.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/species.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/speciesgroup.rdf.gz",
+    "http://eunis.eea.europa.eu/rdf/taxonomies.rdf.gz"
+  ]
+}

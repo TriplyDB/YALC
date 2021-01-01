@@ -186,7 +186,7 @@ The following datasets use `\u`-escaping:
   - [VIAF](viaf.json) line 841,558:
     `<http://dbpedia.org/resource/National_Theatre_"To\u0161a_Jovanovi\u0107">`
 
-### Unescaped characters
+### Absent escaping
 
 Some characters are not allowed to appear unescaped in IRIs.
 
@@ -227,6 +227,15 @@ Some characters are not allowed to appear unescaped in IRIs.
     alpha2>`.
   - [Rijksmuseum Actors](actors.json) line 106.332: `<skos:exactMatch
     rdf:resource=" https://rkd.nl/explore/artists/420649"/>`
+
+### Scheme grammar violations
+
+The following datasets cannot be parsed because they contain a forward
+slash character in their scheme component:
+
+  - [European Nature Information System (EUNIS)](eunis.json) file
+    `http://eunis.eea.europa.eu/rdf/countrybiogeo.rdf.gz`, line 17:
+    `countrybiogeo/AD:AL`.
 
 ## Syntax errors
 
