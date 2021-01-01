@@ -1,0 +1,22 @@
+{
+  "about": "ecology",
+  "description": "The European Pollutant Release and Transfer Register (E-PRTR) is a Europe-wide register that provides easily accessible key environmental data from industrial facilities in European Union Member States and in Iceland, Liechtenstein, Norway, Serbia and Switzerland.",
+  "id": "eea/e-prtr",
+  "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE",
+  "name": "European Pollutant Release and Transfer Register (E-PRTR)",
+  "url": [
+    "http://prtr.ec.europa.eu/rdf/Activity.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/CompetentAuthority.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/Facility.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/FacilityID_Changes.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/FacilityReport.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/PollutantRelease.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/PollutantReleaseMethodUsed.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/PollutantTransfer.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/PollutantTransferMethodUsed.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/UploadedReports.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/WasteTransfer.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/WasteTransferMethodUsed.rdf.gz",
+    "http://prtr.ec.europa.eu/rdf/lookuptables.rdf.gz"
+  ]
+}

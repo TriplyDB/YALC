@@ -26,6 +26,15 @@ the end or directly before the file compression/archive format):
   - [MARC List for Languages](loc_languages.json) local name
     `vocabularylanguages.nt.skos.zip`.
 
+## Relative IRIs containing a forward slash and a colon
+
+The following datasets are not yet supported because they contain
+relative IRIs with a forward slash and a colon
+(<https://github.com/rdfjs/rdfxml-streaming-parser.js/issues/45>):
+
+  - [European Pollutant Release and Transfer Register
+    (E-PRTR)](e-prtr.json)
+
 ## Unsupported licenses
 
 The following licenses are not yet supported:
