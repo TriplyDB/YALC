@@ -28,22 +28,12 @@ the end or directly before the file compression/archive format):
 
 ## Unsupported licenses
 
-The following datasets contain licenses that are not yet supported.
+The following licenses are not yet supported:
 
-License <https://unlicense.org>:
-
-  - [Data.gouv.fr (DGFR) ontology](dgfr.json)
-
-License <https://www.gnu.org/licenses/lgpl-3.0.html>:
-
-  - [LKIF Core Ontology](lkif@1.0.3.json)
-  - [LKIF Core Ontology](lkif@1.1.json)
-
-License <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/>:
-
-  - [50K Gazetteer Linked Data](gazetteer.json)
-  - [Bounary Line Linked Data](boundary-line.json)
-  - [Code-Point Open Linked Data](codepoint.json)
+  - <http://publications.europa.eu/resource/authority/licence/COM_REUSE>
+  - <https://unlicense.org>
+  - <https://www.gnu.org/licenses/lgpl-3.0.html>
+  - <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/>
 
 ## macOS archives
 
