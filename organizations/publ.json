@@ -1,0 +1,7 @@
+{
+  "description": "The Publications Office of the European Union (Publications Office), based in Luxembourg, is an interinstitutional office whose task is to publish the publications of the institutions of the European Union ([Decision 2009/496/EC](http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1425380943945&uri=CELEX:32009D0496), [Euratom](http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1425380943945&uri=CELEX:32009D0496)).  Its core activities include production and dissemination of legal and general publications in a variety of paper and electronic formats, managing a range of websites providing EU citizens, governments and businesses with digital access to official information and data from the EU, including EUR-Lex, the EU Open Data Portal, EU Publications, TED (Tenders Electronic Daily), CORDIS and ensuring long-term preservation of content produced by EU institutions and bodies.",
+  "homepage": "https://op.europa.eu/en/home",
+  "id": "publ",
+  "image": "publ.jpg",
+  "name": "Publications Office"
+}

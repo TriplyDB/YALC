@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "The Digital Europa Thesaurus (DET) is a multilingual thesaurus covering the main subject matters of the European Commission's public communications.",
+  "id": "publ/det",
+  "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE",
+  "name": "Digital Europa Thesaurus (DET)",
+  "url": [
+    "https://op.europa.eu/euvoc-portlet/download?cellarURI=http%3A%2F%2Fpublications.europa.eu%2Fresource%2Fcellar%2F1deb8f26-d93d-11e9-9c4e-01aa75ed71a1.0001.02%2FDOC_1&fileName=skos-core.rdf",
+    "https://op.europa.eu/euvoc-portlet/download?cellarURI=http://publications.europa.eu/resource/cellar/65a89dcf-d9e8-11e9-9c4e-01aa75ed71a1.0001.01/DOC_1&fileName=DET_Alignment_EuroVoc.rdf"
+  ]
+}
