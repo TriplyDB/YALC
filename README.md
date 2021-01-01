@@ -14,7 +14,7 @@ that are published on the web.  These datasets can be freely used at
 
 ## Get started
 
-Go to https://triplydb.com and used the search bar to search for
+Go to https://triplydb.com and use the search bar to search for
 datasets.
 
 ## Contribute
@@ -31,14 +31,14 @@ This repository contains the following directories:
 <dl>
   <dt><a href="datasets"><code>/datasets</code></a></dt>
   <dd>
-    Contains one configuration file for each Linked Open Dataset.
+    Contains one configuration file for each dataset.
     <dl>
       <dt><a href="datasets/errors"><code>/datasets/errors</code></a></dt>
-      <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because it contains errors.</dd>
+      <dd>Contains one configuration file for each dataset that cannot yet be uploaded because it contains errors.</dd>
       <dt><a href="datasets/todo"><code>/datasets/todo</code></a></dt>
-      <dd>Contains one configuration file for each Linked Open Dataset that cannot yet be uploaded because some functionality is still missing.</dd>
+      <dd>Contains one configuration file for each dataset that cannot yet be uploaded because some functionality is still missing.</dd>
       <dt><a href="datasets/too-little-info"><code>/datasets/too-little-info</code></a></dt>
-      <dd>Contains partial configuration files for datasets for which currently have too little information.</dd>
+      <dd>Contains partial configuration files for datasets for which too little information is available at the moment.</dd>
     </dl>
   </dd>
   <dt><a href="img"><code>/img</code></a></dt>
@@ -51,9 +51,10 @@ This repository contains the following directories:
 
 ## Configuration format
 
-The configuration files in YALC all follow a simple JSON configuration
-formats.  The following subsections document the formats for dataset
-configuration files and for organization configuration files.
+The configuration files in YALC all follow a JSON configuration
+format.  The following subsections document the format for dataset
+configuration files and the format for organization configuration
+files.
 
 ### Dataset configuration format
 
