@@ -1,0 +1,172 @@
+prefix dcat: <http://www.w3.org/ns/dcat#>
+prefix dct: <http://purl.org/dc/terms/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix prov: <http://www.w3.org/ns/prov#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix sdo: <https://schema.org/>
+prefix sh: <http://www.w3.org/ns/shacl#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix void: <http://rdfs.org/ns/void#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+prefix id: <https://triplydb.com/Triply/yalc/id/>
+prefix shp: <https://triplydb.com/Triply/yalc/shp/>
+prefix tp-shp: <https://triplydb.com/Triply/tp/shp/>
+prefix tv: <https://triplydb.com/Triply/tv/def/>
+prefix yalc: <https://triplydb.com/Triply/yalc/def/>
+
+shp: {
+  shp:Dataset
+    a sh:NodeShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:description "A linked dataset that is published in YALC."@en;
+    sh:name "Linked dataset"@en;
+    sh:property
+      shp:about,
+      shp:asset,
+      shp:changeFrequency,
+      shp:contentUrl,
+      shp:description,
+      shp:homepage,
+      shp:image,
+      shp:license,
+      shp:name,
+      shp:namespace,
+      shp:predecessor,
+      shp:successor,
+      shp:version,
+      tp-shp:prefixDeclaration;
+    sh:targetNode void:Dataset.
+
+  shp:about
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+   #sh:class todo;
+    sh:description "YALC datasets must have at least one topic."@en;
+    sh:minCount 1;
+    sh:name "has topic"@en;
+    sh:nodeKind sh:IRI;#
+    sh:path sdo:about;
+    sh:pattern "^https://triplydb.com/Triply/yalc/id/topic/\\S*".
+
+  shp:asset
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:datatype xsd:anyURI;
+    sh:description "A linked dataset can have an arbitrary number of binary files or 'assets'."@en;
+    sh:name "has asset"@en;
+    sh:nodeKind sh:Literal;#
+    sh:path sdo:hasPart.
+
+  shp:changeFrequency
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:class yalc:ChangeFrequency;#
+    sh:in#
+      ( id:never#
+        id:yearly#
+        id:monthly#
+        id:weekly#
+        id:daily#
+        id:hourly#
+        id:always );#
+    sh:maxCount 1;
+    sh:name "has change frequency"@en;
+    sh:nodeKind sh:IRI;#
+    sh:path yalc:changeFrequency.
+
+  shp:contentUrl
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:datatype xsd:anyURI;
+    sh:description "A YALC dataset must have at least one content URL from which RDF data can be downloaded."@en;
+    sh:minCount 1;
+    sh:name "has content URL"@en;
+    sh:path
+      ( prov:wasDerivedFrom
+        dcat:distribution
+        sdo:contentUrl ).
+
+  shp:description
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:datatype rdf:langString;
+    sh:description "YALC datasets must have exactly one description in English."@en;
+    sh:languagesIn ( "en" );
+    sh:maxCount 1;
+    sh:minCount 1;
+    sh:name "has description"@en;
+    sh:nodeKind sh:Literal;#
+    sh:path sdo:description;
+    sh:uniqueLang true.
+
+  shp:homepage
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:datatype xsd:anyURI;
+    sh:maxCount 1;
+    sh:minCount 1;
+    sh:name "has homepage"@en;
+    sh:nodeKind sh:Literal;#
+    sh:path foaf:homepage.
+
+  shp:image
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:class sdo:ImageObject;
+    sh:maxCount 1;
+    sh:minCount 1;
+    sh:name "has image"@en;
+    sh:nodeKind sh:IRI;#
+    sh:path sdo:image.
+
+  shp:license
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:class sdo:License;
+    sh:description "YALC datasets must have exactly one license."@en;
+   #sh:in
+   #  ( todo: );
+    sh:maxCount 1;
+    sh:minCount 1;
+    sh:name "has license"@en;
+    sh:nodeKind sh:IRI;#
+    sh:path sdo:license.
+
+  shp:name
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:datatype xsd:string;
+    sh:maxCount 1;
+    sh:minCount 1;
+    sh:name "has name"@en;
+    sh:path sdo:name.
+
+  shp:namespace
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:datatype xsd:anyURI;#
+    sh:nodeKind sh:Literal;#
+    sh:path yalc:namespace.
+
+  shp:successor
+    a sh:PropertyShape;
+    sh:class void:Dataset;
+    sh:description "YALC dataset can have at most one direct successor.  This is a linked dataset with the same name but a lower version identifier."@en;
+    sh:maxCount 1;
+    sh:name "has direct successor"@en;
+    sh:nodeKind sh:IRI;#
+    sh:path
+      [ sh:inversePath prov:priorVersion ].
+
+  shp:version
+    a sh:PropertyShape;#
+    rdfs:isDefinedBy shp:;#
+    sh:class tv:Version;
+    sh:description "The relationship between a linked dataset and its version indicator."@en;
+    sh:name "has version"@en;
+    sh:nodeKind sh:IRI;#
+    sh:path dct:hasVersion.
+}

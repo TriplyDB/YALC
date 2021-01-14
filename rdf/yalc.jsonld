@@ -5,6 +5,9 @@
     "@vocab": "https://triplydb.com/Triply/yalc/vocab/",
     "Dataset": "void:Dataset",
     "Organization": "sdo:Organization",
+    "SemanticVersion": {
+      "@id": "tv:SemanticVersion"
+    },
     "about": {
       "@container": "@set",
       "@context": {
@@ -60,9 +63,11 @@
       "@id": "sdo:license"
     },
     "major": {
+      "@id": "tv:major",
       "@type": "xsd:nonNegativeInteger"
     },
     "minor": {
+      "@id": "tv:minor",
       "@type": "xsd:nonNegativeInteger"
     },
     "name": {
@@ -81,10 +86,13 @@
     },
     "owl": "http://www.w3.org/2002/07/owl#",
     "prefix": {
+      "@id": "sh:namespace",
       "@type": "xsd:anyURI"
     },
     "prefixDeclaration": {
-      "@container": "@set"
+      "@container": "@set",
+      "@id": "tp:prefixDeclaration",
+      "@type": "@id"
     },
     "priorVersion": {
       "@id": "owl:priorVersion",
@@ -95,6 +103,8 @@
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "skos": "http://www.w3.org/2004/02/skos/core#",
     "time": "http://www.w3.org/2006/time#",
+    "tp": "https://triplydb.com/Triply/tp/def/",
+    "tv": "https://triplydb.com/Triply/tv/def/",
     "sdo": "https://schema.org/",
     "void": "http://rdfs.org/ns/void#",
     "wasDerivedFrom": {

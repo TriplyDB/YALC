@@ -1,0 +1,47 @@
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix sdo: <https://schema.org/>
+prefix time: <http://www.w3.org/2006/time#>
+prefix vann: <http://purl.org/vocab/vann/>
+prefix void: <http://rdfs.org/ns/void#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+prefix graph: <https://triplydb.com/Triply/yalc/graphs/>
+prefix id: <https://triplydb.com/Triply/yalc/id/>
+prefix yalc: <https://triplydb.com/Triply/yalc/def/>
+
+yalc: {
+  yalc:changeFrequency
+    a owl:ObjectProperty;
+    rdfs:command "The expected change frequency for a resource."@en;
+    rdfs:domain rdfs:Resource;
+    rdfs:isDefinedBy yalc:;#
+    rdfs:label "change frequency"@en;
+    rdfs:range yalc:ChangeFrequency.
+
+  yalc:exampleResource
+    a owl:ObjectProperty;
+    rdfs:comment "An example resource that is indicative of the dataset."@en;
+    rdfs:domain void:Dataset;
+    rdfs:isDefinedBy yalc:;#
+    rdfs:label "has example resource"@en;
+    rdfs:range rdfs:Resource;
+    rdfs:subPropertyOf vann:example.
+
+  yalc:namespace
+    a owl:ObjectProperty;
+    rdfs:comment "The relationship between a dataset and the IRI prefixes (or namespaces) for which the dataset is considered to be the authority."@en;
+    rdfs:domain void:Dataset;
+    rdfs:isDefinedBy yalc:;#
+    rdfs:label "has namespace"@en;
+    rdfs:range xsd:anyURI.
+
+  yalc:organization
+    a owl:ObjectProperty;
+    rdfs:comment "The relationship between a dataset and the organization that publishes it."@en;
+    rdfs:domain void:Dataset;
+    rdfs:isDefinedBy yalc:;#
+    rdfs:label "has organization"@en;
+    rdfs:range sdo:Organization.
+}

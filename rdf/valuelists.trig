@@ -1,0 +1,79 @@
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+
+prefix id: <https://triplydb.com/Triply/yalc/id/>
+prefix yalc: <https://triplydb.com/Triply/yalc/def/>
+
+yalc: {
+    yalc:ChangeFrequency
+    a
+      owl:Class,
+      skos:OrderedCollection;
+    owl:oneOf#
+      ( id:never#
+        id:yearly#
+        id:monthly#
+        id:weekly#
+        id:daily#
+        id:hourly#
+        id:always );#
+    rdfs:comment "The frequently with which a resource is expected to change."@en;
+    rdfs:isDefinedBy yalc:;#
+    rdfs:label "Change frequency"@en;
+    rdfs:subClassOf owl:Thing;#
+    skos:memberList
+      ( id:never
+        id:yearly
+        id:monthly
+        id:weekly
+        id:daily
+        id:hourly
+        id:always );
+    skos:usageNode "These values are intended to act as a guide for crawlers, so that they can determine the frequency with which they want to crawl resources for re-indexing."@en.
+  [ a owl:AllDifferentFrom;#
+    owl:distinctMembers#
+      ( id:never#
+        id:yearly#
+        id:monthly#
+        id:weekly#
+        id:daily#
+        id:hourly#
+        id:always ) ].#
+
+  id:never
+    a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to never change."@en;
+    rdfs:label "Never"@en;
+    skos:scopeNode "Used for archived resources (i.e. resources that will not be changed again)."@en.
+
+  id:yearly
+    a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Yearly"@en.
+
+  id:daily
+    a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every day."@en;
+    rdfs:label "Daily"@en.
+
+  id:monthly
+    a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Monthly"@en.
+
+  id:weekly
+    a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Weekly"@en.
+
+  id:hourly
+    a yalc:ChangeFrequency;
+    rdfs:comment "Indicates that a resource is expected to change (approximately) every hour."@en;
+    rdfs:label "Hourly"@en.
+
+  id:always
+    a yalc:ChangeFrequence;
+    rdfs:comment "Indicates that a resource is expected to be different every time it is accessed."@en;
+    rdfs:label "Always"@en.
+}

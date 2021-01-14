@@ -1,0 +1,80 @@
+prefix dcat: <http://www.w3.org/ns/dcat#>
+prefix dct: <http://purl.org/dc/terms/>
+prefix entailment: <http://www.w3.org/ns/entailment/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix prov: <http://www.w3.org/ns/prov#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix sd: <http://www.w3.org/ns/sparql-service-description#>
+prefix sdo: <https://schema.org/>
+prefix sh: <http://www.w3.org/ns/shacl#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix vann: <http://purl.org/vocab/vann/>
+prefix void: <http://rdfs.org/ns/void#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+prefix graph: <https://triplydb.com/Triply/yalc/graphs/>
+prefix shp: <https://triplydb.com/Triply/yalc/shp/>
+prefix topic: <https://triplydb.com/topic/>
+prefix yalc: <https://triplydb.com/Triply/yalc/def/>
+
+<https://triplydb.com/Triply/yalc> {
+  <https://triplydb.com> dcat:dataset <https://triplydb.com/Triply/tp>.
+
+  <https://triplydb.com/Triply/yalc>
+    a void:Dataset;
+    dct:contributor <https://triplydb.com/wouter>;
+    dct:creator <https://triplydb.com/Triply>;
+    # When was the linked dataset created?
+    dct:created "2021-01"^^xsd:gYearMonth;
+    dct:description "A registry of linked open datasets."@en;
+    # When was the linked dataset published?
+    dct:issued "2021-01"^^xsd:gYearMonth;
+    dct:language "iso639-1:en";
+   #dct:license
+    # When was the linked dataset last modified?
+    dct:modified "2021-01-09"^^xsd:date;
+    dct:publisher <https://triplydb.com/Triply>;
+    dct:source "https://github.com/TriplyDB/YALC"^^xsd:anyURI;
+    dct:subject topic:vocabulary;
+    dct:title "Yet Another LOD Cloud (YALC) Metadata"@en;
+   #foaf:depiction "todo"^^xsd:anyURI;
+    foaf:homepage "https://triplydb.com/Triply/yalc"^^xsd:anyURI;
+    sdo:version "1.0.0";
+   #void:exampleResource todo;
+    void:sparqlEndpoint <https://triplydb.com/Triply/yalc/sparql/default>;
+    void:subSet
+      graph:instances,
+      shp:,
+      yalc:;
+    void:uriRegexPattern "^https://triplydb.com/Triply/yalc\\S*$";
+    void:vocabulary
+      owl:,
+      rdfs:,
+      sh:,
+      vann:.
+
+  shp:
+    a sh:Graph;
+    rdfs:comment "The YALC information model in SHACL."@en;
+    rdfs:label "Information model"@en.
+
+  yalc:
+    a owl:Ontology;
+    owl:imports
+      owl:,
+      rdfs:,
+      sh:;
+    rdfs:comment "The YALC knowledge model in RDFS+OWL."@en;
+    rdfs:label "Knowledge model"@en;
+    vann:preferredNamespacePrefix "yalc";
+    vann:preferredNamespaceUri "https://triplydb.com/Triply/yalc/def/"^^xsd:anyURI.
+
+  <https://triplydb.com/Triply/yalc/sparql/default>
+    dct:title "default";
+    sd:availableGraphs <https://triplydb.com/Triply/yalc/graphs>;
+    sd:defaultEntailmentRegime entailment:Simple;
+    sd:endpoint "https://api.triplydb.com/datasets/Triply/yalc/services/default/sparql"^^xsd:anyURI.
+}
