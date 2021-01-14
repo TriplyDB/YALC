@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "The Collections Ontology (CO) defines unordered collections (Set and Bag) and ordered collections (or List). This ontology has been inspired by the work “Putting OWL in Order: Patterns for Sequences in OWL” by Drummond et al. (OWL-ED 2006).",
+  "homepage": "https://github.com/collections-ontology/collections-ontology",
+  "id": "spar/co@2.0",
+  "name": "Collections Ontology (CO)",
+  "prefix": {
+    "co": "http://purl.org/co"
+  },
+  "url": "https://raw.githubusercontent.com/collections-ontology/collections-ontology/master/collections.owl"
+}

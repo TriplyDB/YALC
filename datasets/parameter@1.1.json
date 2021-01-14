@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "The parameter content ontology design pattern.  This CP is extracted from the DOLCE Ultra Lite ontology. It represents parameters which are constraints or selections on observable values.",
+  "id": "odp/parameter@1.1",
+  "name": "Parameter Content Ontology",
+  "prefix": {
+    "parameter": "http://www.ontologydesignpatterns.org/cp/owl/parameter.owl#"
+  }
+}

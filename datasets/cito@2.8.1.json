@@ -1,0 +1,18 @@
+{
+  "about": [
+    "bibliography",
+    "vocabulary"
+  ],
+  "description": "CiTO, the Citation Typing Ontology, is an ontology for the characterization of citations, both factually and rhetorically.",
+  "homepage": [
+    "http://www.sparontologies.net/ontologies/cito",
+    "https://purl.org/spar/cito"
+  ],
+  "id": "spar/cito@2.8.1",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "name": "Citation Typing Ontology (CiTO)",
+  "prefix": {
+    "cito": "http://purl.org/spar/cito/"
+  },
+  "url": "http://purl.org/spar/cito.nt"
+}

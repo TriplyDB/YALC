@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Recently within the Semantic Web community a new topic has been actively discussed: whether and how to allow literals to be subjects of RDF statements ([link](https://www.w3.org/2001/sw/wiki/Literals_as_Subjects)).  This discussions failed to provide a unique and clear indication of how to proceed in that regard.\n\nAlthough one of the suggestions coming out of the discussion was to explicitly include the proposal in a (future) specification of RDF, this topic is not actually new, particularly in ontology modelling.  The needs to describe “typical” literals (specially strings) as individuals of a particular class has been addressed by a lot of models in past, such as Common Tag (through the class Tag), SIOC (through the classes Category and Tag), SKOS-XL (through the class Label), and LMM (through the class Expression).\n\nAfter considering the above-mentioned models and other related and inspiring ones, this literal reification vocabulary was created to address this issue.  It allows to express literal values as proper ontological individuals so as to use them as subject/object of any assertion within OWL models.",
+  "diagram": "literal-diagram.png",
+  "homepage": "https://github.com/SPAROntologies/literal",
+  "id": "literal@2011-03-23",
+  "name": "Literal Reification pattern",
+  "url": "https://raw.githubusercontent.com/SPAROntologies/literal/master/docs/current/literal.nt"
+}

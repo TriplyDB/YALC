@@ -1,0 +1,19 @@
+{
+  "about": [
+    "publishing",
+    "vocabulary"
+  ],
+  "description": "PSO, the Publishing Status Ontology, is an ontology written in OWL 2 DL for characterizing the publication status of a document or other publication entity at each of the various stages in the publishing process (e.g. draft, submitted, under review, rejected, accepted for publication, proof, published, Version of Record, catalogued, archived).",
+  "diagram": "pso-diagram.png",
+  "homepage": [
+    "http://purl.org/spar/pso.html",
+    "http://www.sparontologies.net/ontologies/pso",
+    "https://github.com/sparontologies/pso"
+  ],
+  "id": "spar/pso@2014-02-01",
+  "name": "Publishing Status Ontology (PSO)",
+  "prefix": {
+    "pso": "http://purl.org/spar/pso/"
+  },
+  "url": "http://purl.org/spar/pso.nt"
+}

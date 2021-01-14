@@ -1,0 +1,15 @@
+{
+  "about": [
+    "argumentation",
+    "vocabulary"
+  ],
+  "description": "The Argument Model Ontology (AMO) is an ontology that allows to describe argumentation according to the 'Toulmin Model of Argument'.",
+  "homepage": [
+    "https://purl.org/spar/amo",
+    "https://sparontologies.github.io/amo/current/amo.html"
+  ],
+  "id": "spar/amo@1.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "name": "Argument Model Ontology (AMO)",
+  "url": "https://raw.githubusercontent.com/SPAROntologies/amo/master/docs/current/amo.nt"
+}

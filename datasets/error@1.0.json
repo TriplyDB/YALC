@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "The Error Ontology is an unit test that allow to produce an inconsistent model if a particular (and incorrect) situation happens.\n\nIt works by means of a data property, ‘hasError’ that denies its usage for ant resource.  In fact, by defining its domain as “all those resource that don't have any hasErrorDescription assertion”, a resource that asserts having an error makes the ontology inconsistent.",
+  "homepage": "https://github.com/SPAROntologies/error",
+  "id": "error@1.0",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "name": "Error Ontology",
+  "prefix": {
+    "error": "http://www.essepuntato.it/2009/10/error/"
+  },
+  "url": "https://raw.githubusercontent.com/SPAROntologies/error/master/docs/current/error.ttl"
+}

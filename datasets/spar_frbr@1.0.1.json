@@ -1,0 +1,18 @@
+{
+  "about": [
+    "bibliography",
+    "vocabulary"
+  ],
+  "description": "The Essential FRBR in OWL2 DL Ontology (FRBR) is an expression in OWL 2 DL of the basic concepts and relations described in the IFLA report on the Functional Requirements for Bibliographic Records (FRBR), also described in Ian Davis's RDF vocabulary.",
+  "homepage": [
+    "http://purl.org/spar/frbr.html",
+    "http://www.sparontologies.net/ontologies/frbr",
+    "https://github.com/sparontologies/frbr"
+  ],
+  "id": "spar/frbr@1.0.1",
+  "name": "Essential FRBR in OWL2 DL",
+  "prefix": {
+    "frbr": "http://purl.org/vocab/frbr/core#"
+  },
+  "url": "http://purl.org/spar/frbr.nt"
+}

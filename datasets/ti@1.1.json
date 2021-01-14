@@ -1,0 +1,12 @@
+{
+  "about": [
+    "time",
+    "vocabulary"
+  ],
+  "description": "The time interval pattern.  This pattern is extracted from DOLCE-UltraLite by partial clone of elements and expansion.  Two datatype properties have been added which allow to express the boundaries of the time interval.  Ranges of datatype properties are not indicated, because otherwise specializing them with different xsd datatypes would lead to inconsistencies.",
+  "id": "odp/ti@1.1",
+  "name": "Time intervals",
+  "prefix": {
+    "ti": "http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl#"
+  }
+}

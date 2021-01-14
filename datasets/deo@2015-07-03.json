@@ -1,0 +1,17 @@
+{
+  "about": [
+    "document",
+    "vocabulary"
+  ],
+  "description": "DEO, The Discourse Elements Ontology, is an ontology written in OWL 2 DL that provides a structured vocabulary for rhetorical elements within documents (e.g. Introduction, Discussion, Acknowledgements, Reference List, Figures, Appendix), enabling these to be described in RDF.  It uses some of the rhetorical block elements from the SALT Rhetorical Ontology and the Ontology of Rhetorical Blocks.",
+  "homepage": [
+    "http://purl.org/spar/deo.html",
+    "https://github.com/sparontologies/deo"
+  ],
+  "id": "spar/deo@2015-07-03",
+  "name": "Document Elements Ontology (DEO)",
+  "prefix": {
+    "deo": "http://purl.org/spar/deo/"
+  },
+  "url": "http://purl.org/spar/deo.nt"
+}

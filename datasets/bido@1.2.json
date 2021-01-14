@@ -1,0 +1,19 @@
+{
+  "about": [
+    "bibliography",
+    "vocabulary"
+  ],
+  "description": "The Bibliometric Data Ontology (BiDO) is a modular ontology that allows the description of numerical and categorical bibliometric data (e.g., journal impact factor, author h-index, categories describing research careers) in RDF.",
+  "diagram": [
+    "bido-core-diagram.png",
+    "bido-rcc-diagram.png"
+  ],
+  "homepage": [
+    "http://purl.org/spar/bido.html",
+    "http://www.sparontologies.net/ontologies/bido",
+    "https://github.com/sparontologies/bido"
+  ],
+  "id": "spar/bido@1.2",
+  "name": "Bibliometric Data Ontology (BiDO)",
+  "url": "http://purl.org/spar/bido.nt"
+}

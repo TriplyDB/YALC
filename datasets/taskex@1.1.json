@@ -1,0 +1,8 @@
+{
+  "about": "vocabulary",
+  "description": "This CP allows designers to make assertions on roles played by agents without involving the agents that play that roles, and vice versa.  It allows to express neither the context type in which tasks are defined, not the particular context in which the action is carried out.  Moreover, it does not allow to express the time at which the task is executed through the action (for actions that do not solely executed that certain task).",
+  "id": "odp/taskex@1.1",
+  "prefix": {
+    "taskex": "http://www.ontologydesignpatterns.org/cp/owl/taskexecution.owl#"
+  }
+}

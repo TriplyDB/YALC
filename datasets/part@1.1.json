@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Co-participation allows to model the relation between two objects that par ticipate in a same event (implicitly); n-ary participation allows to model par ticipation over different dimensions e.g., temporal, spatial, etc., as well as explicitly relate more than one object to the same event; object role, n-ary classiﬁcation are examples of CPs that can be composed with this CP.",
+  "id": "odp/part@1.1",
+  "name": "The basic participation pattern, without temporal indexing",
+  "prefix": {
+    "part": "http://www.ontologydesignpatterns.org/cp/owl/participation.owl#"
+  }
+}

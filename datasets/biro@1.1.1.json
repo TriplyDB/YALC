@@ -1,0 +1,19 @@
+{
+  "about": [
+    "bibliogtaphy",
+    "vocabulary"
+  ],
+  "description": "The Bibliographic Reference Ontology (BiRO) allows the description of reference lists and bibliographic references themselves.  In particular, BiRO uses an [OWL-based definition of the FRBR model](http://www.sparontologies.net/ontologies/frbr) to define bibliographic references and their compilation into ordered bibliographic lists, by means of the [Collections Ontology](http://purl.org/co), as shown in the following figure.",
+  "diagram": "biro-diagram.png",
+  "homepage": [
+    "https://sparontologies.github.io/biro/current/biro.html",
+    "http://www.sparontologies.net/ontologies/biro"
+  ],
+  "id": "spar/biro@1.1.1",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "name": "Bibliographic Reference Ontology (BiRO)",
+  "prefix": {
+    "biro": "http://purl.org/spar/biro/"
+  },
+  "url": "http://purl.org/spar/biro.nt"
+}

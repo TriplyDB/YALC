@@ -1,0 +1,19 @@
+{
+  "about": [
+    "publishing",
+    "vocabulary"
+  ],
+  "diagram": "pro-diagram.png",
+  "description": "The Publishing Roles Ontology (PRO) is an ontology for the characterisation of the roles of agents – people, corporate bodies and computational agents in the publication process.  These agents can be, e.g. authors, editors, reviewers, publishers or librarians.",
+  "homepage": [
+    "http://purl.org/spar/pro.html",
+    "http://www.sparontologies.net/ontologies/pro",
+    "https://github.com/sparontologies/pro"
+  ],
+  "id": "spar/pro@1.5.4",
+  "name": "Publishing Roles Ontology (PRO)",
+  "prefix": {
+    "pro": "http://purl.org/spar/pro/"
+  },
+  "url": "http://purl.org/spar/pro.nt"
+}

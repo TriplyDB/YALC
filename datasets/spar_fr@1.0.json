@@ -1,0 +1,16 @@
+{
+  "about": "vocabulary",
+  "description": "The FAIR* Reviews Ontology (FR) defines a set of classes, properties and axioms, for describing research reviews as semantic objects, reusing standard existing vocabularies using ontology engineering techniques.",
+  "diagram": "fr-diagram.jpg",
+  "homepage": [
+    "http://purl.org/spar/fr.html",
+    "http://www.sparontologies.net/ontologies/fr",
+    "https://github.com/sparontologies/fr"
+  ],
+  "id": "spar/fr@1.0",
+  "name": "FAIR* Reviews Ontology (FR)",
+  "prefix": {
+    "fr": "http://purl.org/spar/fr/"
+  },
+  "url": "http://purl.org/spar/fr.nt"
+}

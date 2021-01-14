@@ -1,7 +1,7 @@
 <img src="img/triply.png" align="right" height="150">
 
-[![](https://img.shields.io/badge/datasets-275-brightgreen)](datasets)
-[![](https://img.shields.io/badge/organizations-87-brightgreen)](organizations)
+[![](https://img.shields.io/badge/datasets-301-brightgreen)](datasets)
+[![](https://img.shields.io/badge/organizations-88-brightgreen)](organizations)
 [![](https://img.shields.io/badge/tooLittleInfo-23-yellow)](datasets/too-little-info)
 [![](https://img.shields.io/badge/todo-14-red)](datasets/todo)
 [![](https://img.shields.io/badge/errors-53-red)](datasets/errors)
@@ -82,6 +82,12 @@ object with the following keys:
     <p>The description of the dataset.</p>
     <p>This must be at least 50 characters and at most 1,000 characters long.</p>
     <p>This key is required.</p>
+  </dd>
+
+  <dt><code>"diagram"</code></dt>
+  <dd>
+    <p>An image showing a diagrammatic overview of the dataset.  This value must be the local name for a file in the <a href="img"><code>/img</code></a> subdirectory.</p>
+    <p>This key is optional.</p>
   </dd>
 
   <dt><code>"homepage"</code></dt>

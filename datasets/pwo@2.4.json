@@ -1,0 +1,19 @@
+{
+  "about": [
+    "publishing",
+    "vocabulary"
+  ],
+  "description": "The Publishing Workflow Ontology (PWO) is a simple ontology for describing the steps in the workflow associated with the publication of a document or other publication entity.",
+  "diagram": "pwo-diagram.png",
+  "homepage": [
+    "http://purl.org/spar/pwo.html",
+    "http://www.sparontologies.net/ontologies/pwo",
+    "https://github.com/sparontologies/pwo"
+  ],
+  "id": "spar/pwo@2.4",
+  "name": "Publishing Workflow Ontology (PWO)",
+  "prefix": {
+    "pwo": "http://purl.org/spar/pwo/"
+  },
+  "url": "http://purl.org/spar/pwo.nt"
+}

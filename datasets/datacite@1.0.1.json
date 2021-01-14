@@ -1,0 +1,16 @@
+{
+  "about": "vocabulary",
+  "description": "The DataCite Ontology is an ontology written in OWL 2 DL to enable the metadata properties of the DataCite Metadata Kernel Specification version 3.1 to be described in RDF.",
+  "diagram": "datacite-diagram.png",
+  "homepage": [
+    "http://purl.org/spar/datacite.html",
+    "http://www.sparontologies.net/ontologies/datacite",
+    "https://github.com/sparontologies/datacite"
+  ],
+  "id": "spar/datacite@1.0.1",
+  "name": "DataCite Ontology",
+  "prefix": {
+    "datacite": "http://purl.org/spar/datacite/"
+  },
+  "url": "http://purl.org/spar/datacite.nt"
+}

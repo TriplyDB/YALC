@@ -1,0 +1,19 @@
+{
+  "about": [
+    "finance",
+    "vocabulary"
+  ],
+  "description": "The Funding, Research Administration and Projects Ontology (FRAPO) is an ontology for describing the administrative information of research projects, e.g., grant applications, funding bodies, project partners, etc.",
+  "diagram": "frapo-fiagram.png",
+  "homepage": [
+    "http://purl.org/cerif/frapo.html",
+    "http://www.sparontologies.net/ontologies/frapo",
+    "https://github.com/sparontologies/frapo"
+  ],
+  "id": "spar/frapo@2017-09-04",
+  "name": "Funding, Research Administration and Projects Ontology (FRAPO)",
+  "prefix": {
+    "frapo": "http://purl.org/cerif/frapo/"
+  },
+  "url": "http://purl.org/cerif/frapo.nt"
+}

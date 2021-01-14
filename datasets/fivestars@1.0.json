@@ -1,0 +1,15 @@
+{
+  "about": "vocabulary",
+  "description": "The Five Stars of Online Research Articles Ontology (FiveStars) is an ontology written in OWL 2 DL to enable characterization of the five attributes of an online journal article - peer review, open access, enriched content, available datasets and machine-readable metadata.",
+  "homepage": [
+    "http://purl.org/spar/fivestars.html",
+    "http://www.sparontologies.net/ontologies/fivestars",
+    "https://github.com/sparontologies/fivestars"
+  ],
+  "id": "spar/fivestars@1.0",
+  "name": "Five Stars of Online Research Articles Ontology (FiveStars)",
+  "prefix": {
+    "fivestars": "http://purl.org/spar/fivestars/"
+  },
+  "url": "http://purl.org/spar/fivestars.nt"
+}

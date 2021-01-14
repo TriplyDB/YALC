@@ -1,0 +1,16 @@
+{
+  "about": "vocabulary",
+  "description": "SCoRO, the Scholarly Contributions and Roles Ontology, is a [CERIF-compliant](http://www.eurocris.org/cerif/main-features-cerif) ontology (summarised in the following picture) for use by authors, publishers and research administrators, for describe the contributions and roles of scholars, and the organizations of which they are members, with respect to projects, research investigations and other academic activities, and to the scholarly journal articles and other outputs that result from them.",
+  "diagram": "scoro-diagram.png",
+  "homepage": [
+    "http://purl.org/spar/scoro.html",
+    "http://www.sparontologies.net/ontologies/scoro",
+    "https://github.com/sparontologies/scoro"
+  ],
+  "id": "spar/scoro@1.9.1",
+  "name": "Scholarly Contributions and Roles Ontology (SCoRO)",
+  "prefix": {
+    "scoro": "http://purl.org/spar/scoro/"
+  },
+  "url": "http://purl.org/spar/scoro.nt"
+}

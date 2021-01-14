@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Sometimes, we need to describe scenarios in which someone (e.g., a person) has a value (e.g., a particular role) during a particular time and for a particular context. Four different things are involved in these kinds of scenarios:\n\n  1. the entity having some value, e.g. a person or a document possessing a role or a status;\n  2. the value had by someone, e.g. a role or a status;\n  3. the time period during which the entity has that value, e.g. from April 2008 to September 2008;\n  4. the particular context that characterises the act of having that value, e.g. being a member of an institution or an editor of a particular journal.\n\nThought as natural extension of the [Time-indexed Situation pattern](http://ontologydesignpatterns.org/wiki/Submissions:TimeIndexedSituation), this ontological pattern, called Time-indexed Value in Context (TVC), is able to describe these kinds of scenarios.",
+  "diagram": "tvc-diagram.png",
+  "homepage": "https://github.com/SPAROntologies/tvc",
+  "id": "tvc@2012-06-08",
+  "name": "Time-indexed Value in Context (TVC)",
+  "prefix": {
+    "tvc": "http://www.essepuntato.it/2012/04/tvc/"
+  },
+  "url": "https://raw.githubusercontent.com/SPAROntologies/tvc/master/docs/current/tvc.ttl"
+}
