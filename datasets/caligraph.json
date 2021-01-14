@@ -4,18 +4,18 @@
   "id": "dws/caligraph@1.3",
   "name": "CaLiGraph",
   "url": [
-    "https://zenodo.org/record/4050308/files/caligraph-metadata.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-ontology.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-ontology_dbpedia-mapping.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-ontology_provenance.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-instances_types.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-instances_transitive-types.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-instances_labels.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-instances_relations.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-instances_dbpedia-mapping.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/caligraph-instances_provenance.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/dbpedia_caligraph-instances.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/dbpedia_caligraph-types.nt.bz2?download=1",
-    "https://zenodo.org/record/4050308/files/dbpedia_caligraph-relations.nt.bz2?download=1"
+    "https://zenodo.org/record/4419708/files/caligraph-metadata.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-ontology.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-ontology_dbpedia-mapping.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-ontology_provenance.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-instances_types.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-instances_transitive-types.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-instances_labels.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-instances_relations.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-instances_dbpedia-mapping.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/caligraph-instances_provenance.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/dbpedia_caligraph-instances.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/dbpedia_caligraph-types.nt.bz2?download=1",
+    "https://zenodo.org/record/4419708/files/dbpedia_caligraph-relations.nt.bz2?download=1"
   ]
 }
