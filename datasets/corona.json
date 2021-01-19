@@ -1,0 +1,19 @@
+{
+  "about": [
+    "corona",
+    "statistics"
+  ],
+  "changeFrequency": "daily",
+  "description": "COVID-19 statistieken voor Nederland, zoals gepubliceerd door het [RIVM](https://www.rivm.nl/coronavirus-covid-19) en opgeschoond door [CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL).",
+  "homepage": "https://www.rivm.nl/coronavirus-covid-19",
+  "id": "rivm/covid-19",
+  "name": "Covid County Statistics",
+  "prefix": {
+    "observation": "https://data.labs.kadaster.nl/cbs/wbk/id/observation/",
+    "rivm": "https://data.labs.kadaster.nl/rivm/covid-19/vocab/",
+    "cbs": "https://data.labs.kadaster.nl/cbs/wbk/vocab/",
+    "rivmd": "https://data.labs.kadaster.nl/rivm/covid-19/id/dimension/",
+    "rivmm": "https://data.labs.kadaster.nl/rivm/covid-19/id/measure/"
+  },
+  "url": "https://data.labs.kadaster.nl/rivm/covid-19/download.trig.gz"
+}
