@@ -1,6 +1,6 @@
 {
   "about": [
-    "time",
+    "temporal",
     "vocabulary"
   ],
   "description": "A generic pattern usable for all situations that require a temporal indexing.",

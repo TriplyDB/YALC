@@ -1,5 +1,5 @@
 {
-  "about": "vocabular",
+  "about": "vocabulary",
   "description": "An RDF representation of XHTML 2.0's built-in link types.  It is based on the Metainformation Attributes Module of XHTML2, and uses W3C's RDF Schema (RDFS) and Web Ontology (OWL) languages to describe several kinds of relationship that can hold between information resources.",
   "homepage": "https://www.w3.org/2005/05/hrel",
   "id": "w3c/xhtml-link-types@1.53",

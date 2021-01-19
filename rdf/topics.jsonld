@@ -73,10 +73,16 @@
     {
       "@id": "economy",
       "label": "Economy",
-      "narrower": {
-        "@id": "commerce",
-        "label": "Commerce"
-      }
+      "narrower": [
+        {
+          "@id": "commerce",
+          "label": "Commerce"
+        },
+        {
+          "@id": "finance",
+          "label": "Finance"
+        }
+      ]
     },
     {
       "@id": "ecology",
@@ -87,7 +93,7 @@
       "label": "eGovernment"
     },
     {
-      "@id": "encycloperia",
+      "@id": "encyclopedia",
       "label": "Encyclopedia"
     },
     {
@@ -116,6 +122,10 @@
       "@id": "language",
       "label": "Language",
       "narrower": [
+        {
+          "@id": "argumentation",
+          "label": "Argumentation"
+        },
         {
           "@id": "lexicography",
           "label": "Lexicography"
@@ -157,8 +167,12 @@
           "label": "Bibliography"
         },
         {
-          "@id": "library",
-          "label": "Library"
+          "@id": "documents",
+          "label": "Document structure"
+        },
+        {
+          "@id": "libraries",
+          "label": "Libraries"
         }
       ]
     },

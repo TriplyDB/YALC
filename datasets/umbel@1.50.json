@@ -1,5 +1,5 @@
 {
-  "about": "topLebel",
+  "about": "topLevel",
   "description": "UMBEL, short for Upper Mapping and Binding Exchange Layer, is written in [SKOS](/w3c/skos) and [OWL 2](/w3c/owl) and is an extracted subset of OpenCyc.  UMBEL has two main functions; it is:\n  - An upper ontology of about 35,000 reference concepts, designed to provide a common grounding for relating different ontologies or schema to one another, and\n  - A vocabulary for aiding ontology and data mapping, including expressions of likelihood relationships distinct from exact identity or equivalence.  This vocabulary is also designed for interoperating amongst various domain ontologies.",
   "homepage": "http://techwiki.umbel.org",
   "id": "structured-dynamics/umbel@1.50",

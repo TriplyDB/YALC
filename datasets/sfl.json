@@ -1,4 +1,8 @@
 {
+  "about": [
+    "legal",
+    "vocabulary"
+  ],
   "description": "SFL ontology (Semantic Finlex Legislation) is an extension to ELI ontology used in the Semantic Finlex service.  In addition to different language and content format versions SFL defines classes for different temporal versions of statutes and sections of law.  Therefore, SFL divides `eli:LegalResource` class to four subclasses as follows:\n\n  - `sfl:Statute` (statute). Statute at a conceptual level eg. Criminal Code (39/1889)\n  - `sfl:SectionOfALaw` (section of a law). Section of law at conceptual level eg. Criminal Code 39/1889 Chapter 1 Section 2\n  - `sfl:StatuteVersion` (statute version). Statute at a specific point in time, eg. Criminal Code 39/1889 as it was on 1.1.2016\n  - `sfl:SectionOfALawVersion` (section of a law version). Section of law at a specific point in time, eg. Criminal Code 39/1889 Chapter 1 Section 2 as it was on 1.1.2016\n\nThe relationship between a statute and a statute version is expressed with properties `eli:has_member` and `eli:is_member_of`.  The relationship between a section of a law and a section of a law version is expressed likewise with the same properties.",
   "homepage": "https://data.finlex.fi/en/legislation",
   "id": "finlex/sfl@1.0",
