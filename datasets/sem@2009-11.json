@@ -1,0 +1,14 @@
+{
+  "name": "Simple Event Model",
+  "about": [
+    "metadata",
+    "vocabulary"
+  ],
+  "description": "The Simple Event Model (SEM) is an ontology for modelling events. Events are central elements in the representation of data from a variety of domains. Examples of these domains are history, cultural heritage, geography and multimedia. Event-centered modeling captures the time and place aspects of a domain. In addition, events provide a way to describe complicated relations between people, places, actions and objects.",
+  "id": "sem@2009-11",
+  "prefix": {
+    "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/"
+  },
+  "homepage": "https://semanticweb.cs.vu.nl/2009/11/sem/",
+  "url": "http://semanticweb.cs.vu.nl/2009/11/sem.rdf"
+}

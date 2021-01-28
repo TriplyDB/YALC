@@ -1,0 +1,14 @@
+{
+  "name": "Juso Ontology",
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "The Juso Ontology is a Web vocabulary for describing geographical addresses and features.",
+  "id": "juso@0.1.2",
+  "prefix": {
+    "juso": "http://rdfs.co/juso/"
+  },
+  "homepage": "http://rdfs.co/juso/",
+  "url": "http://rdfs.co/juso/0.1.2/ttl"
+}
