@@ -1,0 +1,12 @@
+{
+  "name": "The VIAF ontology",
+  "about": [
+    "libraries",
+    "vocabulary"
+  ],
+  "description": "The Virtual International Authority File (VIAF) is an OCLC service ― built in cooperation with national libraries and other partners ― that virtually combines multiple LAM (Library Archives Museum) name authority files into a single name authority service.",
+  "id": "viaf",
+  "homepage": "http://viaf.org",
+  "namespace": "http://viaf.org/",
+  "url": "http://viaf.org/viaf.owl"
+}
