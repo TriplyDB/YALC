@@ -5,6 +5,13 @@ be uploaded because some functionality is missing in
 [TriplyDB](https://triplydb.com) and/or
 [TriplyDB.js](https://triply.cc/docs/triply-client-js).
 
+## FTP support
+
+The following datasets cannot be uploaded because they are published
+on an FTP server:
+
+  - [ChEMBL](chembl@27.0.json)
+
 ## File name extension order
 
 The following datasets cannot be uploaded because they do not have the
