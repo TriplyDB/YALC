@@ -13,8 +13,5 @@
   "image": "fabio-diagram.png",
   "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "name": "FRBR-aligned Bibliographic Ontology (FaBiO)",
-  "prefix": {
-    "fabio": ""
-  },
   "url": "http://purl.org/spar/fabio.nt"
 }
