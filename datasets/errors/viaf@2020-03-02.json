@@ -6,8 +6,5 @@
   "id": "oclc/viaf@2020-03-02",
   "image": "viaf.png",
   "name": "Virtual International Authority File (VIAF)",
-  "prefix": {
-    "viaf": "http://viaf.org/viaf/"
-  },
   "url": "http://viaf.org/viaf/data/viaf-20200302-clusters-rdf.nt.gz"
 }
