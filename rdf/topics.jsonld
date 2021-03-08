@@ -147,6 +147,10 @@
         {
           "@id": "versioning",
           "label": "Versioning"
+        },
+        {
+          "@id": "workflow",
+          "label": "Workflow"
         }
       ]
     },
