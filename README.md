@@ -137,7 +137,6 @@ object with the following keys:
       <li><code>https://creativecommons.org/licenses/by/2.5/</code></li>
       <li><code>https://creativecommons.org/licenses/by/3.0/</code></li>
       <li><code>https://creativecommons.org/licenses/by/4.0/</code></li>
-      <li><code>https://creativecommons.org/licenses/by/4.0/</code></li>
       <li><code>https://creativecommons.org/publicdomain/zero/1.0/</code></li>
       <li><code>https://opendatacommons.org/licenses/by/1-0/</code></li>
       <li><code>https://opendatacommons.org/licenses/odbl/1.0/</code></li>
