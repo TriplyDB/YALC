@@ -1,11 +1,11 @@
 {
-  "name": "CRMinf",
   "about": [
-    "topLevel",
-    "argumentation"
+    "argumentation",
+    "topLevel"
   ],
-  "description": "CRMinf is a formal ontology intended to be used as a global schema for integrating metadata about argumentation and inference making in descriptive and empirical sciences such as biodiversity, geology, geography, archaeology, cultural heritage, conservation, research IT environments and research data libraries. Its primary purpose is facilitating the management, integration, mediation, interchange and access to data about reasoning by a description of the semantic relationships between the premises, conclusions and activities of reasoning.",
-  "id": "crm-inf@0.7",
+  "description": "CRMinf is a formal ontology intended to be used as a global schema for integrating metadata about argumentation and inference making in descriptive and empirical sciences such as biodiversity, geology, geography, archaeology, cultural heritage, conservation, research IT environments and research data libraries.  Its primary purpose is facilitating the management, integration, mediation, interchange and access to data about reasoning by a description of the semantic relationships between the premises, conclusions and activities of reasoning.",
   "homepage": "http://www.cidoc-crm.org/crminf/",
+  "id": "cidoc/crm-inf@0.7",
+  "name": "CRMinf",
   "url": "http://www.cidoc-crm.org/crminf/sites/default/files/CRMinf_v0.7_.rdfs"
 }
