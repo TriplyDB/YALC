@@ -11,7 +11,7 @@
   "namespace": "https://data.labs.kadaster.nl/rivm/covid-19/",
   "prefix": {
     "dimension": "https://data.labs.kadaster.nl/rivm/covid-19/id/dimension/",
-    "measure": "https://data.labs.kadaster.nl/rivm/covid-19/id/measure/"
+    "measure": "https://data.labs.kadaster.nl/rivm/covid-19/id/measure/",
     "observation": "https://data.labs.kadaster.nl/cbs/wbk/id/observation/",
     "rivm": "https://data.labs.kadaster.nl/rivm/covid-19/vocab/",
     "wbk": "https://data.labs.kadaster.nl/cbs/wbk/vocab/"

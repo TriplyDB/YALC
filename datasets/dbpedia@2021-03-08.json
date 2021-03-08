@@ -1,6 +1,9 @@
 {
   "about": "encyclopedia",
   "description": "DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.  This structured information resembles an open knowledge graph (OKG) which is available for everyone on the Web.  A knowledge graph is a special kind of database which stores knowledge in a machine-readable form and provides a means for information to be collected, organized, shared, searched and utilized.  Google uses a similar approach to create those knowledge cards during search.  We hope that this work will make it easier for the huge amount of information in Wikimedia projects to be used in some new interesting ways.",
+  "error": [
+    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gutenberg_lang=en.nt.bz2"
+  ],
   "exampleResource": [
     "dbr:Amsterdam",
     "dbr:Cat",
@@ -141,7 +144,6 @@
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gadmgeovocaborg_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=geospecies_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gho_lang=en.nt.bz2",
-    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gutenberg_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gwnili_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=italianpublicschools_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=jrcnames_lang=en.nt.bz2",
