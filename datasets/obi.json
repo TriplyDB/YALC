@@ -1,5 +1,9 @@
 {
-  "about": "biomedical",
+  "about": [
+    "biology",
+    "medicine",
+    "vocabulary"
+  ],
   "description": "An integrated ontology for the description of life-science and clinical investigations.",
   "homepage": "http://obi-ontology.org/",
   "id": "obo/obi",

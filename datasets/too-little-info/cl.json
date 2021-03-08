@@ -1,5 +1,8 @@
 {
-  "about": "biomedical",
+  "about": [
+    "biology",
+    "vocabulary"
+  ],
   "description": "The Cell Ontology is designed as a structured controlled vocabulary for cell types. This ontology was constructed for use by the model organism and other bioinformatics databases, where there is a need for a controlled vocabulary of cell types. This ontology is not organism specific it covers cell types from prokaryotes to mammals. However, it excludes plant cell types, which are covered by PO.\n\n# Integration with other ontologies\n\nCell types in CL are linked to [uberon](/uberon) via part-of relationships. The cl.owl product imports a subset of the entire uberon ontology. To see all cell types in the context of all anatomical structures, use the uberon ext release.\n\nCell types are linked to [GO](/go) biological processes via the capable-of relationship type. CL also links to other ontologies such as [ChEBI](/chebi), [pr](/pr) and [pato](/pato).\n\nIn turn, CL is linked to from a variety of ontologies such as GO, Uberon and various phenotype ontologies.",
   "homepage": "",
   "id": "obo/cl",

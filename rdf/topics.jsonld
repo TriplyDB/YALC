@@ -55,14 +55,6 @@
       ]
     },
     {
-      "@id": "biomedical",
-      "label": "Biomedicine",
-      "narrower": {
-        "@id": "corona",
-        "label": "Corona (Covid-19)"
-      }
-    },
-    {
       "@id": "design",
       "label": "Design",
       "narrower": {
@@ -181,8 +173,20 @@
       "label": "Science",
       "narrower": [
         {
+          "@id": "biology",
+          "label": "Biology"
+        },
+        {
           "@id": "chemistry",
           "label": "Chemistry"
+        },
+        {
+          "@id": "medicine",
+          "label": "Medicine",
+          "narrower": {
+            "@id": "corona",
+            "label": "Corona (Covid-19)"
+          }
         },
         {
           "@id": "physics",
