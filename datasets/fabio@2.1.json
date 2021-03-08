@@ -10,7 +10,10 @@
     "http://www.sparontologies.net/ontologies/fabio"
   ],
   "id": "spar/fabio@2.1",
-  "image": "fabio-diagram.png",
+  "image": [
+    "fabio-diagram1.png",
+    "fabio-diagram2.png"
+  ],
   "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "name": "FRBR-aligned Bibliographic Ontology (FaBiO)",
   "url": "http://purl.org/spar/fabio.nt"
