@@ -1,9 +1,5 @@
 {
   "about": "vocabulary",
-  "asset": [
-    "fabio-diagram1.png",
-    "fabio-diagram2.png"
-  ],
   "description": "FaBiO, the FRBR-aligned Bibliographic Ontology, is an ontology for recording and publishing on the Semantic Web descriptions of entities that are published or potentially publishable, and that contain or are referred to by bibliographic references, or entities used to define such bibliographic references.  FaBiO entities are primarily textual publications such as books, magazines, newspapers and journals, and items of their content such as poems, conference papers and editorials.  However, they also include blogs, web pages, datasets, computer algorithms, experimental protocols, formal specifications and vocabularies, legal records, governmental papers, technical and commercial reports and similar publications, and also anthologies, catalogues and similar collections.",
   "diagram": [
     "fabio-diagram1.png",

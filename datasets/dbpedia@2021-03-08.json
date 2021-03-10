@@ -2,7 +2,12 @@
   "about": "encyclopedia",
   "description": "DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.  This structured information resembles an open knowledge graph (OKG) which is available for everyone on the Web.  A knowledge graph is a special kind of database which stores knowledge in a machine-readable form and provides a means for information to be collected, organized, shared, searched and utilized.  Google uses a similar approach to create those knowledge cards during search.  We hope that this work will make it easier for the huge amount of information in Wikimedia projects to be used in some new interesting ways.",
   "error": [
-    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gutenberg_lang=en.nt.bz2"
+    "https://downloads.dbpedia.org/repo/lts/transition/freebase-links/2019.02.10/freebase-links_lang=en.ttl.bz2",
+    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=gutenberg_lang=en.nt.bz2",
+    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=wikicompany_lang=en.nt.bz2",
+    "https://vmdbpedia.informatik.uni-leipzig.de/repo/vehnem/yago/instance-types/2016.10.01/instance-types_tag=links.ttl.bz2",
+    "https://vmdbpedia.informatik.uni-leipzig.de/repo/vehnem/yago/instance-types/2016.10.01/instance-types_tag=specific.ttl.bz2",
+    "https://vmdbpedia.informatik.uni-leipzig.de/repo/vehnem/yago/taxonomy/2016.10.01/taxonomy.ttl.bz2"
   ],
   "exampleResource": [
     "dbr:Amsterdam",
@@ -124,7 +129,6 @@
     "https://downloads.dbpedia.org/repo/dbpedia/text/long-abstracts/2020.07.01/long-abstracts_lang=en.ttl.bz2",
     "https://downloads.dbpedia.org/repo/dbpedia/text/short-abstracts/2020.07.01/short-abstracts_lang=en.ttl.bz2",
     "https://downloads.dbpedia.org/repo/dbpedia/transition/sdtypes/2016.10.01/sdtypes_lang=en.ttl.bz2",
-    "https://downloads.dbpedia.org/repo/lts/transition/freebase-links/2019.02.10/freebase-links_lang=en.ttl.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=19014254237_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=airport_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=amsterdammuseum_lang=en.nt.bz2",
@@ -163,7 +167,6 @@
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=umbel_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=uscensus_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=viaforg_lang=en.nt.bz2",
-    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=wikicompany_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=worldbank270ainfo_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=www4wiwissfuberlinde_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=wwwbbccouk_lang=en.nt.bz2",
@@ -173,9 +176,6 @@
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=wwwspringernaturecom_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=wwww3org_lang=en.nt.bz2",
     "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=yago_lang=en.nt.bz2",
-    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=zbweu_lang=en.nt.bz2",
-    "https://vmdbpedia.informatik.uni-leipzig.de/repo/vehnem/yago/instance-types/2016.10.01/instance-types_tag=links.ttl.bz2",
-    "https://vmdbpedia.informatik.uni-leipzig.de/repo/vehnem/yago/instance-types/2016.10.01/instance-types_tag=specific.ttl.bz2",
-    "https://vmdbpedia.informatik.uni-leipzig.de/repo/vehnem/yago/taxonomy/2016.10.01/taxonomy.ttl.bz2"
+    "https://downloads.dbpedia.org/repo/lts/transition/links/2018.10.01/links_domain=zbweu_lang=en.nt.bz2"
   ]
 }
