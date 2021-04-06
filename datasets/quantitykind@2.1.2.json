@@ -6,7 +6,7 @@
   "description": "Provides the set of all quantity kinds.",
   "homepage": "http://www.qudt.org/doc/2020/04/DOC_VOCAB-QUANTITY-KINDS-ALL-v2.1.html",
   "id": "qudt/quantitykind@2.1.2",
-  "name": "QUDT Dimension Vectors",
+  "name": "QUDT Quantity Kinds",
   "prefix": {
     "quantitykind": "http://qudt.org/vocab/quantitykind/"
   },
