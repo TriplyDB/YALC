@@ -9,7 +9,7 @@
     "https://sparontologies.github.io/amo/current/amo.html"
   ],
   "id": "spar/amo@1.0",
-  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "Argument Model Ontology (AMO)",
   "url": "https://raw.githubusercontent.com/SPAROntologies/amo/master/docs/current/amo.nt"
 }

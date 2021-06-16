@@ -9,7 +9,7 @@
     "https://purl.org/spar/cito"
   ],
   "id": "spar/cito@2.8.1",
-  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "Citation Typing Ontology (CiTO)",
   "prefix": {
     "cito": "http://purl.org/spar/cito/"

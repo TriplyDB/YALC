@@ -11,7 +11,7 @@
     "https://sparontologies.github.io/c4o/current/c4o.html"
   ],
   "id": "spar/c4o@1.2",
-  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "Citation Counting and Context Characterization Ontology (C4O)",
   "url": "http://purl.org/spar/c4o.nt"
 }

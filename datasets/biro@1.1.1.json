@@ -10,7 +10,7 @@
     "http://www.sparontologies.net/ontologies/biro"
   ],
   "id": "spar/biro@1.1.1",
-  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "Bibliographic Reference Ontology (BiRO)",
   "prefix": {
     "biro": "http://purl.org/spar/biro/"
