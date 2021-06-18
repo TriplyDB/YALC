@@ -1,0 +1,7 @@
+{
+  "description": "UniProt is a collaboration between the [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk), the [SIB Swiss Institute of Bioinformatics](https://www.sib.swiss) and the [Protein Information Resource (PIR)](http://pir.georgetown.edu/).  Across the three institutes more than [100 people](https://www.uniprot.org/help/uniprot_staff) are involved through different tasks such as database curation, software development and support.",
+  "homepage": "https://www.uniprot.org/help/about",
+  "id": "uniprot-consortium",
+  "image": "uniprot-consortium.png",
+  "name": "Uniprot Consortium"
+}
