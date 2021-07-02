@@ -124,6 +124,7 @@
     "https://databus.dbpedia.org/dbpedia/mappings/instance-types/2021.05.01/instance-types_lang=en_specific.ttl.bz2",
     "https://databus.dbpedia.org/vehnem/replaced-iris/long-abstracts/2020.02.01/long-abstracts_lang=sv_uris=en.ttl.bz2",
     "https://databus.dbpedia.org/vehnem/replaced-iris/long-abstracts/2020.02.01/long-abstracts_lang=id_uris=en.ttl.bz2",
-    "https://databus.dbpedia.org/vehnem/replaced-iris/labels/2020.02.01/labels_lang=es_uris=en.ttl.bz2"    
+    "https://databus.dbpedia.org/vehnem/replaced-iris/labels/2020.02.01/labels_lang=es_uris=en.ttl.bz2",
+    "https://databus.dbpedia.org/dbpedia/wikidata/images/2021.03.01/images.ttl.bz2"  
   ]
 }
