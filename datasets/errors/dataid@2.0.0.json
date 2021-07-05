@@ -5,7 +5,7 @@
   ],
   "description": "The DataID core ontology is the central part of the DataID multi-layered metadata system.  Its goal is to extensively describes datasets and their different manifestations in a uniform way, as well as relations with agents such as persons or organisations, in regard to their rights and responsibilities.  Established vocabularies such as DCAT, VoID, Prov-O are used for maximum compatibility.  We introduced a multilayer concept of supporting ontologies extending DataID core to fit different use case scenarios (for Linked Data, providing statistical data about datasets etc.).  By describing datasets including content, authors, licenses and provenance via RDF, thereby making data accessible to others, is the basic idea of Linked Open Data and is your contribution to a universal data give and take.",
   "homepage": "http://dataid.dbpedia.org/ns/core.html#",
-  "id": "dbpedia/dataid@2.0.0",
+  "id": "DBpedia-association/dataid@2.0.0",
   "name": "DataID",
   "prefix": {
     "dataid": "http://dataid.dbpedia.org/ns/core#"

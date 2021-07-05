@@ -1,7 +1,7 @@
 {
   "description": "The DBpedia Association was founded in 2014 to support DBpedia and the DBpedia Community.  Since then we are making slow, but steady progress towards professionalizing DBpedia for its users and forming an effective network out of the loosely organised DBpedia community.  The DBpedia Association is currently situated in Leipzig, Germany and affiliated with the non-profit organisation [Institute for Applied Informatics](http://infai.org/en/Welcome) (InfAI) e.V.  If you are interested in details, please read [the Charter of the DBpedia Association](https://docs.google.com/document/d/1LgBVP8q_m95tKeRGtCSEx0MmWskkOL8N56WvxVW-2rE/edit#) or check the flyer [here](https://drive.google.com/open?id=0B1Mk5ouIspH1S2NWQlRwNGdUTmM).",
   "homepage": "https://wiki.dbpedia.org/dbpedia-association",
-  "id": "dbpedia",
+  "id": "DBpedia-association",
   "image": "dbpedia.png",
   "name": "DBpedia Association"
 }

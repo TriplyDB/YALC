@@ -16,7 +16,7 @@
     "dbr:Painting"
   ],
   "homepage": "https://wiki.dbpedia.org/",
-  "id": "dbpedia/dbpedia@2021-03-08",
+  "id": "DBpedia-association/dbpedia@2021-03-08",
   "name": "DBpedia Dataset Latest (2021-03-08)",
   "image": "dbpedia-dataset.png",
   "namespace": [
