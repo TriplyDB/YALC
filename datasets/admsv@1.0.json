@@ -1,0 +1,13 @@
+{
+  "about": [
+    "metadata",
+    "vocabulary"
+  ],
+  "description": "This dataset specifies the controlled vocabularies defined by [ADMS](/w3c/adms) v1.0 as [SKOS](/w3c/skos) concept schemes and SKOS concepts.",
+  "id": "isa/admsv@1.0",
+  "_license": "https://joinup.ec.europa.eu/category/licence/isa-open-metadata-licence-v11",
+  "name": "Controlled vocabularies for the Asset Description Metadata Schema",
+  "prefix": {
+    "admsv": "http://purl.org/adms/"
+  }
+}
