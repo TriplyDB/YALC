@@ -13,5 +13,8 @@
   "id": "spar/c4o@1.2",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "Citation Counting and Context Characterization Ontology (C4O)",
+  "prefix": {
+    "c4o": "http://purl.org/spar/c4o/"
+  },
   "url": "http://purl.org/spar/c4o.nt"
 }

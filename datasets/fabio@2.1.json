@@ -12,5 +12,8 @@
   "id": "spar/fabio@2.1",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "FRBR-aligned Bibliographic Ontology (FaBiO)",
+  "prefix": {
+    "fabio": "http://purl.org/spar/fabio/"
+  },
   "url": "http://purl.org/spar/fabio.nt"
 }
