@@ -1,0 +1,13 @@
+{
+  "about": [
+    "documents",
+    "vocabulary"
+  ],
+  "description": "The Ontology of Rhetorical Blocks is a formalization capturing the coarse-grained rhetorical structure of scientific publications.  This note is designed to provide a general overview of the motivation and use-cases supporting ORB, in addition to the actual conceptual elements, as well as, practical examples of how to use it in conjunction with different representation languages.",
+  "homepage": "https://www.w3.org/TR/hcls-orb/",
+  "id": "w3c/orb@2011-10-20",
+  "name": "Ontology of Rhetorical Blocks (ORB)",
+  "prefix": {
+    "orb": "http://purl.org/orb/1.0/"
+  }
+}
