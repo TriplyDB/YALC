@@ -20,9 +20,11 @@ location does not exist:
   - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)
   - [Geometry Ontology](os_geo.json)
+  - [Ontology of Rhetorical Blocks (ORB)](orb@2011-10-20.json)
   - [PRISM](prism@2.1.json)
+  - [SALT Rhetorical Ontology (SRO)](sro.json)
   - [SIOC](sioc@1.36.json)
-  - [Spatial Relations Ontology](sro.json)
+  - [Spatial Relations Ontology (SRO)](os_sro.json)
   - [WAIVER](wv.json)
 
 ## Intentional server error (503) for DDoS mitigation

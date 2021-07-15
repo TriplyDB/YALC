@@ -1,11 +1,10 @@
 {
   "about": [
-    "geospatial",
+    "publishing",
     "vocabulary"
   ],
-  "description": "An ontology describing basic spatial relations.",
-  "homepage": "http://data.ordnancesurvey.co.uk/ontology/spatialrelations/",
-  "id": "os/sro",
-  "name": "Spatial Relations Ontology",
-  "url": "http://www.ordnancesurvey.co.uk/ontology/spatialrelations.owl"
+  "description": "The SALT Rhetorical Ontology externalizes the rhetorical and the argumentation captured in the publication's content.",
+  "id": "sro",
+  "name": "SALT Rhetorical Ontology (SRO)",
+  "url": "http://salt.semanticauthoring.org/ontologies/sro#"
 }
