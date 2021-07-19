@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "DAML-Time (<http://www.cs.rochester.edu/~ferguson/daml/>) is an abstract ontology of time intended to be a complete specification of a theory of time as required for Semantic Web applications.  Included in it is a rich collection of axioms that tightly constrain the interpretation of the the predicates and functions of the theory.  But for most simple applications this is far more than is required, and its complexity constitutes a barrier to the use of the ontology.  The purpose of this “entry sub-ontology” is to provide quick access to the essential vocabulary in OWL for the basic temporal concepts and relations.  The entry sub-ontology can be found at\n\n> http://www.isi.edu/~pan/damltime/time-entry.owl\n\nIt covers topological relations among instants and intervals and instant-like and interval-like events, such as “before” and “overlaps”.  It includes measures for durations, so we can say a meeting will last 45 minutes.  It includes clock and calendar terms, so we can say a meeting starts at 3:00pm on Monday, June 23, 2003.",
+  "homepage": "https://www.isi.edu/~hobbs/damltime/time-entry-documentation.txt",
+  "id": "isi/time-entry",
+  "name": "An Entry Sub-Ontology of Time in OWL",
+  "prefix": {
+    "time-entry": "http://www.isi.edu/~pan/damltime/time-entry.owl#"
+  }
+}
