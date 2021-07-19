@@ -6,5 +6,7 @@
   "description": "The SALT Rhetorical Ontology externalizes the rhetorical and the argumentation captured in the publication's content.",
   "id": "sro",
   "name": "SALT Rhetorical Ontology (SRO)",
-  "url": "http://salt.semanticauthoring.org/ontologies/sro#"
+  "prefix": {
+    "sro": "http://salt.semanticauthoring.org/ontologies/sro#"
+  }
 }

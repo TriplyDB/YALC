@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "An ontology defining formally patterns for segmenting a document into atomic components, in order to be manipulated independently and re-flowed in different contexts.",
+  "homepage": "https://sparontologies.github.io/po/current/po.html",
+  "id": "spar/po@1.4.2",
+  "name": "The Pattern Ontology",
+  "prefix": {
+    "po": "http://www.essepuntato.it/2008/12/pattern#"
+  },
+  "url": "https://github.com/SPAROntologies/po/raw/master/docs/2013-07-16/po.ttl"
+}
