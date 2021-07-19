@@ -16,6 +16,7 @@ certificate:
 The following dataset can not be accessed because their online
 location does not exist:
 
+  - [A DAML Ontology of Time](daml-time.json)
   - [An Entry Sub-Ontology of Time in OWL](time-entry.json)
   - [DatCatInfo](datcat.json)
   - [Dublin Core Elements](dce.json)

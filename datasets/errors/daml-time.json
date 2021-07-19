@@ -1,0 +1,11 @@
+{
+  "about": [
+    "temporal",
+    "vocabulary"
+  ],
+  "description": "A number of sites, DAML contractors and others, have developed ontologies of time (e.g., DAML-S, Cycorp, CMU, Kestrel, Teknowledge).  A group of us have decided to collaborate to develop a representative ontology of time for DAML, which could then be used as is or elaborated on by others needing such an ontology.  It is hoped that this collaboration will result in an ontology that will be adopted much more widely than any single site's product would be.",
+  "homepage": "https://www.cs.rochester.edu/~ferguson/daml/daml-time-nov2002.txt",
+  "id": "isi/daml-time",
+  "name": "A DAML Ontology of Time"
+  "url": "http://www.isi.edu/~pan/damltime/time.owl"
+}
