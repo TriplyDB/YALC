@@ -1,0 +1,14 @@
+{
+  "about": [
+    "legal",
+    "vocabulary"
+  ],
+  "description": "The European Legislation Identifier (ELI) is a framework to make legislation metadata available online in a standardised format, so that it can be accessed, exchanged and reused across borders.  For general information about ELI (governance, tools and news), and the implementation status of ELI by various stakeholders (in particular, the way ELI is implemented by the Office of Publications on Eur- Lex), please consult the [ELI Register](http://eur-lex.europa.eu/eli-register/about.html) on Eur-Lex.",
+  "homepage": "https://op.europa.eu/en/web/eu-vocabularies/eli",
+  "id": "epo/eli@1.3",
+  "name": "European Legislation Identifier (ELI)",
+  "prefix": {
+    "eli": "http://data.europa.eu/eli/ontology#"
+  },
+  "url": "https://op.europa.eu/documents/3938058/7399866/eli.owl/"
+}
