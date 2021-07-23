@@ -1,0 +1,23 @@
+{
+  "about": "",
+  "description": "CaLiGraph is a large semantic knowledge graph with a rich ontology compiled from the DBpedia ontology and Wikipedia categories & list pages.  The ontology is enriched with fine-grained value restrictions on its classes that are discovered with the Cat2Ax approach.  A large number of CaLiGraph's entities is extracted from Wikipedia listings through a combination of the ontological information and transformer-based extractors.",
+  "homepage": "https://caligraph.org",
+  "id": "dws/caligraph@2.0.2",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "CaLiGraph",
+  "url": [
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-instances_dbpedia-mapping.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-instances_labels.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-instances_provenance.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-instances_relations.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-instances_transitive-types.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-instances_types.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-metadata.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-ontology.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-ontology_dbpedia-mapping.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/caligraph-ontology_provenance.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/dbpedia_caligraph-instances.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/dbpedia_caligraph-relations.nt.bz2",
+    "https://zenodo.org/api/files/042e92ff-0bf7-4d3a-8edb-a5bf491f9a19/dbpedia_caligraph-types.nt.bz2"
+  ]
+}
