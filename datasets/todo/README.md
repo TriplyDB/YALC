@@ -74,7 +74,6 @@ supported:
 Investigate why no RDF can be extracted from the following, seemingly
 correct, URLs:
 
-  - [HistoGraph](hg.json) bug [#4878](https://issues.triply.cc/issues/4878).
   - [CaLiGraph](caligraph@1.3.json) bug [#4932](https://issues.triply.cc/issues/4932)
 
 ## Only the most recent data is made available
