@@ -15,6 +15,7 @@
     "dbr:HAL_9000",
     "dbr:Painting"
   ],
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
   "homepage": "https://www.dbpedia.org/",
   "id": "DBpedia-association/dbpedia@snapshot-2021-06",
   "name": "Snapshot of core data from en.wikipedia.org 2021-06",
