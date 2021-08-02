@@ -10,10 +10,10 @@
     "https://databus.dbpedia.org/vehnem/yago/taxonomy/2016.10.01/taxonomy.ttl.bz2"
   ],
   "exampleResource": [
-    "dbr:Amsterdam",
-    "dbr:Cat",
-    "dbr:HAL_9000",
-    "dbr:Painting"
+    "http://dbpedia.org/resource/Amsterdam",
+    "http://dbpedia.org/resource/Cat",
+    "http://dbpedia.org/resource/HAL_9000",
+    "http://dbpedia.org/resource/Painting"
   ],
   "license": "https://creativecommons.org/licenses/by-sa/3.0/",
   "homepage": "https://www.dbpedia.org/",
