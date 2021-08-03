@@ -5,7 +5,7 @@
   "id": "spar/co@2.0",
   "name": "Collections Ontology (CO)",
   "prefix": {
-    "co": "http://purl.org/co"
+    "co": "http://purl.org/co/"
   },
   "url": "https://raw.githubusercontent.com/collections-ontology/collections-ontology/master/collections.owl"
 }
