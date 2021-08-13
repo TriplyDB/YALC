@@ -1,0 +1,13 @@
+{
+  "about": [
+    "legal",
+    "vocabulary"
+  ],
+  "description": "The ODRL Vocabulary and Expression specifies the set of RDF classes, predicates and named entities that are used by the ODRL Information Model [odrl-model] which defines the ODRL Core Vocabulary. This document also lists recommended terms in the ODRL Common Vocabulary that may be used to define ODRL Profiles.",
+  "homepage": "https://www.w3.org/TR/odrl-vocab/",
+  "id": "w3c/odrl@2.2",
+  "name": "ODRL Vocabulary & Expression",
+  "prefix": {
+    "odrl": "http://www.w3.org/ns/odrl/2/"
+  }
+}
