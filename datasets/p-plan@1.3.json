@@ -1,0 +1,11 @@
+{
+    "about": "vocabulary",
+    "description": "The Ontology for Provenance and Plans (P-Plan) is an extension of the [PROV-O ontology](/w3c/prov) created to represent the plans that guided the execution of scientific processes.  P-Plan describes how the plans are composed and their correspondence to provenance records that describe the execution itself.",
+    "homepage": "http://vocab.linkeddata.es/p-plan/index.html",
+    "id": "upm/p-plan@1.3",
+    "name": "P-Plan",
+    "prefix": {
+      "p-plan": "http://purl.org/net/p-plan#"
+    }
+  }
+  
