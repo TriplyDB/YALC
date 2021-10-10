@@ -29,6 +29,10 @@ location does not exist:
   - [The administrative geography and civil voting area ontology](admingeo.json)
   - [WAIVER](wv.json)
 
+## Server error (503)
+
+- [GDPRtEXT](gdprtext.json)
+
 ## Intentional server error (503) for DDoS mitigation
 
 Some servers use CloudFlare DDoS mitigation.  The intention is to

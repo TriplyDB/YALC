@@ -1,0 +1,10 @@
+{
+    "about": "legal",
+    "description": "Exposing the text of GDPR as a linked data resource, and creating a SKOS vocabulary of relevant GDPR terms and concepts.\n\nGDPRtEXT is comprised of two contributions:\n- the first is a linked data version of the GDPR defined by extending the European Legislation Identifier (ELI) ontology.\n- The second is a taxonomy of terms from GDPR exposed as `skos:Concept`.\n\nThe publication (see below) also provides a mapping of the GDPR with its predecessor, the Data Protection Directive (DPD) in terms of obligations.",
+    "homepage": "https://www.w3.org/community/dpvcg/wiki/GDPRtEXT",
+    "id": "adapt/gdprtext",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "name": "GDPRtEXT",
+    "url": "http://purl.org/adaptcentre/openscience/ontologies/GDPRtEXT"
+  }
+  
