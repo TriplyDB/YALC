@@ -1,0 +1,21 @@
+{
+  "about": [
+    "art",
+    "vocabulary"
+  ],
+  "description": "Linked Art is a usable, standards-based way to describe cultural heritage.
+
+Or, in more detail, Linked Art is a community of museum and cultural heritage professionals collaborating to define a metadata application profile (the model) for describing cultural heritage, and the technical means for conveniently interacting with it (the API). In regular times, we hold in person events to assist with learning and using Linked Art, and these will resume after the pandemic.
+
+The model and API are based on appropriate international standards to ensure that they are interoperable and easy to use. We focus on usability of the data as a primary consideration, such that it is easy to implement and maintain. We develop services to assist in implementation, but do not maintain commercial products.",
+  "homepage": "https://linked.art/model",
+  "id": "la/la",
+  "name": "Linked Art",
+  "prefix": {
+    "la": "https://linked.art/ns/"
+  },
+  "url": [
+    "https://linked.art/model/profile/ontologies/linkedart.xml",
+    "https://linked.art/model/profile/ontologies/linkedart_crm_enhancements.xml"
+  ]
+}
