@@ -1,0 +1,16 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "asset": "http://www.cidoc-crm.org/crmgeo/sites/default/files/CRMgeo1_2.pdf",
+  "description": "**CRMgeo** is a formal ontology intended to be used as a global schema for integrating spatiotemporal properties of temporal entities and persistent items.  Its primary purpose is to provide a schema consistent with the CIDOC CRM to integrate geoinformation using the conceptualizations, formal definitions, encoding standards and topological relations defined by the Open Geospatial Consortium (OGC).  In order to do this it links the CIDOC CRM to the OGC standard of GeoSPARQL.\n\nCRMgeo provides a refinement of spatial and temporal classes and properties of the CIDOC CRM.  It relates them to the classes, topological relations and encodings provided by GeoSPARQL and thus allows spatiotemporal analysis offered by geoinformation systems based on the semantic distinctions of the CIDOC CRM.",
+  "homepage": "http://www.cidoc-crm.org/crmgeo/home-5",
+  "id": "cidoc/crmgeo@1.2",
+  "image": "crmgeo.jpg",
+  "name": "CRMgeo",
+  "prefix": {
+    "crmgeo": "http://www.ics.forth.gr/isl/CRMgeo/"
+  },
+  "url": "http://www.cidoc-crm.org/crmgeo/sites/default/files/CRMgeo_v1_2.rdfs"
+}
