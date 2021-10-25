@@ -1,0 +1,15 @@
+{
+  "about": [
+    "metadata",
+    "vocabulary"
+  ],
+  "asset": "http://www.cidoc-crm.org/crmdig/sites/default/files/CRMdig3.2.pdf",
+  "description": "Open Archives Initiative Object Reuse and Exchange (OAI-ORE) defines standards for the description and exchange of aggregations of Web resources.  This document describes a glossary of terms and the vocabularies needed to describe items of interest and express the relationships between them within the OAI-ORE context.\n\nThis specification is one of several documents comprising the [OAI-ORE specifications and user guides](http://www.openarchives.org/ore/1.0/toc).  Readers who want a high-level understanding of the motivation for ORE, and of the solution it provides, should read the [Primer](http://www.openarchives.org/ore/1.0/primer).",
+  "homepage": "http://www.openarchives.org/ore/vocabulary",
+  "id": "oai/ore@1.0",
+  "image": "ore.jpg",
+  "name": "Object Reuse and Exchange (ORE)",
+  "prefix": {
+    "ore": "http://www.openarchives.org/ore/terms/"
+  }
+}

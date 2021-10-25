@@ -1,0 +1,7 @@
+{
+  "description": "The Open Archives Initiative develops and promotes interoperability standards that aim to facilitate the efficient dissemination of content.  The Open Archives Initiative has its roots in an effort to enhance access to e-print archives as a means of increasing the availability of scholarly communication.  Continued support of this work remains a cornerstone of the Open Archives program.  The fundamental technological framework and standards that are developing to support this work are, however, independent of the both the type of content offered and the economic mechanisms surrounding that content, and promise to have much broader relevance in opening up access to a range of digital materials.  As a result, the Open Archives Initiative is currently an organization and an effort explicitly in transition, and is committed to exploring and enabling this new and broader range of applications.  As we gain greater knowledge of the scope of applicability of the underlying technology and standards being developed, and begin to understand the structure and culture of the various adopter communities, we expect that we will have to make continued evolutionary changes to both the mission and organization of the Open Archives Initiative.",
+  "homepage": "https://www.openarchives.org",
+  "id": "oai",
+  "image": "oai.gif",
+  "name": "Open Archives Initiative (OAI)"
+}
