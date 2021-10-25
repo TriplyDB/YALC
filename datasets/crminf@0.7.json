@@ -1,0 +1,13 @@
+{
+  "about": [
+    "argumentation",
+    "topLevel"
+  ],
+  "assets": "http://www.cidoc-crm.org/crminf/sites/default/files/CRMinf-0.7%28forSite%29.pdf",
+  "description": "**CRMinf** is a formal ontology intended to be used as a global schema for integrating metadata about argumentation and inference making in descriptive and empirical sciences such as biodiversity, geology, geography, archaeology, cultural heritage, conservation, research IT environments and research data libraries.  Its primary purpose is facilitating the management, integration, mediation, interchange and access to data about reasoning by a description of the semantic relationships between the premises, conclusions and activities of reasoning.\n\n**CRMinf** uses and extends the [CIDOC CRM](/cidoc/crm) (ISO21127) as a general ontology of human activity, things and events happening in space-time. It uses the same encoding-neutral formalism of knowledge representation (“data model” in the sense of computer science) as the CIDOC CRM, which can be implemented in RDFS, OWL, on RDBMS and in other forms of encoding. Since the model reuses, wherever appropriate, parts of CIDOC Conceptual Reference Model, we provide in this document also a comprehensive list of all constructs used from ISO21127, together with their definitions following the version 5.1.2 maintained by CIDOC.",
+  "homepage": "http://www.cidoc-crm.org/crminf/",
+  "id": "cidoc/crminf@0.7",
+  "image": "crminf.jpg",
+  "name": "CRMinf",
+  "url": "http://www.cidoc-crm.org/crminf/sites/default/files/CRMinf_v0.7_.rdfs"
+}
