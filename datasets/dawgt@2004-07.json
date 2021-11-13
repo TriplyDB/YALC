@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Vocabulary for DAWG test cases.",
+  "id": "w3c/dawgt@2004-07",
+  "name": "Vocabulary for DAWG Test Cases",
+  "prefix": {
+    "dawgt": "http://www.w3.org/2001/sw/DataAccess/tests/test-dawg#"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "Manifest vocabulary for test cases.",
+  "homepage": "https://www.w3.org/2009/sparql/docs/tests/README.html",
+  "id": "w3c/mf@2004-07",
+  "name": "Manifest Vocabulary",
+  "prefix": {
+    "mf": "http://www.w3.org/2001/sw/DataAccess/tests/test-manifest#"
+  }
+}

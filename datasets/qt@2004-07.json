@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Vocabulary for query test cases.",
+  "id": "w3c/qt@2004-07",
+  "name": "Query Vocabulary",
+  "prefix": {
+    "qt": "http://www.w3.org/2001/sw/DataAccess/tests/test-query#"
+  }
+}

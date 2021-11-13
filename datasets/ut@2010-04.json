@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Some extra vocabulary for SPARQL Update test cases. This vocabulary extends qt: to describe update test cases.",
+  "id": "w3c/ut@2010-04",
+  "name": "Update Test Case Vocabulary",
+  "prefix": {
+    "ut": "http://www.w3.org/2009/sparql/tests/test-update#"
+  }
+}

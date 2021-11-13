@@ -1,0 +1,9 @@
+{
+  "about": "vocabulary",
+  "description": "Vocabulary for recording query result set.",
+  "id": "w3c/qt@2004-07-26",
+  "name": "Vocabulary for Recording Query Result Set",
+  "prefix": {
+    "rs": "http://www.w3.org/2001/sw/DataAccess/tests/result-set#"
+  }
+}
