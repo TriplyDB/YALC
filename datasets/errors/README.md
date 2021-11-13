@@ -161,6 +161,7 @@ the above `Accept` header:
   - [W3C Metadata Vocabulary for Tabular Data](csvw.json)
   - [W3C RDFa](rdfa@2013-03-11.json)
   - [W3C SPARQL Service Description](sd@1.1.json)
+  - [W3C SPARQL Terms](sparql.json)
 
 Use the following cURL command to test these URLs:
 

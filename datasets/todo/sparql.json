@@ -1,0 +1,10 @@
+{
+  "about": "sparql",
+  "description": "Terms used by SPARQL 1.1.",
+  "homepage": "https://www.w3.org/ns/sparql#",
+  "id": "w3c/sparql",
+  "name": "SPARQL Terms",
+  "prefix": {
+    "sparql": "http://www.w3.org/ns/sparql#"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "about": "application",
+  "description": "The few terms just to make the error messages of distiller proper.",
+  "id": "w3c/distiller",
+  "name": "Distiller",
+  "prefix": {
+    "dist": "http://www.w3.org/2007/08/pyRdfa/distiller#"
+  }
+}

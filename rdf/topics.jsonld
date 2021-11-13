@@ -241,6 +241,10 @@
           "label": "API"
         },
         {
+          "@id": "application",
+          "label": "Application"
+        },
+        {
           "@id": "sparql",
           "label": "SPARQL"
         }

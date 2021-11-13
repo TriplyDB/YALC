@@ -14,9 +14,10 @@ on an FTP server:
 
 ## File name extension order
 
-The following datasets cannot be uploaded because they do not have the
-RDF file name extension (`.nt`) at the anticipated location (i.e., at
-the end or directly before the file compression/archive format):
+The following datasets cannot be uploaded because they do not have one
+of the supported/recognized RDF file name extensions at the
+anticipated location (i.e., at the end or directly before the file
+compression/archive format):
 
   - [Code List for Cultural Heritage
     Organizations](loc_organizations.json) local name
