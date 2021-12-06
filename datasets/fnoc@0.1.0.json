@@ -1,0 +1,13 @@
+{
+  "about": [
+    "mathematics",
+    "vocabulary"
+  ],
+  "description": "The Function Ontology Composition vocabulary specifies terms allowing function composition and partial application.",
+  "homepage": "https://w3id.org/function/spec",
+  "id": "idlab/fnoc@0.1.0",
+  "name": "The Function Ontology: Composition Vocabulary",
+  "prefix": {
+    "fnoc": "https://w3id.org/function/vocabulary/composition#"
+  }
+}
