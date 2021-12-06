@@ -1,0 +1,14 @@
+{
+  "about": [
+    "egov",
+    "vocabulary"
+  ],
+  "description": "Energy consumption of council sites from council buildings to street lighting. The data set includes the energy consumption, associated costs and from 2013/14 carbon implications.\n\n·Electricity is supplied to the Council by Engie Power Ltd and this contract is due to expire on 31 st March 2021, although there are options to extend this contract should parties so wish.",
+  "homepage": "http://smartcity.linkeddata.es/lcc/ontology/EnergyConsumption-content/",
+  "id": "lcc/lcc",
+  "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+  "name": "Leeds City Council Energy Consumption Ontology",
+  "prefix": {
+    "lcc": "http://smartcity.linkeddata.es/lcc/ontology/EnergyConsumption-content/"
+  }
+}
