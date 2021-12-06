@@ -1,0 +1,13 @@
+{
+  "about": [
+    "mathematics",
+    "vocabulary"
+  ],
+  "description": "The Function Ontology is a way to semantically declare and describe implementation-independent functions, and their relations to related concepts such as parameters, outputs, related problems, algorithms, mappings to concrete implementations, and executions.",
+  "homepage": "https://fno.io/vocabulary/implementation/index-en.html",
+  "id": "idlab/fnoi@0.1.1",
+  "name": "The Function Ontology: Implementation Vocabulary",
+  "prefix": {
+    "fnoi": "https://w3id.org/function/vocabulary/implementation#"
+  }
+}
