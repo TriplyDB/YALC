@@ -1,0 +1,13 @@
+{
+  "about": [
+    "api",
+    "vocabulary"
+  ],
+  "description": "Hydra is a lightweight vocabulary to create hypermedia-driven Web APIs.  By specifying a number of concepts commonly used in Web APIs it enables the creation of generic API clients.",
+  "homepage": "http://www.hydra-cg.com/spec/latest/core/",
+  "id": "google/hydra@2021-07-13",
+  "name": "Hydra Core Vocabulary",
+  "prefix": {
+    "hydra": "http://www.w3.org/ns/hydra/core#"
+  }
+}
