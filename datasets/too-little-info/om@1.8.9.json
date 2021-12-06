@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+  "description": "The Ontology of units of Measure and related concepts (OM) models concepts and relations important to scientific research.  It has a strong focus on units and quantities, measurements, and dimensions.",
+  "homepage": "http://www.foodvoc.org",
+  "id": "wur/om@1.8.9",
+  "name": "Ontology of units of Measure (OM)",
+  "prefix": {
+    "om": "http://www.wurvoc.org/vocabularies/om-1.8/"
+  }
+}
