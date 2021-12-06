@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "The Semantic Sensor Network (SSN) ontology is an ontology for describing sensors and their observations, the involved procedures, the studied features of interest, the samples used to do so, and the observed properties, as well as actuators.  SSN follows a horizontal and vertical modularization architecture by including a lightweight but self-contained core ontology called SOSA (Sensor, Observation, Sample, and Actuator) for its elementary classes and properties.  With their different scope and different degrees of axiomatization, SSN and SOSA are able to support a wide range of applications and use cases, including satellite imagery, large-scale scientific monitoring, industrial and household infrastructures, social sensing, citizen science, observation-driven ontology engineering, and the Web of Things.  Both ontologies are described below, and examples of their usage are given.",
+  "homepage": "https://www.w3.org/TR/vocab-ssn/",
+  "id": "w3c/sosa",
+  "licence": "http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document",
+  "name": "Sensor, Observation, Sample, and Actuator (SOSA) Ontology",
+  "prefix": {
+    "sosa": "http://www.w3.org/ns/sosa/"
+  }
+}
