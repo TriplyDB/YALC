@@ -37,6 +37,10 @@
           }
         },
         {
+          "@id": "multimedia",
+          "label": "Multimedia"
+        },
+        {
           "@id": "music",
           "label": "Music"
         },
@@ -47,10 +51,6 @@
         {
           "@id": "sculpture",
           "label": "Sculpture"
-        },
-        {
-          "@id": "multimedia",
-          "label": "Multimedia"
         }
       ]
     },
@@ -61,6 +61,10 @@
         "@id": "ui",
         "label": "User Interfaces"
       }
+    },
+    {
+      "@id": "ecology",
+      "label": "Ecology"
     },
     {
       "@id": "economy",
@@ -75,10 +79,6 @@
           "label": "Finance"
         }
       ]
-    },
-    {
-      "@id": "ecology",
-      "label": "Ecology"
     },
     {
       "@id": "egov",
@@ -183,6 +183,10 @@
         {
           "@id": "chemistry",
           "label": "Chemistry"
+        },
+        {
+          "@id": "mathematics",
+          "label": "Mathematics"
         },
         {
           "@id": "medicine",
