@@ -103,6 +103,8 @@ header:
     i.o. `application/rdf+xml`.
   - [Bibsonomy](bibsonomy.json) emits `application/xml`
     i.o. `application/rdf+xml`.
+  - [Function Ontology](fno@1.0.0.json) emits
+    `application/octet-stream` i.o. `test/turtle`.
   - [OGC GeoSPARQL](geo.json) emits `text/xml` i.o.
     `application/rdf+xml`.
   - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
