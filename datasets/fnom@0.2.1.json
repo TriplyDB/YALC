@@ -1,0 +1,13 @@
+{
+  "about": [
+    "mathematics",
+    "vocabulary"
+  ],
+  "description": "The Function Ontology Implementation Mapping vocabulary specifies terms relevant to link FnO models to implementations.",
+  "homepage": "https://w3id.org/function/spec",
+  "id": "idlab/fnom@0.2.1",
+  "name": "The Function Ontology: Mapping Vocabulary",
+  "prefix": {
+    "fnom": "https://w3id.org/function/vocabulary/mapping#"
+  }
+}
