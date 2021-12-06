@@ -1,0 +1,13 @@
+{
+  "about": [
+    "mathematics",
+    "vocabulary"
+  ],
+  "description": "The Function Ontology allows to declare and describe functions.",
+  "homepage": "https://fno.io/ontology/index-en.html",
+  "id": "idlab/fno@1.0.0",
+  "name": "The Function Ontology",
+  "prefix": {
+    "fno": "https://w3id.org/function/ontology#"
+  }
+}
