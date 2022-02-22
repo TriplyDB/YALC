@@ -8,7 +8,7 @@
   "id": "la/la",
   "name": "Linked Art",
   "prefix": {
-    "la": "https://linked.art/ns/"
+    "la": "https://linked.art/ns/terms/"
   },
   "url": [
     "https://linked.art/model/profile/ontologies/linkedart.xml",
