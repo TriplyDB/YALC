@@ -1,8 +1,0 @@
-{
-  "about": "vocabulary",
-  "description": "",
-  "homepage": "https://iiif.io/api/presentation/3.0",
-  "id": "iiif@3",
-  "namespace": "http://iiif.io/api/presentation/3#",
-  "url": "http://iiif.io/api/presentation/3/context.json"
-}

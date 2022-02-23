@@ -69,6 +69,8 @@ supported:
 
   - [Web Annotation Data Model](anno.json)
   - [Entity Facts](entity-facts.json)
+  - [IIIF Image API](image@3.0.0.json)
+  - [IIIF Presentation API](presentation@3.0.0.json)
 
 ## Only the most recent data is made available
 
