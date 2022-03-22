@@ -10,7 +10,7 @@
   "image": "crmsci.jpg",
   "name": "CRMsci",
   "prefix": {
-    "crmsci": "http://www.ics.forth.gr/isl/CRMsci/",
+    "crmsci": "http://www.ics.forth.gr/isl/CRMsci/"
   },
   "url": "http://www.cidoc-crm.org/crmsci/sites/default/files/CRMsci_v1.2.6.rdfs"
 }
