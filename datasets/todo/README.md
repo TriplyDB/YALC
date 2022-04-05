@@ -72,6 +72,15 @@ supported:
   - [IIIF Image API](image@3.0.0.json)
   - [IIIF Presentation API](presentation@3.0.0.json)
 
+## Compression support
+
+### GNU zip support
+
+The following datasets use GNU zip compression, but cannot be read by
+TriplyDB:
+
+- [ConceptNet](conceptnet.json)
+
 ## Only the most recent data is made available
 
 The following datasets only publish the most recent versions that go

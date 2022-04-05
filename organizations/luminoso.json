@@ -1,0 +1,7 @@
+{
+  "description": "Founded out of the MIT Media Lab in 2010, Luminoso Technologies, Inc. builds text analytics products for analyzing open-ended text data like survey responses, customer and employee feedback, support tickets, and reviews.\n\nOur products use contextual, conceptual language understanding, empowering organizations to discover, interpret, and act on what people are telling them.  Powered by leading natural language understanding (NLU) and unsupervised artificial intelligence (AI), we offer the only generalized solutions that work across all use cases, industries and domains.\n\nQuickLearn, the natural language technology underpinning all Luminoso products, is paired with a vast knowledge base to learn words from context – like humans do – so our clients can instantly analyze text without ontologies or training data.  Luminoso solutions provide native support in 15 languages, so insights professionals can explore text data, make sense of feedback, and surface business-critical findings.\n\nLuminoso is privately held and headquartered in Boston, MA, with a global presence in Europe, Japan, and Australia.",
+  "homepage": "https://www.luminoso.com",
+  "id": "luminoso",
+  "image": "luminoso.png",
+  "name": "Luminoso"
+}

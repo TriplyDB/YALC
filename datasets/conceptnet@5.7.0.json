@@ -1,0 +1,8 @@
+{
+    "about": "knowledge graph",
+    "description": "ConceptNet is a freely-available semantic network, designed to help computers understand the meanings of words that people use.\n\nConceptNet originated from the crowdsourcing project Open Mind Common Sense, which was launched in 1999 at the MIT Media Lab.  It has since grown to include knowledge from other crowdsourced resources, expert-created resources, and games with a purpose.",
+    "homepage": "https://conceptnet.io",
+    "id": "luminoso/conceptnet@5.7.0",
+    "name": "ConceptNet",
+    "url": "https://s3.amazonaws.com/conceptnet/downloads/2019/edges/conceptnet-assertions-5.7.0.csv.gz"
+}
