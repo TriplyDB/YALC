@@ -245,6 +245,15 @@ slash character in their scheme component:
     `http://eunis.eea.europa.eu/rdf/countrybiogeo.rdf.gz`, line 17:
     `countrybiogeo/AD:AL`.
 
+## Compression errors
+
+### GNU zip errors
+
+The following dataset uses GNU zip compression, but seems to contain
+strange characters when decompressed:
+
+- [ConceptNet](conceptnet.json) starts with `/a/[/r/`.
+
 ## Syntax errors
 
 The following datasets contain syntax errors:
