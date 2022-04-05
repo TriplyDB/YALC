@@ -1,0 +1,14 @@
+{
+    "about": [
+	"publicTransport",
+	"vocabulary"
+    ],
+    "description": "Vocabulary defined by the European Union Agency for Railways to describe the concepts and relationships related to the European railway infrastructure and the vehicles authorized to operate over it.",
+    "homepage": "https://data-interop.era.europa.eu/era-vocabulary/",
+    "id": "era/era@2.3.0",
+    "name": "ERA vocabulary",
+    "prefix": {
+	"era": "http://data.europa.eu/949/"
+    },
+    "url": "https://data-interop.era.europa.eu/era-vocabulary/ontology.nt"
+}

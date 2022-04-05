@@ -1,0 +1,7 @@
+{
+  "description": "The European Union Agency for Railways (ERA) has been established in 2004 to devise the technical and legal framework for creating a Single European Railway Area (SERA) as mandated under European Union law.  ERA’s core activities are creating a harmonised approach to safety, removing technical barriers, advancing the single European Train Control and Communication System (ERTMS), and promoting simplified access for customers for the European rail sector.\n\nWith the entry-into-force of the technical pillar of the 4th Railway Package, the mandate of the Agency has been extended.  As of June 2019, ERA will be a European authority responsible for issuing vehicle authorisations and safety certificates in the European Union, as well as pre-authorising ERTMS trackside equipment.",
+  "homepage": "https://www.era.europa.eu",
+  "id": "era",
+  "image": "era.png",
+  "name": "European Union Agency for Railways (ERA)"
+}

@@ -267,6 +267,16 @@
     {
       "@id": "statistics",
       "label": "Statistics"
+    },
+    {
+      "@id": "transport",
+      "label": "Transport",
+      "narrower": [
+        {
+	  "@id": "publicTransport",
+	  "label": "Public transport"
+	}
+      ]
     }
   ]
 }
