@@ -5,7 +5,7 @@
   ],
   "description": "Vocabulary for describing SPARQL services made available via the [SPARQL 1.1 Protocol for RDF](https://www.w3.org/TR/sparql11-protocol).  These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset.",
   "homepage": "https://www.w3.org/TR/sparql11-service-description",
-  "id": "w3c/sd@1.1",
+  "id": "w3c/ssd@1.1",
   "image": "sparql.png",
   "name": "SPARQL Service Description",
   "prefix": {
