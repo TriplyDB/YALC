@@ -1,0 +1,11 @@
+{
+  "about": "government",
+  "description": "De Overheid.nl Web Metadata Standaard (OWMS) is de metadatastandaard voor informatie van de Nederlandse overheid op internet.  De standaard is gebaseerd op de internationale metadatastandaard van het Dublin Core Metadata Initiative (DCMI).",
+  "homepage": "https://standaarden.overheid.nl/owms",
+  "id": "koop/owms@4.0",
+  "name": "Overheid.nl Web Metadata Standaard (OWMS)",
+  "prefix": {
+    "owms": "http://standaarden.overheid.nl/owms/terms/"
+  },
+  "url": "http://standaarden.overheid.nl/owms/terms/Agent.n3"
+}
