@@ -77,13 +77,6 @@ object with the following keys:
     <p>This key is optional.</p>
   </dd>
 
-  <dt><code>"graph"</code></dt>
-  <dd>
-    <p>Specifies the named graph that will be used to store the content from the default graph in.</p>
-    <p>This key is optional.</p>
-    <p>If this key is not specified and exactly one prefix is specified, then the prefix IRI is used as the default graph name.</p>
-  </dd>
-
   <dt><code>"description"</code></dt>
   <dd>
     <p>The description of the dataset.</p>
@@ -95,6 +88,13 @@ object with the following keys:
   <dd>
     <p>An image showing a diagrammatic overview of the dataset.  This value must be the local name for a file in the <a href="img"><code>/img</code></a> subdirectory.</p>
     <p>This key is optional.</p>
+  </dd>
+
+  <dt><code>"graph"</code></dt>
+  <dd>
+    <p>Specifies the named graph that will be used to store the content from the default graph in.</p>
+    <p>This key is optional.</p>
+    <p>If this key is not specified and exactly one prefix is specified, then the prefix IRI is used as the default graph name.</p>
   </dd>
 
   <dt><code>"homepage"</code></dt>
