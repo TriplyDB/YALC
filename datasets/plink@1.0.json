@@ -5,7 +5,7 @@
   ],
   "description": "A Multilingual and Multicultural Ontology Representing Family Relationships.",
   "homepage": "https://cedric.cnam.fr/isid/ontologies/files/PersonLink.html#",
-  "id": "cname/plink@1.0",
+  "id": "cnam/plink@1.0",
   "name": "PersonLink Ontology",
   "prefix": {
     "plink": "http://cedric.cnam.fr/isid/ontologies/PersonLink.owl#"
