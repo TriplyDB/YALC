@@ -9,5 +9,5 @@
   "prefix": {
     "crm": "http://www.cidoc-crm.org/cidoc-crm/"
   },
-  "url": "https://gitlab.isl.ics.forth.gr/cidoc-crm/cidoc_crm_rdf/-/raw/master/CIDOC_CRM_v7.1.1.rdfs"
+  "url": "https://gitlab.isl.ics.forth.gr/cidoc-crm/cidoc_crm_rdf/-/raw/master/7.1.1/CIDOC_CRM_v7.1.1.rdfs?inline=false"
 }
