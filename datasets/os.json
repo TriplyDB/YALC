@@ -1,7 +1,7 @@
 {
   "about": [
-    "egov",
     "geography",
+    "government",
     "vocabulary"
   ],
   "description": "The Ordnance Survey is Great Britains national mapping agency, providing the most accurate and up-to-date geographic data, relied on by government, business and individuals.\n\nOS OpenData is the opening up of Ordnance Survey data as part of the drive to increase innovation and support the “Making Public Data Public” initiative.  As part of this initiative Ordnance Survey has published a number of its products as Linked Data.",

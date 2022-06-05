@@ -1,7 +1,7 @@
 {
   "about": [
-    "egov",
     "geography",
+    "government",
     "vocabulary"
   ],
   "description": "Code-Point® Open contains postcode units for Great Britain, each of which has a precise geographic location.\n\nThere are approximately 1.7 million postcode units in England, Scotland and Wales.  Each contains an average of fifteen adjoining addresses.",

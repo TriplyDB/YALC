@@ -1,7 +1,7 @@
 {
   "about": [
-    "egov",
     "geography",
+    "government",
     "vocabulary"
   ],
   "description": "Vocabulary for the Dutch key registry of buildings and addresses (BAG).",

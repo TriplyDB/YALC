@@ -81,8 +81,8 @@
       ]
     },
     {
-      "@id": "egov",
-      "label": "eGovernment"
+      "@id": "government",
+      "label": "Government"
     },
     {
       "@id": "encyclopedia",

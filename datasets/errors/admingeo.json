@@ -1,7 +1,7 @@
 {
   "about": [
-    "egov",
     "geospatial",
+    "government",
     "vocabulary"
   ],
   "description": "An ontology describing the administrative and voting area geography of Great Britain.",

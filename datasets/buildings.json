@@ -1,7 +1,7 @@
 {
   "about": [
-    "egov",
-    "geography"
+    "geography",
+    "government"
   ],
   "description": "The OSi ‘building’ dataset includes a point geometry (ITM coordinate reference system), along with building form and function details.  Please see the Geospatial Form and Function (Geoff) ontology (avaliable [here](http://ontologies.geohive.ie/geoff/voc.ttl)) which provides explainations of the different forms and functions of the building data. The following table allows building data to be downloaded in the RDF N3 format. Currently the buildng data for County Galway is available.",
   "homepage": "http://data.geohive.ie/downloadAndQuery.html",
