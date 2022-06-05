@@ -1,7 +1,7 @@
 {
   "about": "vocabulary",
   "description": "The Digital Europa Thesaurus (DET) is a multilingual thesaurus covering the main subject matters of the European Commission's public communications.",
-  "id": "publ/det",
+  "id": "publications-office/det",
   "license": "http://publications.europa.eu/resource/authority/licence/COM_REUSE",
   "name": "Digital Europa Thesaurus (DET)",
   "url": [
