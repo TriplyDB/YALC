@@ -148,6 +148,7 @@ object with the following keys:
       <li><code>https://opendatacommons.org/licenses/by/1-0/</code></li>
       <li><code>https://opendatacommons.org/licenses/odbl/1.0/</code></li>
       <li><code>https://opendatacommons.org/licenses/pddl/1-0/</code></li>
+      <li><code>https://opensource.org/licenses/BSD-3-Clause</code></li>
     </ul>
     <p>This key is optional.  Since datasets in YALC must have a license, the value <code>https://creativecommons.org/licenses/by/4.0/</code> is used in case this key is omitted.
   </dd>
