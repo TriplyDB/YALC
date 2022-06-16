@@ -3,8 +3,10 @@
   "description": "The Building Topology Ontology (BOT) is a simple ontology defining the core concepts of a building.  It is a simple, easy to extend ontology for the construction industry to document and exchange building data on the web.",
   "homepage": "https://w3c-lbd-cg.github.io/bot",
   "id": "w3c/bot@0.3.2",
+  "license": "https://creativecommons.org/licenses/by/1.0/",
   "name": "The Building Topology Ontology (BOT)",
   "prefix": {
     "bot": "https://w3id.org/bot#"
-  }
+  },
+  "url": "http://www.w3id.org/bot/bot.ttl"
 }
