@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Ontology that can be used to represent ordered lists. This ontology is identical to the ontology originally published by Drummond et al. (see <http://owl-workshop.man.ac.uk/acceptedLong/submission_12.pdf>), with namespace <http://www.co-ode.org/ontologies/lists/2008/09/11/list.owl#>. It is also available at <https://gist.github.com/danlentz/6537658>.  Ontology generated on Fri Sep 25 14:02:03 2015.",
+  "homepage": "https://pi.pauwel.be/evoc/list_W3ID/20151211/index.html",
+  "id": "stiima-cnr/list@1.2",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "name": "LIST Ontology",
+  "prefix": {
+    "express": "https://w3id.org/list#"
+  },
+  "url": "https://pi.pauwel.be/evoc/list_W3ID/20151211/list.ttl"
+}
