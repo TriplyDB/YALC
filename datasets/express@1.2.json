@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Ontology automatically generated using ‘genOnto’ converter developed by Walter Terkaj (ITIA-CNR, <mailto:walter.terkaj@itia.cnr.it>) with revision support from Pieter Pauwels (<mailto:pipauwel.pauwels@ugent.be>).  Serialized using C++ RDF library by Walter Terkaj (ITIA-CNR, <mailto:walter.terkaj@itia.cnr.it>) based on Redland API C library.  Fri Sep 25 14:02:03 2015.",
+  "homepage": "https://pi.pauwel.be/evoc/express_W3ID/20151211/index.html",
+  "id": "stiima-cnr/express@1.2",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "name": "EXPRESS Ontology",
+  "prefix": {
+    "express": "https://w3id.org/express#"
+  },
+  "url": "https://pi.pauwel.be/evoc/express_W3ID/20151211/express.ttl"
+}
