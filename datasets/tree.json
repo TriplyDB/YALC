@@ -1,0 +1,15 @@
+{
+  "about": [
+    "api",
+    "vocabulary"
+  ],
+  "description": "The TREE specification enables API developers to define relations between HTTP resources.  A collection of items can be fragmented, and these fragments can be interlinked.  It is an alternative to one-dimensional HTTP pagination.  Instead of linking to the next or previous page, the relation describes what elements can be found by following the link to another page.  Multiple links can be specified, enabling parallelization when traversing the search space.",
+  "diagram": "https://docs.google.com/drawings/d/e/2PACX-1vTTCjBkBum1J4xgbg0oZJaD_H05dpZxhL6jrp1yzqoIsYw5EOa-7D24No_rfEyTipq1rLb-_tPTEYV0/pub?w=1093&h=546",
+  "homepage": "https://treecg.github.io/specification",
+  "id": "idlab/tree",
+  "image": "tree.svg",
+  "name": "The TREE hypermedia specification",
+  "prefix": {
+    "tree": "https://w3id.org/tree#"
+  }
+}
