@@ -9,9 +9,5 @@
   "name": "Linked Art",
   "prefix": {
     "la": "https://linked.art/ns/terms/"
-  },
-  "url": [
-    "https://linked.art/model/profile/ontologies/linkedart.xml",
-    "https://linked.art/model/profile/ontologies/linkedart_crm_enhancements.xml"
-  ]
+  }
 }

@@ -107,6 +107,8 @@ header:
     `application/octet-stream` i.o. `test/turtle`.
   - [OGC GeoSPARQL](geo.json) emits `text/xml` i.o.
     `application/rdf+xml`.
+  - [Linked Art](la.json) emits `application/xml`
+    i.o. `application/rdf+xml`.
   - [Provenance](provenance.json) emits `application/rdf\+xml` i.o.
     `application/rdf+xml`.
   - [Public Contracts Ontology](pc@2012-10-10) emits `text/plain`
