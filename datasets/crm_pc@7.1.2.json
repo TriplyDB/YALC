@@ -1,0 +1,13 @@
+{
+  "about": "topLevel",
+  "asset": "https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.2.pdf",
+  "description": "CIDOC CRM v7.1.2 module for the implementation of properties of properties in RDFs.",
+  "homepage": "http://www.cidoc-crm.org/versions-of-the-cidoc-crm",
+  "id": "cidoc/crm_pc@7.1.2",
+  "image": "crm.png",
+  "name": "Conceptual Reference Model (CRM) - PC",
+  "prefix": {
+    "crm": "http://www.cidoc-crm.org/cidoc-crm/"
+  },
+  "url": "https://cidoc-crm.org/rdfs/7.1.2/CIDOC_CRM_v7.1.2_PC.rdfs"
+}

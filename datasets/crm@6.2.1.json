@@ -9,5 +9,6 @@
   "prefix": {
     "crm": "http://www.cidoc-crm.org/cidoc-crm/"
   },
-  "url": "http://www.cidoc-crm.org/sites/default/files/cidoc_crm_v6.2.1-2018April.rdfs"
+  "url": "http://www.cidoc-crm.org/sites/default/files/cidoc_crm_v6.2.1-2018April.rdfs",
+  "successor": "cidoc/crm@7.1.1"
 }
