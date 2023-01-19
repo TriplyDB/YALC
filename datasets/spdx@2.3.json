@@ -1,0 +1,10 @@
+{
+  "about": "vocabulary",
+    "description": "This specification describes the SPDX® language, defined as a dictionary of named properties and classes using W3C's RDF Technology.  SPDX® is an open standard for communicating software bill of material information, including components, licenses, copyrights, and security references.  SPDX reduces redundant work by providing a common format for companies and communities to share important data, thereby streamlining and improving compliance.\n\nKnown issues:\n- `rdfs:comment` and `rdfs:seeAlso` are used within the SPDX classes and causes a redefinition of these standard terms.",
+  "homepage": "https://spdx.org/rdf/terms",
+  "id": "none/spdx@2.3",
+  "name": "SPDX",
+  "prefix": {
+    "spdx": "http://spdx.org/rdf/terms#"
+  }
+}
