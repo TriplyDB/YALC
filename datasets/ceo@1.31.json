@@ -3,11 +3,12 @@
     "heritage",
     "vocabulary"
   ],
-  "description": "Cultureel erfgoed ontologie (CHO en KENNIS)."
+  "description": "Cultureel erfgoed ontologie (CHO en KENNIS).",
   "homepage": "https://rce.triply.cc/rce/ceo",
-  "id": "rce/ceo@1.30",
+  "id": "rce/ceo@1.31",
   "name": "Cultureel Erfgoed Ontologie (CEO)",
   "prefix": {
     "ceo": "https://linkeddata.cultureelerfgoed.nl/def/ceo#"
-  }
+  },
+  "url": "https://raw.githubusercontent.com/cultureelerfgoed/CEO/master/CEO_v1.31.ttl"
 }
