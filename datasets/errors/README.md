@@ -97,6 +97,8 @@ unstable server:
 The following datasets are serviced with an incorrect `Content-Type`
 header:
 
+  - [AIFB](aifb.json) binary/octet-stream] emits `binary/octet-stream`
+    i.o.`text/n3`.
   - [BabelNet](bn.json) emits `text/rdf+n3;charset=utf-8`
     i.o. `text/turtle`.
   - [BIBO](bibo.json) emits `application/xml`

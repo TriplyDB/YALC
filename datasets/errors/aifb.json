@@ -1,0 +1,9 @@
+{
+  "about": "academia",
+  "description": "Dataset describing the AIFB research portal.  First used for machine learning with RDF in Bloehdorn, Stephan and Sure, York, “Kernel Methods for Mining Instance Data in Ontologies”, The Semantic Web (2008), <http://dx.doi.org/10.1007/978-3-540-76298-0_5>.",
+  "homepage": "http://dx.doi.org/10.1007/978-3-540-76298-0_5",
+  "id": "kit/aifb",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "Institute for Applied Informatics and Formal Description Methods (AIFB)",
+	"url": "https://figshare.com/ndownloader/files/1118822"
+}
