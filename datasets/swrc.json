@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "An ontology for modeling entities of research communities such as persons, organisations, publications (bibliographic metadata) and their relationship.",
+  "homepage": "http://ontoware.org/swrc",
+  "id": "ontoware/swrc@0.7.1",
+  "name": "swrc",
+  "prefix": {
+    "swrc": "http://swrc.ontoware.org/ontology#"
+  },
+  "url": "https://lov.linkeddata.es/dataset/lov/vocabs/swrc/versions/2007-06-22.n3"
+}
