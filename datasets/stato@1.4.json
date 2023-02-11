@@ -1,0 +1,15 @@
+{
+  "about": [
+    "statistics",
+    "vocabulary"
+  ],
+  "description": "STATO is a general-purpose STATistics Ontology.\n\nIts aim is to provide coverage for processes such as statistical tests, their conditions of application, and information needed or resulting from statistical methods, such as probability distributions, variables, spread and variation metrics.\n\nSTATO also covers aspects of experimental design and description of plots and graphical representations commonly used to provide visual cues of data distribution or layout and to assist review of the results.",
+  "homepage": "https://stato-ontology.org",
+  "id": "isa/stato@1.4",
+  "image": "stato.png",
+  "name": "Statistics Ontology (Stato)",
+  "prefix": {
+    "stato": "http://purl.obolibrary.org/obo/stato.owl#"
+  },
+  "url": "https://raw.githubusercontent.com/ISA-tools/stato/dev/releases/1.4/stato.owl"
+}
