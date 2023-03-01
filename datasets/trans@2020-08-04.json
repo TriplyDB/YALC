@@ -1,0 +1,12 @@
+{
+  "about": [
+    "biology",
+    "vocabulary"
+  ],
+  "description": "The Pathogen Transmission Ontology describes the tranmission methods of human disease pathogens describing how a pathogen is transmitted from one host, reservoir, or source to another host.  The pathogen transmission may occur either directly or indirectly and may involve animate vectors or inanimate vehicles.",
+  "homepage": "https://www.ebi.ac.uk/ols/ontologies/trans",
+  "id": "obo/trans@2020-08-04",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "name": "Pathogen Transmission Ontology",
+  "url": "http://purl.obolibrary.org/obo/trans.owl"
+}
