@@ -8,7 +8,5 @@
   "homepage": "http://obi-ontology.org/",
   "id": "obo/obi",
   "name": "Ontology for Biomedical Investigations (OBI)",
-  "prefix": {
-    "obi": "http://purl.obolibrary.org/obo/obi.owl"
-  }
+  "url": "http://purl.obolibrary.org/obo/obi.owl"
 }
