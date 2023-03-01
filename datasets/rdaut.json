@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a unit of chronological duration that is used in the names and access points of calendrical timespans.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAUnitOfTime/",
+  "id": "rda/rdaut@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Unit of Time",
+  "prefix": {
+    "rdaut": "http://rdaregistry.info/termList/RDAUnitOfTime/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAUnitOfTime.nt"
+}

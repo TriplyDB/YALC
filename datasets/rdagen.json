@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a relationship between an original carrier and a carrier of a reproduction that is made from the original.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAGeneration/",
+  "id": "rda/rdagen@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Generation",
+  "prefix": {
+    "rdagen": "http://rdaregistry.info/termList/RDAGeneration/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAGeneration.nt"
+}

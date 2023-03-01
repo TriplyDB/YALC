@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a method used to record a value of an RDA element.",
+  "homepage": "http://www.rdaregistry.info/termList/RDARecordingMethods/",
+  "id": "rda/rdapath@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Recording Methods",
+  "prefix": {
+    "rdapath": "http://rdaregistry.info/termList/RDARecordingMethods/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDARecordingMethods.nt"
+}

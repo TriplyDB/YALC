@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a general designation of the lack of a ratio of the dimensions of the content of an image or three-dimensional form to the dimensions of the thing that is represented.",
+  "homepage": "http://www.rdaregistry.info/termList/scale/",
+  "id": "rda/rdasca@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Scale Designation",
+  "prefix": {
+    "rdasca": "http://rdaregistry.info/termList/scale/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/scale.nt"
+}

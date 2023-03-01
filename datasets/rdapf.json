@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a format that is used in the production of a projected image.",
+  "homepage": "http://www.rdaregistry.info/termList/presFormat/",
+  "id": "rda/rdapf@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Presentation Format",
+  "prefix": {
+    "rdapf": "http://rdaregistry.info/termList/presFormat/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/presFormat.nt"
+}

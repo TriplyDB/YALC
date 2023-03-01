@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a categorization that reflects an intention to extend the content of a work.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAExtensionPlan/",
+  "id": "rda/rdaep@5.0.9",
+  "name": "RDA value vocabularies: RDA Extension Plan",
+  "prefix": {
+    "rdaep": "http://rdaregistry.info/termList/RDAExtensionPlan/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAExtensionPlan.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for an arrangement of text, images, tactile notation, or other content in a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/layout/",
+  "id": "rda/rdalay@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Layout",
+  "prefix": {
+    "rdalay": "http://rdaregistry.info/termList/layout/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/layout.nt"
+}

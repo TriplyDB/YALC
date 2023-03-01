@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for an indication of the kinds of expression of image content that supplement the main expressions that are embodied by an augmentation aggregate.",
+  "homepage": "http://www.rdaregistry.info/termList/IllusContent/",
+  "id": "rda/rdaill@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Illustrative Content",
+  "prefix": {
+    "rdaill": "http://rdaregistry.info/termList/IllusContent/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/IllusContent.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a musical or physical layout of the content of an expression that is presented in the form of musical notation.",
+  "homepage": "http://www.rdaregistry.info/termList/formatNoteMus/",
+  "id": "rda/rdafnm@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Form of Notated Music",
+  "prefix": {
+    "rdafnm": "http://rdaregistry.info/termList/formatNoteMus/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/formatNoteMus.nt"
+}

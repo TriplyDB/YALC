@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for terms used in RDA guidance and instructions in RDA Toolkit.",
+  "homepage": "http://www.rdaregistry.info/termList/RDATerms/",
+  "id": "rda/rdaterm@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Terms",
+  "prefix": {
+    "rdaterm": "http://rdaregistry.info/termList/RDATerms/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDATerms.nt"
+}

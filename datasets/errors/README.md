@@ -277,3 +277,9 @@ The following datasets contain syntax errors:
   - [Getty Art & Architecture Thesaurus (AAT)](aat.json) file
     `AATOut_WikidataCoref.nt` does not use end-of-triple indicators
     (i.e., trailing dots).
+
+## Alias overloading
+
+  - [RDA value vocabularies: RDA Polarity](rdapo.json) has the same
+    alias as [RDA element sets: Place object
+    propertirs](../rdapo.json).

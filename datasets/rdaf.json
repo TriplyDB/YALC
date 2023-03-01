@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Classes and properties that represent the the entities and attribute elements of the RDA/ONIX Framework for Resource Categorization.",
+  "homepage": "https://www.rdaregistry.info/Elements/rof/",
+  "id": "rda/rdaf@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA element sets: RDA/ONIX Framework element set",
+  "prefix": {
+    "rdaf": "http://rdaregistry.info/Elements/rof/"
+  },
+  "url": "http://www.rdaregistry.info/nt/Elements/rof.nt"
+}

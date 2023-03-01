@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Properties that accommodate string values for the attribute and relationship elements of the RDA Item entity.",
+  "homepage": "http://www.rdaregistry.info/Elements/i/datatype/",
+  "id": "rda/rdai@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA element sets: Item datatype properties",
+  "prefix": {
+    "rdaid": "http://rdaregistry.info/Elements/i/datatype/"
+  },
+  "url": "http://www.rdaregistry.info/nt/Elements/i/datatype.nt"
+}

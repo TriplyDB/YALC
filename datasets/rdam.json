@@ -1,10 +1,10 @@
 {
   "about": "vocabulary",
-  "description": "The Manifestation properties element set consists of properties representing attributes and relationships of the RDA *Manifestation* entity.",
+  "description": "The Manifestation properties element set consists of properties representing attributes and relationships of the RDA Manifestation entity.",
   "homepage": "http://www.rdaregistry.info/Elements/m",
-  "id": "rda/rdam",
+  "id": "rda/rdam@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "name": "RDA Element Sets: Manifestation Properties",
+  "name": "RDA element sets: Manifestation Properties",
   "prefix": {
     "rdam": "http://rdaregistry.info/Elements/m/"
   },

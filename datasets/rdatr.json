@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a method used to encode audio content for playback.",
+  "homepage": "http://www.rdaregistry.info/termList/typeRec/",
+  "id": "rda/rdatr@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Type of Recording",
+  "prefix": {
+    "rdatr": "http://rdaregistry.info/termList/typeRec/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/typeRec.nt"
+}

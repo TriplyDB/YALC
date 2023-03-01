@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Concepts for a method of transfer of custodianship of the items that are added to a manifestation of a collection work.",
+  "homepage": "http://www.rdaregistry.info/termList/RDACollectionAccrualMethod/",
+  "id": "rda/rdacam@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Collection Accrual Method",
+  "prefix": {
+    "rdacam": "http://rdaregistry.info/termList/RDACollectionAccrualMethod/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDACollectionAccrualMethod.nt"
+}

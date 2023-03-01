@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a relationship of the colours and tones in an image of an object to the colours and tones of the object that is reproduced.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAPolarity/",
+  "id": "rda/rdapo@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Polarity",
+  "prefix": {
+    "rdapo": "http://rdaregistry.info/termList/RDAPolarity/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAPolarity.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a categorization that reflects whether a manifestation is issued in one or more units.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAGeneration/",
+  "id": "rda/rdami@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Mode of Issuance",
+  "prefix": {
+    "rdami": "http://rdaregistry.info/termList/ModeIssue/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/ModeIssue.nt"
+}

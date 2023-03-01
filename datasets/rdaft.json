@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a general type of data content encoded in a computer file.",
+  "homepage": "http://www.rdaregistry.info/termList/fileType/",
+  "id": "rda/rdaft@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA File Type",
+  "prefix": {
+    "rdaft": "http://rdaregistry.info/termList/fileType/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/fileType.nt"
+}

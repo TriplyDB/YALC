@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a configuration of the audio track on a soundtrack film.",
+  "homepage": "http://www.rdaregistry.info/termList/trackConfig/",
+  "id": "rda/rdatc@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Track Configuration",
+  "prefix": {
+    "rdatc": "http://rdaregistry.info/termList/trackConfig/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/trackConfig.nt"
+}

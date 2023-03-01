@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a set of characters or symbols used to express movement content of an expression.",
+  "homepage": "http://www.rdaregistry.info/termList/noteMove/",
+  "id": "rda/rdafnv@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Form of Notated Movement",
+  "prefix": {
+    "rdafnv": "http://rdaregistry.info/termList/noteMove/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/noteMove.nt"
+}

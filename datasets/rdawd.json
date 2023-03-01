@@ -1,8 +1,8 @@
 {
   "about": "vocabulary",
-  "description": "The Work datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Work* entity.",
+  "description": "Properties that accommodate string values for the attribute and relationship elements of the RDA Work entity.",
   "homepage": "http://www.rdaregistry.info/Elements/w/datatype",
-  "id": "rda/rdawd",
+  "id": "rda/rdawd@5.0.9",
   "name": "RDA element sets: Work datatype properties",
   "prefix": {
     "rdawd": "http://rdaregistry.info/Elements/w/datatype/"

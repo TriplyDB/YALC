@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for an equalization system, noise-reduction system, or other processing that is used in making an audio recording.",
+  "homepage": "http://www.rdaregistry.info/termList/specPlayback/",
+  "id": "rda/rdaspc@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Special Playback Characteristic",
+  "prefix": {
+    "rdaspc": "http://rdaregistry.info/termList/specPlayback"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/specPlayback.nt"
+}

@@ -1,8 +1,11 @@
 {
-  "about": "vocabulary",
-  "description": "The Place properties element set consists of properties representing attributes and relationships of the RDA *Place* entity.",
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Properties that represent the attribute and relationship elements of the RDA Place entity.",
   "homepage": "http://www.rdaregistry.info/Elements/p",
-  "id": "rda/rdap",
+  "id": "rda/rdap@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Place properties",
   "prefix": {

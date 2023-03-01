@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a physical or chemical substance that is used to create a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAMaterial/",
+  "id": "rda/rdamat@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Material",
+  "prefix": {
+    "rdamat": "http://rdaregistry.info/termList/RDAMaterial"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAMaterial.nt"
+}

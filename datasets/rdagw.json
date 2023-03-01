@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a groove width of an analog disc.",
+  "homepage": "http://www.rdaregistry.info/termList/grooveWidth/",
+  "id": "rda/rdagw@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Groove Width of an Analog Disc",
+  "prefix": {
+    "rdagw": "http://rdaregistry.info/termList/grooveWidth/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/grooveWidth.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for an interval at which a part, issue, or iteration of a diachronic work is issued.",
+  "homepage": "http://www.rdaregistry.info/termList/frequency/",
+  "id": "rda/rdafr@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Frequency",
+  "prefix": {
+    "rdafr": "http://rdaregistry.info/termList/frequency/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/frequency.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a proportional relationship between a whole sheet and the individual leaves that result if that sheet is left full, cut, or folded in a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/bookFormat/",
+  "id": "rda/rdabf@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Bibliographic Format",
+  "prefix": {
+    "rdabf": "http://rdaregistry.info/termList/bookFormat/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/bookFormat.nt"
+}

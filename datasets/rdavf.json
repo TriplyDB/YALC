@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a schema or standard that is used to encode the analog video content of a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/videoFormat/",
+  "id": "rda/rdavf@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Video Format",
+  "prefix": {
+    "rdavf": "http://rdaregistry.info/termList/videoFormat/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/videoFormat.nt"
+}

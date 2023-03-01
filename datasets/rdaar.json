@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a general designation of the ratio of the width to the height of a moving image.  RDA element sets: Agent datatype Properties",
+  "homepage": "http://www.rdaregistry.info/termList/AspectRatio/",
+  "id": "rda/rdaar@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Aspect Ratio Designation",
+  "prefix": {
+    "rdaar": "http://rdaregistry.info/termList/AspectRatio/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/AspectRatio.nt"
+}

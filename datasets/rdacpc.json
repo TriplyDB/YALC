@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a number of sound channels used to make a recording.",
+  "homepage": "http://www.rdaregistry.info/termList/configPlayback/",
+  "id": "rda/rdacpc@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Configuration of Playback Channels",
+  "prefix": {
+    "rdacpc": "http://rdaregistry.info/termList/configPlayback/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/configPlayback.nt"
+}

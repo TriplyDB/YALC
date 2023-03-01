@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a source of information for a metadata work that is an unstructured description transcribed from a manifestation that is being described.",
+  "homepage": "http://www.rdaregistry.info/termList/RDARecordingSources/",
+  "id": "rda/rdasource@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Recording Source",
+  "prefix": {
+    "rdasource": "http://rdaregistry.info/termList/RDARecordingSources/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDARecordingSources.nt"
+}

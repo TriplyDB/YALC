@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a groove pitch of an analog cylinder.",
+  "homepage": "http://www.rdaregistry.info/termList/groovePitch/",
+  "id": "rda/rdagrp@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Groove Pitch of an Analog Cylinder",
+  "prefix": {
+    "rdagrp": "http://rdaregistry.info/termList/groovePitch/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/groovePitch.nt"
+}

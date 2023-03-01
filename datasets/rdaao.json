@@ -1,10 +1,10 @@
 {
   "about": "vocabulary",
-  "description": "The Agent object properties element set consists of properties accommodating object values for relationships of the RDA Agent, Collective Agent, Person, Family, and Corporate Body entities.",
+  "description": "Properties that accommodate object values for the relationship elements of the RDA Agent, Collective Agent, Person, Family, and Corporate Body entities.",
   "homepage": "http://www.rdaregistry.info/Elements/a/object/",
-  "id": "rda/rdaao",
+  "id": "rda/rdaao@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "name": "RDA Element Sets: Agent Object Properties",
+  "name": "RDA element sets: Agent object properties",
   "prefix": {
     "rdaao": "http://rdaregistry.info/Elements/a/object/"
   },

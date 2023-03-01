@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a type of medium used to record sound on an audio carrier.",
+  "homepage": "http://www.rdaregistry.info/termList/recMedium/",
+  "id": "rda/rdarm@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Recording Medium",
+  "prefix": {
+    "rdarm": "http://rdaregistry.info/termList/recMedium/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/recMedium.nt"
+}

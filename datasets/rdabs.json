@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a system used to format a manifestation of a video for television broadcast.",
+  "homepage": "http://www.rdaregistry.info/termList/broadcastStand/",
+  "id": "rda/rdabs@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Broadcast Standard",
+  "prefix": {
+    "rdabs": "http://rdaregistry.info/termList/broadcastStand/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/broadcastStand.nt"
+}

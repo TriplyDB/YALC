@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a method used to bind a published or unpublished manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/RDATypeOfBinding/",
+  "id": "rda/rdatb@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Type Of Binding",
+  "prefix": {
+    "rdatb": "http://rdaregistry.info/termList/RDATypeOfBinding/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDATypeOfBinding.nt"
+}

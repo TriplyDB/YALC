@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a numerical ratio of the size of a micro-image in relation to the original from which it was produced.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAReductionRatio/",
+  "id": "rda/rdarr@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Reduction Ratio Designation",
+  "prefix": {
+    "rdarr": "http://rdaregistry.info/termList/RDAReductionRatio/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAReductionRatio.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a designation for one or more regions of the world for which a videodisc or video game carrier has been encoded, indicating that playback is restricted to a device configured to decode it.",
+  "homepage": "http://www.rdaregistry.info/termList/RDARegionalEncoding/",
+  "id": "rda/rdare@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Regional Encoding",
+  "prefix": {
+    "rdare": "http://rdaregistry.info/termList/RDARegionalEncoding/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDARegionalEncoding.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a type of unit or subunit of a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/RDACarrierEU/",
+  "id": "rda/rdacarx@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Carrier Extent Unit",
+  "prefix": {
+    "rdacarx": "http://rdaregistry.info/termList/RDACarrierEU/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDACarrierEU.nt"
+}

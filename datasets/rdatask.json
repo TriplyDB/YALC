@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a category of activity carried out by a person using a service for resource discovery.",
+  "homepage": "http://www.rdaregistry.info/termList/RDATasks/",
+  "id": "rda/rdatask@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA User Tasks",
+  "prefix": {
+    "rdatask": "http://rdaregistry.info/termList/RDATasks/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDATasks.nt"
+}

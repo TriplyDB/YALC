@@ -1,8 +1,8 @@
 {
   "about": "vocabulary",
-  "description": "The Nomen datatype properties element set consists of properties accommodating string values for the attributes of the RDA *Nomen* entity.",
+  "description": "Properties that accommodate string values for the attribute and relationship elements of the RDA Nomen entity.",
   "homepage": "http://www.rdaregistry.info/Elements/n/datatype",
-  "id": "rda/rdand",
+  "id": "rda/rdand@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Nomen datatype properties",
   "prefix": {

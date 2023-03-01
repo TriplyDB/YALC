@@ -3,11 +3,11 @@
     "temporal",
     "vocabulary"
   ],
-  "description": "The Timespan object properties element set consists of properties accommodating object values for relationships of the RDA *Timespan*.",
+  "description": "Properties that accommodate object values for the relationship elements of the RDA Timespan entity.",
   "homepage": "http://www.rdaregistry.info/Elements/t/object/",
-  "id": "rda/rdato",
+  "id": "rda/rdato@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "name": "RDA Element Sets: Timespan Object Properties",
+  "name": "RDA element sets: Timespan object properties",
   "prefix": {
     "rdato": "http://rdaregistry.info/Elements/t/object/"
   },

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a process that is used to produce a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAproductionMethod/",
+  "id": "rda/rdapm@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Production Method",
+  "prefix": {
+    "rdapm": "http://rdaregistry.info/termList/RDAproductionMethod/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAproductionMethod.nt"
+}

@@ -1,0 +1,15 @@
+{
+  "about": [
+    "geography",
+    "vocabulary"
+  ],
+  "description": "Concepts for a machine-readable representation of geospatial features.",
+  "homepage": "http://www.rdaregistry.info/termList/RDACartoDT/",
+  "id": "rda/rdacdt@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Cartographic Data Type",
+  "prefix": {
+    "rdacdt": "http://rdaregistry.info/termList/RDACartoDT/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDACartoDT.nt"
+}

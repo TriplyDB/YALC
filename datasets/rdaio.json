@@ -1,10 +1,10 @@
 {
   "about": "vocabulary",
-  "description": "The Item object properties element set consists of properties accommodating object values for relationships of the RDA *Item* entity.",
+  "description": "Properties that accommodate object values for the relationship elements of the RDA Item entity.",
   "homepage": "http://www.rdaregistry.info/Elements/i/object/",
-  "id": "rda/rdaio",
+  "id": "rda/rdaio@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "name": "RDA Element Sets: Item Object Properties",
+  "name": "RDA element sets: Item object properties",
   "prefix": {
     "rdaio": "http://rdaregistry.info/Elements/i/object/"
   },

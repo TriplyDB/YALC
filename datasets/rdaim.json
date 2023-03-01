@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a capacity of content to respond to actions performed by the user.",
+  "homepage": "http://www.rdaregistry.info/termList/RDAInteractivityMode/",
+  "id": "rda/rdaim@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Interactivity Mode",
+  "prefix": {
+    "rdaim": "http://rdaregistry.info/termList/RDAInteractivityMode/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDAInteractivityMode.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for an indication of a level of authentication of the nomen of an entity.",
+  "homepage": "http://www.rdaregistry.info/termList/statIdentification/",
+  "id": "rda/rdasoi@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Status of Identification",
+  "prefix": {
+    "rdasoi": "http://rdaregistry.info/termList/statIdentification/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/statIdentification.nt"
+}

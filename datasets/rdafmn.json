@@ -1,0 +1,15 @@
+{
+  "about": [
+    "music",
+    "vocabulary"
+  ],
+  "description": "Concepts for a set of characters or symbols used to express musical content of an expression.",
+  "homepage": "http://www.rdaregistry.info/termList/MusNotation/",
+  "id": "rda/rdafmn@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Form of Musical Notation",
+  "prefix": {
+    "rdafmn": "http://rdaregistry.info/termList/MusNotation"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/MusNotation.nt"
+}

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a size of the type that is used to represent the characters and symbols in a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/fontSize/",
+  "id": "rda/rdafs@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Font Size",
+  "prefix": {
+    "rdafs": "http://rdaregistry.info/termList/fontSize/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/fontSize.nt"
+}

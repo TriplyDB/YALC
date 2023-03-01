@@ -1,8 +1,8 @@
 {
   "about": "vocabulary",
-  "description": "The Unconstrained properties element set consists of properties representing the elements of all of the RDA entities.  Each property in the element set has semantics which are independent of the LRM model and has no specified domain or range.",
+  "description": "Properties that are derived from the elements of all of the RDA entities with semantics that are independent of the IFLA Library Reference Model.",
   "homepage": "http://www.rdaregistry.info/Elements/u",
-  "id": "rda/rdau",
+  "id": "rda/rdau@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "name": "RDA element sets: Unconstrained properties",
   "prefix": {

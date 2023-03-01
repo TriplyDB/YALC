@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for an indication of the presence or absence of sound embodied by a manifestation.",
+  "homepage": "http://www.rdaregistry.info/termList/soundCont/",
+  "id": "rda/rdasco@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Sound Content",
+  "prefix": {
+    "rdasco": "http://rdaregistry.info/termList/soundCont/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/soundCont.nt"
+}

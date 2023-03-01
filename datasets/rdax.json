@@ -1,10 +1,10 @@
 {
   "about": "vocabulary",
-  "description": "The RDA Entity properties element set consists of properties representing elements of the RDA *Entity* entity.",
+  "description": "Properties that represent the attribute and relationship elements of the RDA Entity entity.",
   "homepage": "http://www.rdaregistry.info/Elements/x",
-  "id": "rda/rdax",
+  "id": "rda/rdax@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "name": "RDA element sets: Entity properties",
+  "name": "RDA element sets: RDA entity properties",
   "prefix": {
     "rdax": "http://rdaregistry.info/Elements/x/"
   },

@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a category of linked data work.",
+  "homepage": "http://www.rdaregistry.info/termList/RDALinkedDataWork/",
+  "id": "rda/rdaldw@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Linked Data Work",
+  "prefix": {
+    "rdaldw": "http://rdaregistry.info/termList/RDALinkedDataWork/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDALinkedDataWork.nt"
+}

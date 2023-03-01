@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a set of characters or symbols used to express the content of an expression in a form that can be perceived through touch.",
+  "homepage": "http://www.rdaregistry.info/termList/TacNotation/",
+  "id": "rda/rdaftn@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Form of Tactile Notation",
+  "prefix": {
+    "rdaftn": "http://rdaregistry.info/termList/TacNotation/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/TacNotation.nt"
+}

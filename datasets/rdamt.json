@@ -1,10 +1,10 @@
 {
   "about": "vocabulary",
-  "description": "A categorization reflecting the general type of intermediation device required to view, play, run, etc., the content of a resource.",
+  "description": "Concepts for a categorization that reflects the general type of intermediation device required to view, play, run, or otherwise access the content of a manifestation.",
   "homepage": "http://www.rdaregistry.info/termList/RDAMediaType",
-  "id": "rda/rdamt",
+  "id": "rda/rdamt@5.0.9",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "name": "RDA Media Type",
+  "name": "RDA value vocabularies: RDA Media Type",
   "prefix": {
     "rdamt": "http://rdaregistry.info/termList/RDAMediaType/"
   },

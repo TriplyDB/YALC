@@ -1,0 +1,12 @@
+{
+  "about": "vocabulary",
+  "description": "Concepts for a policy for selecting items that are added to a manifestation of a collection work.",
+  "homepage": "http://www.rdaregistry.info/termList/RDACollectionAccrualPolicy/",
+  "id": "rda/rdacap@5.0.9",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "RDA value vocabularies: RDA Collection Accrual Policy",
+  "prefix": {
+    "rdacap": "http://rdaregistry.info/termList/RDACollectionAccrualPolicy/"
+  },
+  "url": "http://www.rdaregistry.info/nt/termList/RDACollectionAccrualPolicy.nt"
+}

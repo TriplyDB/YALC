@@ -1,8 +1,8 @@
 {
   "about": "vocabulary",
-  "description": "The Work properties element set consists of properties representing attributes and relationships of the RDA *Work* entity.",
+  "description": "Properties that represent the attribute and relationship elements of the RDA Work entity.",
   "homepage": "http://www.rdaregistry.info/Elements/w",
-  "id": "rda/rdaw",
+  "id": "rda/rdaw@5.0.9",
   "name": "RDA element sets: Work properties",
   "prefix": {
     "rdaw": "http://rdaregistry.info/Elements/w/"
