@@ -106,7 +106,9 @@ header:
   - [Bibsonomy](bibsonomy.json) emits `application/xml`
     i.o. `application/rdf+xml`.
   - [Function Ontology](fno@1.0.0.json) emits
-    `application/octet-stream` i.o. `test/turtle`.
+    `application/octet-stream` i.o. `text/turtle`.
+  - [Infection Transmission Ontology](infection-trans@1.0.2,json)
+    emits `application/octect-stream` i.o. `text/turtle`.
   - [OGC GeoSPARQL](geo.json) emits `text/xml` i.o.
     `application/rdf+xml`.
   - [Linked Art](la.json) emits `application/xml`

@@ -1,0 +1,11 @@
+{
+  "about": "vocabulary",
+  "description": "The Infection Transmission Ontology is developed in order to make transmission data reusable and interoperable.  The ontology captures every step of analysing data from the transmission process, especially for quantification of trans- mission parameters.  It is applicable to animal and human (hospital) data from both experimental and observational studies.  The lack of a common terminology in the infection transmission experiments leads to repetition of costly experiments.  By developing a domain ontology we can reuse and combine the transmission data, which leads to the improvement of an estimation of transmission parameters and prediction of outcomes of yet unobserved situations.",
+  "homepage": "https://bioportal.bioontology.org/ontologies/INFECTION_TRANS",
+  "id": "obo/infection-trans@1.0.2",
+  "name": "Infection Transmission Ontology",
+  "prefix": {
+    "om2": "http://www.ontology-of-units-of-measure.org/resource/om-2/"
+  },
+  "url": "https://data.bioontology.org/ontologies/INFECTION_TRANS/submissions/2/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb"
+}
