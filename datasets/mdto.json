@@ -1,0 +1,11 @@
+{
+  "about": "vocabular",
+  "description": "",
+  "homepage": "https://www.nationaalarchief.nl/archiveren/mdto/rdf-ontologie",
+  "id": "na/mdto@1.0",
+  "name": "MDTO",
+  "prefix": {
+    "mdto": "http://www.nationaalarchief.nl/mdto#"
+  },
+  "url": "https://www.nationaalarchief.nl/sites/default/files/field-file/RDF.zip"
+}
