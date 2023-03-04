@@ -174,7 +174,7 @@ the above `Accept` header:
 Use the following cURL command to test these URLs:
 
 ```sh
-curl -vL -H 'Accept: application/trig, application/n-quads, application/n-triples;q=0.9, text/turtle;q=0.9, application/x-turtle;q=0.9, text/rdf+n3;q=0.9, application/rdf+xml;q=0.8, text/plain;q=0.8, */*;q=0.7' -H 'User-Agent: TriplyDB/develop (https://api.nightly.triplydb.com/info)' '{url}' | head
+curl -vL -H 'Accept: application/trig, application/n-quads, application/n-triples;q=0.9, text/turtle;q=0.9, application/x-turtle;q=0.9, text/rdf+n3;q=0.9, application/ld+json;q=0.85, application/rdf+xml;q=0.8, text/plain;q=0.8, */*;q=0.7' '{url}' | head
 ```
 
 ## No RDF
