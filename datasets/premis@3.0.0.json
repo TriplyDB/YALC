@@ -1,0 +1,15 @@
+{
+  "about": [
+    "metadata",
+    "multimedia",
+    "vocabulary"
+  ],
+  "description": "Ontology for PREMIS 3, the international standard for metadata to support the preservation of digital objects and ensure their long-term usability.",
+  "homepage": "https://id.loc.gov/ontologies/premis-3-0-0.html",
+  "id": "loc/premis@3.0.0",
+  "name": "PREMIS 3 Ontology",
+  "prefix": {
+    "premis": "http://www.loc.gov/premis/rdf/v3/"
+  },
+  "url": "https://raw.githubusercontent.com/lcnetdev/PREMIS/master/premis3.owl"
+}
